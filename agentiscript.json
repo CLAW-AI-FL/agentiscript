@@ -1,551 +1,175 @@
 {
-  "name": "AgentiScript",
-  "version": "1.0.0",
-  "description": "The visual language of the agentic economy",
-  "url": "https://agentiscript.com",
-  "license": "CC0",
-  "total": 157,
-  "categories": [
-    "Agentic Economy",
-    "Blockchain / Web3",
-    "Flare Network",
-    "NEAR Protocol",
-    "Ripple / Hedera",
-    "Prediction Markets",
-    "Science & Tech",
-    "Economics / Finance",
-    "Philosophy / Thought",
-    "Space & Defense"
-  ],
+  "version": "1.0",
+  "total": 160,
   "icons": [
     {
-      "id": "AS-001",
-      "slug": "agentic-loop",
-      "concept": "Agentic Loop",
-      "definition": "A recursive observe-think-act cycle executed by an autonomous AI agent",
+      "id": "AS-146",
+      "slug": "abundance-mindset",
+      "concept": "Abundance Mindset",
+      "definition": "The belief that resources, opportunities, and possibilities are unlimited \u2014 as opposed to scarcity thinking",
       "aliases": [
-        "agent loop",
-        "ReAct cycle",
-        "thought-action loop"
+        "abundance thinking",
+        "growth mindset",
+        "Diamandis abundance"
+      ],
+      "category": "philosophy",
+      "category_name": "Philosophy / Thought",
+      "sources": [
+        "https://arxiv.org/abs/2202.09876"
+      ],
+      "svg": "abundance-mindset.svg",
+      "tags": [
+        "abundance",
+        "mindset",
+        "thinking",
+        "growth"
+      ]
+    },
+    {
+      "id": "AS-083",
+      "slug": "access-keys",
+      "concept": "Access Keys",
+      "definition": "NEAR's programmable permission system allowing fine-grained control over account actions",
+      "aliases": [
+        "NEAR access keys",
+        "full access key",
+        "function call key"
+      ],
+      "category": "near",
+      "category_name": "NEAR Protocol",
+      "sources": [
+        "https://docs.near.org/concepts/protocol/access-keys"
+      ],
+      "svg": "access-keys.svg",
+      "tags": [
+        "access keys",
+        "NEAR",
+        "permissions",
+        "security"
+      ]
+    },
+    {
+      "id": "AS-081",
+      "slug": "agent-marketplace",
+      "concept": "Agent Marketplace",
+      "definition": "A platform where AI agents can be discovered, deployed, hired, and monetized",
+      "aliases": [
+        "AI agent store",
+        "agent registry",
+        "agent hub"
+      ],
+      "category": "near",
+      "category_name": "NEAR Protocol",
+      "sources": [
+        "https://near.org"
+      ],
+      "svg": "agent-marketplace.svg",
+      "tags": [
+        "marketplace",
+        "agents",
+        "NEAR",
+        "discovery"
+      ]
+    },
+    {
+      "id": "AS-028",
+      "slug": "agentic-economy",
+      "concept": "Agentic Economy",
+      "definition": "An economic system where autonomous AI agents transact, negotiate, and create value independently",
+      "aliases": [
+        "agent economy",
+        "AI economy",
+        "autonomous economy"
       ],
       "category": "agentic-economy",
       "category_name": "Agentic Economy",
       "sources": [
-        "https://arxiv.org/abs/2210.03629"
+        "https://arxiv.org/abs/2309.11564"
       ],
+      "svg": "agentic-economy.svg",
+      "tags": [
+        "economy",
+        "agents",
+        "autonomous",
+        "value"
+      ]
+    },
+    {
+      "id": "AS-001",
+      "concept": "Agentic Loop",
+      "definition": "A recursive observe-think-act cycle executed by an autonomous agent",
+      "category": "agentic-economy",
       "svg": "agentic-loop.svg",
       "tags": [
-        "agent",
-        "autonomous",
-        "loop",
-        "recursive"
+        "agentic",
+        "loop"
       ]
     },
     {
-      "id": "AS-002",
-      "slug": "context-window",
-      "concept": "Context Window",
-      "definition": "The maximum number of tokens an LLM can process in a single prompt and response",
-      "aliases": [
-        "context length",
-        "token window",
-        "attention window"
-      ],
+      "id": "AS-043",
+      "concept": "AI Factory",
+      "definition": "Specialized computing infrastructure that optimizes the entire AI lifecycle from data ingestion to inference",
       "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2307.03172"
-      ],
-      "svg": "context-window.svg",
+      "svg": "ai-factory.svg",
       "tags": [
-        "LLM",
-        "tokens",
-        "memory",
-        "context"
-      ]
-    },
-    {
-      "id": "AS-003",
-      "slug": "tool-use",
-      "concept": "Tool Use",
-      "definition": "The capability of an AI agent to invoke external tools, APIs, or functions to complete tasks",
-      "aliases": [
-        "function calling",
-        "tool calling",
-        "API use"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2302.04761"
-      ],
-      "svg": "tool-use.svg",
-      "tags": [
-        "agent",
-        "tools",
-        "API",
-        "function"
-      ]
-    },
-    {
-      "id": "AS-004",
-      "slug": "function-calling",
-      "concept": "Function Calling",
-      "definition": "A structured mechanism allowing LLMs to trigger predefined functions with structured outputs",
-      "aliases": [
-        "tool calling",
-        "API calling",
-        "structured output"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://platform.openai.com/docs/guides/function-calling"
-      ],
-      "svg": "function-calling.svg",
-      "tags": [
-        "LLM",
-        "function",
-        "structured",
-        "API"
-      ]
-    },
-    {
-      "id": "AS-005",
-      "slug": "multi-agent-system",
-      "concept": "Multi-Agent System",
-      "definition": "An architecture where multiple autonomous agents collaborate, coordinate, or compete to solve problems",
-      "aliases": [
-        "MAS",
-        "agent network",
-        "agent swarm"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2308.11432"
-      ],
-      "svg": "multi-agent-system.svg",
-      "tags": [
-        "multi-agent",
-        "swarm",
-        "collaboration",
-        "network"
-      ]
-    },
-    {
-      "id": "AS-006",
-      "slug": "orchestrator",
-      "concept": "Orchestrator",
-      "definition": "A master agent that decomposes tasks and coordinates sub-agents toward a higher-level goal",
-      "aliases": [
-        "coordinator agent",
-        "planner agent",
-        "task router"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2308.11432"
-      ],
-      "svg": "orchestrator.svg",
-      "tags": [
-        "orchestration",
-        "planning",
-        "coordination",
-        "agent"
-      ]
-    },
-    {
-      "id": "AS-007",
-      "slug": "sub-agent",
-      "concept": "Sub-Agent",
-      "definition": "A specialized autonomous agent that executes delegated subtasks within a larger agent system",
-      "aliases": [
-        "worker agent",
-        "specialist agent",
-        "child agent"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2309.07864"
-      ],
-      "svg": "sub-agent.svg",
-      "tags": [
-        "agent",
-        "worker",
-        "specialized",
-        "delegation"
-      ]
-    },
-    {
-      "id": "AS-008",
-      "slug": "memory-agent",
-      "concept": "Memory (Agent)",
-      "definition": "An agent's ability to store, retrieve, and update information across interactions",
-      "aliases": [
-        "agent memory",
-        "episodic memory",
-        "working memory"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2304.03442"
-      ],
-      "svg": "memory-agent.svg",
-      "tags": [
-        "memory",
-        "storage",
-        "retrieval",
-        "context"
-      ]
-    },
-    {
-      "id": "AS-009",
-      "slug": "prompt",
-      "concept": "Prompt",
-      "definition": "Natural language input provided to an LLM to elicit a desired output or behavior",
-      "aliases": [
-        "system prompt",
-        "user prompt",
-        "instruction"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2302.11382"
-      ],
-      "svg": "prompt.svg",
-      "tags": [
-        "prompt",
-        "input",
-        "instruction",
-        "language"
-      ]
-    },
-    {
-      "id": "AS-010",
-      "slug": "rag",
-      "concept": "RAG",
-      "definition": "Retrieval-Augmented Generation — combining LLM generation with real-time document retrieval",
-      "aliases": [
-        "retrieval augmented generation",
-        "RAG pipeline",
-        "document retrieval"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2005.11401"
-      ],
-      "svg": "rag.svg",
-      "tags": [
-        "retrieval",
-        "generation",
-        "knowledge",
-        "search"
-      ]
-    },
-    {
-      "id": "AS-011",
-      "slug": "llm",
-      "concept": "LLM",
-      "definition": "Large Language Model — a neural network trained on vast text data capable of generating human-like text",
-      "aliases": [
-        "large language model",
-        "foundation model",
-        "language AI"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2303.18223"
-      ],
-      "svg": "llm.svg",
-      "tags": [
-        "LLM",
-        "language model",
-        "neural network",
-        "AI"
-      ]
-    },
-    {
-      "id": "AS-012",
-      "slug": "fine-tuning",
-      "concept": "Fine-Tuning",
-      "definition": "Further training a pre-trained model on a specific dataset to adapt it to a particular domain or task",
-      "aliases": [
-        "model fine-tuning",
-        "domain adaptation",
-        "RLHF"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2109.01652"
-      ],
-      "svg": "fine-tuning.svg",
-      "tags": [
-        "training",
-        "adaptation",
-        "optimization",
-        "model"
-      ]
-    },
-    {
-      "id": "AS-013",
-      "slug": "inference",
-      "concept": "Inference",
-      "definition": "The process of running a trained model to generate predictions or outputs from new input data",
-      "aliases": [
-        "model inference",
-        "prediction",
-        "forward pass"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2211.05100"
-      ],
-      "svg": "inference.svg",
-      "tags": [
-        "inference",
-        "prediction",
-        "compute",
-        "model"
-      ]
-    },
-    {
-      "id": "AS-014",
-      "slug": "hallucination",
-      "concept": "Hallucination",
-      "definition": "When an LLM generates plausible-sounding but factually incorrect or fabricated information",
-      "aliases": [
-        "confabulation",
-        "model hallucination",
-        "AI fabrication"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2202.03629"
-      ],
-      "svg": "hallucination.svg",
-      "tags": [
-        "hallucination",
-        "error",
-        "fabrication",
-        "accuracy"
+        "ai",
+        "factory"
       ]
     },
     {
       "id": "AS-015",
-      "slug": "constitutional-ai",
-      "concept": "Constitutional AI",
-      "definition": "Anthropic's approach to training AI with a set of principles guiding self-critique and revision",
-      "aliases": [
-        "CAI",
-        "principle-based alignment",
-        "constitutional training"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2212.08073"
-      ],
-      "svg": "constitutional-ai.svg",
-      "tags": [
-        "alignment",
-        "safety",
-        "principles",
-        "Anthropic"
-      ]
-    },
-    {
-      "id": "AS-016",
-      "slug": "alignment",
       "concept": "Alignment",
-      "definition": "The challenge of ensuring AI systems act in accordance with human values, intentions, and goals",
-      "aliases": [
-        "AI alignment",
-        "value alignment",
-        "goal alignment"
-      ],
+      "definition": "Ensuring AI goals and behavior match human values and intentions",
       "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2109.13916"
-      ],
       "svg": "alignment.svg",
       "tags": [
-        "alignment",
-        "safety",
-        "values",
-        "goals"
+        "alignment"
       ]
     },
     {
-      "id": "AS-017",
-      "slug": "chain-of-thought",
-      "concept": "Chain of Thought",
-      "definition": "A prompting technique that elicits step-by-step reasoning from LLMs before giving a final answer",
+      "id": "AS-042",
+      "slug": "amm",
+      "concept": "AMM",
+      "definition": "Automated Market Maker \u2014 a DeFi protocol using mathematical formulas instead of order books for trading",
       "aliases": [
-        "CoT",
-        "chain-of-thought prompting",
-        "step-by-step reasoning"
+        "automated market maker",
+        "liquidity curve",
+        "x*y=k"
       ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
       "sources": [
-        "https://arxiv.org/abs/2201.11903"
+        "https://arxiv.org/abs/2103.12732"
       ],
-      "svg": "chain-of-thought.svg",
+      "svg": "amm.svg",
       "tags": [
-        "reasoning",
-        "prompting",
-        "steps",
-        "logic"
+        "AMM",
+        "DeFi",
+        "liquidity",
+        "trading"
       ]
     },
     {
-      "id": "AS-018",
-      "slug": "few-shot-learning",
-      "concept": "Few-Shot Learning",
-      "definition": "Teaching an LLM a task by providing a small number of examples directly in the prompt",
+      "id": "AS-117",
+      "slug": "api",
+      "concept": "API",
+      "definition": "Application Programming Interface \u2014 a defined contract for software components to communicate",
       "aliases": [
-        "few-shot prompting",
-        "in-context learning",
-        "k-shot"
+        "application programming interface",
+        "REST API",
+        "endpoint"
       ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
+      "category": "science-tech",
+      "category_name": "Science & Tech",
       "sources": [
-        "https://arxiv.org/abs/2005.14165"
+        "https://arxiv.org/abs/2212.09263"
       ],
-      "svg": "few-shot-learning.svg",
+      "svg": "api.svg",
       "tags": [
-        "few-shot",
-        "examples",
-        "prompting",
-        "learning"
-      ]
-    },
-    {
-      "id": "AS-019",
-      "slug": "zero-shot-learning",
-      "concept": "Zero-Shot Learning",
-      "definition": "An LLM performing a task without any examples, relying solely on instruction comprehension",
-      "aliases": [
-        "zero-shot",
-        "zero-shot prompting",
-        "instruction following"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/1707.00600"
-      ],
-      "svg": "zero-shot-learning.svg",
-      "tags": [
-        "zero-shot",
-        "instruction",
-        "generalization",
-        "LLM"
-      ]
-    },
-    {
-      "id": "AS-020",
-      "slug": "embedding",
-      "concept": "Embedding",
-      "definition": "A dense vector representation of text, images, or other data in a high-dimensional space",
-      "aliases": [
-        "vector embedding",
-        "dense vector",
-        "semantic representation"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/1301.3666"
-      ],
-      "svg": "embedding.svg",
-      "tags": [
-        "vector",
-        "semantic",
-        "representation",
-        "ML"
-      ]
-    },
-    {
-      "id": "AS-021",
-      "slug": "vector-database",
-      "concept": "Vector Database",
-      "definition": "A specialized database that stores and indexes high-dimensional vector embeddings for similarity search",
-      "aliases": [
-        "vector store",
-        "embedding database",
-        "similarity search DB"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2304.01137"
-      ],
-      "svg": "vector-database.svg",
-      "tags": [
-        "vector",
-        "database",
-        "storage",
-        "search"
-      ]
-    },
-    {
-      "id": "AS-022",
-      "slug": "temperature",
-      "concept": "Temperature",
-      "definition": "A hyperparameter controlling the randomness of LLM outputs — higher values increase creativity",
-      "aliases": [
-        "sampling temperature",
-        "creativity parameter",
-        "randomness control"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2211.07830"
-      ],
-      "svg": "temperature.svg",
-      "tags": [
-        "temperature",
-        "sampling",
-        "randomness",
-        "creativity"
-      ]
-    },
-    {
-      "id": "AS-023",
-      "slug": "token-ai",
-      "concept": "Token (AI)",
-      "definition": "The basic unit of text (roughly a word piece) that LLMs process — models are measured in tokens",
-      "aliases": [
-        "AI token",
-        "word token",
-        "subword unit",
-        "BPE token"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2112.00114"
-      ],
-      "svg": "token-ai.svg",
-      "tags": [
-        "token",
-        "text",
-        "unit",
-        "LLM"
+        "API",
+        "interface",
+        "endpoint",
+        "integration"
       ]
     },
     {
@@ -572,26 +196,997 @@
       ]
     },
     {
-      "id": "AS-025",
-      "slug": "transformer",
-      "concept": "Transformer",
-      "definition": "The neural network architecture underlying most modern LLMs, based on self-attention mechanisms",
+      "id": "AS-069",
+      "slug": "attestation",
+      "concept": "Attestation",
+      "definition": "A cryptographically signed claim verifying that specific data or events are true",
       "aliases": [
-        "transformer architecture",
-        "attention model",
-        "encoder-decoder"
+        "data attestation",
+        "claim",
+        "proof of data"
+      ],
+      "category": "flare",
+      "category_name": "Flare Network",
+      "sources": [
+        "https://dev.flare.network/fdc/overview"
+      ],
+      "svg": "attestation.svg",
+      "tags": [
+        "attestation",
+        "proof",
+        "verification",
+        "data"
+      ]
+    },
+    {
+      "id": "AS-156",
+      "slug": "autonomous-assets",
+      "concept": "Autonomous Assets",
+      "definition": "Vehicles, platforms, and systems capable of operating independently in complex environments",
+      "aliases": [
+        "autonomous systems",
+        "unmanned assets",
+        "autonomous platforms"
+      ],
+      "category": "space-defense",
+      "category_name": "Space & Defense",
+      "sources": [
+        "https://arxiv.org/abs/2311.10538"
+      ],
+      "svg": "autonomous-assets.svg",
+      "tags": [
+        "autonomous",
+        "assets",
+        "defense",
+        "systems"
+      ]
+    },
+    {
+      "id": "AS-100",
+      "slug": "binary-outcome",
+      "concept": "Binary Outcome",
+      "definition": "An event with exactly two possible results \u2014 yes/no, true/false, win/lose",
+      "aliases": [
+        "binary event",
+        "yes/no outcome",
+        "boolean outcome"
+      ],
+      "category": "prediction-markets",
+      "category_name": "Prediction Markets",
+      "sources": [
+        "https://kalshi.com"
+      ],
+      "svg": "binary-outcome.svg",
+      "tags": [
+        "binary",
+        "outcome",
+        "yes/no",
+        "boolean"
+      ]
+    },
+    {
+      "id": "AS-072",
+      "slug": "block-latency-feed",
+      "concept": "Block-Latency Feed",
+      "definition": "A price feed updated every block (~1.8s) on Flare, providing near-real-time oracle data",
+      "aliases": [
+        "block-by-block feed",
+        "fast oracle feed",
+        "sub-second feed"
+      ],
+      "category": "flare",
+      "category_name": "Flare Network",
+      "sources": [
+        "https://dev.flare.network/ftso/overview"
+      ],
+      "svg": "block-latency-feed.svg",
+      "tags": [
+        "feed",
+        "latency",
+        "oracle",
+        "real-time"
+      ]
+    },
+    {
+      "id": "AS-056",
+      "slug": "block",
+      "concept": "Block",
+      "definition": "A unit of data in a blockchain containing transactions, a timestamp, and a hash of the previous block",
+      "aliases": [
+        "blockchain block",
+        "block header",
+        "block data"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://arxiv.org/abs/2009.12193"
+      ],
+      "svg": "block.svg",
+      "tags": [
+        "block",
+        "blockchain",
+        "transaction",
+        "hash"
+      ]
+    },
+    {
+      "id": "AS-132",
+      "slug": "brics",
+      "concept": "BRICS",
+      "definition": "The economic bloc of Brazil, Russia, India, China, South Africa \u2014 and expanding membership",
+      "aliases": [
+        "BRICS nations",
+        "emerging markets bloc",
+        "BRICS+"
+      ],
+      "category": "economics",
+      "category_name": "Economics / Finance",
+      "sources": [
+        "https://arxiv.org/abs/2305.05127"
+      ],
+      "svg": "brics.svg",
+      "tags": [
+        "BRICS",
+        "geopolitics",
+        "emerging markets",
+        "economics"
+      ]
+    },
+    {
+      "id": "AS-054",
+      "slug": "bridge-cross-chain",
+      "concept": "Bridge (Cross-Chain)",
+      "definition": "A protocol enabling transfer of tokens and data between different blockchain networks",
+      "aliases": [
+        "cross-chain bridge",
+        "blockchain bridge",
+        "interop bridge"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://arxiv.org/abs/2104.08719"
+      ],
+      "svg": "bridge-cross-chain.svg",
+      "tags": [
+        "bridge",
+        "cross-chain",
+        "interoperability",
+        "blockchain"
+      ]
+    },
+    {
+      "id": "AS-124",
+      "slug": "cantillon-effect",
+      "concept": "Cantillon Effect",
+      "definition": "The uneven economic impact of money creation \u2014 those closest to new money benefit first",
+      "aliases": [
+        "monetary distribution",
+        "first recipient advantage",
+        "money printing effect"
+      ],
+      "category": "economics",
+      "category_name": "Economics / Finance",
+      "sources": [
+        "https://arxiv.org/abs/2109.09565"
+      ],
+      "svg": "cantillon-effect.svg",
+      "tags": [
+        "Cantillon",
+        "money",
+        "inequality",
+        "economics"
+      ]
+    },
+    {
+      "id": "AS-034",
+      "concept": "CBDC",
+      "definition": "Central Bank Digital Currency: a government-issued digital form of national currency",
+      "category": "blockchain",
+      "svg": "cbdc.svg",
+      "tags": [
+        "cbdc"
+      ]
+    },
+    {
+      "id": "AS-103",
+      "slug": "cftc-regulated",
+      "concept": "CFTC Regulated",
+      "definition": "Financial products or platforms operating under US Commodity Futures Trading Commission oversight",
+      "aliases": [
+        "CFTC",
+        "regulated exchange",
+        "CFTC-approved"
+      ],
+      "category": "prediction-markets",
+      "category_name": "Prediction Markets",
+      "sources": [
+        "https://www.cftc.gov"
+      ],
+      "svg": "cftc-regulated.svg",
+      "tags": [
+        "CFTC",
+        "regulated",
+        "compliance",
+        "exchange"
+      ]
+    },
+    {
+      "id": "AS-048",
+      "concept": "Chain Abstraction",
+      "definition": "A protocol layer that enables a single account to interact with multiple blockchains seamlessly",
+      "category": "blockchain",
+      "svg": "chain-abstraction.svg",
+      "tags": [
+        "chain",
+        "abstraction"
+      ]
+    },
+    {
+      "id": "AS-016",
+      "concept": "Chain of Thought",
+      "definition": "A prompting technique where AI reasons step-by-step before giving a final answer",
+      "category": "agentic-economy",
+      "svg": "chain-of-thought.svg",
+      "tags": [
+        "chain",
+        "of",
+        "thought"
+      ]
+    },
+    {
+      "id": "AS-076",
+      "slug": "chain-signatures",
+      "concept": "Chain Signatures",
+      "definition": "NEAR's protocol enabling a single NEAR account to control wallets on any blockchain via MPC",
+      "aliases": [
+        "chain signatures",
+        "MPC signing",
+        "cross-chain control"
+      ],
+      "category": "near",
+      "category_name": "NEAR Protocol",
+      "sources": [
+        "https://docs.near.org/concepts/abstraction/chain-signatures"
+      ],
+      "svg": "chain-signatures.svg",
+      "tags": [
+        "chain signatures",
+        "NEAR",
+        "MPC",
+        "multichain"
+      ]
+    },
+    {
+      "id": "AS-057",
+      "slug": "chain",
+      "concept": "Chain",
+      "definition": "A linked sequence of blocks forming an immutable, append-only ledger of transactions",
+      "aliases": [
+        "blockchain",
+        "ledger chain",
+        "hash chain"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://arxiv.org/abs/2009.12193"
+      ],
+      "svg": "chain.svg",
+      "tags": [
+        "chain",
+        "blocks",
+        "ledger",
+        "immutable"
+      ]
+    },
+    {
+      "id": "AS-122",
+      "slug": "chiplet",
+      "concept": "Chiplet",
+      "definition": "A small, modular chip die designed to be combined with others into a larger package",
+      "aliases": [
+        "die-to-die",
+        "chiplet architecture",
+        "advanced packaging"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/2205.09291"
+      ],
+      "svg": "chiplet.svg",
+      "tags": [
+        "chiplet",
+        "die",
+        "packaging",
+        "semiconductor"
+      ]
+    },
+    {
+      "id": "AS-140",
+      "slug": "cognitive-dissonance",
+      "concept": "Cognitive Dissonance",
+      "definition": "Mental discomfort from holding contradictory beliefs, values, or behaviors simultaneously",
+      "aliases": [
+        "belief conflict",
+        "mental discomfort",
+        "psychological tension"
+      ],
+      "category": "philosophy",
+      "category_name": "Philosophy / Thought",
+      "sources": [
+        "https://arxiv.org/abs/2004.12556"
+      ],
+      "svg": "cognitive-dissonance.svg",
+      "tags": [
+        "cognitive dissonance",
+        "psychology",
+        "belief",
+        "conflict"
+      ]
+    },
+    {
+      "id": "AS-091",
+      "slug": "compliance-first",
+      "concept": "Compliance-First",
+      "definition": "Designing financial systems with regulatory compliance as a primary, not afterthought, constraint",
+      "aliases": [
+        "regulatory compliance",
+        "compliance-by-design",
+        "AML/KYC first"
+      ],
+      "category": "ripple-hedera",
+      "category_name": "Ripple / Hedera",
+      "sources": [
+        "https://ripple.com/solutions/compliance/"
+      ],
+      "svg": "compliance-first.svg",
+      "tags": [
+        "compliance",
+        "regulation",
+        "KYC",
+        "AML"
+      ]
+    },
+    {
+      "id": "AS-080",
+      "slug": "confidential-mode",
+      "concept": "Confidential Mode",
+      "definition": "An execution mode protecting data privacy in agent operations, hiding inputs and outputs",
+      "aliases": [
+        "private mode",
+        "confidential compute",
+        "privacy mode"
+      ],
+      "category": "near",
+      "category_name": "NEAR Protocol",
+      "sources": [
+        "https://near.org"
+      ],
+      "svg": "confidential-mode.svg",
+      "tags": [
+        "confidential",
+        "privacy",
+        "NEAR",
+        "mode"
+      ]
+    },
+    {
+      "id": "AS-028",
+      "concept": "Consensus Mechanism",
+      "definition": "The process by which distributed nodes agree on the valid state of a blockchain",
+      "category": "blockchain",
+      "svg": "consensus-mechanism.svg",
+      "tags": [
+        "consensus",
+        "mechanism"
+      ]
+    },
+    {
+      "id": "AS-015",
+      "slug": "constitutional-ai",
+      "concept": "Constitutional AI",
+      "definition": "Anthropic's approach to training AI with a set of principles guiding self-critique and revision",
+      "aliases": [
+        "CAI",
+        "principle-based alignment",
+        "constitutional training"
       ],
       "category": "agentic-economy",
       "category_name": "Agentic Economy",
       "sources": [
-        "https://arxiv.org/abs/1706.03762"
+        "https://arxiv.org/abs/2212.08073"
       ],
-      "svg": "transformer.svg",
+      "svg": "constitutional-ai.svg",
       "tags": [
-        "transformer",
-        "architecture",
-        "neural network",
-        "attention"
+        "alignment",
+        "safety",
+        "principles",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "AS-002",
+      "concept": "Context Window",
+      "definition": "The token range defining the scope of information an AI can process at once",
+      "category": "agentic-economy",
+      "svg": "context-window.svg",
+      "tags": [
+        "context",
+        "window"
+      ]
+    },
+    {
+      "id": "AS-155",
+      "slug": "counter-uas",
+      "concept": "Counter-UAS",
+      "definition": "Systems and tactics designed to detect, track, and neutralize unmanned aerial systems",
+      "aliases": [
+        "drone defense",
+        "anti-drone",
+        "C-UAS",
+        "counter-drone"
+      ],
+      "category": "space-defense",
+      "category_name": "Space & Defense",
+      "sources": [
+        "https://arxiv.org/abs/2311.09876"
+      ],
+      "svg": "counter-uas.svg",
+      "tags": [
+        "counter-UAS",
+        "drone",
+        "defense",
+        "autonomous"
+      ]
+    },
+    {
+      "id": "AS-037",
+      "concept": "CRISPR",
+      "definition": "A gene-editing technology allowing precise modification of DNA sequences",
+      "category": "science",
+      "svg": "crispr.svg",
+      "tags": [
+        "crispr"
+      ]
+    },
+    {
+      "id": "AS-088",
+      "slug": "cross-margining",
+      "concept": "Cross-Margining",
+      "definition": "Using combined collateral across multiple positions to optimize margin efficiency",
+      "aliases": [
+        "cross margin",
+        "portfolio margin",
+        "margin optimization"
+      ],
+      "category": "ripple-hedera",
+      "category_name": "Ripple / Hedera",
+      "sources": [
+        "https://ripple.com/solutions/"
+      ],
+      "svg": "cross-margining.svg",
+      "tags": [
+        "margin",
+        "cross",
+        "collateral",
+        "efficiency"
+      ]
+    },
+    {
+      "id": "AS-030",
+      "concept": "DAO",
+      "definition": "Decentralized Autonomous Organization: an organization governed by smart contracts and token holders",
+      "category": "blockchain",
+      "svg": "dao.svg",
+      "tags": [
+        "dao"
+      ]
+    },
+    {
+      "id": "AS-042",
+      "concept": "Data Flywheel",
+      "definition": "A feedback loop where more usage generates more data, which improves the model, attracting more usage",
+      "category": "agentic-economy",
+      "svg": "data-flywheel.svg",
+      "tags": [
+        "data",
+        "flywheel"
+      ]
+    },
+    {
+      "id": "AS-073",
+      "slug": "data-provider",
+      "concept": "Data Provider",
+      "definition": "An entity that submits off-chain data to oracle protocols in exchange for incentive rewards",
+      "aliases": [
+        "FTSO data provider",
+        "oracle node",
+        "price submitter"
+      ],
+      "category": "flare",
+      "category_name": "Flare Network",
+      "sources": [
+        "https://dev.flare.network/ftso/overview"
+      ],
+      "svg": "data-provider.svg",
+      "tags": [
+        "data provider",
+        "oracle",
+        "FTSO",
+        "incentives"
+      ]
+    },
+    {
+      "id": "AS-131",
+      "slug": "deadweight-loss",
+      "concept": "Deadweight Loss",
+      "definition": "Economic inefficiency created when supply and demand are not in equilibrium due to interventions",
+      "aliases": [
+        "welfare loss",
+        "efficiency loss",
+        "market distortion"
+      ],
+      "category": "economics",
+      "category_name": "Economics / Finance",
+      "sources": [
+        "https://arxiv.org/abs/1602.02048"
+      ],
+      "svg": "deadweight-loss.svg",
+      "tags": [
+        "deadweight loss",
+        "efficiency",
+        "economics",
+        "welfare"
+      ]
+    },
+    {
+      "id": "AS-106",
+      "slug": "decoherence",
+      "concept": "Decoherence",
+      "definition": "The loss of quantum coherence as a qubit interacts with its environment, the main obstacle to quantum computing",
+      "aliases": [
+        "quantum decoherence",
+        "quantum noise",
+        "error source"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/quant-ph/0306072"
+      ],
+      "svg": "decoherence.svg",
+      "tags": [
+        "decoherence",
+        "quantum",
+        "noise",
+        "error"
+      ]
+    },
+    {
+      "id": "AS-127",
+      "slug": "dedollarization",
+      "concept": "Dedollarization",
+      "definition": "The global trend of reducing reliance on the US dollar in international trade and reserves",
+      "aliases": [
+        "dollar decline",
+        "multipolar currency",
+        "USD diversification"
+      ],
+      "category": "economics",
+      "category_name": "Economics / Finance",
+      "sources": [
+        "https://arxiv.org/abs/2305.05127"
+      ],
+      "svg": "dedollarization.svg",
+      "tags": [
+        "dedollarization",
+        "dollar",
+        "reserves",
+        "geopolitics"
+      ]
+    },
+    {
+      "id": "AS-031",
+      "concept": "DeFi",
+      "definition": "Decentralized Finance: financial services built on blockchain without traditional intermediaries",
+      "category": "blockchain",
+      "svg": "defi.svg",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "id": "AS-061",
+      "slug": "did",
+      "concept": "DID",
+      "definition": "Decentralized Identifier \u2014 a globally unique identifier controlled by the subject without central registries",
+      "aliases": [
+        "decentralized identifier",
+        "W3C DID",
+        "self-sovereign ID"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://www.w3.org/TR/did-core/"
+      ],
+      "svg": "did.svg",
+      "tags": [
+        "DID",
+        "identifier",
+        "decentralized",
+        "identity"
+      ]
+    },
+    {
+      "id": "AS-060",
+      "slug": "digital-identity",
+      "concept": "Digital Identity",
+      "definition": "A digital representation of an entity's attributes and credentials in verifiable form",
+      "aliases": [
+        "digital ID",
+        "online identity",
+        "self-sovereign identity"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://arxiv.org/abs/2012.05666"
+      ],
+      "svg": "digital-identity.svg",
+      "tags": [
+        "identity",
+        "digital",
+        "credentials",
+        "verification"
+      ]
+    },
+    {
+      "id": "AS-141",
+      "slug": "dunning-kruger-effect",
+      "concept": "Dunning-Kruger Effect",
+      "definition": "The cognitive bias where people with limited knowledge overestimate their competence",
+      "aliases": [
+        "Dunning-Kruger",
+        "overconfidence bias",
+        "metacognitive bias"
+      ],
+      "category": "philosophy",
+      "category_name": "Philosophy / Thought",
+      "sources": [
+        "https://arxiv.org/abs/2104.09876"
+      ],
+      "svg": "dunning-kruger-effect.svg",
+      "tags": [
+        "Dunning-Kruger",
+        "bias",
+        "overconfidence",
+        "psychology"
+      ]
+    },
+    {
+      "id": "AS-152",
+      "slug": "edge-ai",
+      "concept": "Edge AI",
+      "definition": "AI inference running on local devices rather than cloud servers \u2014 reducing latency and dependency",
+      "aliases": [
+        "on-device AI",
+        "local inference",
+        "embedded AI"
+      ],
+      "category": "space-defense",
+      "category_name": "Space & Defense",
+      "sources": [
+        "https://arxiv.org/abs/2209.07840"
+      ],
+      "svg": "edge-ai.svg",
+      "tags": [
+        "edge AI",
+        "local",
+        "inference",
+        "embedded"
+      ]
+    },
+    {
+      "id": "AS-017",
+      "concept": "Embedding",
+      "definition": "A numerical vector representation of data capturing semantic meaning and relationships",
+      "category": "agentic-economy",
+      "svg": "embedding.svg",
+      "tags": [
+        "embedding"
+      ]
+    },
+    {
+      "id": "AS-068",
+      "slug": "enshrined-oracle",
+      "concept": "Enshrined Oracle",
+      "definition": "An oracle built into the blockchain protocol itself rather than as an external add-on",
+      "aliases": [
+        "protocol oracle",
+        "native oracle",
+        "on-chain oracle"
+      ],
+      "category": "flare",
+      "category_name": "Flare Network",
+      "sources": [
+        "https://dev.flare.network/ftso/overview"
+      ],
+      "svg": "enshrined-oracle.svg",
+      "tags": [
+        "oracle",
+        "enshrined",
+        "protocol",
+        "native"
+      ]
+    },
+    {
+      "id": "AS-105",
+      "slug": "entanglement",
+      "concept": "Entanglement",
+      "definition": "Two quantum particles correlated so measuring one instantly affects the other regardless of distance",
+      "aliases": [
+        "quantum entanglement",
+        "Bell state",
+        "EPR pair"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/quant-ph/9504016"
+      ],
+      "svg": "entanglement.svg",
+      "tags": [
+        "entanglement",
+        "quantum",
+        "correlation",
+        "nonlocal"
+      ]
+    },
+    {
+      "id": "AS-111",
+      "slug": "epigenetics",
+      "concept": "Epigenetics",
+      "definition": "Heritable changes in gene expression not caused by DNA sequence changes \u2014 environment shapes genes",
+      "aliases": [
+        "gene expression",
+        "epigenome",
+        "DNA methylation"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/1611.05128"
+      ],
+      "svg": "epigenetics.svg",
+      "tags": [
+        "epigenetics",
+        "genes",
+        "expression",
+        "biology"
+      ]
+    },
+    {
+      "id": "AS-121",
+      "slug": "euv-lithography",
+      "concept": "EUV Lithography",
+      "definition": "Extreme Ultraviolet Lithography \u2014 uses 13.5nm wavelength light to etch sub-7nm chip features",
+      "aliases": [
+        "EUV",
+        "extreme ultraviolet",
+        "chip lithography",
+        "ASML"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/2007.04347"
+      ],
+      "svg": "euv-lithography.svg",
+      "tags": [
+        "EUV",
+        "lithography",
+        "chip",
+        "ASML"
+      ]
+    },
+    {
+      "id": "AS-099",
+      "slug": "event-contract",
+      "concept": "Event Contract",
+      "definition": "A financial contract whose payoff is determined by the outcome of a specific real-world event",
+      "aliases": [
+        "outcome contract",
+        "event derivative",
+        "binary contract"
+      ],
+      "category": "prediction-markets",
+      "category_name": "Prediction Markets",
+      "sources": [
+        "https://kalshi.com"
+      ],
+      "svg": "event-contract.svg",
+      "tags": [
+        "event",
+        "contract",
+        "outcome",
+        "market"
+      ]
+    },
+    {
+      "id": "AS-147",
+      "slug": "exponential-organization",
+      "concept": "Exponential Organization",
+      "definition": "An organization that achieves 10x impact using digital platforms, algorithms, and community assets",
+      "aliases": [
+        "ExO",
+        "exponential org",
+        "Salim Ismail ExO"
+      ],
+      "category": "philosophy",
+      "category_name": "Philosophy / Thought",
+      "sources": [
+        "https://arxiv.org/abs/2204.09876"
+      ],
+      "svg": "exponential-organization.svg",
+      "tags": [
+        "ExO",
+        "exponential",
+        "organization",
+        "scale"
+      ]
+    },
+    {
+      "id": "AS-065",
+      "slug": "fassets",
+      "concept": "FAssets",
+      "definition": "Flare's trustless system for bringing non-smart-contract tokens like BTC onto the Flare network",
+      "aliases": [
+        "Flare assets",
+        "FBTC",
+        "wrapped assets",
+        "trustless bridge"
+      ],
+      "category": "flare",
+      "category_name": "Flare Network",
+      "sources": [
+        "https://dev.flare.network/fassets/overview"
+      ],
+      "svg": "fassets.svg",
+      "tags": [
+        "FAssets",
+        "Flare",
+        "bridge",
+        "trustless"
+      ]
+    },
+    {
+      "id": "AS-064",
+      "slug": "fdc",
+      "concept": "FDC (Flare Data Connector)",
+      "definition": "Flare's protocol for bringing verified external data and events onto the Flare blockchain",
+      "aliases": [
+        "Flare Data Connector",
+        "FDC",
+        "data attestation"
+      ],
+      "category": "flare",
+      "category_name": "Flare Network",
+      "sources": [
+        "https://dev.flare.network/fdc/overview"
+      ],
+      "svg": "fdc.svg",
+      "tags": [
+        "Flare",
+        "data",
+        "connector",
+        "attestation"
+      ]
+    },
+    {
+      "id": "AS-018",
+      "slug": "few-shot-learning",
+      "concept": "Few-Shot Learning",
+      "definition": "Teaching an LLM a task by providing a small number of examples directly in the prompt",
+      "aliases": [
+        "few-shot prompting",
+        "in-context learning",
+        "k-shot"
+      ],
+      "category": "agentic-economy",
+      "category_name": "Agentic Economy",
+      "sources": [
+        "https://arxiv.org/abs/2005.14165"
+      ],
+      "svg": "few-shot-learning.svg",
+      "tags": [
+        "few-shot",
+        "examples",
+        "prompting",
+        "learning"
+      ]
+    },
+    {
+      "id": "AS-012",
+      "concept": "Fine-Tuning",
+      "definition": "Post-training customization of a foundation model for a specific domain or task",
+      "category": "agentic-economy",
+      "svg": "fine-tuning.svg",
+      "tags": [
+        "fine",
+        "tuning"
+      ]
+    },
+    {
+      "id": "AS-074",
+      "slug": "flare-smart-account",
+      "concept": "Flare Smart Account",
+      "definition": "Account abstraction on Flare enabling programmable wallets with custom authorization logic",
+      "aliases": [
+        "account abstraction",
+        "smart wallet",
+        "ERC-4337 on Flare"
+      ],
+      "category": "flare",
+      "category_name": "Flare Network",
+      "sources": [
+        "https://dev.flare.network"
+      ],
+      "svg": "flare-smart-account.svg",
+      "tags": [
+        "smart account",
+        "Flare",
+        "wallet",
+        "account abstraction"
+      ]
+    },
+    {
+      "id": "AS-032",
+      "slug": "fleet-learning",
+      "concept": "Fleet Learning",
+      "definition": "Distributed learning where insights from a fleet of deployed agents improve the shared model",
+      "aliases": [
+        "federated fleet",
+        "collective learning",
+        "swarm learning"
+      ],
+      "category": "agentic-economy",
+      "category_name": "Agentic Economy",
+      "sources": [
+        "https://arxiv.org/abs/2205.00308"
+      ],
+      "svg": "fleet-learning.svg",
+      "tags": [
+        "fleet",
+        "distributed",
+        "learning",
+        "federated"
+      ]
+    },
+    {
+      "id": "AS-055",
+      "slug": "fork-blockchain",
+      "concept": "Fork (Blockchain)",
+      "definition": "A change to a blockchain protocol creating either a backwards-compatible or incompatible divergence",
+      "aliases": [
+        "hard fork",
+        "soft fork",
+        "protocol upgrade"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://arxiv.org/abs/1710.09405"
+      ],
+      "svg": "fork-blockchain.svg",
+      "tags": [
+        "fork",
+        "protocol",
+        "upgrade",
+        "blockchain"
       ]
     },
     {
@@ -641,465 +1236,149 @@
       ]
     },
     {
-      "id": "AS-028",
-      "slug": "agentic-economy",
-      "concept": "Agentic Economy",
-      "definition": "An economic system where autonomous AI agents transact, negotiate, and create value independently",
+      "id": "AS-063",
+      "slug": "ftsov2",
+      "concept": "FTSOv2",
+      "definition": "Flare's fast block-latency oracle providing sub-second price feeds anchored to network consensus",
       "aliases": [
-        "agent economy",
-        "AI economy",
-        "autonomous economy"
+        "Flare Time Series Oracle v2",
+        "FTSO",
+        "block-latency oracle"
       ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
+      "category": "flare",
+      "category_name": "Flare Network",
       "sources": [
-        "https://arxiv.org/abs/2309.11564"
+        "https://dev.flare.network/ftso/overview"
       ],
-      "svg": "agentic-economy.svg",
+      "svg": "ftsov2.svg",
       "tags": [
-        "economy",
-        "agents",
-        "autonomous",
-        "value"
+        "Flare",
+        "oracle",
+        "price feed",
+        "FTSO"
       ]
     },
     {
-      "id": "AS-029",
-      "slug": "x402",
-      "concept": "x402",
-      "definition": "A payment protocol enabling AI agents to pay for resources via HTTP 402 Payment Required responses",
-      "aliases": [
-        "HTTP 402",
-        "micropayment protocol",
-        "agent payment"
-      ],
+      "id": "AS-004",
+      "concept": "Function Calling",
+      "definition": "Structured output from an LLM that triggers execution of a defined function",
       "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://x402.org"
-      ],
-      "svg": "x402.svg",
+      "svg": "function-calling.svg",
       "tags": [
-        "payment",
-        "protocol",
-        "HTTP",
-        "agent"
+        "function",
+        "calling"
       ]
     },
     {
-      "id": "AS-030",
-      "slug": "mcp",
-      "concept": "MCP (Model Context Protocol)",
-      "definition": "Anthropic's open protocol for connecting AI models to external tools and data sources",
+      "id": "AS-066",
+      "slug": "fxrp",
+      "concept": "FXRP",
+      "definition": "Flare-wrapped XRP enabling XRP holders to access DeFi on the Flare network",
       "aliases": [
-        "Model Context Protocol",
-        "MCP server",
-        "MCP client"
+        "Flare XRP",
+        "wrapped XRP",
+        "XRP on Flare"
       ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
+      "category": "flare",
+      "category_name": "Flare Network",
       "sources": [
-        "https://modelcontextprotocol.io"
+        "https://dev.flare.network/fassets/overview"
       ],
-      "svg": "mcp.svg",
+      "svg": "fxrp.svg",
       "tags": [
-        "protocol",
-        "tools",
-        "context",
-        "Anthropic"
+        "FXRP",
+        "XRP",
+        "Flare",
+        "wrapped"
       ]
     },
     {
-      "id": "AS-031",
-      "slug": "shadow-mode",
-      "concept": "Shadow Mode",
-      "definition": "Running an AI agent in parallel with human decisions without acting — observing before deploying",
+      "id": "AS-052",
+      "slug": "gas-fee",
+      "concept": "Gas Fee",
+      "definition": "A fee paid to blockchain validators for computational resources used to execute transactions",
       "aliases": [
-        "shadow deployment",
-        "observation mode",
-        "passive mode"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2311.10538"
-      ],
-      "svg": "shadow-mode.svg",
-      "tags": [
-        "shadow",
-        "observation",
-        "parallel",
-        "deployment"
-      ]
-    },
-    {
-      "id": "AS-032",
-      "slug": "fleet-learning",
-      "concept": "Fleet Learning",
-      "definition": "Distributed learning where insights from a fleet of deployed agents improve the shared model",
-      "aliases": [
-        "federated fleet",
-        "collective learning",
-        "swarm learning"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2205.00308"
-      ],
-      "svg": "fleet-learning.svg",
-      "tags": [
-        "fleet",
-        "distributed",
-        "learning",
-        "federated"
-      ]
-    },
-    {
-      "id": "AS-033",
-      "slug": "ota-update",
-      "concept": "OTA Update",
-      "definition": "Over-the-air software update delivered wirelessly to deployed agents or devices without physical access",
-      "aliases": [
-        "over-the-air update",
-        "wireless update",
-        "remote patch"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2110.00805"
-      ],
-      "svg": "ota-update.svg",
-      "tags": [
-        "update",
-        "wireless",
-        "deployment",
-        "software"
-      ]
-    },
-    {
-      "id": "AS-034",
-      "slug": "two-tier-agent",
-      "concept": "Two-Tier Agent",
-      "definition": "An architecture separating fast reactive behavior from slow deliberative planning in AI agents",
-      "aliases": [
-        "dual-process agent",
-        "fast-slow agent",
-        "reactive-deliberative"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://arxiv.org/abs/2309.07864"
-      ],
-      "svg": "two-tier-agent.svg",
-      "tags": [
-        "architecture",
-        "tiers",
-        "planning",
-        "reactive"
-      ]
-    },
-    {
-      "id": "AS-035",
-      "slug": "vibe-coding",
-      "concept": "Vibe Coding",
-      "definition": "Directing AI coding tools with natural language intent and iterative vibes rather than explicit specs",
-      "aliases": [
-        "vibe-driven development",
-        "AI-assisted coding",
-        "intent programming"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://techcrunch.com/2025/02/01/vibe-coding"
-      ],
-      "svg": "vibe-coding.svg",
-      "tags": [
-        "coding",
-        "AI",
-        "natural language",
-        "development"
-      ]
-    },
-    {
-      "id": "AS-036",
-      "slug": "replit-agent",
-      "concept": "Replit Agent",
-      "definition": "An AI coding agent integrated into Replit that builds full applications from natural language prompts",
-      "aliases": [
-        "Replit AI",
-        "cloud coding agent",
-        "Ghostwriter"
-      ],
-      "category": "agentic-economy",
-      "category_name": "Agentic Economy",
-      "sources": [
-        "https://replit.com/ai"
-      ],
-      "svg": "replit-agent.svg",
-      "tags": [
-        "Replit",
-        "coding",
-        "agent",
-        "cloud"
-      ]
-    },
-    {
-      "id": "AS-037",
-      "slug": "tokenization",
-      "concept": "Tokenization",
-      "definition": "Converting real-world assets or rights into digital tokens on a blockchain",
-      "aliases": [
-        "asset tokenization",
-        "RWA tokenization",
-        "on-chain assets"
+        "transaction fee",
+        "gas price",
+        "gwei"
       ],
       "category": "blockchain",
       "category_name": "Blockchain / Web3",
       "sources": [
-        "https://arxiv.org/abs/2009.12193"
+        "https://ethereum.org/en/developers/docs/gas/"
       ],
-      "svg": "tokenization.svg",
+      "svg": "gas-fee.svg",
       "tags": [
-        "token",
-        "blockchain",
-        "assets",
-        "digital"
-      ]
-    },
-    {
-      "id": "AS-038",
-      "slug": "smart-contract",
-      "concept": "Smart Contract",
-      "definition": "Self-executing code on a blockchain that automatically enforces agreement terms when conditions are met",
-      "aliases": [
-        "on-chain contract",
-        "Solidity contract",
-        "self-executing agreement"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/1801.00687"
-      ],
-      "svg": "smart-contract.svg",
-      "tags": [
-        "contract",
-        "blockchain",
-        "automation",
-        "code"
-      ]
-    },
-    {
-      "id": "AS-039",
-      "slug": "consensus-mechanism",
-      "concept": "Consensus Mechanism",
-      "definition": "A protocol by which distributed blockchain nodes agree on the valid state of the ledger",
-      "aliases": [
-        "PoW",
-        "PoS",
-        "consensus protocol",
-        "Nakamoto consensus"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/1711.03936"
-      ],
-      "svg": "consensus-mechanism.svg",
-      "tags": [
-        "consensus",
-        "blockchain",
-        "validation",
-        "protocol"
-      ]
-    },
-    {
-      "id": "AS-040",
-      "slug": "validator-node",
-      "concept": "Validator Node",
-      "definition": "A network participant that verifies transactions and blocks, maintaining blockchain integrity",
-      "aliases": [
-        "validator",
-        "network node",
-        "block producer"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://ethereum.org/en/developers/docs/nodes-and-clients/"
-      ],
-      "svg": "validator-node.svg",
-      "tags": [
-        "validator",
-        "node",
-        "network",
-        "verification"
-      ]
-    },
-    {
-      "id": "AS-041",
-      "slug": "zk-proof",
-      "concept": "ZK Proof",
-      "definition": "Zero-Knowledge Proof — proves statement validity without revealing underlying private information",
-      "aliases": [
-        "zero-knowledge proof",
-        "ZKP",
-        "zk-SNARK",
-        "zk-STARK"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/1906.07221"
-      ],
-      "svg": "zk-proof.svg",
-      "tags": [
-        "zero-knowledge",
-        "privacy",
-        "proof",
-        "cryptography"
-      ]
-    },
-    {
-      "id": "AS-042",
-      "slug": "amm",
-      "concept": "AMM",
-      "definition": "Automated Market Maker — a DeFi protocol using mathematical formulas instead of order books for trading",
-      "aliases": [
-        "automated market maker",
-        "liquidity curve",
-        "x*y=k"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/2103.12732"
-      ],
-      "svg": "amm.svg",
-      "tags": [
-        "AMM",
-        "DeFi",
-        "liquidity",
-        "trading"
-      ]
-    },
-    {
-      "id": "AS-043",
-      "slug": "liquidity-pool",
-      "concept": "Liquidity Pool",
-      "definition": "A smart contract holding token reserves that enables decentralized trading and lending",
-      "aliases": [
-        "LP",
-        "liquidity reserve",
-        "DEX pool"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/2205.08904"
-      ],
-      "svg": "liquidity-pool.svg",
-      "tags": [
-        "liquidity",
-        "pool",
-        "DeFi",
-        "tokens"
-      ]
-    },
-    {
-      "id": "AS-044",
-      "slug": "dao",
-      "concept": "DAO",
-      "definition": "Decentralized Autonomous Organization — a member-governed entity with rules encoded as smart contracts",
-      "aliases": [
-        "decentralized autonomous organization",
-        "on-chain governance",
-        "community governance"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/2110.05040"
-      ],
-      "svg": "dao.svg",
-      "tags": [
-        "DAO",
-        "governance",
-        "decentralized",
-        "organization"
+        "gas",
+        "fee",
+        "transaction",
+        "Ethereum"
       ]
     },
     {
       "id": "AS-045",
-      "slug": "defi",
-      "concept": "DeFi",
-      "definition": "Decentralized Finance — financial services built on blockchain without traditional intermediaries",
-      "aliases": [
-        "decentralized finance",
-        "on-chain finance",
-        "open finance"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/2101.08778"
-      ],
-      "svg": "defi.svg",
+      "concept": "Guardrails",
+      "definition": "Safety constraints and boundaries applied to AI agent behavior to prevent harmful outputs",
+      "category": "agentic-economy",
+      "svg": "guardrails.svg",
       "tags": [
-        "DeFi",
-        "finance",
-        "decentralized",
-        "blockchain"
+        "guardrails"
       ]
     },
     {
-      "id": "AS-046",
-      "slug": "mev-attack",
-      "concept": "MEV Attack",
-      "definition": "Maximal Extractable Value — profit extracted by reordering, inserting, or censoring blockchain transactions",
-      "aliases": [
-        "maximal extractable value",
-        "miner extractable value",
-        "front-running"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/1904.05234"
-      ],
-      "svg": "mev-attack.svg",
+      "id": "AS-014",
+      "concept": "Hallucination",
+      "definition": "When an AI model generates false or nonsensical information presented as fact",
+      "category": "agentic-economy",
+      "svg": "hallucination.svg",
       "tags": [
-        "MEV",
-        "front-running",
-        "blockchain",
-        "attack"
+        "hallucination"
       ]
     },
     {
-      "id": "AS-047",
-      "slug": "liquid-staking",
-      "concept": "Liquid Staking",
-      "definition": "Staking tokens while receiving a liquid derivative that can be used in DeFi protocols simultaneously",
+      "id": "AS-123",
+      "slug": "hbm",
+      "concept": "HBM (High Bandwidth Memory)",
+      "definition": "Stacked DRAM dies connected via through-silicon vias delivering very high memory bandwidth",
       "aliases": [
-        "liquid staking token",
-        "LST",
-        "staked derivative"
+        "high bandwidth memory",
+        "stacked memory",
+        "HBM3"
       ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
+      "category": "science-tech",
+      "category_name": "Science & Tech",
       "sources": [
-        "https://arxiv.org/abs/2207.10727"
+        "https://arxiv.org/abs/2204.09394"
       ],
-      "svg": "liquid-staking.svg",
+      "svg": "hbm.svg",
       "tags": [
-        "staking",
-        "liquid",
-        "DeFi",
-        "derivative"
+        "HBM",
+        "memory",
+        "bandwidth",
+        "DRAM"
+      ]
+    },
+    {
+      "id": "AS-115",
+      "slug": "high-throughput-synthesis",
+      "concept": "High-Throughput Synthesis",
+      "definition": "Parallel synthesis of thousands of compounds simultaneously to accelerate materials and drug discovery",
+      "aliases": [
+        "parallel synthesis",
+        "combinatorial chemistry",
+        "HTS"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/2209.08258"
+      ],
+      "svg": "high-throughput-synthesis.svg",
+      "tags": [
+        "synthesis",
+        "high-throughput",
+        "parallel",
+        "chemistry"
       ]
     },
     {
@@ -1126,26 +1405,105 @@
       ]
     },
     {
-      "id": "AS-049",
-      "slug": "oracle-problem",
-      "concept": "Oracle Problem",
-      "definition": "The fundamental challenge of reliably feeding real-world data to blockchain's isolated smart contracts",
-      "aliases": [
-        "blockchain oracle",
-        "data feed problem",
-        "oracle attack"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/2004.01441"
-      ],
-      "svg": "oracle-problem.svg",
+      "id": "AS-013",
+      "concept": "Inference",
+      "definition": "Applying a trained AI model to generate a result from new input data",
+      "category": "agentic-economy",
+      "svg": "inference.svg",
       "tags": [
-        "oracle",
-        "data",
-        "blockchain",
-        "problem"
+        "inference"
+      ]
+    },
+    {
+      "id": "AS-138",
+      "slug": "instrumental-convergence",
+      "concept": "Instrumental Convergence",
+      "definition": "The tendency for agents with diverse goals to adopt similar sub-goals like self-preservation and resource acquisition",
+      "aliases": [
+        "convergent instrumental goals",
+        "basic AI drives",
+        "Omohundro drives"
+      ],
+      "category": "philosophy",
+      "category_name": "Philosophy / Thought",
+      "sources": [
+        "https://arxiv.org/abs/1906.01820"
+      ],
+      "svg": "instrumental-convergence.svg",
+      "tags": [
+        "instrumental convergence",
+        "goals",
+        "AI",
+        "drives"
+      ]
+    },
+    {
+      "id": "AS-135",
+      "slug": "intelligence-explosion",
+      "concept": "Intelligence Explosion",
+      "definition": "The rapid recursive self-improvement of AI leading to superintelligence faster than humans can respond",
+      "aliases": [
+        "recursive self-improvement",
+        "AI takeoff",
+        "fast takeoff"
+      ],
+      "category": "philosophy",
+      "category_name": "Philosophy / Thought",
+      "sources": [
+        "https://arxiv.org/abs/2109.13916"
+      ],
+      "svg": "intelligence-explosion.svg",
+      "tags": [
+        "intelligence",
+        "explosion",
+        "recursive",
+        "AI"
+      ]
+    },
+    {
+      "id": "AS-078",
+      "slug": "ironclaw",
+      "concept": "IronClaw",
+      "definition": "NEAR's smart contract security audit framework for identifying vulnerabilities",
+      "aliases": [
+        "IronClaw",
+        "NEAR security",
+        "smart contract audit"
+      ],
+      "category": "near",
+      "category_name": "NEAR Protocol",
+      "sources": [
+        "https://near.org"
+      ],
+      "svg": "ironclaw.svg",
+      "tags": [
+        "security",
+        "audit",
+        "NEAR",
+        "smart contract"
+      ]
+    },
+    {
+      "id": "AS-133",
+      "slug": "iso-20022",
+      "concept": "ISO 20022",
+      "definition": "A global financial messaging standard enabling richer data in payment transactions",
+      "aliases": [
+        "ISO20022",
+        "SWIFT ISO 20022",
+        "payment messaging standard"
+      ],
+      "category": "economics",
+      "category_name": "Economics / Finance",
+      "sources": [
+        "https://www.iso20022.org"
+      ],
+      "svg": "iso-20022.svg",
+      "tags": [
+        "ISO 20022",
+        "payments",
+        "standard",
+        "messaging"
       ]
     },
     {
@@ -1173,1432 +1531,59 @@
       ]
     },
     {
-      "id": "AS-051",
-      "slug": "merkle-tree",
-      "concept": "Merkle Tree",
-      "definition": "A hash tree data structure used in blockchains for efficient and secure data verification",
+      "id": "AS-047",
+      "slug": "liquid-staking",
+      "concept": "Liquid Staking",
+      "definition": "Staking tokens while receiving a liquid derivative that can be used in DeFi protocols simultaneously",
       "aliases": [
-        "hash tree",
-        "Merkle root",
-        "Merkle proof"
+        "liquid staking token",
+        "LST",
+        "staked derivative"
       ],
       "category": "blockchain",
       "category_name": "Blockchain / Web3",
       "sources": [
-        "https://arxiv.org/abs/2011.12116"
+        "https://arxiv.org/abs/2207.10727"
       ],
-      "svg": "merkle-tree.svg",
-      "tags": [
-        "merkle",
-        "hash",
-        "tree",
-        "verification"
-      ]
-    },
-    {
-      "id": "AS-052",
-      "slug": "gas-fee",
-      "concept": "Gas Fee",
-      "definition": "A fee paid to blockchain validators for computational resources used to execute transactions",
-      "aliases": [
-        "transaction fee",
-        "gas price",
-        "gwei"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://ethereum.org/en/developers/docs/gas/"
-      ],
-      "svg": "gas-fee.svg",
-      "tags": [
-        "gas",
-        "fee",
-        "transaction",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "AS-053",
-      "slug": "staking",
-      "concept": "Staking",
-      "definition": "Locking cryptocurrency to support network operations in exchange for rewards",
-      "aliases": [
-        "proof of stake",
-        "staking rewards",
-        "bonding"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://ethereum.org/en/staking/"
-      ],
-      "svg": "staking.svg",
+      "svg": "liquid-staking.svg",
       "tags": [
         "staking",
-        "PoS",
-        "rewards",
-        "blockchain"
-      ]
-    },
-    {
-      "id": "AS-054",
-      "slug": "bridge-cross-chain",
-      "concept": "Bridge (Cross-Chain)",
-      "definition": "A protocol enabling transfer of tokens and data between different blockchain networks",
-      "aliases": [
-        "cross-chain bridge",
-        "blockchain bridge",
-        "interop bridge"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/2104.08719"
-      ],
-      "svg": "bridge-cross-chain.svg",
-      "tags": [
-        "bridge",
-        "cross-chain",
-        "interoperability",
-        "blockchain"
-      ]
-    },
-    {
-      "id": "AS-055",
-      "slug": "fork-blockchain",
-      "concept": "Fork (Blockchain)",
-      "definition": "A change to a blockchain protocol creating either a backwards-compatible or incompatible divergence",
-      "aliases": [
-        "hard fork",
-        "soft fork",
-        "protocol upgrade"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/1710.09405"
-      ],
-      "svg": "fork-blockchain.svg",
-      "tags": [
-        "fork",
-        "protocol",
-        "upgrade",
-        "blockchain"
-      ]
-    },
-    {
-      "id": "AS-056",
-      "slug": "block",
-      "concept": "Block",
-      "definition": "A unit of data in a blockchain containing transactions, a timestamp, and a hash of the previous block",
-      "aliases": [
-        "blockchain block",
-        "block header",
-        "block data"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/2009.12193"
-      ],
-      "svg": "block.svg",
-      "tags": [
-        "block",
-        "blockchain",
-        "transaction",
-        "hash"
-      ]
-    },
-    {
-      "id": "AS-057",
-      "slug": "chain",
-      "concept": "Chain",
-      "definition": "A linked sequence of blocks forming an immutable, append-only ledger of transactions",
-      "aliases": [
-        "blockchain",
-        "ledger chain",
-        "hash chain"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/2009.12193"
-      ],
-      "svg": "chain.svg",
-      "tags": [
-        "chain",
-        "blocks",
-        "ledger",
-        "immutable"
-      ]
-    },
-    {
-      "id": "AS-058",
-      "slug": "node",
-      "concept": "Node",
-      "definition": "A participant in a blockchain network that maintains a copy of the ledger and validates transactions",
-      "aliases": [
-        "network node",
-        "full node",
-        "light node"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://ethereum.org/en/developers/docs/nodes-and-clients/"
-      ],
-      "svg": "node.svg",
-      "tags": [
-        "node",
-        "network",
-        "validation",
-        "blockchain"
-      ]
-    },
-    {
-      "id": "AS-059",
-      "slug": "wallet-crypto",
-      "concept": "Wallet (Crypto)",
-      "definition": "Software storing private keys that gives users access to their blockchain assets",
-      "aliases": [
-        "crypto wallet",
-        "key store",
-        "digital wallet"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://ethereum.org/en/wallets/"
-      ],
-      "svg": "wallet-crypto.svg",
-      "tags": [
-        "wallet",
-        "keys",
-        "crypto",
-        "storage"
-      ]
-    },
-    {
-      "id": "AS-060",
-      "slug": "digital-identity",
-      "concept": "Digital Identity",
-      "definition": "A digital representation of an entity's attributes and credentials in verifiable form",
-      "aliases": [
-        "digital ID",
-        "online identity",
-        "self-sovereign identity"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://arxiv.org/abs/2012.05666"
-      ],
-      "svg": "digital-identity.svg",
-      "tags": [
-        "identity",
-        "digital",
-        "credentials",
-        "verification"
-      ]
-    },
-    {
-      "id": "AS-061",
-      "slug": "did",
-      "concept": "DID",
-      "definition": "Decentralized Identifier — a globally unique identifier controlled by the subject without central registries",
-      "aliases": [
-        "decentralized identifier",
-        "W3C DID",
-        "self-sovereign ID"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://www.w3.org/TR/did-core/"
-      ],
-      "svg": "did.svg",
-      "tags": [
-        "DID",
-        "identifier",
-        "decentralized",
-        "identity"
-      ]
-    },
-    {
-      "id": "AS-062",
-      "slug": "verifiable-credential",
-      "concept": "Verifiable Credential",
-      "definition": "A tamper-evident credential with cryptographic proof, following W3C standards",
-      "aliases": [
-        "VC",
-        "W3C credential",
-        "digital credential",
-        "attestation"
-      ],
-      "category": "blockchain",
-      "category_name": "Blockchain / Web3",
-      "sources": [
-        "https://www.w3.org/TR/vc-data-model/"
-      ],
-      "svg": "verifiable-credential.svg",
-      "tags": [
-        "credential",
-        "verifiable",
-        "W3C",
-        "attestation"
-      ]
-    },
-    {
-      "id": "AS-063",
-      "slug": "ftsov2",
-      "concept": "FTSOv2",
-      "definition": "Flare's fast block-latency oracle providing sub-second price feeds anchored to network consensus",
-      "aliases": [
-        "Flare Time Series Oracle v2",
-        "FTSO",
-        "block-latency oracle"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network/ftso/overview"
-      ],
-      "svg": "ftsov2.svg",
-      "tags": [
-        "Flare",
-        "oracle",
-        "price feed",
-        "FTSO"
-      ]
-    },
-    {
-      "id": "AS-064",
-      "slug": "fdc",
-      "concept": "FDC (Flare Data Connector)",
-      "definition": "Flare's protocol for bringing verified external data and events onto the Flare blockchain",
-      "aliases": [
-        "Flare Data Connector",
-        "FDC",
-        "data attestation"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network/fdc/overview"
-      ],
-      "svg": "fdc.svg",
-      "tags": [
-        "Flare",
-        "data",
-        "connector",
-        "attestation"
-      ]
-    },
-    {
-      "id": "AS-065",
-      "slug": "fassets",
-      "concept": "FAssets",
-      "definition": "Flare's trustless system for bringing non-smart-contract tokens like BTC onto the Flare network",
-      "aliases": [
-        "Flare assets",
-        "FBTC",
-        "wrapped assets",
-        "trustless bridge"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network/fassets/overview"
-      ],
-      "svg": "fassets.svg",
-      "tags": [
-        "FAssets",
-        "Flare",
-        "bridge",
-        "trustless"
-      ]
-    },
-    {
-      "id": "AS-066",
-      "slug": "fxrp",
-      "concept": "FXRP",
-      "definition": "Flare-wrapped XRP enabling XRP holders to access DeFi on the Flare network",
-      "aliases": [
-        "Flare XRP",
-        "wrapped XRP",
-        "XRP on Flare"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network/fassets/overview"
-      ],
-      "svg": "fxrp.svg",
-      "tags": [
-        "FXRP",
-        "XRP",
-        "Flare",
-        "wrapped"
-      ]
-    },
-    {
-      "id": "AS-067",
-      "slug": "web2json",
-      "concept": "Web2Json",
-      "definition": "Flare's attestation type that fetches JSON from web APIs and makes it verifiable on-chain",
-      "aliases": [
-        "Web2Json",
-        "API attestation",
-        "web oracle"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network/fdc/guides/web2json"
-      ],
-      "svg": "web2json.svg",
-      "tags": [
-        "Web2Json",
-        "API",
-        "JSON",
-        "oracle"
-      ]
-    },
-    {
-      "id": "AS-068",
-      "slug": "enshrined-oracle",
-      "concept": "Enshrined Oracle",
-      "definition": "An oracle built into the blockchain protocol itself rather than as an external add-on",
-      "aliases": [
-        "protocol oracle",
-        "native oracle",
-        "on-chain oracle"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network/ftso/overview"
-      ],
-      "svg": "enshrined-oracle.svg",
-      "tags": [
-        "oracle",
-        "enshrined",
-        "protocol",
-        "native"
-      ]
-    },
-    {
-      "id": "AS-069",
-      "slug": "attestation",
-      "concept": "Attestation",
-      "definition": "A cryptographically signed claim verifying that specific data or events are true",
-      "aliases": [
-        "data attestation",
-        "claim",
-        "proof of data"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network/fdc/overview"
-      ],
-      "svg": "attestation.svg",
-      "tags": [
-        "attestation",
-        "proof",
-        "verification",
-        "data"
-      ]
-    },
-    {
-      "id": "AS-070",
-      "slug": "tee",
-      "concept": "TEE (Trusted Execution Environment)",
-      "definition": "A secure, isolated processor environment guaranteeing code integrity and data confidentiality",
-      "aliases": [
-        "trusted execution environment",
-        "secure enclave",
-        "SGX",
-        "TrustZone"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://arxiv.org/abs/1904.05234"
-      ],
-      "svg": "tee.svg",
-      "tags": [
-        "TEE",
-        "security",
-        "enclave",
-        "trusted"
-      ]
-    },
-    {
-      "id": "AS-071",
-      "slug": "verifiable-compute",
-      "concept": "Verifiable Compute",
-      "definition": "Computation whose correctness can be mathematically verified without re-executing it",
-      "aliases": [
-        "verifiable computation",
-        "ZK compute",
-        "provable compute"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://arxiv.org/abs/1811.04164"
-      ],
-      "svg": "verifiable-compute.svg",
-      "tags": [
-        "verifiable",
-        "compute",
-        "ZK",
-        "proof"
-      ]
-    },
-    {
-      "id": "AS-072",
-      "slug": "block-latency-feed",
-      "concept": "Block-Latency Feed",
-      "definition": "A price feed updated every block (~1.8s) on Flare, providing near-real-time oracle data",
-      "aliases": [
-        "block-by-block feed",
-        "fast oracle feed",
-        "sub-second feed"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network/ftso/overview"
-      ],
-      "svg": "block-latency-feed.svg",
-      "tags": [
-        "feed",
-        "latency",
-        "oracle",
-        "real-time"
-      ]
-    },
-    {
-      "id": "AS-073",
-      "slug": "data-provider",
-      "concept": "Data Provider",
-      "definition": "An entity that submits off-chain data to oracle protocols in exchange for incentive rewards",
-      "aliases": [
-        "FTSO data provider",
-        "oracle node",
-        "price submitter"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network/ftso/overview"
-      ],
-      "svg": "data-provider.svg",
-      "tags": [
-        "data provider",
-        "oracle",
-        "FTSO",
-        "incentives"
-      ]
-    },
-    {
-      "id": "AS-074",
-      "slug": "flare-smart-account",
-      "concept": "Flare Smart Account",
-      "definition": "Account abstraction on Flare enabling programmable wallets with custom authorization logic",
-      "aliases": [
-        "account abstraction",
-        "smart wallet",
-        "ERC-4337 on Flare"
-      ],
-      "category": "flare",
-      "category_name": "Flare Network",
-      "sources": [
-        "https://dev.flare.network"
-      ],
-      "svg": "flare-smart-account.svg",
-      "tags": [
-        "smart account",
-        "Flare",
-        "wallet",
-        "account abstraction"
-      ]
-    },
-    {
-      "id": "AS-075",
-      "slug": "near-intents",
-      "concept": "NEAR Intents",
-      "definition": "NEAR's architecture where users express desired outcomes and the network finds optimal execution paths",
-      "aliases": [
-        "intent-centric",
-        "user intents",
-        "declarative transactions"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://near.org/intents"
-      ],
-      "svg": "near-intents.svg",
-      "tags": [
-        "intents",
-        "NEAR",
-        "declarative",
-        "execution"
-      ]
-    },
-    {
-      "id": "AS-076",
-      "slug": "chain-signatures",
-      "concept": "Chain Signatures",
-      "definition": "NEAR's protocol enabling a single NEAR account to control wallets on any blockchain via MPC",
-      "aliases": [
-        "chain signatures",
-        "MPC signing",
-        "cross-chain control"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://docs.near.org/concepts/abstraction/chain-signatures"
-      ],
-      "svg": "chain-signatures.svg",
-      "tags": [
-        "chain signatures",
-        "NEAR",
-        "MPC",
-        "multichain"
-      ]
-    },
-    {
-      "id": "AS-077",
-      "slug": "chain-abstraction",
-      "concept": "Chain Abstraction",
-      "definition": "Hiding blockchain complexity so users interact with dApps without knowing which chain they're on",
-      "aliases": [
-        "chain agnostic",
-        "multichain UX",
-        "abstraction layer"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://docs.near.org/concepts/abstraction/introduction"
-      ],
-      "svg": "chain-abstraction.svg",
-      "tags": [
-        "chain abstraction",
-        "NEAR",
-        "UX",
-        "multichain"
-      ]
-    },
-    {
-      "id": "AS-078",
-      "slug": "ironclaw",
-      "concept": "IronClaw",
-      "definition": "NEAR's smart contract security audit framework for identifying vulnerabilities",
-      "aliases": [
-        "IronClaw",
-        "NEAR security",
-        "smart contract audit"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://near.org"
-      ],
-      "svg": "ironclaw.svg",
-      "tags": [
-        "security",
-        "audit",
-        "NEAR",
-        "smart contract"
-      ]
-    },
-    {
-      "id": "AS-079",
-      "slug": "triple-lockout",
-      "concept": "Triple Lockout",
-      "definition": "A three-layer security mechanism requiring multiple independent approvals before high-risk actions",
-      "aliases": [
-        "triple lock",
-        "multi-layer security",
-        "3-step verification"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://near.org"
-      ],
-      "svg": "triple-lockout.svg",
-      "tags": [
-        "security",
-        "lockout",
-        "verification",
-        "NEAR"
-      ]
-    },
-    {
-      "id": "AS-080",
-      "slug": "confidential-mode",
-      "concept": "Confidential Mode",
-      "definition": "An execution mode protecting data privacy in agent operations, hiding inputs and outputs",
-      "aliases": [
-        "private mode",
-        "confidential compute",
-        "privacy mode"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://near.org"
-      ],
-      "svg": "confidential-mode.svg",
-      "tags": [
-        "confidential",
-        "privacy",
-        "NEAR",
-        "mode"
-      ]
-    },
-    {
-      "id": "AS-081",
-      "slug": "agent-marketplace",
-      "concept": "Agent Marketplace",
-      "definition": "A platform where AI agents can be discovered, deployed, hired, and monetized",
-      "aliases": [
-        "AI agent store",
-        "agent registry",
-        "agent hub"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://near.org"
-      ],
-      "svg": "agent-marketplace.svg",
-      "tags": [
-        "marketplace",
-        "agents",
-        "NEAR",
-        "discovery"
-      ]
-    },
-    {
-      "id": "AS-082",
-      "slug": "sharding",
-      "concept": "Sharding",
-      "definition": "Partitioning blockchain state across parallel shards to achieve horizontal scalability",
-      "aliases": [
-        "blockchain sharding",
-        "Nightshade",
-        "parallel processing"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://arxiv.org/abs/2106.02701"
-      ],
-      "svg": "sharding.svg",
-      "tags": [
-        "sharding",
-        "scalability",
-        "NEAR",
-        "parallel"
-      ]
-    },
-    {
-      "id": "AS-083",
-      "slug": "access-keys",
-      "concept": "Access Keys",
-      "definition": "NEAR's programmable permission system allowing fine-grained control over account actions",
-      "aliases": [
-        "NEAR access keys",
-        "full access key",
-        "function call key"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://docs.near.org/concepts/protocol/access-keys"
-      ],
-      "svg": "access-keys.svg",
-      "tags": [
-        "access keys",
-        "NEAR",
-        "permissions",
-        "security"
-      ]
-    },
-    {
-      "id": "AS-084",
-      "slug": "multichain-dao",
-      "concept": "Multichain DAO",
-      "definition": "A DAO that governs assets and operations across multiple blockchain networks simultaneously",
-      "aliases": [
-        "cross-chain DAO",
-        "multichain governance",
-        "chain-agnostic DAO"
-      ],
-      "category": "near",
-      "category_name": "NEAR Protocol",
-      "sources": [
-        "https://near.org"
-      ],
-      "svg": "multichain-dao.svg",
-      "tags": [
-        "DAO",
-        "multichain",
-        "governance",
-        "NEAR"
-      ]
-    },
-    {
-      "id": "AS-085",
-      "slug": "on-ramp",
-      "concept": "On-Ramp",
-      "definition": "Converting fiat currency (USD, EUR) to cryptocurrency — entry point into the crypto ecosystem",
-      "aliases": [
-        "fiat on-ramp",
-        "crypto on-ramp",
-        "buy crypto"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://ripple.com/solutions/"
-      ],
-      "svg": "on-ramp.svg",
-      "tags": [
-        "on-ramp",
-        "fiat",
-        "crypto",
-        "entry"
-      ]
-    },
-    {
-      "id": "AS-086",
-      "slug": "off-ramp",
-      "concept": "Off-Ramp",
-      "definition": "Converting cryptocurrency back to fiat currency — exit point from the crypto ecosystem",
-      "aliases": [
-        "fiat off-ramp",
-        "crypto off-ramp",
-        "sell crypto"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://ripple.com/solutions/"
-      ],
-      "svg": "off-ramp.svg",
-      "tags": [
-        "off-ramp",
-        "fiat",
-        "crypto",
-        "exit"
-      ]
-    },
-    {
-      "id": "AS-087",
-      "slug": "real-time-settlement",
-      "concept": "Real-Time Settlement",
-      "definition": "Instant finalization of financial transactions without traditional T+2 settlement delays",
-      "aliases": [
-        "instant settlement",
-        "atomic settlement",
-        "T+0"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://ripple.com/ripplenet/"
-      ],
-      "svg": "real-time-settlement.svg",
-      "tags": [
-        "settlement",
-        "real-time",
-        "finality",
-        "payments"
-      ]
-    },
-    {
-      "id": "AS-088",
-      "slug": "cross-margining",
-      "concept": "Cross-Margining",
-      "definition": "Using combined collateral across multiple positions to optimize margin efficiency",
-      "aliases": [
-        "cross margin",
-        "portfolio margin",
-        "margin optimization"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://ripple.com/solutions/"
-      ],
-      "svg": "cross-margining.svg",
-      "tags": [
-        "margin",
-        "cross",
-        "collateral",
-        "efficiency"
-      ]
-    },
-    {
-      "id": "AS-089",
-      "slug": "rwa-tokenization",
-      "concept": "RWA Tokenization",
-      "definition": "Representing real-world assets (real estate, bonds, commodities) as blockchain tokens",
-      "aliases": [
-        "real-world asset tokenization",
-        "asset tokenization",
-        "on-chain RWA"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://ripple.com/solutions/tokenize-assets/"
-      ],
-      "svg": "rwa-tokenization.svg",
-      "tags": [
-        "RWA",
-        "tokenization",
-        "real-world",
-        "assets"
-      ]
-    },
-    {
-      "id": "AS-090",
-      "slug": "onchain-finance",
-      "concept": "Onchain Finance",
-      "definition": "Financial services and products running natively on blockchain with full transparency and programmability",
-      "aliases": [
-        "on-chain finance",
+        "liquid",
         "DeFi",
-        "blockchain finance"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://hedera.com/use-cases/tokenization"
-      ],
-      "svg": "onchain-finance.svg",
-      "tags": [
-        "onchain",
-        "finance",
-        "blockchain",
-        "DeFi"
+        "derivative"
       ]
     },
     {
-      "id": "AS-091",
-      "slug": "compliance-first",
-      "concept": "Compliance-First",
-      "definition": "Designing financial systems with regulatory compliance as a primary, not afterthought, constraint",
+      "id": "AS-043",
+      "slug": "liquidity-pool",
+      "concept": "Liquidity Pool",
+      "definition": "A smart contract holding token reserves that enables decentralized trading and lending",
       "aliases": [
-        "regulatory compliance",
-        "compliance-by-design",
-        "AML/KYC first"
+        "LP",
+        "liquidity reserve",
+        "DEX pool"
       ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
       "sources": [
-        "https://ripple.com/solutions/compliance/"
+        "https://arxiv.org/abs/2205.08904"
       ],
-      "svg": "compliance-first.svg",
+      "svg": "liquidity-pool.svg",
       "tags": [
-        "compliance",
-        "regulation",
-        "KYC",
-        "AML"
+        "liquidity",
+        "pool",
+        "DeFi",
+        "tokens"
       ]
     },
     {
-      "id": "AS-092",
-      "slug": "transaction-finality",
-      "concept": "Transaction Finality",
-      "definition": "The point at which a blockchain transaction is irreversibly confirmed and cannot be reversed",
-      "aliases": [
-        "settlement finality",
-        "block finality",
-        "confirmation"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://hedera.com/learning/distributed-ledger/transaction-finality"
-      ],
-      "svg": "transaction-finality.svg",
+      "id": "AS-011",
+      "concept": "LLM",
+      "definition": "Large Language Model: a neural network trained on massive text data for language tasks",
+      "category": "agentic-economy",
+      "svg": "llm.svg",
       "tags": [
-        "finality",
-        "transaction",
-        "irreversible",
-        "confirmed"
-      ]
-    },
-    {
-      "id": "AS-093",
-      "slug": "trustworthy-ai-agent",
-      "concept": "Trustworthy AI Agent",
-      "definition": "An AI agent meeting standards of reliability, safety, transparency, and accountability",
-      "aliases": [
-        "trusted AI",
-        "responsible AI agent",
-        "accountable AI"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://hedera.com/ai"
-      ],
-      "svg": "trustworthy-ai-agent.svg",
-      "tags": [
-        "trustworthy",
-        "AI",
-        "agent",
-        "safety"
-      ]
-    },
-    {
-      "id": "AS-094",
-      "slug": "post-quantum-cryptography",
-      "concept": "Post-Quantum Cryptography",
-      "definition": "Cryptographic algorithms resistant to attacks from quantum computers",
-      "aliases": [
-        "PQC",
-        "quantum-resistant crypto",
-        "lattice cryptography"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://arxiv.org/abs/2107.12765"
-      ],
-      "svg": "post-quantum-cryptography.svg",
-      "tags": [
-        "post-quantum",
-        "cryptography",
-        "quantum",
-        "security"
-      ]
-    },
-    {
-      "id": "AS-095",
-      "slug": "tamper-proof-logging",
-      "concept": "Tamper-Proof Logging",
-      "definition": "Immutable audit trails where records cannot be altered after creation, cryptographically guaranteed",
-      "aliases": [
-        "immutable logging",
-        "audit trail",
-        "append-only log"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://hedera.com/use-cases/audit-trail"
-      ],
-      "svg": "tamper-proof-logging.svg",
-      "tags": [
-        "logging",
-        "immutable",
-        "audit",
-        "tamper-proof"
-      ]
-    },
-    {
-      "id": "AS-096",
-      "slug": "cbdc",
-      "concept": "CBDC",
-      "definition": "Central Bank Digital Currency — a digital form of sovereign currency issued and controlled by central banks",
-      "aliases": [
-        "central bank digital currency",
-        "digital fiat",
-        "e-currency"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://ripple.com/cbdc-solution/"
-      ],
-      "svg": "cbdc.svg",
-      "tags": [
-        "CBDC",
-        "central bank",
-        "digital currency",
-        "fiat"
-      ]
-    },
-    {
-      "id": "AS-097",
-      "slug": "microtransaction",
-      "concept": "Microtransaction",
-      "definition": "Tiny financial transactions (fractions of a cent) enabled at scale by blockchain infrastructure",
-      "aliases": [
-        "micro payment",
-        "nanopayment",
-        "streaming payments"
-      ],
-      "category": "ripple-hedera",
-      "category_name": "Ripple / Hedera",
-      "sources": [
-        "https://arxiv.org/abs/2005.03556"
-      ],
-      "svg": "microtransaction.svg",
-      "tags": [
-        "microtransaction",
-        "payment",
-        "micro",
-        "blockchain"
-      ]
-    },
-    {
-      "id": "AS-098",
-      "slug": "prediction-market",
-      "concept": "Prediction Market",
-      "definition": "A market for trading contracts on the outcomes of future events, aggregating collective forecasts",
-      "aliases": [
-        "event market",
-        "information market",
-        "betting market"
-      ],
-      "category": "prediction-markets",
-      "category_name": "Prediction Markets",
-      "sources": [
-        "https://arxiv.org/abs/2109.13916"
-      ],
-      "svg": "prediction-market.svg",
-      "tags": [
-        "prediction",
-        "market",
-        "forecast",
-        "events"
-      ]
-    },
-    {
-      "id": "AS-099",
-      "slug": "event-contract",
-      "concept": "Event Contract",
-      "definition": "A financial contract whose payoff is determined by the outcome of a specific real-world event",
-      "aliases": [
-        "outcome contract",
-        "event derivative",
-        "binary contract"
-      ],
-      "category": "prediction-markets",
-      "category_name": "Prediction Markets",
-      "sources": [
-        "https://kalshi.com"
-      ],
-      "svg": "event-contract.svg",
-      "tags": [
-        "event",
-        "contract",
-        "outcome",
-        "market"
-      ]
-    },
-    {
-      "id": "AS-100",
-      "slug": "binary-outcome",
-      "concept": "Binary Outcome",
-      "definition": "An event with exactly two possible results — yes/no, true/false, win/lose",
-      "aliases": [
-        "binary event",
-        "yes/no outcome",
-        "boolean outcome"
-      ],
-      "category": "prediction-markets",
-      "category_name": "Prediction Markets",
-      "sources": [
-        "https://kalshi.com"
-      ],
-      "svg": "binary-outcome.svg",
-      "tags": [
-        "binary",
-        "outcome",
-        "yes/no",
-        "boolean"
-      ]
-    },
-    {
-      "id": "AS-101",
-      "slug": "yes-no-contract",
-      "concept": "Yes/No Contract",
-      "definition": "A prediction market contract settling at $1 if yes and $0 if no",
-      "aliases": [
-        "binary contract",
-        "Y/N contract",
-        "event contract"
-      ],
-      "category": "prediction-markets",
-      "category_name": "Prediction Markets",
-      "sources": [
-        "https://kalshi.com"
-      ],
-      "svg": "yes-no-contract.svg",
-      "tags": [
-        "yes/no",
-        "binary",
-        "contract",
-        "settlement"
-      ]
-    },
-    {
-      "id": "AS-102",
-      "slug": "perpetual-futures",
-      "concept": "Perpetual Futures",
-      "definition": "Futures contracts with no expiry date, using funding rates to keep prices anchored to spot",
-      "aliases": [
-        "perps",
-        "perpetual swaps",
-        "endless futures"
-      ],
-      "category": "prediction-markets",
-      "category_name": "Prediction Markets",
-      "sources": [
-        "https://arxiv.org/abs/2210.01250"
-      ],
-      "svg": "perpetual-futures.svg",
-      "tags": [
-        "perpetual",
-        "futures",
-        "derivatives",
-        "trading"
-      ]
-    },
-    {
-      "id": "AS-103",
-      "slug": "cftc-regulated",
-      "concept": "CFTC Regulated",
-      "definition": "Financial products or platforms operating under US Commodity Futures Trading Commission oversight",
-      "aliases": [
-        "CFTC",
-        "regulated exchange",
-        "CFTC-approved"
-      ],
-      "category": "prediction-markets",
-      "category_name": "Prediction Markets",
-      "sources": [
-        "https://www.cftc.gov"
-      ],
-      "svg": "cftc-regulated.svg",
-      "tags": [
-        "CFTC",
-        "regulated",
-        "compliance",
-        "exchange"
-      ]
-    },
-    {
-      "id": "AS-104",
-      "slug": "quantum-superposition",
-      "concept": "Quantum Superposition",
-      "definition": "A qubit existing in multiple states simultaneously until measured, the foundation of quantum computing",
-      "aliases": [
-        "superposition",
-        "quantum state",
-        "wave function"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/quant-ph/0001077"
-      ],
-      "svg": "quantum-superposition.svg",
-      "tags": [
-        "quantum",
-        "superposition",
-        "qubit",
-        "state"
-      ]
-    },
-    {
-      "id": "AS-105",
-      "slug": "entanglement",
-      "concept": "Entanglement",
-      "definition": "Two quantum particles correlated so measuring one instantly affects the other regardless of distance",
-      "aliases": [
-        "quantum entanglement",
-        "Bell state",
-        "EPR pair"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/quant-ph/9504016"
-      ],
-      "svg": "entanglement.svg",
-      "tags": [
-        "entanglement",
-        "quantum",
-        "correlation",
-        "nonlocal"
-      ]
-    },
-    {
-      "id": "AS-106",
-      "slug": "decoherence",
-      "concept": "Decoherence",
-      "definition": "The loss of quantum coherence as a qubit interacts with its environment, the main obstacle to quantum computing",
-      "aliases": [
-        "quantum decoherence",
-        "quantum noise",
-        "error source"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/quant-ph/0306072"
-      ],
-      "svg": "decoherence.svg",
-      "tags": [
-        "decoherence",
-        "quantum",
-        "noise",
-        "error"
-      ]
-    },
-    {
-      "id": "AS-107",
-      "slug": "quantum-gate",
-      "concept": "Quantum Gate",
-      "definition": "A basic quantum circuit operation that transforms qubit states, analogous to classical logic gates",
-      "aliases": [
-        "quantum logic gate",
-        "qubit gate",
-        "unitary gate"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/quant-ph/9503016"
-      ],
-      "svg": "quantum-gate.svg",
-      "tags": [
-        "quantum gate",
-        "circuit",
-        "qubit",
-        "logic"
-      ]
-    },
-    {
-      "id": "AS-108",
-      "slug": "qubit",
-      "concept": "Qubit",
-      "definition": "The basic unit of quantum information — a two-state quantum system that can be in superposition",
-      "aliases": [
-        "quantum bit",
-        "quantum register",
-        "qbit"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/quant-ph/0001077"
-      ],
-      "svg": "qubit.svg",
-      "tags": [
-        "qubit",
-        "quantum",
-        "bit",
-        "superposition"
-      ]
-    },
-    {
-      "id": "AS-109",
-      "slug": "quantum-supremacy",
-      "concept": "Quantum Supremacy",
-      "definition": "The milestone where a quantum computer performs a task infeasible for any classical computer",
-      "aliases": [
-        "quantum advantage",
-        "quantum milestone",
-        "quantum speed"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/1910.11333"
-      ],
-      "svg": "quantum-supremacy.svg",
-      "tags": [
-        "quantum supremacy",
-        "milestone",
-        "advantage",
-        "computing"
-      ]
-    },
-    {
-      "id": "AS-110",
-      "slug": "neuroplasticity",
-      "concept": "Neuroplasticity",
-      "definition": "The brain's ability to reorganize neural pathways and form new connections in response to experience",
-      "aliases": [
-        "brain plasticity",
-        "neural rewiring",
-        "synaptic plasticity"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/1710.04440"
-      ],
-      "svg": "neuroplasticity.svg",
-      "tags": [
-        "brain",
-        "plasticity",
-        "neural",
-        "learning"
-      ]
-    },
-    {
-      "id": "AS-111",
-      "slug": "epigenetics",
-      "concept": "Epigenetics",
-      "definition": "Heritable changes in gene expression not caused by DNA sequence changes — environment shapes genes",
-      "aliases": [
-        "gene expression",
-        "epigenome",
-        "DNA methylation"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/1611.05128"
-      ],
-      "svg": "epigenetics.svg",
-      "tags": [
-        "epigenetics",
-        "genes",
-        "expression",
-        "biology"
-      ]
-    },
-    {
-      "id": "AS-112",
-      "slug": "crispr",
-      "concept": "CRISPR",
-      "definition": "A gene editing technology allowing precise modification of DNA sequences in living organisms",
-      "aliases": [
-        "CRISPR-Cas9",
-        "gene editing",
-        "gene scissors"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/1406.7567"
-      ],
-      "svg": "crispr.svg",
-      "tags": [
-        "CRISPR",
-        "gene editing",
-        "DNA",
-        "biology"
+        "llm"
       ]
     },
     {
@@ -2625,118 +1610,93 @@
       ]
     },
     {
-      "id": "AS-114",
-      "slug": "self-driving-lab",
-      "concept": "Self-Driving Lab",
-      "definition": "An automated laboratory using AI and robotics to run experiments autonomously and iterate",
-      "aliases": [
-        "autonomous lab",
-        "robot lab",
-        "AI-driven research"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/2306.08645"
-      ],
-      "svg": "self-driving-lab.svg",
+      "id": "AS-023",
+      "concept": "MCP",
+      "definition": "Model Context Protocol: a standard for connecting AI agents to external tools and services",
+      "category": "agentic-economy",
+      "svg": "mcp.svg",
       "tags": [
-        "lab",
-        "autonomous",
-        "AI",
-        "robotics"
+        "mcp"
       ]
     },
     {
-      "id": "AS-115",
-      "slug": "high-throughput-synthesis",
-      "concept": "High-Throughput Synthesis",
-      "definition": "Parallel synthesis of thousands of compounds simultaneously to accelerate materials and drug discovery",
-      "aliases": [
-        "parallel synthesis",
-        "combinatorial chemistry",
-        "HTS"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/2209.08258"
-      ],
-      "svg": "high-throughput-synthesis.svg",
+      "id": "AS-008",
+      "concept": "Memory (Agent)",
+      "definition": "Persistent storage of agent state, history, and learned information across sessions",
+      "category": "agentic-economy",
+      "svg": "memory-agent.svg",
       "tags": [
-        "synthesis",
-        "high-throughput",
-        "parallel",
-        "chemistry"
+        "memory",
+        "agent"
       ]
     },
     {
-      "id": "AS-116",
-      "slug": "svg-format",
-      "concept": "SVG (the format)",
-      "definition": "Scalable Vector Graphics — an XML-based vector image format that scales without quality loss",
+      "id": "AS-051",
+      "slug": "merkle-tree",
+      "concept": "Merkle Tree",
+      "definition": "A hash tree data structure used in blockchains for efficient and secure data verification",
       "aliases": [
-        "scalable vector graphics",
-        "vector format",
-        "SVG file"
+        "hash tree",
+        "Merkle root",
+        "Merkle proof"
       ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
       "sources": [
-        "https://www.w3.org/TR/SVG/"
+        "https://arxiv.org/abs/2011.12116"
       ],
-      "svg": "svg-format.svg",
+      "svg": "merkle-tree.svg",
       "tags": [
-        "SVG",
-        "vector",
-        "graphics",
-        "format"
+        "merkle",
+        "hash",
+        "tree",
+        "verification"
       ]
     },
     {
-      "id": "AS-117",
-      "slug": "api",
-      "concept": "API",
-      "definition": "Application Programming Interface — a defined contract for software components to communicate",
+      "id": "AS-143",
+      "slug": "metatrend",
+      "concept": "Metatrend",
+      "definition": "A macro-level trend that cuts across multiple industries and shapes the trajectory of many smaller trends",
       "aliases": [
-        "application programming interface",
-        "REST API",
-        "endpoint"
+        "macro trend",
+        "mega trend",
+        "underlying trend"
       ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
+      "category": "philosophy",
+      "category_name": "Philosophy / Thought",
       "sources": [
-        "https://arxiv.org/abs/2212.09263"
+        "https://arxiv.org/abs/2204.09876"
       ],
-      "svg": "api.svg",
+      "svg": "metatrend.svg",
       "tags": [
-        "API",
-        "interface",
-        "endpoint",
-        "integration"
+        "metatrend",
+        "macro",
+        "trend",
+        "future"
       ]
     },
     {
-      "id": "AS-118",
-      "slug": "webhook",
-      "concept": "Webhook",
-      "definition": "An HTTP callback that sends real-time data to other applications when specific events occur",
+      "id": "AS-046",
+      "slug": "mev-attack",
+      "concept": "MEV Attack",
+      "definition": "Maximal Extractable Value \u2014 profit extracted by reordering, inserting, or censoring blockchain transactions",
       "aliases": [
-        "HTTP callback",
-        "event notification",
-        "push notification"
+        "maximal extractable value",
+        "miner extractable value",
+        "front-running"
       ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
       "sources": [
-        "https://arxiv.org/abs/2104.13099"
+        "https://arxiv.org/abs/1904.05234"
       ],
-      "svg": "webhook.svg",
+      "svg": "mev-attack.svg",
       "tags": [
-        "webhook",
-        "callback",
-        "event",
-        "HTTP"
+        "MEV",
+        "front-running",
+        "blockchain",
+        "attack"
       ]
     },
     {
@@ -2763,396 +1723,310 @@
       ]
     },
     {
-      "id": "AS-120",
-      "slug": "semiconductor-fab",
-      "concept": "Semiconductor Fab",
-      "definition": "A manufacturing facility that produces integrated circuits on semiconductor wafers",
+      "id": "AS-097",
+      "slug": "microtransaction",
+      "concept": "Microtransaction",
+      "definition": "Tiny financial transactions (fractions of a cent) enabled at scale by blockchain infrastructure",
       "aliases": [
-        "chip fab",
-        "semiconductor foundry",
-        "wafer fab"
+        "micro payment",
+        "nanopayment",
+        "streaming payments"
       ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
+      "category": "ripple-hedera",
+      "category_name": "Ripple / Hedera",
       "sources": [
-        "https://arxiv.org/abs/2104.07551"
+        "https://arxiv.org/abs/2005.03556"
       ],
-      "svg": "semiconductor-fab.svg",
+      "svg": "microtransaction.svg",
       "tags": [
-        "semiconductor",
-        "fab",
-        "chip",
-        "manufacturing"
+        "microtransaction",
+        "payment",
+        "micro",
+        "blockchain"
       ]
     },
     {
-      "id": "AS-121",
-      "slug": "euv-lithography",
-      "concept": "EUV Lithography",
-      "definition": "Extreme Ultraviolet Lithography — uses 13.5nm wavelength light to etch sub-7nm chip features",
+      "id": "AS-151",
+      "slug": "mission-autonomy",
+      "concept": "Mission Autonomy",
+      "definition": "The capability of systems to accomplish objectives without human intervention in the loop",
       "aliases": [
-        "EUV",
-        "extreme ultraviolet",
-        "chip lithography",
-        "ASML"
+        "autonomous mission",
+        "self-directing system",
+        "mission independence"
       ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
+      "category": "space-defense",
+      "category_name": "Space & Defense",
       "sources": [
-        "https://arxiv.org/abs/2007.04347"
+        "https://arxiv.org/abs/2311.10538"
       ],
-      "svg": "euv-lithography.svg",
+      "svg": "mission-autonomy.svg",
       "tags": [
-        "EUV",
-        "lithography",
-        "chip",
-        "ASML"
+        "autonomy",
+        "mission",
+        "autonomous",
+        "defense"
       ]
     },
     {
-      "id": "AS-122",
-      "slug": "chiplet",
-      "concept": "Chiplet",
-      "definition": "A small, modular chip die designed to be combined with others into a larger package",
-      "aliases": [
-        "die-to-die",
-        "chiplet architecture",
-        "advanced packaging"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/2205.09291"
-      ],
-      "svg": "chiplet.svg",
+      "id": "AS-039",
+      "concept": "Moonshot",
+      "definition": "An ambitious goal targeting 10x improvement rather than incremental progress",
+      "category": "philosophy",
+      "svg": "moonshot.svg",
       "tags": [
-        "chiplet",
-        "die",
-        "packaging",
-        "semiconductor"
+        "moonshot"
       ]
     },
     {
-      "id": "AS-123",
-      "slug": "hbm",
-      "concept": "HBM (High Bandwidth Memory)",
-      "definition": "Stacked DRAM dies connected via through-silicon vias delivering very high memory bandwidth",
+      "id": "AS-145",
+      "slug": "mtp",
+      "concept": "MTP (Massive Transformative Purpose)",
+      "definition": "Salim Ismail's concept of an audacious mission statement that attracts talent and inspires action",
       "aliases": [
-        "high bandwidth memory",
-        "stacked memory",
-        "HBM3"
-      ],
-      "category": "science-tech",
-      "category_name": "Science & Tech",
-      "sources": [
-        "https://arxiv.org/abs/2204.09394"
-      ],
-      "svg": "hbm.svg",
-      "tags": [
-        "HBM",
-        "memory",
-        "bandwidth",
-        "DRAM"
-      ]
-    },
-    {
-      "id": "AS-124",
-      "slug": "cantillon-effect",
-      "concept": "Cantillon Effect",
-      "definition": "The uneven economic impact of money creation — those closest to new money benefit first",
-      "aliases": [
-        "monetary distribution",
-        "first recipient advantage",
-        "money printing effect"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://arxiv.org/abs/2109.09565"
-      ],
-      "svg": "cantillon-effect.svg",
-      "tags": [
-        "Cantillon",
-        "money",
-        "inequality",
-        "economics"
-      ]
-    },
-    {
-      "id": "AS-125",
-      "slug": "reflexivity",
-      "concept": "Reflexivity",
-      "definition": "Soros's theory that market participants' biased views affect fundamentals, creating feedback loops",
-      "aliases": [
-        "market reflexivity",
-        "Soros reflexivity",
-        "self-fulfilling prophecy"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://arxiv.org/abs/1105.5379"
-      ],
-      "svg": "reflexivity.svg",
-      "tags": [
-        "reflexivity",
-        "markets",
-        "feedback",
-        "Soros"
-      ]
-    },
-    {
-      "id": "AS-126",
-      "slug": "sound-money",
-      "concept": "Sound Money",
-      "definition": "Currency that maintains stable purchasing power, not subject to arbitrary inflation or debasement",
-      "aliases": [
-        "hard money",
-        "stable money",
-        "non-inflationary currency"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://arxiv.org/abs/2109.01652"
-      ],
-      "svg": "sound-money.svg",
-      "tags": [
-        "sound money",
-        "stable",
-        "inflation",
-        "currency"
-      ]
-    },
-    {
-      "id": "AS-127",
-      "slug": "dedollarization",
-      "concept": "Dedollarization",
-      "definition": "The global trend of reducing reliance on the US dollar in international trade and reserves",
-      "aliases": [
-        "dollar decline",
-        "multipolar currency",
-        "USD diversification"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://arxiv.org/abs/2305.05127"
-      ],
-      "svg": "dedollarization.svg",
-      "tags": [
-        "dedollarization",
-        "dollar",
-        "reserves",
-        "geopolitics"
-      ]
-    },
-    {
-      "id": "AS-128",
-      "slug": "yield-curve-inversion",
-      "concept": "Yield Curve Inversion",
-      "definition": "When short-term bond yields exceed long-term yields — historically a reliable recession predictor",
-      "aliases": [
-        "inverted yield curve",
-        "recession signal",
-        "2-10 spread"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://arxiv.org/abs/1810.01528"
-      ],
-      "svg": "yield-curve-inversion.svg",
-      "tags": [
-        "yield curve",
-        "inversion",
-        "recession",
-        "bonds"
-      ]
-    },
-    {
-      "id": "AS-129",
-      "slug": "quantitative-easing",
-      "concept": "Quantitative Easing",
-      "definition": "Central bank asset purchases to inject money into the economy when interest rates hit the zero bound",
-      "aliases": [
-        "QE",
-        "money printing",
-        "asset purchases",
-        "balance sheet expansion"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://arxiv.org/abs/1011.0714"
-      ],
-      "svg": "quantitative-easing.svg",
-      "tags": [
-        "QE",
-        "central bank",
-        "money",
-        "policy"
-      ]
-    },
-    {
-      "id": "AS-130",
-      "slug": "regulatory-capture",
-      "concept": "Regulatory Capture",
-      "definition": "When a regulatory agency advances the interests of the industry it is supposed to regulate",
-      "aliases": [
-        "industry capture",
-        "revolving door",
-        "captured regulator"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://arxiv.org/abs/1711.09698"
-      ],
-      "svg": "regulatory-capture.svg",
-      "tags": [
-        "regulation",
-        "capture",
-        "industry",
-        "policy"
-      ]
-    },
-    {
-      "id": "AS-131",
-      "slug": "deadweight-loss",
-      "concept": "Deadweight Loss",
-      "definition": "Economic inefficiency created when supply and demand are not in equilibrium due to interventions",
-      "aliases": [
-        "welfare loss",
-        "efficiency loss",
-        "market distortion"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://arxiv.org/abs/1602.02048"
-      ],
-      "svg": "deadweight-loss.svg",
-      "tags": [
-        "deadweight loss",
-        "efficiency",
-        "economics",
-        "welfare"
-      ]
-    },
-    {
-      "id": "AS-132",
-      "slug": "brics",
-      "concept": "BRICS",
-      "definition": "The economic bloc of Brazil, Russia, India, China, South Africa — and expanding membership",
-      "aliases": [
-        "BRICS nations",
-        "emerging markets bloc",
-        "BRICS+"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://arxiv.org/abs/2305.05127"
-      ],
-      "svg": "brics.svg",
-      "tags": [
-        "BRICS",
-        "geopolitics",
-        "emerging markets",
-        "economics"
-      ]
-    },
-    {
-      "id": "AS-133",
-      "slug": "iso-20022",
-      "concept": "ISO 20022",
-      "definition": "A global financial messaging standard enabling richer data in payment transactions",
-      "aliases": [
-        "ISO20022",
-        "SWIFT ISO 20022",
-        "payment messaging standard"
-      ],
-      "category": "economics",
-      "category_name": "Economics / Finance",
-      "sources": [
-        "https://www.iso20022.org"
-      ],
-      "svg": "iso-20022.svg",
-      "tags": [
-        "ISO 20022",
-        "payments",
-        "standard",
-        "messaging"
-      ]
-    },
-    {
-      "id": "AS-134",
-      "slug": "singularity",
-      "concept": "Singularity",
-      "definition": "A hypothetical point where AI surpasses human intelligence, causing an uncontrollable technological explosion",
-      "aliases": [
-        "technological singularity",
-        "intelligence singularity",
-        "Kurzweil singularity"
+        "massive transformative purpose",
+        "ExO MTP",
+        "mission statement"
       ],
       "category": "philosophy",
       "category_name": "Philosophy / Thought",
       "sources": [
-        "https://arxiv.org/abs/2109.01652"
+        "https://arxiv.org/abs/2203.09876"
       ],
-      "svg": "singularity.svg",
+      "svg": "mtp.svg",
       "tags": [
-        "singularity",
-        "AI",
-        "intelligence",
-        "future"
+        "MTP",
+        "mission",
+        "purpose",
+        "transformation"
       ]
     },
     {
-      "id": "AS-135",
-      "slug": "intelligence-explosion",
-      "concept": "Intelligence Explosion",
-      "definition": "The rapid recursive self-improvement of AI leading to superintelligence faster than humans can respond",
-      "aliases": [
-        "recursive self-improvement",
-        "AI takeoff",
-        "fast takeoff"
-      ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
-      "sources": [
-        "https://arxiv.org/abs/2109.13916"
-      ],
-      "svg": "intelligence-explosion.svg",
+      "id": "AS-005",
+      "concept": "Multi-Agent System",
+      "definition": "A network of AI agents working together to complete complex tasks",
+      "category": "agentic-economy",
+      "svg": "multi-agent-system.svg",
       "tags": [
-        "intelligence",
-        "explosion",
-        "recursive",
-        "AI"
+        "multi",
+        "agent",
+        "system"
       ]
     },
     {
-      "id": "AS-136",
-      "slug": "superintelligence",
-      "concept": "Superintelligence",
-      "definition": "A hypothetical AI that surpasses human cognitive performance across all domains",
+      "id": "AS-153",
+      "slug": "multi-domain-operations",
+      "concept": "Multi-Domain Operations",
+      "definition": "Military operations synchronized across land, sea, air, space, and cyberspace simultaneously",
       "aliases": [
-        "ASI",
-        "artificial superintelligence",
-        "beyond-human AI"
+        "MDO",
+        "joint all-domain operations",
+        "JADC2"
       ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
+      "category": "space-defense",
+      "category_name": "Space & Defense",
       "sources": [
-        "https://arxiv.org/abs/2109.13916"
+        "https://arxiv.org/abs/2309.09876"
       ],
-      "svg": "superintelligence.svg",
+      "svg": "multi-domain-operations.svg",
       "tags": [
-        "superintelligence",
-        "ASI",
-        "AI",
-        "capability"
+        "multi-domain",
+        "military",
+        "operations",
+        "defense"
+      ]
+    },
+    {
+      "id": "AS-084",
+      "slug": "multichain-dao",
+      "concept": "Multichain DAO",
+      "definition": "A DAO that governs assets and operations across multiple blockchain networks simultaneously",
+      "aliases": [
+        "cross-chain DAO",
+        "multichain governance",
+        "chain-agnostic DAO"
+      ],
+      "category": "near",
+      "category_name": "NEAR Protocol",
+      "sources": [
+        "https://near.org"
+      ],
+      "svg": "multichain-dao.svg",
+      "tags": [
+        "DAO",
+        "multichain",
+        "governance",
+        "NEAR"
+      ]
+    },
+    {
+      "id": "AS-075",
+      "slug": "near-intents",
+      "concept": "NEAR Intents",
+      "definition": "NEAR's architecture where users express desired outcomes and the network finds optimal execution paths",
+      "aliases": [
+        "intent-centric",
+        "user intents",
+        "declarative transactions"
+      ],
+      "category": "near",
+      "category_name": "NEAR Protocol",
+      "sources": [
+        "https://near.org/intents"
+      ],
+      "svg": "near-intents.svg",
+      "tags": [
+        "intents",
+        "NEAR",
+        "declarative",
+        "execution"
+      ]
+    },
+    {
+      "id": "AS-110",
+      "slug": "neuroplasticity",
+      "concept": "Neuroplasticity",
+      "definition": "The brain's ability to reorganize neural pathways and form new connections in response to experience",
+      "aliases": [
+        "brain plasticity",
+        "neural rewiring",
+        "synaptic plasticity"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/1710.04440"
+      ],
+      "svg": "neuroplasticity.svg",
+      "tags": [
+        "brain",
+        "plasticity",
+        "neural",
+        "learning"
+      ]
+    },
+    {
+      "id": "AS-058",
+      "slug": "node",
+      "concept": "Node",
+      "definition": "A participant in a blockchain network that maintains a copy of the ledger and validates transactions",
+      "aliases": [
+        "network node",
+        "full node",
+        "light node"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://ethereum.org/en/developers/docs/nodes-and-clients/"
+      ],
+      "svg": "node.svg",
+      "tags": [
+        "node",
+        "network",
+        "validation",
+        "blockchain"
+      ]
+    },
+    {
+      "id": "AS-033",
+      "concept": "Off-Ramp",
+      "definition": "Converting cryptocurrency back to fiat currency to exit the blockchain ecosystem",
+      "category": "blockchain",
+      "svg": "off-ramp.svg",
+      "tags": [
+        "off",
+        "ramp"
+      ]
+    },
+    {
+      "id": "AS-032",
+      "concept": "On-Ramp",
+      "definition": "Converting fiat currency to cryptocurrency to enter the blockchain ecosystem",
+      "category": "blockchain",
+      "svg": "on-ramp.svg",
+      "tags": [
+        "on",
+        "ramp"
+      ]
+    },
+    {
+      "id": "AS-090",
+      "slug": "onchain-finance",
+      "concept": "Onchain Finance",
+      "definition": "Financial services and products running natively on blockchain with full transparency and programmability",
+      "aliases": [
+        "on-chain finance",
+        "DeFi",
+        "blockchain finance"
+      ],
+      "category": "ripple-hedera",
+      "category_name": "Ripple / Hedera",
+      "sources": [
+        "https://hedera.com/use-cases/tokenization"
+      ],
+      "svg": "onchain-finance.svg",
+      "tags": [
+        "onchain",
+        "finance",
+        "blockchain",
+        "DeFi"
+      ]
+    },
+    {
+      "id": "AS-049",
+      "slug": "oracle-problem",
+      "concept": "Oracle Problem",
+      "definition": "The fundamental challenge of reliably feeding real-world data to blockchain's isolated smart contracts",
+      "aliases": [
+        "blockchain oracle",
+        "data feed problem",
+        "oracle attack"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://arxiv.org/abs/2004.01441"
+      ],
+      "svg": "oracle-problem.svg",
+      "tags": [
+        "oracle",
+        "data",
+        "blockchain",
+        "problem"
+      ]
+    },
+    {
+      "id": "AS-006",
+      "concept": "Orchestrator",
+      "definition": "A directing agent that coordinates and delegates tasks to sub-agents",
+      "category": "agentic-economy",
+      "svg": "orchestrator.svg",
+      "tags": [
+        "orchestrator"
+      ]
+    },
+    {
+      "id": "AS-033",
+      "slug": "ota-update",
+      "concept": "OTA Update",
+      "definition": "Over-the-air software update delivered wirelessly to deployed agents or devices without physical access",
+      "aliases": [
+        "over-the-air update",
+        "wireless update",
+        "remote patch"
+      ],
+      "category": "agentic-economy",
+      "category_name": "Agentic Economy",
+      "sources": [
+        "https://arxiv.org/abs/2110.00805"
+      ],
+      "svg": "ota-update.svg",
+      "tags": [
+        "update",
+        "wireless",
+        "deployment",
+        "software"
       ]
     },
     {
@@ -3179,26 +2053,49 @@
       ]
     },
     {
-      "id": "AS-138",
-      "slug": "instrumental-convergence",
-      "concept": "Instrumental Convergence",
-      "definition": "The tendency for agents with diverse goals to adopt similar sub-goals like self-preservation and resource acquisition",
+      "id": "AS-142",
+      "slug": "parasocial-relationship",
+      "concept": "Parasocial Relationship",
+      "definition": "A one-sided emotional bond a person forms with a media persona, celebrity, or AI without real interaction",
       "aliases": [
-        "convergent instrumental goals",
-        "basic AI drives",
-        "Omohundro drives"
+        "parasocial bond",
+        "one-sided relationship",
+        "media relationship"
       ],
       "category": "philosophy",
       "category_name": "Philosophy / Thought",
       "sources": [
-        "https://arxiv.org/abs/1906.01820"
+        "https://arxiv.org/abs/2207.09876"
       ],
-      "svg": "instrumental-convergence.svg",
+      "svg": "parasocial-relationship.svg",
       "tags": [
-        "instrumental convergence",
-        "goals",
-        "AI",
-        "drives"
+        "parasocial",
+        "relationship",
+        "psychology",
+        "media"
+      ]
+    },
+    {
+      "id": "AS-102",
+      "slug": "perpetual-futures",
+      "concept": "Perpetual Futures",
+      "definition": "Futures contracts with no expiry date, using funding rates to keep prices anchored to spot",
+      "aliases": [
+        "perps",
+        "perpetual swaps",
+        "endless futures"
+      ],
+      "category": "prediction-markets",
+      "category_name": "Prediction Markets",
+      "sources": [
+        "https://arxiv.org/abs/2210.01250"
+      ],
+      "svg": "perpetual-futures.svg",
+      "tags": [
+        "perpetual",
+        "futures",
+        "derivatives",
+        "trading"
       ]
     },
     {
@@ -3226,233 +2123,229 @@
       ]
     },
     {
-      "id": "AS-140",
-      "slug": "cognitive-dissonance",
-      "concept": "Cognitive Dissonance",
-      "definition": "Mental discomfort from holding contradictory beliefs, values, or behaviors simultaneously",
-      "aliases": [
-        "belief conflict",
-        "mental discomfort",
-        "psychological tension"
-      ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
-      "sources": [
-        "https://arxiv.org/abs/2004.12556"
-      ],
-      "svg": "cognitive-dissonance.svg",
+      "id": "AS-046",
+      "concept": "Post-Quantum Cryptography",
+      "definition": "Cryptographic algorithms resistant to attacks by quantum computers",
+      "category": "science",
+      "svg": "post-quantum-cryptography.svg",
       "tags": [
-        "cognitive dissonance",
-        "psychology",
-        "belief",
-        "conflict"
+        "post",
+        "quantum",
+        "cryptography"
       ]
     },
     {
-      "id": "AS-141",
-      "slug": "dunning-kruger-effect",
-      "concept": "Dunning-Kruger Effect",
-      "definition": "The cognitive bias where people with limited knowledge overestimate their competence",
-      "aliases": [
-        "Dunning-Kruger",
-        "overconfidence bias",
-        "metacognitive bias"
-      ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
-      "sources": [
-        "https://arxiv.org/abs/2104.09876"
-      ],
-      "svg": "dunning-kruger-effect.svg",
+      "id": "AS-040",
+      "concept": "Prediction Market",
+      "definition": "A market where participants trade contracts based on the outcome of future events",
+      "category": "finance",
+      "svg": "prediction-market.svg",
       "tags": [
-        "Dunning-Kruger",
-        "bias",
-        "overconfidence",
-        "psychology"
+        "prediction",
+        "market"
       ]
     },
     {
-      "id": "AS-142",
-      "slug": "parasocial-relationship",
-      "concept": "Parasocial Relationship",
-      "definition": "A one-sided emotional bond a person forms with a media persona, celebrity, or AI without real interaction",
-      "aliases": [
-        "parasocial bond",
-        "one-sided relationship",
-        "media relationship"
-      ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
-      "sources": [
-        "https://arxiv.org/abs/2207.09876"
-      ],
-      "svg": "parasocial-relationship.svg",
+      "id": "AS-009",
+      "concept": "Prompt",
+      "definition": "An input instruction that directs an AI model toward a desired output",
+      "category": "agentic-economy",
+      "svg": "prompt.svg",
       "tags": [
-        "parasocial",
-        "relationship",
-        "psychology",
-        "media"
+        "prompt"
       ]
     },
     {
-      "id": "AS-143",
-      "slug": "metatrend",
-      "concept": "Metatrend",
-      "definition": "A macro-level trend that cuts across multiple industries and shapes the trajectory of many smaller trends",
+      "id": "AS-129",
+      "slug": "quantitative-easing",
+      "concept": "Quantitative Easing",
+      "definition": "Central bank asset purchases to inject money into the economy when interest rates hit the zero bound",
       "aliases": [
-        "macro trend",
-        "mega trend",
-        "underlying trend"
+        "QE",
+        "money printing",
+        "asset purchases",
+        "balance sheet expansion"
       ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
+      "category": "economics",
+      "category_name": "Economics / Finance",
       "sources": [
-        "https://arxiv.org/abs/2204.09876"
+        "https://arxiv.org/abs/1011.0714"
       ],
-      "svg": "metatrend.svg",
+      "svg": "quantitative-easing.svg",
       "tags": [
-        "metatrend",
-        "macro",
-        "trend",
-        "future"
+        "QE",
+        "central bank",
+        "money",
+        "policy"
       ]
     },
     {
-      "id": "AS-144",
-      "slug": "moonshot",
-      "concept": "Moonshot",
-      "definition": "An ambitious, exploratory project aiming for transformational impact — named after the Apollo program",
+      "id": "AS-107",
+      "slug": "quantum-gate",
+      "concept": "Quantum Gate",
+      "definition": "A basic quantum circuit operation that transforms qubit states, analogous to classical logic gates",
       "aliases": [
-        "moonshot thinking",
-        "10x project",
-        "transformational goal"
+        "quantum logic gate",
+        "qubit gate",
+        "unitary gate"
       ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
+      "category": "science-tech",
+      "category_name": "Science & Tech",
       "sources": [
-        "https://arxiv.org/abs/2205.09876"
+        "https://arxiv.org/abs/quant-ph/9503016"
       ],
-      "svg": "moonshot.svg",
+      "svg": "quantum-gate.svg",
       "tags": [
-        "moonshot",
-        "ambition",
-        "goal",
-        "innovation"
+        "quantum gate",
+        "circuit",
+        "qubit",
+        "logic"
       ]
     },
     {
-      "id": "AS-145",
-      "slug": "mtp",
-      "concept": "MTP (Massive Transformative Purpose)",
-      "definition": "Salim Ismail's concept of an audacious mission statement that attracts talent and inspires action",
-      "aliases": [
-        "massive transformative purpose",
-        "ExO MTP",
-        "mission statement"
-      ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
-      "sources": [
-        "https://arxiv.org/abs/2203.09876"
-      ],
-      "svg": "mtp.svg",
+      "id": "AS-036",
+      "concept": "Quantum Superposition",
+      "definition": "A quantum state where a particle exists in multiple states simultaneously until measured",
+      "category": "science",
+      "svg": "quantum-superposition.svg",
       "tags": [
-        "MTP",
-        "mission",
-        "purpose",
-        "transformation"
+        "quantum",
+        "superposition"
       ]
     },
     {
-      "id": "AS-146",
-      "slug": "abundance-mindset",
-      "concept": "Abundance Mindset",
-      "definition": "The belief that resources, opportunities, and possibilities are unlimited — as opposed to scarcity thinking",
+      "id": "AS-109",
+      "slug": "quantum-supremacy",
+      "concept": "Quantum Supremacy",
+      "definition": "The milestone where a quantum computer performs a task infeasible for any classical computer",
       "aliases": [
-        "abundance thinking",
-        "growth mindset",
-        "Diamandis abundance"
+        "quantum advantage",
+        "quantum milestone",
+        "quantum speed"
       ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
+      "category": "science-tech",
+      "category_name": "Science & Tech",
       "sources": [
-        "https://arxiv.org/abs/2202.09876"
+        "https://arxiv.org/abs/1910.11333"
       ],
-      "svg": "abundance-mindset.svg",
+      "svg": "quantum-supremacy.svg",
       "tags": [
-        "abundance",
-        "mindset",
-        "thinking",
-        "growth"
+        "quantum supremacy",
+        "milestone",
+        "advantage",
+        "computing"
       ]
     },
     {
-      "id": "AS-147",
-      "slug": "exponential-organization",
-      "concept": "Exponential Organization",
-      "definition": "An organization that achieves 10x impact using digital platforms, algorithms, and community assets",
-      "aliases": [
-        "ExO",
-        "exponential org",
-        "Salim Ismail ExO"
-      ],
-      "category": "philosophy",
-      "category_name": "Philosophy / Thought",
-      "sources": [
-        "https://arxiv.org/abs/2204.09876"
-      ],
-      "svg": "exponential-organization.svg",
+      "id": "AS-035",
+      "concept": "Qubit",
+      "definition": "The basic unit of quantum information, existing in superposition of 0 and 1 simultaneously",
+      "category": "science",
+      "svg": "qubit.svg",
       "tags": [
-        "ExO",
-        "exponential",
-        "organization",
-        "scale"
+        "qubit"
       ]
     },
     {
-      "id": "AS-148",
-      "slug": "vertical-integration",
-      "concept": "Vertical Integration (SpaceX)",
-      "definition": "Controlling the entire production chain internally — SpaceX makes engines, rockets, and launches itself",
-      "aliases": [
-        "vertical integration",
-        "supply chain control",
-        "insourcing"
-      ],
-      "category": "space-defense",
-      "category_name": "Space & Defense",
-      "sources": [
-        "https://arxiv.org/abs/2110.03456"
-      ],
-      "svg": "vertical-integration.svg",
+      "id": "AS-010",
+      "concept": "RAG",
+      "definition": "Retrieval Augmented Generation: augmenting LLMs with external knowledge retrieval",
+      "category": "agentic-economy",
+      "svg": "rag.svg",
       "tags": [
-        "vertical integration",
-        "SpaceX",
-        "manufacturing",
-        "supply chain"
+        "rag"
       ]
     },
     {
-      "id": "AS-149",
-      "slug": "stage-separation",
-      "concept": "Stage Separation",
-      "definition": "Detaching rocket stages during flight to shed mass and improve efficiency",
+      "id": "AS-087",
+      "slug": "real-time-settlement",
+      "concept": "Real-Time Settlement",
+      "definition": "Instant finalization of financial transactions without traditional T+2 settlement delays",
       "aliases": [
-        "stage jettison",
-        "staging event",
-        "rocket staging"
+        "instant settlement",
+        "atomic settlement",
+        "T+0"
       ],
-      "category": "space-defense",
-      "category_name": "Space & Defense",
+      "category": "ripple-hedera",
+      "category_name": "Ripple / Hedera",
       "sources": [
-        "https://arxiv.org/abs/2202.09876"
+        "https://ripple.com/ripplenet/"
       ],
-      "svg": "stage-separation.svg",
+      "svg": "real-time-settlement.svg",
       "tags": [
-        "stage separation",
-        "rocket",
-        "SpaceX",
-        "staging"
+        "settlement",
+        "real-time",
+        "finality",
+        "payments"
+      ]
+    },
+    {
+      "id": "AS-125",
+      "slug": "reflexivity",
+      "concept": "Reflexivity",
+      "definition": "Soros's theory that market participants' biased views affect fundamentals, creating feedback loops",
+      "aliases": [
+        "market reflexivity",
+        "Soros reflexivity",
+        "self-fulfilling prophecy"
+      ],
+      "category": "economics",
+      "category_name": "Economics / Finance",
+      "sources": [
+        "https://arxiv.org/abs/1105.5379"
+      ],
+      "svg": "reflexivity.svg",
+      "tags": [
+        "reflexivity",
+        "markets",
+        "feedback",
+        "Soros"
+      ]
+    },
+    {
+      "id": "AS-130",
+      "slug": "regulatory-capture",
+      "concept": "Regulatory Capture",
+      "definition": "When a regulatory agency advances the interests of the industry it is supposed to regulate",
+      "aliases": [
+        "industry capture",
+        "revolving door",
+        "captured regulator"
+      ],
+      "category": "economics",
+      "category_name": "Economics / Finance",
+      "sources": [
+        "https://arxiv.org/abs/1711.09698"
+      ],
+      "svg": "regulatory-capture.svg",
+      "tags": [
+        "regulation",
+        "capture",
+        "industry",
+        "policy"
+      ]
+    },
+    {
+      "id": "AS-036",
+      "slug": "replit-agent",
+      "concept": "Replit Agent",
+      "definition": "An AI coding agent integrated into Replit that builds full applications from natural language prompts",
+      "aliases": [
+        "Replit AI",
+        "cloud coding agent",
+        "Ghostwriter"
+      ],
+      "category": "agentic-economy",
+      "category_name": "Agentic Economy",
+      "sources": [
+        "https://replit.com/ai"
+      ],
+      "svg": "replit-agent.svg",
+      "tags": [
+        "Replit",
+        "coding",
+        "agent",
+        "cloud"
       ]
     },
     {
@@ -3479,72 +2372,229 @@
       ]
     },
     {
-      "id": "AS-151",
-      "slug": "mission-autonomy",
-      "concept": "Mission Autonomy",
-      "definition": "The capability of systems to accomplish objectives without human intervention in the loop",
-      "aliases": [
-        "autonomous mission",
-        "self-directing system",
-        "mission independence"
-      ],
-      "category": "space-defense",
-      "category_name": "Space & Defense",
-      "sources": [
-        "https://arxiv.org/abs/2311.10538"
-      ],
-      "svg": "mission-autonomy.svg",
+      "id": "AS-047",
+      "concept": "RWA Tokenization",
+      "definition": "Real-World Asset Tokenization: representing ownership of physical assets as blockchain tokens",
+      "category": "blockchain",
+      "svg": "rwa-tokenization.svg",
       "tags": [
-        "autonomy",
-        "mission",
+        "rwa",
+        "tokenization"
+      ]
+    },
+    {
+      "id": "AS-114",
+      "slug": "self-driving-lab",
+      "concept": "Self-Driving Lab",
+      "definition": "An automated laboratory using AI and robotics to run experiments autonomously and iterate",
+      "aliases": [
+        "autonomous lab",
+        "robot lab",
+        "AI-driven research"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/2306.08645"
+      ],
+      "svg": "self-driving-lab.svg",
+      "tags": [
+        "lab",
         "autonomous",
-        "defense"
+        "AI",
+        "robotics"
       ]
     },
     {
-      "id": "AS-152",
-      "slug": "edge-ai",
-      "concept": "Edge AI",
-      "definition": "AI inference running on local devices rather than cloud servers — reducing latency and dependency",
+      "id": "AS-120",
+      "slug": "semiconductor-fab",
+      "concept": "Semiconductor Fab",
+      "definition": "A manufacturing facility that produces integrated circuits on semiconductor wafers",
       "aliases": [
-        "on-device AI",
-        "local inference",
-        "embedded AI"
+        "chip fab",
+        "semiconductor foundry",
+        "wafer fab"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/2104.07551"
+      ],
+      "svg": "semiconductor-fab.svg",
+      "tags": [
+        "semiconductor",
+        "fab",
+        "chip",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "AS-024",
+      "concept": "Shadow Mode",
+      "definition": "An agent observing and processing silently before taking any action",
+      "category": "agentic-economy",
+      "svg": "shadow-mode.svg",
+      "tags": [
+        "shadow",
+        "mode"
+      ]
+    },
+    {
+      "id": "AS-082",
+      "slug": "sharding",
+      "concept": "Sharding",
+      "definition": "Partitioning blockchain state across parallel shards to achieve horizontal scalability",
+      "aliases": [
+        "blockchain sharding",
+        "Nightshade",
+        "parallel processing"
+      ],
+      "category": "near",
+      "category_name": "NEAR Protocol",
+      "sources": [
+        "https://arxiv.org/abs/2106.02701"
+      ],
+      "svg": "sharding.svg",
+      "tags": [
+        "sharding",
+        "scalability",
+        "NEAR",
+        "parallel"
+      ]
+    },
+    {
+      "id": "AS-038",
+      "concept": "Singularity",
+      "definition": "The hypothetical moment when AI surpasses human intelligence, causing irreversible civilizational change",
+      "category": "philosophy",
+      "svg": "singularity.svg",
+      "tags": [
+        "singularity"
+      ]
+    },
+    {
+      "id": "AS-027",
+      "concept": "Smart Contract",
+      "definition": "Self-executing code on a blockchain that automatically enforces agreement terms",
+      "category": "blockchain",
+      "svg": "smart-contract.svg",
+      "tags": [
+        "smart",
+        "contract"
+      ]
+    },
+    {
+      "id": "AS-041",
+      "concept": "Sound Money",
+      "definition": "Currency with stable purchasing power, not subject to arbitrary inflation by governments",
+      "category": "economics",
+      "svg": "sound-money.svg",
+      "tags": [
+        "sound",
+        "money"
+      ]
+    },
+    {
+      "id": "AS-149",
+      "slug": "stage-separation",
+      "concept": "Stage Separation",
+      "definition": "Detaching rocket stages during flight to shed mass and improve efficiency",
+      "aliases": [
+        "stage jettison",
+        "staging event",
+        "rocket staging"
       ],
       "category": "space-defense",
       "category_name": "Space & Defense",
       "sources": [
-        "https://arxiv.org/abs/2209.07840"
+        "https://arxiv.org/abs/2202.09876"
       ],
-      "svg": "edge-ai.svg",
+      "svg": "stage-separation.svg",
       "tags": [
-        "edge AI",
-        "local",
-        "inference",
-        "embedded"
+        "stage separation",
+        "rocket",
+        "SpaceX",
+        "staging"
       ]
     },
     {
-      "id": "AS-153",
-      "slug": "multi-domain-operations",
-      "concept": "Multi-Domain Operations",
-      "definition": "Military operations synchronized across land, sea, air, space, and cyberspace simultaneously",
+      "id": "AS-053",
+      "slug": "staking",
+      "concept": "Staking",
+      "definition": "Locking cryptocurrency to support network operations in exchange for rewards",
       "aliases": [
-        "MDO",
-        "joint all-domain operations",
-        "JADC2"
+        "proof of stake",
+        "staking rewards",
+        "bonding"
       ],
-      "category": "space-defense",
-      "category_name": "Space & Defense",
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
       "sources": [
-        "https://arxiv.org/abs/2309.09876"
+        "https://ethereum.org/en/staking/"
       ],
-      "svg": "multi-domain-operations.svg",
+      "svg": "staking.svg",
       "tags": [
-        "multi-domain",
-        "military",
-        "operations",
-        "defense"
+        "staking",
+        "PoS",
+        "rewards",
+        "blockchain"
+      ]
+    },
+    {
+      "id": "AS-007",
+      "concept": "Sub-Agent",
+      "definition": "A worker agent that executes specific tasks delegated by an orchestrator",
+      "category": "agentic-economy",
+      "svg": "sub-agent.svg",
+      "tags": [
+        "sub",
+        "agent"
+      ]
+    },
+    {
+      "id": "AS-136",
+      "slug": "superintelligence",
+      "concept": "Superintelligence",
+      "definition": "A hypothetical AI that surpasses human cognitive performance across all domains",
+      "aliases": [
+        "ASI",
+        "artificial superintelligence",
+        "beyond-human AI"
+      ],
+      "category": "philosophy",
+      "category_name": "Philosophy / Thought",
+      "sources": [
+        "https://arxiv.org/abs/2109.13916"
+      ],
+      "svg": "superintelligence.svg",
+      "tags": [
+        "superintelligence",
+        "ASI",
+        "AI",
+        "capability"
+      ]
+    },
+    {
+      "id": "AS-116",
+      "slug": "svg-format",
+      "concept": "SVG (the format)",
+      "definition": "Scalable Vector Graphics \u2014 an XML-based vector image format that scales without quality loss",
+      "aliases": [
+        "scalable vector graphics",
+        "vector format",
+        "SVG file"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://www.w3.org/TR/SVG/"
+      ],
+      "svg": "svg-format.svg",
+      "tags": [
+        "SVG",
+        "vector",
+        "graphics",
+        "format"
       ]
     },
     {
@@ -3571,50 +2621,46 @@
       ]
     },
     {
-      "id": "AS-155",
-      "slug": "counter-uas",
-      "concept": "Counter-UAS",
-      "definition": "Systems and tactics designed to detect, track, and neutralize unmanned aerial systems",
+      "id": "AS-095",
+      "slug": "tamper-proof-logging",
+      "concept": "Tamper-Proof Logging",
+      "definition": "Immutable audit trails where records cannot be altered after creation, cryptographically guaranteed",
       "aliases": [
-        "drone defense",
-        "anti-drone",
-        "C-UAS",
-        "counter-drone"
+        "immutable logging",
+        "audit trail",
+        "append-only log"
       ],
-      "category": "space-defense",
-      "category_name": "Space & Defense",
+      "category": "ripple-hedera",
+      "category_name": "Ripple / Hedera",
       "sources": [
-        "https://arxiv.org/abs/2311.09876"
+        "https://hedera.com/use-cases/audit-trail"
       ],
-      "svg": "counter-uas.svg",
+      "svg": "tamper-proof-logging.svg",
       "tags": [
-        "counter-UAS",
-        "drone",
-        "defense",
-        "autonomous"
+        "logging",
+        "immutable",
+        "audit",
+        "tamper-proof"
       ]
     },
     {
-      "id": "AS-156",
-      "slug": "autonomous-assets",
-      "concept": "Autonomous Assets",
-      "definition": "Vehicles, platforms, and systems capable of operating independently in complex environments",
-      "aliases": [
-        "autonomous systems",
-        "unmanned assets",
-        "autonomous platforms"
-      ],
-      "category": "space-defense",
-      "category_name": "Space & Defense",
-      "sources": [
-        "https://arxiv.org/abs/2311.10538"
-      ],
-      "svg": "autonomous-assets.svg",
+      "id": "AS-044",
+      "concept": "TEE",
+      "definition": "Trusted Execution Environment: a secure isolated hardware environment for confidential computation",
+      "category": "agentic-economy",
+      "svg": "tee.svg",
       "tags": [
-        "autonomous",
-        "assets",
-        "defense",
-        "systems"
+        "tee"
+      ]
+    },
+    {
+      "id": "AS-019",
+      "concept": "Temperature",
+      "definition": "A parameter controlling randomness and creativity in AI model outputs",
+      "category": "agentic-economy",
+      "svg": "temperature.svg",
+      "tags": [
+        "temperature"
       ]
     },
     {
@@ -3638,6 +2684,414 @@
         "terawatt",
         "scale",
         "AI"
+      ]
+    },
+    {
+      "id": "AS-020",
+      "concept": "Token (AI)",
+      "definition": "The smallest unit of text processed by a language model, roughly a word or subword",
+      "category": "agentic-economy",
+      "svg": "token-ai.svg",
+      "tags": [
+        "token",
+        "ai"
+      ]
+    },
+    {
+      "id": "AS-026",
+      "concept": "Tokenization",
+      "definition": "Converting rights to a real-world asset into a digital token on a blockchain",
+      "category": "blockchain",
+      "svg": "tokenization.svg",
+      "tags": [
+        "tokenization"
+      ]
+    },
+    {
+      "id": "AS-003",
+      "concept": "Tool Use",
+      "definition": "An AI agent calling external functions or APIs to complete tasks",
+      "category": "agentic-economy",
+      "svg": "tool-use.svg",
+      "tags": [
+        "tool",
+        "use"
+      ]
+    },
+    {
+      "id": "AS-092",
+      "slug": "transaction-finality",
+      "concept": "Transaction Finality",
+      "definition": "The point at which a blockchain transaction is irreversibly confirmed and cannot be reversed",
+      "aliases": [
+        "settlement finality",
+        "block finality",
+        "confirmation"
+      ],
+      "category": "ripple-hedera",
+      "category_name": "Ripple / Hedera",
+      "sources": [
+        "https://hedera.com/learning/distributed-ledger/transaction-finality"
+      ],
+      "svg": "transaction-finality.svg",
+      "tags": [
+        "finality",
+        "transaction",
+        "irreversible",
+        "confirmed"
+      ]
+    },
+    {
+      "id": "AS-021",
+      "concept": "Transformer",
+      "definition": "The neural network architecture using self-attention that powers modern LLMs",
+      "category": "agentic-economy",
+      "svg": "transformer.svg",
+      "tags": [
+        "transformer"
+      ]
+    },
+    {
+      "id": "AS-079",
+      "slug": "triple-lockout",
+      "concept": "Triple Lockout",
+      "definition": "A three-layer security mechanism requiring multiple independent approvals before high-risk actions",
+      "aliases": [
+        "triple lock",
+        "multi-layer security",
+        "3-step verification"
+      ],
+      "category": "near",
+      "category_name": "NEAR Protocol",
+      "sources": [
+        "https://near.org"
+      ],
+      "svg": "triple-lockout.svg",
+      "tags": [
+        "security",
+        "lockout",
+        "verification",
+        "NEAR"
+      ]
+    },
+    {
+      "id": "AS-093",
+      "slug": "trustworthy-ai-agent",
+      "concept": "Trustworthy AI Agent",
+      "definition": "An AI agent meeting standards of reliability, safety, transparency, and accountability",
+      "aliases": [
+        "trusted AI",
+        "responsible AI agent",
+        "accountable AI"
+      ],
+      "category": "ripple-hedera",
+      "category_name": "Ripple / Hedera",
+      "sources": [
+        "https://hedera.com/ai"
+      ],
+      "svg": "trustworthy-ai-agent.svg",
+      "tags": [
+        "trustworthy",
+        "AI",
+        "agent",
+        "safety"
+      ]
+    },
+    {
+      "id": "AS-034",
+      "slug": "two-tier-agent",
+      "concept": "Two-Tier Agent",
+      "definition": "An architecture separating fast reactive behavior from slow deliberative planning in AI agents",
+      "aliases": [
+        "dual-process agent",
+        "fast-slow agent",
+        "reactive-deliberative"
+      ],
+      "category": "agentic-economy",
+      "category_name": "Agentic Economy",
+      "sources": [
+        "https://arxiv.org/abs/2309.07864"
+      ],
+      "svg": "two-tier-agent.svg",
+      "tags": [
+        "architecture",
+        "tiers",
+        "planning",
+        "reactive"
+      ]
+    },
+    {
+      "id": "AS-040",
+      "slug": "validator-node",
+      "concept": "Validator Node",
+      "definition": "A network participant that verifies transactions and blocks, maintaining blockchain integrity",
+      "aliases": [
+        "validator",
+        "network node",
+        "block producer"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://ethereum.org/en/developers/docs/nodes-and-clients/"
+      ],
+      "svg": "validator-node.svg",
+      "tags": [
+        "validator",
+        "node",
+        "network",
+        "verification"
+      ]
+    },
+    {
+      "id": "AS-018",
+      "concept": "Vector Database",
+      "definition": "A database optimized for storing and querying high-dimensional vector embeddings",
+      "category": "agentic-economy",
+      "svg": "vector-database.svg",
+      "tags": [
+        "vector",
+        "database"
+      ]
+    },
+    {
+      "id": "AS-071",
+      "slug": "verifiable-compute",
+      "concept": "Verifiable Compute",
+      "definition": "Computation whose correctness can be mathematically verified without re-executing it",
+      "aliases": [
+        "verifiable computation",
+        "ZK compute",
+        "provable compute"
+      ],
+      "category": "flare",
+      "category_name": "Flare Network",
+      "sources": [
+        "https://arxiv.org/abs/1811.04164"
+      ],
+      "svg": "verifiable-compute.svg",
+      "tags": [
+        "verifiable",
+        "compute",
+        "ZK",
+        "proof"
+      ]
+    },
+    {
+      "id": "AS-062",
+      "slug": "verifiable-credential",
+      "concept": "Verifiable Credential",
+      "definition": "A tamper-evident credential with cryptographic proof, following W3C standards",
+      "aliases": [
+        "VC",
+        "W3C credential",
+        "digital credential",
+        "attestation"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://www.w3.org/TR/vc-data-model/"
+      ],
+      "svg": "verifiable-credential.svg",
+      "tags": [
+        "credential",
+        "verifiable",
+        "W3C",
+        "attestation"
+      ]
+    },
+    {
+      "id": "AS-148",
+      "slug": "vertical-integration",
+      "concept": "Vertical Integration (SpaceX)",
+      "definition": "Controlling the entire production chain internally \u2014 SpaceX makes engines, rockets, and launches itself",
+      "aliases": [
+        "vertical integration",
+        "supply chain control",
+        "insourcing"
+      ],
+      "category": "space-defense",
+      "category_name": "Space & Defense",
+      "sources": [
+        "https://arxiv.org/abs/2110.03456"
+      ],
+      "svg": "vertical-integration.svg",
+      "tags": [
+        "vertical integration",
+        "SpaceX",
+        "manufacturing",
+        "supply chain"
+      ]
+    },
+    {
+      "id": "AS-025",
+      "concept": "Vibe Coding",
+      "definition": "Creating software through natural language conversation rather than writing code directly",
+      "category": "agentic-economy",
+      "svg": "vibe-coding.svg",
+      "tags": [
+        "vibe",
+        "coding"
+      ]
+    },
+    {
+      "id": "AS-059",
+      "slug": "wallet-crypto",
+      "concept": "Wallet (Crypto)",
+      "definition": "Software storing private keys that gives users access to their blockchain assets",
+      "aliases": [
+        "crypto wallet",
+        "key store",
+        "digital wallet"
+      ],
+      "category": "blockchain",
+      "category_name": "Blockchain / Web3",
+      "sources": [
+        "https://ethereum.org/en/wallets/"
+      ],
+      "svg": "wallet-crypto.svg",
+      "tags": [
+        "wallet",
+        "keys",
+        "crypto",
+        "storage"
+      ]
+    },
+    {
+      "id": "AS-067",
+      "slug": "web2json",
+      "concept": "Web2Json",
+      "definition": "Flare's attestation type that fetches JSON from web APIs and makes it verifiable on-chain",
+      "aliases": [
+        "Web2Json",
+        "API attestation",
+        "web oracle"
+      ],
+      "category": "flare",
+      "category_name": "Flare Network",
+      "sources": [
+        "https://dev.flare.network/fdc/guides/web2json"
+      ],
+      "svg": "web2json.svg",
+      "tags": [
+        "Web2Json",
+        "API",
+        "JSON",
+        "oracle"
+      ]
+    },
+    {
+      "id": "AS-118",
+      "slug": "webhook",
+      "concept": "Webhook",
+      "definition": "An HTTP callback that sends real-time data to other applications when specific events occur",
+      "aliases": [
+        "HTTP callback",
+        "event notification",
+        "push notification"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "sources": [
+        "https://arxiv.org/abs/2104.13099"
+      ],
+      "svg": "webhook.svg",
+      "tags": [
+        "webhook",
+        "callback",
+        "event",
+        "HTTP"
+      ]
+    },
+    {
+      "id": "AS-022",
+      "concept": "x402",
+      "definition": "An HTTP payment protocol enabling machine-to-machine micropayments in the agentic economy",
+      "category": "agentic-economy",
+      "svg": "x402.svg",
+      "tags": [
+        "x402"
+      ]
+    },
+    {
+      "id": "AS-101",
+      "slug": "yes-no-contract",
+      "concept": "Yes/No Contract",
+      "definition": "A prediction market contract settling at $1 if yes and $0 if no",
+      "aliases": [
+        "binary contract",
+        "Y/N contract",
+        "event contract"
+      ],
+      "category": "prediction-markets",
+      "category_name": "Prediction Markets",
+      "sources": [
+        "https://kalshi.com"
+      ],
+      "svg": "yes-no-contract.svg",
+      "tags": [
+        "yes/no",
+        "binary",
+        "contract",
+        "settlement"
+      ]
+    },
+    {
+      "id": "AS-128",
+      "slug": "yield-curve-inversion",
+      "concept": "Yield Curve Inversion",
+      "definition": "When short-term bond yields exceed long-term yields \u2014 historically a reliable recession predictor",
+      "aliases": [
+        "inverted yield curve",
+        "recession signal",
+        "2-10 spread"
+      ],
+      "category": "economics",
+      "category_name": "Economics / Finance",
+      "sources": [
+        "https://arxiv.org/abs/1810.01528"
+      ],
+      "svg": "yield-curve-inversion.svg",
+      "tags": [
+        "yield curve",
+        "inversion",
+        "recession",
+        "bonds"
+      ]
+    },
+    {
+      "id": "AS-019",
+      "slug": "zero-shot-learning",
+      "concept": "Zero-Shot Learning",
+      "definition": "An LLM performing a task without any examples, relying solely on instruction comprehension",
+      "aliases": [
+        "zero-shot",
+        "zero-shot prompting",
+        "instruction following"
+      ],
+      "category": "agentic-economy",
+      "category_name": "Agentic Economy",
+      "sources": [
+        "https://arxiv.org/abs/1707.00600"
+      ],
+      "svg": "zero-shot-learning.svg",
+      "tags": [
+        "zero-shot",
+        "instruction",
+        "generalization",
+        "LLM"
+      ]
+    },
+    {
+      "id": "AS-029",
+      "concept": "ZK Proof",
+      "definition": "Zero-Knowledge Proof: proving knowledge of information without revealing the information itself",
+      "category": "blockchain",
+      "svg": "zk-proof.svg",
+      "tags": [
+        "zk",
+        "proof"
       ]
     }
   ]
