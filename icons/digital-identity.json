@@ -1,0 +1,23 @@
+{
+  "id": "AS-060",
+  "slug": "digital-identity",
+  "concept": "Digital Identity",
+  "definition": "A digital representation of an entity's attributes and credentials in verifiable form",
+  "aliases": [
+    "digital ID",
+    "online identity",
+    "self-sovereign identity"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2012.05666"
+  ],
+  "svg": "digital-identity.svg",
+  "tags": [
+    "identity",
+    "digital",
+    "credentials",
+    "verification"
+  ]
+}

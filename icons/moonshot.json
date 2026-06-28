@@ -1,0 +1,10 @@
+{
+  "id": "AS-039",
+  "concept": "Moonshot",
+  "definition": "An ambitious goal targeting 10x improvement rather than incremental progress",
+  "category": "philosophy",
+  "svg": "moonshot.svg",
+  "tags": [
+    "moonshot"
+  ]
+}

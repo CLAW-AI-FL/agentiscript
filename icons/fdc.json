@@ -1,0 +1,23 @@
+{
+  "id": "AS-064",
+  "slug": "fdc",
+  "concept": "FDC (Flare Data Connector)",
+  "definition": "Flare's protocol for bringing verified external data and events onto the Flare blockchain",
+  "aliases": [
+    "Flare Data Connector",
+    "FDC",
+    "data attestation"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network/fdc/overview"
+  ],
+  "svg": "fdc.svg",
+  "tags": [
+    "Flare",
+    "data",
+    "connector",
+    "attestation"
+  ]
+}

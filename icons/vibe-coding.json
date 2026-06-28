@@ -1,0 +1,11 @@
+{
+  "id": "AS-025",
+  "concept": "Vibe Coding",
+  "definition": "Creating software through natural language conversation rather than writing code directly",
+  "category": "agentic-economy",
+  "svg": "vibe-coding.svg",
+  "tags": [
+    "vibe",
+    "coding"
+  ]
+}

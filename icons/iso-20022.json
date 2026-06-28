@@ -1,0 +1,23 @@
+{
+  "id": "AS-133",
+  "slug": "iso-20022",
+  "concept": "ISO 20022",
+  "definition": "A global financial messaging standard enabling richer data in payment transactions",
+  "aliases": [
+    "ISO20022",
+    "SWIFT ISO 20022",
+    "payment messaging standard"
+  ],
+  "category": "economics",
+  "category_name": "Economics / Finance",
+  "sources": [
+    "https://www.iso20022.org"
+  ],
+  "svg": "iso-20022.svg",
+  "tags": [
+    "ISO 20022",
+    "payments",
+    "standard",
+    "messaging"
+  ]
+}

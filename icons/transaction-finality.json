@@ -1,0 +1,23 @@
+{
+  "id": "AS-092",
+  "slug": "transaction-finality",
+  "concept": "Transaction Finality",
+  "definition": "The point at which a blockchain transaction is irreversibly confirmed and cannot be reversed",
+  "aliases": [
+    "settlement finality",
+    "block finality",
+    "confirmation"
+  ],
+  "category": "ripple-hedera",
+  "category_name": "Ripple / Hedera",
+  "sources": [
+    "https://hedera.com/learning/distributed-ledger/transaction-finality"
+  ],
+  "svg": "transaction-finality.svg",
+  "tags": [
+    "finality",
+    "transaction",
+    "irreversible",
+    "confirmed"
+  ]
+}

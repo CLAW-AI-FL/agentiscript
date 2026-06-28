@@ -1,0 +1,23 @@
+{
+  "id": "AS-053",
+  "slug": "staking",
+  "concept": "Staking",
+  "definition": "Locking cryptocurrency to support network operations in exchange for rewards",
+  "aliases": [
+    "proof of stake",
+    "staking rewards",
+    "bonding"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://ethereum.org/en/staking/"
+  ],
+  "svg": "staking.svg",
+  "tags": [
+    "staking",
+    "PoS",
+    "rewards",
+    "blockchain"
+  ]
+}

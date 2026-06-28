@@ -1,0 +1,10 @@
+{
+  "id": "AS-023",
+  "concept": "MCP",
+  "definition": "Model Context Protocol: a standard for connecting AI agents to external tools and services",
+  "category": "agentic-economy",
+  "svg": "mcp.svg",
+  "tags": [
+    "mcp"
+  ]
+}

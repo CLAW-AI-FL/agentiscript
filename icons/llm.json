@@ -1,0 +1,10 @@
+{
+  "id": "AS-011",
+  "concept": "LLM",
+  "definition": "Large Language Model: a neural network trained on massive text data for language tasks",
+  "category": "agentic-economy",
+  "svg": "llm.svg",
+  "tags": [
+    "llm"
+  ]
+}

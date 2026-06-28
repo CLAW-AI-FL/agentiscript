@@ -1,0 +1,23 @@
+{
+  "id": "AS-061",
+  "slug": "did",
+  "concept": "DID",
+  "definition": "Decentralized Identifier — a globally unique identifier controlled by the subject without central registries",
+  "aliases": [
+    "decentralized identifier",
+    "W3C DID",
+    "self-sovereign ID"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://www.w3.org/TR/did-core/"
+  ],
+  "svg": "did.svg",
+  "tags": [
+    "DID",
+    "identifier",
+    "decentralized",
+    "identity"
+  ]
+}

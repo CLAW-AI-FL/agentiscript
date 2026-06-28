@@ -1,0 +1,23 @@
+{
+  "id": "AS-110",
+  "slug": "neuroplasticity",
+  "concept": "Neuroplasticity",
+  "definition": "The brain's ability to reorganize neural pathways and form new connections in response to experience",
+  "aliases": [
+    "brain plasticity",
+    "neural rewiring",
+    "synaptic plasticity"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/1710.04440"
+  ],
+  "svg": "neuroplasticity.svg",
+  "tags": [
+    "brain",
+    "plasticity",
+    "neural",
+    "learning"
+  ]
+}

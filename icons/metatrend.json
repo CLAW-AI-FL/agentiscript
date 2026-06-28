@@ -1,0 +1,23 @@
+{
+  "id": "AS-143",
+  "slug": "metatrend",
+  "concept": "Metatrend",
+  "definition": "A macro-level trend that cuts across multiple industries and shapes the trajectory of many smaller trends",
+  "aliases": [
+    "macro trend",
+    "mega trend",
+    "underlying trend"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2204.09876"
+  ],
+  "svg": "metatrend.svg",
+  "tags": [
+    "metatrend",
+    "macro",
+    "trend",
+    "future"
+  ]
+}

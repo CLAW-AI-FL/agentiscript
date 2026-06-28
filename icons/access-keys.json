@@ -1,0 +1,23 @@
+{
+  "id": "AS-083",
+  "slug": "access-keys",
+  "concept": "Access Keys",
+  "definition": "NEAR's programmable permission system allowing fine-grained control over account actions",
+  "aliases": [
+    "NEAR access keys",
+    "full access key",
+    "function call key"
+  ],
+  "category": "near",
+  "category_name": "NEAR Protocol",
+  "sources": [
+    "https://docs.near.org/concepts/protocol/access-keys"
+  ],
+  "svg": "access-keys.svg",
+  "tags": [
+    "access keys",
+    "NEAR",
+    "permissions",
+    "security"
+  ]
+}

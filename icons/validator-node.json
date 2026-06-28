@@ -1,0 +1,23 @@
+{
+  "id": "AS-040",
+  "slug": "validator-node",
+  "concept": "Validator Node",
+  "definition": "A network participant that verifies transactions and blocks, maintaining blockchain integrity",
+  "aliases": [
+    "validator",
+    "network node",
+    "block producer"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://ethereum.org/en/developers/docs/nodes-and-clients/"
+  ],
+  "svg": "validator-node.svg",
+  "tags": [
+    "validator",
+    "node",
+    "network",
+    "verification"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AS-066",
+  "slug": "fxrp",
+  "concept": "FXRP",
+  "definition": "Flare-wrapped XRP enabling XRP holders to access DeFi on the Flare network",
+  "aliases": [
+    "Flare XRP",
+    "wrapped XRP",
+    "XRP on Flare"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network/fassets/overview"
+  ],
+  "svg": "fxrp.svg",
+  "tags": [
+    "FXRP",
+    "XRP",
+    "Flare",
+    "wrapped"
+  ]
+}

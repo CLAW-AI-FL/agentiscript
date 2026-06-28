@@ -1,0 +1,23 @@
+{
+  "id": "AS-093",
+  "slug": "trustworthy-ai-agent",
+  "concept": "Trustworthy AI Agent",
+  "definition": "An AI agent meeting standards of reliability, safety, transparency, and accountability",
+  "aliases": [
+    "trusted AI",
+    "responsible AI agent",
+    "accountable AI"
+  ],
+  "category": "ripple-hedera",
+  "category_name": "Ripple / Hedera",
+  "sources": [
+    "https://hedera.com/ai"
+  ],
+  "svg": "trustworthy-ai-agent.svg",
+  "tags": [
+    "trustworthy",
+    "AI",
+    "agent",
+    "safety"
+  ]
+}

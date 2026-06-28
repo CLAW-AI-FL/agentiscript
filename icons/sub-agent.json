@@ -1,0 +1,11 @@
+{
+  "id": "AS-007",
+  "concept": "Sub-Agent",
+  "definition": "A worker agent that executes specific tasks delegated by an orchestrator",
+  "category": "agentic-economy",
+  "svg": "sub-agent.svg",
+  "tags": [
+    "sub",
+    "agent"
+  ]
+}

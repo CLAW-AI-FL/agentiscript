@@ -1,0 +1,11 @@
+{
+  "id": "AS-048",
+  "concept": "Chain Abstraction",
+  "definition": "A protocol layer that enables a single account to interact with multiple blockchains seamlessly",
+  "category": "blockchain",
+  "svg": "chain-abstraction.svg",
+  "tags": [
+    "chain",
+    "abstraction"
+  ]
+}

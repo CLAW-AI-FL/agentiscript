@@ -1,0 +1,23 @@
+{
+  "id": "AS-063",
+  "slug": "ftsov2",
+  "concept": "FTSOv2",
+  "definition": "Flare's fast block-latency oracle providing sub-second price feeds anchored to network consensus",
+  "aliases": [
+    "Flare Time Series Oracle v2",
+    "FTSO",
+    "block-latency oracle"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network/ftso/overview"
+  ],
+  "svg": "ftsov2.svg",
+  "tags": [
+    "Flare",
+    "oracle",
+    "price feed",
+    "FTSO"
+  ]
+}

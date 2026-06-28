@@ -1,0 +1,23 @@
+{
+  "id": "AS-150",
+  "slug": "reusability",
+  "concept": "Reusability",
+  "definition": "The ability to recover and refly rocket hardware, dramatically reducing launch costs",
+  "aliases": [
+    "rocket reuse",
+    "reusable launch vehicle",
+    "booster recovery"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2205.09876"
+  ],
+  "svg": "reusability.svg",
+  "tags": [
+    "reusability",
+    "rocket",
+    "SpaceX",
+    "cost"
+  ]
+}

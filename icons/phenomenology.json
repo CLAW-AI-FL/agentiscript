@@ -1,0 +1,24 @@
+{
+  "id": "AS-139",
+  "slug": "phenomenology",
+  "concept": "Phenomenology",
+  "definition": "Philosophical study of structures of consciousness and first-person subjective experience",
+  "aliases": [
+    "Husserl",
+    "qualia",
+    "consciousness study",
+    "intentionality"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2112.12345"
+  ],
+  "svg": "phenomenology.svg",
+  "tags": [
+    "phenomenology",
+    "consciousness",
+    "experience",
+    "philosophy"
+  ]
+}

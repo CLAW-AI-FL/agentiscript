@@ -1,0 +1,23 @@
+{
+  "id": "AS-101",
+  "slug": "yes-no-contract",
+  "concept": "Yes/No Contract",
+  "definition": "A prediction market contract settling at $1 if yes and $0 if no",
+  "aliases": [
+    "binary contract",
+    "Y/N contract",
+    "event contract"
+  ],
+  "category": "prediction-markets",
+  "category_name": "Prediction Markets",
+  "sources": [
+    "https://kalshi.com"
+  ],
+  "svg": "yes-no-contract.svg",
+  "tags": [
+    "yes/no",
+    "binary",
+    "contract",
+    "settlement"
+  ]
+}

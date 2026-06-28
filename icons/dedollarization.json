@@ -1,0 +1,23 @@
+{
+  "id": "AS-127",
+  "slug": "dedollarization",
+  "concept": "Dedollarization",
+  "definition": "The global trend of reducing reliance on the US dollar in international trade and reserves",
+  "aliases": [
+    "dollar decline",
+    "multipolar currency",
+    "USD diversification"
+  ],
+  "category": "economics",
+  "category_name": "Economics / Finance",
+  "sources": [
+    "https://arxiv.org/abs/2305.05127"
+  ],
+  "svg": "dedollarization.svg",
+  "tags": [
+    "dedollarization",
+    "dollar",
+    "reserves",
+    "geopolitics"
+  ]
+}

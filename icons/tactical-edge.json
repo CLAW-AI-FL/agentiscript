@@ -1,0 +1,23 @@
+{
+  "id": "AS-154",
+  "slug": "tactical-edge",
+  "concept": "Tactical Edge",
+  "definition": "Computing and AI capabilities deployed at the point of action in denied or contested environments",
+  "aliases": [
+    "edge computing defense",
+    "tactical AI",
+    "forward deployed compute"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2310.09876"
+  ],
+  "svg": "tactical-edge.svg",
+  "tags": [
+    "tactical",
+    "edge",
+    "compute",
+    "defense"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AS-147",
+  "slug": "exponential-organization",
+  "concept": "Exponential Organization",
+  "definition": "An organization that achieves 10x impact using digital platforms, algorithms, and community assets",
+  "aliases": [
+    "ExO",
+    "exponential org",
+    "Salim Ismail ExO"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2204.09876"
+  ],
+  "svg": "exponential-organization.svg",
+  "tags": [
+    "ExO",
+    "exponential",
+    "organization",
+    "scale"
+  ]
+}

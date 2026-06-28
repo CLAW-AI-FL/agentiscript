@@ -1,0 +1,10 @@
+{
+  "id": "AS-045",
+  "concept": "Guardrails",
+  "definition": "Safety constraints and boundaries applied to AI agent behavior to prevent harmful outputs",
+  "category": "agentic-economy",
+  "svg": "guardrails.svg",
+  "tags": [
+    "guardrails"
+  ]
+}

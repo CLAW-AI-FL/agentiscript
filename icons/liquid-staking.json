@@ -1,0 +1,23 @@
+{
+  "id": "AS-047",
+  "slug": "liquid-staking",
+  "concept": "Liquid Staking",
+  "definition": "Staking tokens while receiving a liquid derivative that can be used in DeFi protocols simultaneously",
+  "aliases": [
+    "liquid staking token",
+    "LST",
+    "staked derivative"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2207.10727"
+  ],
+  "svg": "liquid-staking.svg",
+  "tags": [
+    "staking",
+    "liquid",
+    "DeFi",
+    "derivative"
+  ]
+}

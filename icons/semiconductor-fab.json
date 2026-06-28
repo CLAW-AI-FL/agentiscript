@@ -1,0 +1,23 @@
+{
+  "id": "AS-120",
+  "slug": "semiconductor-fab",
+  "concept": "Semiconductor Fab",
+  "definition": "A manufacturing facility that produces integrated circuits on semiconductor wafers",
+  "aliases": [
+    "chip fab",
+    "semiconductor foundry",
+    "wafer fab"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2104.07551"
+  ],
+  "svg": "semiconductor-fab.svg",
+  "tags": [
+    "semiconductor",
+    "fab",
+    "chip",
+    "manufacturing"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AS-054",
+  "slug": "bridge-cross-chain",
+  "concept": "Bridge (Cross-Chain)",
+  "definition": "A protocol enabling transfer of tokens and data between different blockchain networks",
+  "aliases": [
+    "cross-chain bridge",
+    "blockchain bridge",
+    "interop bridge"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2104.08719"
+  ],
+  "svg": "bridge-cross-chain.svg",
+  "tags": [
+    "bridge",
+    "cross-chain",
+    "interoperability",
+    "blockchain"
+  ]
+}

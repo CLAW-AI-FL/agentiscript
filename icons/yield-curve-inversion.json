@@ -1,0 +1,23 @@
+{
+  "id": "AS-128",
+  "slug": "yield-curve-inversion",
+  "concept": "Yield Curve Inversion",
+  "definition": "When short-term bond yields exceed long-term yields — historically a reliable recession predictor",
+  "aliases": [
+    "inverted yield curve",
+    "recession signal",
+    "2-10 spread"
+  ],
+  "category": "economics",
+  "category_name": "Economics / Finance",
+  "sources": [
+    "https://arxiv.org/abs/1810.01528"
+  ],
+  "svg": "yield-curve-inversion.svg",
+  "tags": [
+    "yield curve",
+    "inversion",
+    "recession",
+    "bonds"
+  ]
+}

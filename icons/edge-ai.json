@@ -1,0 +1,23 @@
+{
+  "id": "AS-152",
+  "slug": "edge-ai",
+  "concept": "Edge AI",
+  "definition": "AI inference running on local devices rather than cloud servers — reducing latency and dependency",
+  "aliases": [
+    "on-device AI",
+    "local inference",
+    "embedded AI"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2209.07840"
+  ],
+  "svg": "edge-ai.svg",
+  "tags": [
+    "edge AI",
+    "local",
+    "inference",
+    "embedded"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "AS-024",
+  "concept": "Shadow Mode",
+  "definition": "An agent observing and processing silently before taking any action",
+  "category": "agentic-economy",
+  "svg": "shadow-mode.svg",
+  "tags": [
+    "shadow",
+    "mode"
+  ]
+}

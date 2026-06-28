@@ -1,0 +1,23 @@
+{
+  "id": "AS-103",
+  "slug": "cftc-regulated",
+  "concept": "CFTC Regulated",
+  "definition": "Financial products or platforms operating under US Commodity Futures Trading Commission oversight",
+  "aliases": [
+    "CFTC",
+    "regulated exchange",
+    "CFTC-approved"
+  ],
+  "category": "prediction-markets",
+  "category_name": "Prediction Markets",
+  "sources": [
+    "https://www.cftc.gov"
+  ],
+  "svg": "cftc-regulated.svg",
+  "tags": [
+    "CFTC",
+    "regulated",
+    "compliance",
+    "exchange"
+  ]
+}

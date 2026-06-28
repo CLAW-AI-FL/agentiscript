@@ -1,0 +1,23 @@
+{
+  "id": "AS-034",
+  "slug": "two-tier-agent",
+  "concept": "Two-Tier Agent",
+  "definition": "An architecture separating fast reactive behavior from slow deliberative planning in AI agents",
+  "aliases": [
+    "dual-process agent",
+    "fast-slow agent",
+    "reactive-deliberative"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/2309.07864"
+  ],
+  "svg": "two-tier-agent.svg",
+  "tags": [
+    "architecture",
+    "tiers",
+    "planning",
+    "reactive"
+  ]
+}

@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AgentiScript Docs — How to Use the Agentic Icon Library</title>
+  <meta name="description" content="Documentation for AgentiScript. HTML, CSS, React, Figma, npm, Schema.org, and how AI agents consume the vocabulary." />
+  <link rel="canonical" href="https://agentiscript.com/docs/" />
+
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-QYFEV9J581"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-QYFEV9J581');
+  </script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --gold: #9F792C;
+      --gold-light: #C49A3C;
+      --gold-dim: #6B5020;
+      --bg: #000000;
+      --bg3: #111111;
+      --bg4: #0d0d0d;
+      --text: #e8e8e8;
+      --text-dim: #888;
+      --border: #1e1e1e;
+      --code-bg: #0d0d0d;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.7; }
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(0,0,0,0.92); backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem; display: flex; align-items: center; justify-content: space-between; height: 58px;
+    }
+    .nav-logo { font-size: 1.35rem; font-weight: 800; color: var(--gold); text-decoration: none; }
+    .nav-links { display: flex; gap: 1.8rem; list-style: none; }
+    .nav-links a { color: var(--text-dim); text-decoration: none; font-size: 0.9rem; transition: color 0.2s; }
+    .nav-links a:hover, .nav-links a.active { color: var(--gold); }
+
+    .docs-layout {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      max-width: 1100px;
+      margin: 0 auto;
+      gap: 0;
+      min-height: calc(100vh - 58px);
+    }
+
+    .docs-sidebar {
+      border-right: 1px solid var(--border);
+      padding: 2.5rem 1.5rem;
+      position: sticky;
+      top: 58px;
+      height: calc(100vh - 58px);
+      overflow-y: auto;
+    }
+    .sidebar-section {
+      margin-bottom: 2rem;
+    }
+    .sidebar-label {
+      font-size: 0.7rem;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 0.6rem;
+    }
+    .sidebar-links { list-style: none; }
+    .sidebar-links li a {
+      display: block;
+      padding: 0.35rem 0;
+      color: var(--text-dim);
+      text-decoration: none;
+      font-size: 0.88rem;
+      transition: color 0.15s;
+      border-left: 2px solid transparent;
+      padding-left: 0.75rem;
+    }
+    .sidebar-links li a:hover { color: var(--text); border-left-color: var(--gold-dim); }
+    .sidebar-links li a.active { color: var(--gold); border-left-color: var(--gold); }
+
+    .docs-content {
+      padding: 3rem 3rem 6rem;
+    }
+
+    h1 { font-size: 2rem; font-weight: 900; color: var(--gold); margin-bottom: 1rem; }
+    h2 { font-size: 1.4rem; font-weight: 800; color: var(--text); margin: 3rem 0 1rem; padding-top: 1rem; border-top: 1px solid var(--border); }
+    h2:first-of-type { border-top: none; margin-top: 1rem; }
+    h3 { font-size: 1.05rem; font-weight: 700; color: var(--gold); margin: 2rem 0 0.75rem; }
+    p { color: var(--text-dim); margin-bottom: 1rem; font-size: 0.95rem; }
+    strong { color: var(--text); }
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    pre {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      overflow-x: auto;
+      margin: 1rem 0 1.5rem;
+      position: relative;
+    }
+    code {
+      font-family: 'Fira Code', 'Cascadia Code', 'Courier New', monospace;
+      font-size: 0.85rem;
+      color: #d4d4d4;
+      line-height: 1.6;
+    }
+    pre code { background: none; padding: 0; }
+    :not(pre) > code {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 0.15rem 0.4rem;
+      font-size: 0.83rem;
+      color: var(--gold-light);
+    }
+
+    .copy-btn {
+      position: absolute;
+      top: 0.75rem;
+      right: 0.75rem;
+      background: var(--border);
+      border: 1px solid #333;
+      border-radius: 5px;
+      padding: 0.25rem 0.6rem;
+      color: var(--text-dim);
+      font-size: 0.72rem;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all 0.15s;
+    }
+    .copy-btn:hover { background: #333; color: var(--text); }
+
+    .info-box {
+      background: rgba(159, 121, 44, 0.08);
+      border: 1px solid var(--gold-dim);
+      border-radius: 10px;
+      padding: 1rem 1.25rem;
+      margin: 1.5rem 0;
+      font-size: 0.9rem;
+      color: var(--text);
+    }
+    .info-box strong { color: var(--gold); }
+
+    .tag-cloud {
+      display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 1rem 0;
+    }
+    .tag {
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.3rem 0.9rem;
+      font-size: 0.8rem;
+      color: var(--text-dim);
+    }
+
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 2rem; text-align: center;
+      color: var(--text-dim); font-size: 0.85rem;
+    }
+    footer a { color: var(--gold); text-decoration: none; }
+
+    @media (max-width: 768px) {
+      .docs-layout { grid-template-columns: 1fr; }
+      .docs-sidebar { display: none; }
+      .docs-content { padding: 2rem 1.5rem 4rem; }
+    }
+
+    /* Syntax highlighting colors */
+    .kw { color: #569cd6; }
+    .st { color: #ce9178; }
+    .cm { color: #6a9955; }
+    .at { color: #9cdcfe; }
+    .fn { color: #dcdcaa; }
+    .tg { color: #4ec9b0; }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a class="nav-logo" href="/">AgentiScript</a>
+    <ul class="nav-links">
+      <li><a href="/icons/">Icons</a></li>
+      <li><a href="/docs/" class="active">Docs</a></li>
+      <li><a href="/store/">Store</a></li>
+      <li><a href="/submit/">Submit</a></li>
+    </ul>
+  </nav>
+
+  <div class="docs-layout">
+    <aside class="docs-sidebar">
+      <div class="sidebar-section">
+        <div class="sidebar-label">Getting Started</div>
+        <ul class="sidebar-links">
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#html">HTML img tag</a></li>
+          <li><a href="#css">CSS background</a></li>
+          <li><a href="#react">React / npm</a></li>
+          <li><a href="#figma">Figma</a></li>
+        </ul>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-label">Advanced</div>
+        <ul class="sidebar-links">
+          <li><a href="#schema">Schema.org</a></li>
+          <li><a href="#bots">How Bots Use It</a></li>
+          <li><a href="#json">agentiscript.json</a></li>
+          <li><a href="#contributing">Contributing</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <main class="docs-content">
+      <h1>Documentation</h1>
+      <p>AgentiScript is a library of SVG icons for concepts in the agentic economy. Every icon ships as a clean, scalable SVG. Free tier is CC0 — no attribution, no sign-up. Just use it.</p>
+
+      <div class="tag-cloud">
+        <span class="tag">SVG</span>
+        <span class="tag">CC0</span>
+        <span class="tag">npm</span>
+        <span class="tag">React</span>
+        <span class="tag">Figma</span>
+        <span class="tag">Schema.org</span>
+        <span class="tag">AI agents</span>
+      </div>
+
+      <!-- HTML -->
+      <h2 id="html">HTML img tag</h2>
+      <p>The simplest way. Point an <code>&lt;img&gt;</code> at any icon URL. Icons are served from <code>agentiscript.com/icons/</code>.</p>
+
+      <pre><code><span class="cm">&lt;!-- Basic usage --&gt;</span>
+<span class="tg">&lt;img</span> <span class="at">src</span>=<span class="st">"https://agentiscript.com/icons/agentic-loop.svg"</span>
+     <span class="at">alt</span>=<span class="st">"Agentic Loop"</span>
+     <span class="at">width</span>=<span class="st">"32"</span>
+     <span class="at">height</span>=<span class="st">"32"</span> <span class="tg">/&gt;</span>
+
+<span class="cm">&lt;!-- With inline style to tint gold --&gt;</span>
+<span class="tg">&lt;img</span> <span class="at">src</span>=<span class="st">"https://agentiscript.com/icons/orchestrator.svg"</span>
+     <span class="at">alt</span>=<span class="st">"Orchestrator"</span>
+     <span class="at">style</span>=<span class="st">"filter: brightness(0) saturate(100%) invert(58%) sepia(32%) saturate(700%) hue-rotate(5deg);"</span>
+     <span class="at">width</span>=<span class="st">"24"</span> <span class="tg">/&gt;</span></code><button class="copy-btn" onclick="copyCode(this)">Copy</button></pre>
+
+      <div class="info-box"><strong>Tip:</strong> SVGs scale perfectly at any size. No need to pick a resolution — set width/height to whatever your layout needs.</div>
+
+      <!-- CSS -->
+      <h2 id="css">CSS background-image</h2>
+      <p>Use icons as background images in CSS for decorative elements, pseudo-elements, or icon buttons.</p>
+
+      <pre><code><span class="cm">/* Basic background icon */</span>
+<span class="at">.icon-agentic-loop</span> {
+  <span class="kw">background-image</span>: <span class="fn">url</span>(<span class="st">'https://agentiscript.com/icons/agentic-loop.svg'</span>);
+  <span class="kw">background-repeat</span>: no-repeat;
+  <span class="kw">background-size</span>: contain;
+  <span class="kw">width</span>: 32px;
+  <span class="kw">height</span>: 32px;
+}
+
+<span class="cm">/* Using CSS mask for color control */</span>
+<span class="at">.icon-masked</span> {
+  <span class="kw">mask-image</span>: <span class="fn">url</span>(<span class="st">'https://agentiscript.com/icons/trust-rail.svg'</span>);
+  <span class="kw">mask-size</span>: contain;
+  <span class="kw">mask-repeat</span>: no-repeat;
+  <span class="kw">background-color</span>: <span class="st">#9F792C</span>; <span class="cm">/* gold */</span>
+  <span class="kw">width</span>: 24px;
+  <span class="kw">height</span>: 24px;
+}</code><button class="copy-btn" onclick="copyCode(this)">Copy</button></pre>
+
+      <!-- REACT -->
+      <h2 id="react">React / npm</h2>
+      <h3>Install</h3>
+      <pre><code>npm install agentiscript</code><button class="copy-btn" onclick="copyCode(this)">Copy</button></pre>
+
+      <h3>Usage in React</h3>
+      <pre><code><span class="kw">import</span> { AgenticLoop, Orchestrator, TrustRail } <span class="kw">from</span> <span class="st">'agentiscript'</span>;
+
+<span class="kw">export default function</span> <span class="fn">AgentDashboard</span>() {
+  <span class="kw">return</span> (
+    <span class="tg">&lt;div</span> <span class="at">className</span>=<span class="st">"agent-panel"</span><span class="tg">&gt;</span>
+      <span class="tg">&lt;AgenticLoop</span> <span class="at">size</span>=<span class="st">{32}</span> <span class="at">color</span>=<span class="st">"#9F792C"</span> <span class="tg">/&gt;</span>
+      <span class="tg">&lt;Orchestrator</span> <span class="at">size</span>=<span class="st">{24}</span> <span class="tg">/&gt;</span>
+      <span class="tg">&lt;TrustRail</span> <span class="at">size</span>=<span class="st">{24}</span> <span class="at">className</span>=<span class="st">"trust-icon"</span> <span class="tg">/&gt;</span>
+    <span class="tg">&lt;/div&gt;</span>
+  );
+}</code><button class="copy-btn" onclick="copyCode(this)">Copy</button></pre>
+
+      <h3>Direct SVG import</h3>
+      <pre><code><span class="kw">import</span> agenticLoopSrc <span class="kw">from</span> <span class="st">'agentiscript/icons/agentic-loop.svg'</span>;
+
+<span class="tg">&lt;img</span> <span class="at">src</span>={agenticLoopSrc} <span class="at">alt</span>=<span class="st">"Agentic Loop"</span> <span class="at">width</span>=<span class="st">{32}</span> <span class="tg">/&gt;</span></code><button class="copy-btn" onclick="copyCode(this)">Copy</button></pre>
+
+      <!-- FIGMA -->
+      <h2 id="figma">Figma</h2>
+      <p>The Pro pack includes a Figma community file with every AgentiScript icon as a native Figma component.</p>
+      <ul style="color: var(--text-dim); padding-left: 1.5rem; font-size: 0.95rem; margin-bottom: 1rem;">
+        <li style="margin-bottom: 0.5rem;">Auto-layout compatible — drop into any frame</li>
+        <li style="margin-bottom: 0.5rem;">Color styles linked — swap to any brand color in one click</li>
+        <li style="margin-bottom: 0.5rem;">Variants: outline / filled / duotone</li>
+        <li style="margin-bottom: 0.5rem;">New icons added automatically via Figma library updates</li>
+      </ul>
+      <p><a href="/store/">Get the Pro Pack</a> to access the Figma file.</p>
+
+      <!-- SCHEMA.ORG -->
+      <h2 id="schema">Schema.org DefinedTerm</h2>
+      <p>Every AgentiScript icon is backed by Schema.org <code>DefinedTerm</code> metadata. This makes the vocabulary machine-readable by search engines, AI agents, and knowledge graphs.</p>
+
+      <pre><code><span class="tg">&lt;script</span> <span class="at">type</span>=<span class="st">"application/ld+json"</span><span class="tg">&gt;</span>
+{
+  <span class="at">"@context"</span>: <span class="st">"https://schema.org"</span>,
+  <span class="at">"@type"</span>: <span class="st">"DefinedTerm"</span>,
+  <span class="at">"name"</span>: <span class="st">"Agentic Loop"</span>,
+  <span class="at">"identifier"</span>: <span class="st">"agentiscript:agentic-loop"</span>,
+  <span class="at">"description"</span>: <span class="st">"A cyclical execution pattern in which an autonomous agent perceives, reasons, acts, and observes outcomes before repeating. The fundamental operational unit of agentic systems."</span>,
+  <span class="at">"inDefinedTermSet"</span>: {
+    <span class="at">"@type"</span>: <span class="st">"DefinedTermSet"</span>,
+    <span class="at">"name"</span>: <span class="st">"AgentiScript"</span>,
+    <span class="at">"url"</span>: <span class="st">"https://agentiscript.com"</span>
+  },
+  <span class="at">"image"</span>: <span class="st">"https://agentiscript.com/icons/agentic-loop.svg"</span>,
+  <span class="at">"url"</span>: <span class="st">"https://agentiscript.com/icons/#agentic-loop"</span>
+}
+<span class="tg">&lt;/script&gt;</span></code><button class="copy-btn" onclick="copyCode(this)">Copy</button></pre>
+
+      <div class="info-box">
+        <strong>Why this matters:</strong> When your page uses AgentiScript icons with proper Schema.org markup, search engines and AI crawlers can understand the semantic meaning of the concept — not just the image. LLMs grounding responses against the web pick this up natively.
+      </div>
+
+      <!-- BOTS -->
+      <h2 id="bots">How Bots Use AgentiScript</h2>
+      <p>AgentiScript is designed to be consumed by AI agents, not just human designers.</p>
+
+      <h3>The JSON API</h3>
+      <p>The full vocabulary is available as a machine-readable JSON file:</p>
+      <pre><code><span class="cm"># Fetch the full icon index</span>
+curl https://agentiscript.com/agentiscript.json
+
+<span class="cm"># Response structure</span>
+{
+  <span class="at">"icons"</span>: [
+    {
+      <span class="at">"slug"</span>: <span class="st">"agentic-loop"</span>,
+      <span class="at">"name"</span>: <span class="st">"Agentic Loop"</span>,
+      <span class="at">"category"</span>: <span class="st">"Automation"</span>,
+      <span class="at">"description"</span>: <span class="st">"A cyclical execution pattern..."</span>,
+      <span class="at">"tags"</span>: [<span class="st">"agent"</span>, <span class="st">"loop"</span>, <span class="st">"execution"</span>, <span class="st">"cycle"</span>],
+      <span class="at">"svg_url"</span>: <span class="st">"https://agentiscript.com/icons/agentic-loop.svg"</span>
+    }
+  ]
+}</code><button class="copy-btn" onclick="copyCode(this)">Copy</button></pre>
+
+      <h3>Agent tool call example</h3>
+      <p>An agent building a UI can query the vocabulary to find the right icon for a concept:</p>
+      <pre><code><span class="cm">// Pseudo tool call — search agentiscript vocabulary</span>
+<span class="kw">const</span> icons = <span class="kw">await</span> <span class="fn">fetch</span>(<span class="st">'https://agentiscript.com/agentiscript.json'</span>)
+  .<span class="fn">then</span>(r => r.<span class="fn">json</span>());
+
+<span class="kw">const</span> match = icons.icons.<span class="fn">find</span>(i =>
+  i.tags.<span class="fn">includes</span>(<span class="st">'memory'</span>) && i.category === <span class="st">'AI Core'</span>
+);
+
+<span class="cm">// Returns: { slug: 'memory-graph', name: 'Memory Graph', ... }</span>
+<span class="kw">const</span> iconUrl = <span class="st">`https://agentiscript.com/icons/${match.slug}.svg`</span>;</code><button class="copy-btn" onclick="copyCode(this)">Copy</button></pre>
+
+      <h3>LLM system prompt usage</h3>
+      <p>Inject the AgentiScript vocabulary into an LLM's context to let it reference standard visual tokens:</p>
+      <pre><code><span class="cm">// System prompt snippet</span>
+<span class="st">"""
+When describing agentic system diagrams, reference AgentiScript icons
+by their canonical slug (e.g. agentic-loop, orchestrator, trust-rail).
+Full vocabulary: https://agentiscript.com/agentiscript.json
+"""</span></code><button class="copy-btn" onclick="copyCode(this)">Copy</button></pre>
+
+      <!-- JSON STRUCTURE -->
+      <h2 id="json">agentiscript.json</h2>
+      <p>The master index file. Available at <code>https://agentiscript.com/agentiscript.json</code>. Updated whenever new icons are added.</p>
+
+      <h3>Fields</h3>
+      <table style="width:100%; border-collapse: collapse; font-size: 0.88rem; margin: 1rem 0;">
+        <tr style="border-bottom: 1px solid var(--border);">
+          <th style="text-align:left; padding: 0.6rem 0.5rem; color: var(--gold); font-weight: 700;">Field</th>
+          <th style="text-align:left; padding: 0.6rem 0.5rem; color: var(--gold); font-weight: 700;">Type</th>
+          <th style="text-align:left; padding: 0.6rem 0.5rem; color: var(--gold); font-weight: 700;">Description</th>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--border);">
+          <td style="padding: 0.6rem 0.5rem; color: var(--text); font-family: monospace;">slug</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">string</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">URL-safe identifier, e.g. <code>agentic-loop</code></td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--border);">
+          <td style="padding: 0.6rem 0.5rem; color: var(--text); font-family: monospace;">name</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">string</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">Human-readable concept name</td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--border);">
+          <td style="padding: 0.6rem 0.5rem; color: var(--text); font-family: monospace;">category</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">string</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">One of 12 taxonomy categories</td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--border);">
+          <td style="padding: 0.6rem 0.5rem; color: var(--text); font-family: monospace;">description</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">string</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">Definition of the concept</td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--border);">
+          <td style="padding: 0.6rem 0.5rem; color: var(--text); font-family: monospace;">tags</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">string[]</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">Search keywords</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text); font-family: monospace;">svg_url</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">string</td>
+          <td style="padding: 0.6rem 0.5rem; color: var(--text-dim);">Absolute URL to the SVG file</td>
+        </tr>
+      </table>
+
+      <!-- CONTRIBUTING -->
+      <h2 id="contributing">Contributing</h2>
+      <p>The vocabulary grows with the economy. If you see a concept missing, <a href="/submit/">submit it</a>.</p>
+      <p>Or contribute directly on <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank" rel="noopener">GitHub</a>. Pull requests welcome for new icons, improved definitions, and additional metadata.</p>
+
+      <div class="info-box">
+        <strong>The language is not finished.</strong> The agentic economy is not finished. They grow together. Submit what you see. We will build what is missing.
+      </div>
+
+    </main>
+  </div>
+
+  <footer>
+    <a href="/">AgentiScript</a> · CC0 Free · <a href="/store/">Pro License</a> · <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank" rel="noopener">GitHub</a>
+  </footer>
+
+  <script>
+    function copyCode(btn) {
+      const pre = btn.closest('pre');
+      const code = pre.querySelector('code');
+      navigator.clipboard.writeText(code.innerText).then(() => {
+        btn.textContent = 'Copied!';
+        setTimeout(() => btn.textContent = 'Copy', 2000);
+      });
+    }
+
+    // Highlight active sidebar link on scroll
+    const sections = document.querySelectorAll('h2[id]');
+    const sidebarLinks = document.querySelectorAll('.sidebar-links a');
+    const obs = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        if (e.isIntersecting) {
+          sidebarLinks.forEach(l => l.classList.remove('active'));
+          const active = document.querySelector(`.sidebar-links a[href="#${e.target.id}"]`);
+          if (active) active.classList.add('active');
+        }
+      });
+    }, { rootMargin: '-20% 0px -70% 0px' });
+    sections.forEach(s => obs.observe(s));
+  </script>
+
+</body>
+</html>

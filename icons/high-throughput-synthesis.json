@@ -1,0 +1,23 @@
+{
+  "id": "AS-115",
+  "slug": "high-throughput-synthesis",
+  "concept": "High-Throughput Synthesis",
+  "definition": "Parallel synthesis of thousands of compounds simultaneously to accelerate materials and drug discovery",
+  "aliases": [
+    "parallel synthesis",
+    "combinatorial chemistry",
+    "HTS"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2209.08258"
+  ],
+  "svg": "high-throughput-synthesis.svg",
+  "tags": [
+    "synthesis",
+    "high-throughput",
+    "parallel",
+    "chemistry"
+  ]
+}

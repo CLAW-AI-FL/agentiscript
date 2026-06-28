@@ -1,0 +1,23 @@
+{
+  "id": "AS-042",
+  "slug": "amm",
+  "concept": "AMM",
+  "definition": "Automated Market Maker — a DeFi protocol using mathematical formulas instead of order books for trading",
+  "aliases": [
+    "automated market maker",
+    "liquidity curve",
+    "x*y=k"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2103.12732"
+  ],
+  "svg": "amm.svg",
+  "tags": [
+    "AMM",
+    "DeFi",
+    "liquidity",
+    "trading"
+  ]
+}

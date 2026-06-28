@@ -1,0 +1,23 @@
+{
+  "id": "AS-033",
+  "slug": "ota-update",
+  "concept": "OTA Update",
+  "definition": "Over-the-air software update delivered wirelessly to deployed agents or devices without physical access",
+  "aliases": [
+    "over-the-air update",
+    "wireless update",
+    "remote patch"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/2110.00805"
+  ],
+  "svg": "ota-update.svg",
+  "tags": [
+    "update",
+    "wireless",
+    "deployment",
+    "software"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "AS-044",
+  "concept": "TEE",
+  "definition": "Trusted Execution Environment: a secure isolated hardware environment for confidential computation",
+  "category": "agentic-economy",
+  "svg": "tee.svg",
+  "tags": [
+    "tee"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AS-107",
+  "slug": "quantum-gate",
+  "concept": "Quantum Gate",
+  "definition": "A basic quantum circuit operation that transforms qubit states, analogous to classical logic gates",
+  "aliases": [
+    "quantum logic gate",
+    "qubit gate",
+    "unitary gate"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/quant-ph/9503016"
+  ],
+  "svg": "quantum-gate.svg",
+  "tags": [
+    "quantum gate",
+    "circuit",
+    "qubit",
+    "logic"
+  ]
+}

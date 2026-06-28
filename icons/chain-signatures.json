@@ -1,0 +1,23 @@
+{
+  "id": "AS-076",
+  "slug": "chain-signatures",
+  "concept": "Chain Signatures",
+  "definition": "NEAR's protocol enabling a single NEAR account to control wallets on any blockchain via MPC",
+  "aliases": [
+    "chain signatures",
+    "MPC signing",
+    "cross-chain control"
+  ],
+  "category": "near",
+  "category_name": "NEAR Protocol",
+  "sources": [
+    "https://docs.near.org/concepts/abstraction/chain-signatures"
+  ],
+  "svg": "chain-signatures.svg",
+  "tags": [
+    "chain signatures",
+    "NEAR",
+    "MPC",
+    "multichain"
+  ]
+}

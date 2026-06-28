@@ -1,0 +1,11 @@
+{
+  "id": "AS-036",
+  "concept": "Quantum Superposition",
+  "definition": "A quantum state where a particle exists in multiple states simultaneously until measured",
+  "category": "science",
+  "svg": "quantum-superposition.svg",
+  "tags": [
+    "quantum",
+    "superposition"
+  ]
+}

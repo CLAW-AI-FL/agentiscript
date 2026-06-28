@@ -1,0 +1,23 @@
+{
+  "id": "AS-148",
+  "slug": "vertical-integration",
+  "concept": "Vertical Integration (SpaceX)",
+  "definition": "Controlling the entire production chain internally — SpaceX makes engines, rockets, and launches itself",
+  "aliases": [
+    "vertical integration",
+    "supply chain control",
+    "insourcing"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2110.03456"
+  ],
+  "svg": "vertical-integration.svg",
+  "tags": [
+    "vertical integration",
+    "SpaceX",
+    "manufacturing",
+    "supply chain"
+  ]
+}

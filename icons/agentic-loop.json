@@ -1,0 +1,11 @@
+{
+  "id": "AS-001",
+  "concept": "Agentic Loop",
+  "definition": "A recursive observe-think-act cycle executed by an autonomous agent",
+  "category": "agentic-economy",
+  "svg": "agentic-loop.svg",
+  "tags": [
+    "agentic",
+    "loop"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AS-069",
+  "slug": "attestation",
+  "concept": "Attestation",
+  "definition": "A cryptographically signed claim verifying that specific data or events are true",
+  "aliases": [
+    "data attestation",
+    "claim",
+    "proof of data"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network/fdc/overview"
+  ],
+  "svg": "attestation.svg",
+  "tags": [
+    "attestation",
+    "proof",
+    "verification",
+    "data"
+  ]
+}

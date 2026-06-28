@@ -1,0 +1,11 @@
+{
+  "id": "AS-047",
+  "concept": "RWA Tokenization",
+  "definition": "Real-World Asset Tokenization: representing ownership of physical assets as blockchain tokens",
+  "category": "blockchain",
+  "svg": "rwa-tokenization.svg",
+  "tags": [
+    "rwa",
+    "tokenization"
+  ]
+}

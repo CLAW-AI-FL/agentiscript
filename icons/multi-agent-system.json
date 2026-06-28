@@ -1,0 +1,12 @@
+{
+  "id": "AS-005",
+  "concept": "Multi-Agent System",
+  "definition": "A network of AI agents working together to complete complex tasks",
+  "category": "agentic-economy",
+  "svg": "multi-agent-system.svg",
+  "tags": [
+    "multi",
+    "agent",
+    "system"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "AS-041",
+  "concept": "Sound Money",
+  "definition": "Currency with stable purchasing power, not subject to arbitrary inflation by governments",
+  "category": "economics",
+  "svg": "sound-money.svg",
+  "tags": [
+    "sound",
+    "money"
+  ]
+}

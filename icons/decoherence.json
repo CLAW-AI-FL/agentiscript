@@ -1,0 +1,23 @@
+{
+  "id": "AS-106",
+  "slug": "decoherence",
+  "concept": "Decoherence",
+  "definition": "The loss of quantum coherence as a qubit interacts with its environment, the main obstacle to quantum computing",
+  "aliases": [
+    "quantum decoherence",
+    "quantum noise",
+    "error source"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/quant-ph/0306072"
+  ],
+  "svg": "decoherence.svg",
+  "tags": [
+    "decoherence",
+    "quantum",
+    "noise",
+    "error"
+  ]
+}

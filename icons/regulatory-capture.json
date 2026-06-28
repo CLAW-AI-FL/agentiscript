@@ -1,0 +1,23 @@
+{
+  "id": "AS-130",
+  "slug": "regulatory-capture",
+  "concept": "Regulatory Capture",
+  "definition": "When a regulatory agency advances the interests of the industry it is supposed to regulate",
+  "aliases": [
+    "industry capture",
+    "revolving door",
+    "captured regulator"
+  ],
+  "category": "economics",
+  "category_name": "Economics / Finance",
+  "sources": [
+    "https://arxiv.org/abs/1711.09698"
+  ],
+  "svg": "regulatory-capture.svg",
+  "tags": [
+    "regulation",
+    "capture",
+    "industry",
+    "policy"
+  ]
+}

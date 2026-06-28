@@ -1,0 +1,23 @@
+{
+  "id": "AS-157",
+  "slug": "terawatt-scale-compute",
+  "concept": "Terawatt-Scale Compute",
+  "definition": "The hypothetical future compute infrastructure requiring terawatts of power to train frontier AI",
+  "aliases": [
+    "massive compute",
+    "compute cluster",
+    "AI compute scale"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2309.11565"
+  ],
+  "svg": "terawatt-scale-compute.svg",
+  "tags": [
+    "compute",
+    "terawatt",
+    "scale",
+    "AI"
+  ]
+}

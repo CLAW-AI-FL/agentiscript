@@ -1,0 +1,23 @@
+{
+  "id": "AS-052",
+  "slug": "gas-fee",
+  "concept": "Gas Fee",
+  "definition": "A fee paid to blockchain validators for computational resources used to execute transactions",
+  "aliases": [
+    "transaction fee",
+    "gas price",
+    "gwei"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://ethereum.org/en/developers/docs/gas/"
+  ],
+  "svg": "gas-fee.svg",
+  "tags": [
+    "gas",
+    "fee",
+    "transaction",
+    "Ethereum"
+  ]
+}

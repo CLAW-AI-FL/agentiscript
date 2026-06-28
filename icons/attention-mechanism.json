@@ -1,0 +1,23 @@
+{
+  "id": "AS-024",
+  "slug": "attention-mechanism",
+  "concept": "Attention Mechanism",
+  "definition": "A technique enabling models to focus on relevant parts of input sequences when generating outputs",
+  "aliases": [
+    "self-attention",
+    "cross-attention",
+    "attention head"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/1706.03762"
+  ],
+  "svg": "attention-mechanism.svg",
+  "tags": [
+    "attention",
+    "transformer",
+    "focus",
+    "neural network"
+  ]
+}

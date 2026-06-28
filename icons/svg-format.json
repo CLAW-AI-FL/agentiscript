@@ -1,0 +1,23 @@
+{
+  "id": "AS-116",
+  "slug": "svg-format",
+  "concept": "SVG (the format)",
+  "definition": "Scalable Vector Graphics — an XML-based vector image format that scales without quality loss",
+  "aliases": [
+    "scalable vector graphics",
+    "vector format",
+    "SVG file"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://www.w3.org/TR/SVG/"
+  ],
+  "svg": "svg-format.svg",
+  "tags": [
+    "SVG",
+    "vector",
+    "graphics",
+    "format"
+  ]
+}

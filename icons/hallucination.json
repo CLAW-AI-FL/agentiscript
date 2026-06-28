@@ -1,0 +1,10 @@
+{
+  "id": "AS-014",
+  "concept": "Hallucination",
+  "definition": "When an AI model generates false or nonsensical information presented as fact",
+  "category": "agentic-economy",
+  "svg": "hallucination.svg",
+  "tags": [
+    "hallucination"
+  ]
+}

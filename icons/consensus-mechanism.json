@@ -1,0 +1,11 @@
+{
+  "id": "AS-028",
+  "concept": "Consensus Mechanism",
+  "definition": "The process by which distributed nodes agree on the valid state of a blockchain",
+  "category": "blockchain",
+  "svg": "consensus-mechanism.svg",
+  "tags": [
+    "consensus",
+    "mechanism"
+  ]
+}

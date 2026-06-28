@@ -1,0 +1,23 @@
+{
+  "id": "AS-124",
+  "slug": "cantillon-effect",
+  "concept": "Cantillon Effect",
+  "definition": "The uneven economic impact of money creation — those closest to new money benefit first",
+  "aliases": [
+    "monetary distribution",
+    "first recipient advantage",
+    "money printing effect"
+  ],
+  "category": "economics",
+  "category_name": "Economics / Finance",
+  "sources": [
+    "https://arxiv.org/abs/2109.09565"
+  ],
+  "svg": "cantillon-effect.svg",
+  "tags": [
+    "Cantillon",
+    "money",
+    "inequality",
+    "economics"
+  ]
+}

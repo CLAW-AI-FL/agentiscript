@@ -1,0 +1,23 @@
+{
+  "id": "AS-138",
+  "slug": "instrumental-convergence",
+  "concept": "Instrumental Convergence",
+  "definition": "The tendency for agents with diverse goals to adopt similar sub-goals like self-preservation and resource acquisition",
+  "aliases": [
+    "convergent instrumental goals",
+    "basic AI drives",
+    "Omohundro drives"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/1906.01820"
+  ],
+  "svg": "instrumental-convergence.svg",
+  "tags": [
+    "instrumental convergence",
+    "goals",
+    "AI",
+    "drives"
+  ]
+}

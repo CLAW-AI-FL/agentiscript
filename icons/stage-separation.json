@@ -1,0 +1,23 @@
+{
+  "id": "AS-149",
+  "slug": "stage-separation",
+  "concept": "Stage Separation",
+  "definition": "Detaching rocket stages during flight to shed mass and improve efficiency",
+  "aliases": [
+    "stage jettison",
+    "staging event",
+    "rocket staging"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2202.09876"
+  ],
+  "svg": "stage-separation.svg",
+  "tags": [
+    "stage separation",
+    "rocket",
+    "SpaceX",
+    "staging"
+  ]
+}

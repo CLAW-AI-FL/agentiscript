@@ -1,0 +1,10 @@
+{
+  "id": "AS-013",
+  "concept": "Inference",
+  "definition": "Applying a trained AI model to generate a result from new input data",
+  "category": "agentic-economy",
+  "svg": "inference.svg",
+  "tags": [
+    "inference"
+  ]
+}

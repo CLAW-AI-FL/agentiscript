@@ -1,0 +1,10 @@
+{
+  "id": "AS-031",
+  "concept": "DeFi",
+  "definition": "Decentralized Finance: financial services built on blockchain without traditional intermediaries",
+  "category": "blockchain",
+  "svg": "defi.svg",
+  "tags": [
+    "defi"
+  ]
+}

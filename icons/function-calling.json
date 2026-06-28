@@ -1,0 +1,11 @@
+{
+  "id": "AS-004",
+  "concept": "Function Calling",
+  "definition": "Structured output from an LLM that triggers execution of a defined function",
+  "category": "agentic-economy",
+  "svg": "function-calling.svg",
+  "tags": [
+    "function",
+    "calling"
+  ]
+}

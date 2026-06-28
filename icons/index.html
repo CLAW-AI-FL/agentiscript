@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AgentiScript Icon Library — Every Agentic Concept, Visualized</title>
+  <meta name="description" content="Browse the complete AgentiScript icon library. Search, filter by category, and download free SVG icons for the agentic economy." />
+  <link rel="canonical" href="https://agentiscript.com/icons/" />
+
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-QYFEV9J581"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-QYFEV9J581');
+  </script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --gold: #9F792C;
+      --gold-light: #C49A3C;
+      --gold-dim: #6B5020;
+      --bg: #000000;
+      --bg2: #0a0a0a;
+      --bg3: #111111;
+      --text: #e8e8e8;
+      --text-dim: #888;
+      --border: #1e1e1e;
+    }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(0,0,0,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 58px;
+    }
+    .nav-logo { font-size: 1.35rem; font-weight: 800; color: var(--gold); letter-spacing: -0.5px; text-decoration: none; }
+    .nav-links { display: flex; gap: 1.8rem; list-style: none; }
+    .nav-links a { color: var(--text-dim); text-decoration: none; font-size: 0.9rem; transition: color 0.2s; }
+    .nav-links a:hover, .nav-links a.active { color: var(--gold); }
+
+    .page-header {
+      padding: 4rem 2rem 2rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .page-header h1 { font-size: 2.4rem; font-weight: 900; color: var(--gold); margin-bottom: 0.5rem; }
+    .page-header p { color: var(--text-dim); font-size: 1.05rem; }
+
+    .library-controls {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 2rem 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .search-wrap {
+      position: relative;
+    }
+    .search-wrap svg {
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 18px;
+      height: 18px;
+      fill: var(--text-dim);
+    }
+    #search-input {
+      width: 100%;
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.85rem 1rem 0.85rem 2.8rem;
+      color: var(--text);
+      font-size: 1rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    #search-input:focus { border-color: var(--gold-dim); }
+    #search-input::placeholder { color: var(--text-dim); }
+
+    .category-filters {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+    .cat-btn {
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.4rem 1rem;
+      color: var(--text-dim);
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all 0.15s;
+      font-family: inherit;
+    }
+    .cat-btn:hover { border-color: var(--gold-dim); color: var(--text); }
+    .cat-btn.active { background: var(--gold); border-color: var(--gold); color: #000; font-weight: 700; }
+
+    .results-meta {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 2rem 1rem;
+      font-size: 0.85rem;
+      color: var(--text-dim);
+    }
+
+    .icon-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 1rem;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 2rem 5rem;
+    }
+
+    .icon-card {
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 0.9rem 1rem;
+      text-align: center;
+      transition: border-color 0.2s, transform 0.15s;
+      position: relative;
+    }
+    .icon-card:hover { border-color: var(--gold-dim); transform: translateY(-2px); }
+    .icon-card:hover .dl-btn { opacity: 1; }
+
+    .icon-img-wrap {
+      width: 56px;
+      height: 56px;
+      margin: 0 auto 0.75rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .icon-img-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+    .icon-placeholder {
+      width: 56px;
+      height: 56px;
+      background: linear-gradient(135deg, var(--gold-dim), var(--gold));
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .icon-placeholder svg { width: 28px; height: 28px; fill: #000; }
+
+    .icon-name { font-size: 0.78rem; font-weight: 600; color: var(--text); line-height: 1.3; margin-bottom: 0.3rem; }
+    .icon-cat-badge {
+      display: inline-block;
+      background: rgba(159,121,44,0.15);
+      border: 1px solid var(--gold-dim);
+      border-radius: 999px;
+      padding: 0.1rem 0.6rem;
+      font-size: 0.65rem;
+      color: var(--gold);
+      letter-spacing: 0.3px;
+      margin-bottom: 0.6rem;
+    }
+
+    .dl-btn {
+      display: block;
+      width: 100%;
+      background: var(--gold);
+      color: #000;
+      font-weight: 700;
+      font-size: 0.72rem;
+      padding: 0.4rem 0;
+      border-radius: 6px;
+      border: none;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.15s, background 0.15s;
+      font-family: inherit;
+      text-decoration: none;
+      text-align: center;
+      margin-top: 0.4rem;
+    }
+    .dl-btn:hover { background: var(--gold-light); }
+
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 5rem 2rem;
+      color: var(--text-dim);
+    }
+    .empty-state h3 { font-size: 1.2rem; color: var(--text); margin-bottom: 0.5rem; }
+
+    .loading-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 5rem 2rem;
+      color: var(--text-dim);
+    }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--gold);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin: 0 auto 1rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 2rem;
+      text-align: center;
+      color: var(--text-dim);
+      font-size: 0.85rem;
+    }
+    footer a { color: var(--gold); text-decoration: none; }
+
+    @media (max-width: 600px) {
+      nav { padding: 0 1rem; }
+      .page-header, .library-controls, .results-meta, .icon-grid { padding-left: 1rem; padding-right: 1rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a class="nav-logo" href="/">AgentiScript</a>
+    <ul class="nav-links">
+      <li><a href="/icons/" class="active">Icons</a></li>
+      <li><a href="/docs/">Docs</a></li>
+      <li><a href="/store/">Store</a></li>
+      <li><a href="/submit/">Submit</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-header">
+    <h1>Icon Library</h1>
+    <p>Browse the language. Take what you need. It is free.</p>
+  </div>
+
+  <div class="library-controls">
+    <div class="search-wrap">
+      <svg viewBox="0 0 24 24"><path d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
+      <input type="search" id="search-input" placeholder="Search concepts… orchestrator, memory, trust rail" oninput="filterIcons()" />
+    </div>
+    <div class="category-filters" id="cat-filters">
+      <button class="cat-btn active" data-cat="all" onclick="setCat('all', this)">All</button>
+    </div>
+  </div>
+
+  <div class="results-meta" id="results-meta"></div>
+
+  <div class="icon-grid" id="icon-grid">
+    <div class="loading-state">
+      <div class="spinner"></div>
+      <p>Loading the vocabulary…</p>
+    </div>
+  </div>
+
+  <footer>
+    <a href="/">AgentiScript</a> · CC0 Free · <a href="/store/">Pro License</a> · <a href="/submit/">Submit an Idea</a>
+  </footer>
+
+  <script>
+    let ALL_ICONS = [];
+    let activeCategory = 'all';
+
+    const CATEGORIES = [
+      'AI Core', 'Automation', 'Security', 'Economics', 'Integration',
+      'Training', 'Infrastructure', 'Data', 'Identity', 'Governance',
+      'Interfaces', 'Blockchain'
+    ];
+
+    const FALLBACK_ICONS = [
+      { slug: 'agentic-loop', name: 'Agentic Loop', category: 'Automation' },
+      { slug: 'memory-graph', name: 'Memory Graph', category: 'AI Core' },
+      { slug: 'trust-rail', name: 'Trust Rail', category: 'Security' },
+      { slug: 'inference-node', name: 'Inference Node', category: 'AI Core' },
+      { slug: 'orchestrator', name: 'Orchestrator', category: 'Automation' },
+      { slug: 'context-window', name: 'Context Window', category: 'AI Core' },
+      { slug: 'tool-call', name: 'Tool Call', category: 'Integration' },
+      { slug: 'prompt-chain', name: 'Prompt Chain', category: 'AI Core' },
+      { slug: 'swarm-agent', name: 'Swarm Agent', category: 'Automation' },
+      { slug: 'reward-signal', name: 'Reward Signal', category: 'Training' },
+      { slug: 'token-budget', name: 'Token Budget', category: 'Economics' },
+      { slug: 'guardrail', name: 'Guardrail', category: 'Security' },
+      { slug: 'embedding-space', name: 'Embedding Space', category: 'AI Core' },
+      { slug: 'retrieval-layer', name: 'Retrieval Layer', category: 'Data' },
+      { slug: 'vector-store', name: 'Vector Store', category: 'Data' },
+      { slug: 'semantic-router', name: 'Semantic Router', category: 'Infrastructure' },
+      { slug: 'agent-handoff', name: 'Agent Handoff', category: 'Automation' },
+      { slug: 'capability-token', name: 'Capability Token', category: 'Identity' },
+      { slug: 'autonomous-wallet', name: 'Autonomous Wallet', category: 'Blockchain' },
+      { slug: 'intent-graph', name: 'Intent Graph', category: 'AI Core' },
+      { slug: 'policy-layer', name: 'Policy Layer', category: 'Governance' },
+      { slug: 'agent-marketplace', name: 'Agent Marketplace', category: 'Economics' },
+      { slug: 'data-provenance', name: 'Data Provenance', category: 'Governance' },
+      { slug: 'synthetic-data', name: 'Synthetic Data', category: 'Training' },
+    ];
+
+    fetch('/agentiscript.json')
+      .then(r => r.json())
+      .then(data => {
+        ALL_ICONS = Array.isArray(data) ? data : (data.icons || Object.values(data));
+        init();
+      })
+      .catch(() => {
+        ALL_ICONS = FALLBACK_ICONS;
+        init();
+      });
+
+    function init() {
+      buildCategoryFilters();
+      renderIcons(ALL_ICONS);
+    }
+
+    function buildCategoryFilters() {
+      const cats = [...new Set(ALL_ICONS.map(i => i.category).filter(Boolean))].sort();
+      const container = document.getElementById('cat-filters');
+      cats.forEach(cat => {
+        const btn = document.createElement('button');
+        btn.className = 'cat-btn';
+        btn.dataset.cat = cat;
+        btn.textContent = cat;
+        btn.onclick = () => setCat(cat, btn);
+        container.appendChild(btn);
+      });
+    }
+
+    function setCat(cat, btn) {
+      activeCategory = cat;
+      document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      filterIcons();
+    }
+
+    function filterIcons() {
+      const q = document.getElementById('search-input').value.toLowerCase().trim();
+      let filtered = ALL_ICONS;
+      if (activeCategory !== 'all') {
+        filtered = filtered.filter(i => i.category === activeCategory);
+      }
+      if (q) {
+        filtered = filtered.filter(i =>
+          (i.name || '').toLowerCase().includes(q) ||
+          (i.category || '').toLowerCase().includes(q) ||
+          (i.description || '').toLowerCase().includes(q) ||
+          (i.tags || []).some(t => t.toLowerCase().includes(q))
+        );
+      }
+      renderIcons(filtered);
+    }
+
+    function renderIcons(icons) {
+      const grid = document.getElementById('icon-grid');
+      const meta = document.getElementById('results-meta');
+      meta.textContent = `${icons.length.toLocaleString()} icon${icons.length !== 1 ? 's' : ''}`;
+
+      if (icons.length === 0) {
+        grid.innerHTML = `<div class="empty-state"><h3>Nothing found.</h3><p>Try a different search or <a href="/submit/" style="color:var(--gold)">submit the concept</a> you are looking for.</p></div>`;
+        return;
+      }
+
+      grid.innerHTML = '';
+      icons.forEach(icon => {
+        const slug = icon.slug || icon.id || (icon.name || '').toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g,'');
+        const card = document.createElement('div');
+        card.className = 'icon-card';
+        card.innerHTML = `
+          <div class="icon-img-wrap">
+            <img src="/${slug}.svg" alt="${icon.name}"
+              onerror="this.parentElement.innerHTML='<div class=\'icon-placeholder\'><svg viewBox=\'0 0 24 24\'><rect x=\'3\' y=\'3\' width=\'18\' height=\'18\' rx=\'3\'/></svg></div>'" />
+          </div>
+          <div class="icon-name">${icon.name || slug}</div>
+          <div class="icon-cat-badge">${icon.category || 'General'}</div>
+          <a class="dl-btn" href="/${slug}.svg" download="${slug}.svg">↓ Download SVG</a>
+        `;
+        grid.appendChild(card);
+      });
+    }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "id": "AS-051",
+  "slug": "merkle-tree",
+  "concept": "Merkle Tree",
+  "definition": "A hash tree data structure used in blockchains for efficient and secure data verification",
+  "aliases": [
+    "hash tree",
+    "Merkle root",
+    "Merkle proof"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2011.12116"
+  ],
+  "svg": "merkle-tree.svg",
+  "tags": [
+    "merkle",
+    "hash",
+    "tree",
+    "verification"
+  ]
+}

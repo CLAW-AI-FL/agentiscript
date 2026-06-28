@@ -1,0 +1,23 @@
+{
+  "id": "AS-073",
+  "slug": "data-provider",
+  "concept": "Data Provider",
+  "definition": "An entity that submits off-chain data to oracle protocols in exchange for incentive rewards",
+  "aliases": [
+    "FTSO data provider",
+    "oracle node",
+    "price submitter"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network/ftso/overview"
+  ],
+  "svg": "data-provider.svg",
+  "tags": [
+    "data provider",
+    "oracle",
+    "FTSO",
+    "incentives"
+  ]
+}

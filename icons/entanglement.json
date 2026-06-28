@@ -1,0 +1,23 @@
+{
+  "id": "AS-105",
+  "slug": "entanglement",
+  "concept": "Entanglement",
+  "definition": "Two quantum particles correlated so measuring one instantly affects the other regardless of distance",
+  "aliases": [
+    "quantum entanglement",
+    "Bell state",
+    "EPR pair"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/quant-ph/9504016"
+  ],
+  "svg": "entanglement.svg",
+  "tags": [
+    "entanglement",
+    "quantum",
+    "correlation",
+    "nonlocal"
+  ]
+}

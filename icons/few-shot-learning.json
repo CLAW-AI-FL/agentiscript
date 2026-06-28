@@ -1,0 +1,23 @@
+{
+  "id": "AS-018",
+  "slug": "few-shot-learning",
+  "concept": "Few-Shot Learning",
+  "definition": "Teaching an LLM a task by providing a small number of examples directly in the prompt",
+  "aliases": [
+    "few-shot prompting",
+    "in-context learning",
+    "k-shot"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/2005.14165"
+  ],
+  "svg": "few-shot-learning.svg",
+  "tags": [
+    "few-shot",
+    "examples",
+    "prompting",
+    "learning"
+  ]
+}

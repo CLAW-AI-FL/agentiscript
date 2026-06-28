@@ -1,0 +1,10 @@
+{
+  "id": "AS-034",
+  "concept": "CBDC",
+  "definition": "Central Bank Digital Currency: a government-issued digital form of national currency",
+  "category": "blockchain",
+  "svg": "cbdc.svg",
+  "tags": [
+    "cbdc"
+  ]
+}

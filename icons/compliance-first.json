@@ -1,0 +1,23 @@
+{
+  "id": "AS-091",
+  "slug": "compliance-first",
+  "concept": "Compliance-First",
+  "definition": "Designing financial systems with regulatory compliance as a primary, not afterthought, constraint",
+  "aliases": [
+    "regulatory compliance",
+    "compliance-by-design",
+    "AML/KYC first"
+  ],
+  "category": "ripple-hedera",
+  "category_name": "Ripple / Hedera",
+  "sources": [
+    "https://ripple.com/solutions/compliance/"
+  ],
+  "svg": "compliance-first.svg",
+  "tags": [
+    "compliance",
+    "regulation",
+    "KYC",
+    "AML"
+  ]
+}

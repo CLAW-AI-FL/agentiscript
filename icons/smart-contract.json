@@ -1,0 +1,11 @@
+{
+  "id": "AS-027",
+  "concept": "Smart Contract",
+  "definition": "Self-executing code on a blockchain that automatically enforces agreement terms",
+  "category": "blockchain",
+  "svg": "smart-contract.svg",
+  "tags": [
+    "smart",
+    "contract"
+  ]
+}

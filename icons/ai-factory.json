@@ -1,0 +1,11 @@
+{
+  "id": "AS-043",
+  "concept": "AI Factory",
+  "definition": "Specialized computing infrastructure that optimizes the entire AI lifecycle from data ingestion to inference",
+  "category": "agentic-economy",
+  "svg": "ai-factory.svg",
+  "tags": [
+    "ai",
+    "factory"
+  ]
+}

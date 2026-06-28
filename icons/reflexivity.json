@@ -1,0 +1,23 @@
+{
+  "id": "AS-125",
+  "slug": "reflexivity",
+  "concept": "Reflexivity",
+  "definition": "Soros's theory that market participants' biased views affect fundamentals, creating feedback loops",
+  "aliases": [
+    "market reflexivity",
+    "Soros reflexivity",
+    "self-fulfilling prophecy"
+  ],
+  "category": "economics",
+  "category_name": "Economics / Finance",
+  "sources": [
+    "https://arxiv.org/abs/1105.5379"
+  ],
+  "svg": "reflexivity.svg",
+  "tags": [
+    "reflexivity",
+    "markets",
+    "feedback",
+    "Soros"
+  ]
+}

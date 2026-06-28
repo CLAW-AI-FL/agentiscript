@@ -1,0 +1,23 @@
+{
+  "id": "AS-043",
+  "slug": "liquidity-pool",
+  "concept": "Liquidity Pool",
+  "definition": "A smart contract holding token reserves that enables decentralized trading and lending",
+  "aliases": [
+    "LP",
+    "liquidity reserve",
+    "DEX pool"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2205.08904"
+  ],
+  "svg": "liquidity-pool.svg",
+  "tags": [
+    "liquidity",
+    "pool",
+    "DeFi",
+    "tokens"
+  ]
+}

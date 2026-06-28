@@ -1,0 +1,11 @@
+{
+  "id": "AS-002",
+  "concept": "Context Window",
+  "definition": "The token range defining the scope of information an AI can process at once",
+  "category": "agentic-economy",
+  "svg": "context-window.svg",
+  "tags": [
+    "context",
+    "window"
+  ]
+}

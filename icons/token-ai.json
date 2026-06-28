@@ -1,0 +1,11 @@
+{
+  "id": "AS-020",
+  "concept": "Token (AI)",
+  "definition": "The smallest unit of text processed by a language model, roughly a word or subword",
+  "category": "agentic-economy",
+  "svg": "token-ai.svg",
+  "tags": [
+    "token",
+    "ai"
+  ]
+}

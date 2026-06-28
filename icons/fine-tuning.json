@@ -1,0 +1,11 @@
+{
+  "id": "AS-012",
+  "concept": "Fine-Tuning",
+  "definition": "Post-training customization of a foundation model for a specific domain or task",
+  "category": "agentic-economy",
+  "svg": "fine-tuning.svg",
+  "tags": [
+    "fine",
+    "tuning"
+  ]
+}

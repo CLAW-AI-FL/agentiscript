@@ -1,0 +1,23 @@
+{
+  "id": "AS-087",
+  "slug": "real-time-settlement",
+  "concept": "Real-Time Settlement",
+  "definition": "Instant finalization of financial transactions without traditional T+2 settlement delays",
+  "aliases": [
+    "instant settlement",
+    "atomic settlement",
+    "T+0"
+  ],
+  "category": "ripple-hedera",
+  "category_name": "Ripple / Hedera",
+  "sources": [
+    "https://ripple.com/ripplenet/"
+  ],
+  "svg": "real-time-settlement.svg",
+  "tags": [
+    "settlement",
+    "real-time",
+    "finality",
+    "payments"
+  ]
+}

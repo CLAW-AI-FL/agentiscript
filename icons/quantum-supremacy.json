@@ -1,0 +1,23 @@
+{
+  "id": "AS-109",
+  "slug": "quantum-supremacy",
+  "concept": "Quantum Supremacy",
+  "definition": "The milestone where a quantum computer performs a task infeasible for any classical computer",
+  "aliases": [
+    "quantum advantage",
+    "quantum milestone",
+    "quantum speed"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/1910.11333"
+  ],
+  "svg": "quantum-supremacy.svg",
+  "tags": [
+    "quantum supremacy",
+    "milestone",
+    "advantage",
+    "computing"
+  ]
+}

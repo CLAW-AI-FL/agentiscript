@@ -1,0 +1,23 @@
+{
+  "id": "AS-015",
+  "slug": "constitutional-ai",
+  "concept": "Constitutional AI",
+  "definition": "Anthropic's approach to training AI with a set of principles guiding self-critique and revision",
+  "aliases": [
+    "CAI",
+    "principle-based alignment",
+    "constitutional training"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/2212.08073"
+  ],
+  "svg": "constitutional-ai.svg",
+  "tags": [
+    "alignment",
+    "safety",
+    "principles",
+    "Anthropic"
+  ]
+}
