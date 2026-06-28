@@ -1,0 +1,11 @@
+{
+  "id": "AS-172",
+  "concept": "Parallel Subagents",
+  "definition": "Multiple sub-agents running simultaneously to analyze complex data or complete independent tasks in parallel",
+  "category": "agentic-economy",
+  "svg": "parallel-subagents.svg",
+  "tags": [
+    "parallel",
+    "subagents"
+  ]
+}

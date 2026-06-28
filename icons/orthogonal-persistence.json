@@ -1,0 +1,11 @@
+{
+  "id": "AS-164",
+  "concept": "Orthogonal Persistence",
+  "definition": "State is preserved automatically without explicit save operations \u2014 the system handles persistence transparently",
+  "category": "blockchain",
+  "svg": "orthogonal-persistence.svg",
+  "tags": [
+    "orthogonal",
+    "persistence"
+  ]
+}

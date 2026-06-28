@@ -1,0 +1,11 @@
+{
+  "id": "AS-178",
+  "concept": "Data Availability",
+  "definition": "The guarantee that block data is available for nodes to download and verify, critical for Layer 2 scaling solutions",
+  "category": "blockchain",
+  "svg": "data-availability.svg",
+  "tags": [
+    "data",
+    "availability"
+  ]
+}

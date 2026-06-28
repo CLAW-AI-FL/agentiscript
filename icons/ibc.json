@@ -1,0 +1,10 @@
+{
+  "id": "AS-175",
+  "concept": "IBC",
+  "definition": "Inter-Blockchain Communication: a protocol enabling sovereign blockchains to transfer tokens and data trustlessly",
+  "category": "blockchain",
+  "svg": "ibc.svg",
+  "tags": [
+    "ibc"
+  ]
+}

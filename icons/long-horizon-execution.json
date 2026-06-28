@@ -1,0 +1,12 @@
+{
+  "id": "AS-171",
+  "concept": "Long Horizon Execution",
+  "definition": "An agent executing sophisticated multi-step workflows over extended timeframes, maintaining coherent goal pursuit across many actions",
+  "category": "agentic-economy",
+  "svg": "long-horizon-execution.svg",
+  "tags": [
+    "long",
+    "horizon",
+    "execution"
+  ]
+}

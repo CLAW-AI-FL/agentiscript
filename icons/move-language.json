@@ -1,0 +1,11 @@
+{
+  "id": "AS-177",
+  "concept": "Move Language",
+  "definition": "A programming language designed for safe smart contract development with first-class resource types that cannot be copied or discarded",
+  "category": "blockchain",
+  "svg": "move-language.svg",
+  "tags": [
+    "move",
+    "language"
+  ]
+}

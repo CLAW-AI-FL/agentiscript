@@ -1,0 +1,11 @@
+{
+  "id": "AS-163",
+  "concept": "Chain Fusion",
+  "definition": "Native multi-chain interaction capability allowing smart contracts to interact with Bitcoin, Ethereum, and other chains directly without bridges",
+  "category": "blockchain",
+  "svg": "chain-fusion.svg",
+  "tags": [
+    "chain",
+    "fusion"
+  ]
+}

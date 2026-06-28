@@ -1,0 +1,11 @@
+{
+  "id": "AS-173",
+  "concept": "Managed Agent",
+  "definition": "A pre-provisioned autonomous agent with its own isolated OS-level sandbox, accessible via a single API call",
+  "category": "agentic-economy",
+  "svg": "managed-agent.svg",
+  "tags": [
+    "managed",
+    "agent"
+  ]
+}

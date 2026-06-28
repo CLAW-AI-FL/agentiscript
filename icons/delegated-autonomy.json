@@ -1,0 +1,11 @@
+{
+  "id": "AS-168",
+  "concept": "Delegated Autonomy",
+  "definition": "The transfer of decision-making authority to an autonomous agent, defining the boundaries of what it is permitted to do on behalf of a user",
+  "category": "agentic-economy",
+  "svg": "delegated-autonomy.svg",
+  "tags": [
+    "delegated",
+    "autonomy"
+  ]
+}

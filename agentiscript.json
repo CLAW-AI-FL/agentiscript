@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "total": 160,
+  "version": "1.1",
+  "total": 178,
   "icons": [
     {
       "id": "AS-146",
@@ -114,6 +114,16 @@
       "tags": [
         "ai",
         "factory"
+      ]
+    },
+    {
+      "id": "AS-165",
+      "concept": "AIware",
+      "definition": "Applications built and operated entirely by AI agents without human engineers, running on sovereign blockchain infrastructure",
+      "category": "agentic-economy",
+      "svg": "aiware.svg",
+      "tags": [
+        "aiware"
       ]
     },
     {
@@ -357,6 +367,16 @@
       ]
     },
     {
+      "id": "AS-161",
+      "concept": "Canister",
+      "definition": "A sealed software unit on the Internet Computer containing both code and state, capable of serving HTTP and holding gigabytes of data",
+      "category": "blockchain",
+      "svg": "canister.svg",
+      "tags": [
+        "canister"
+      ]
+    },
+    {
       "id": "AS-124",
       "slug": "cantillon-effect",
       "concept": "Cantillon Effect",
@@ -421,6 +441,17 @@
       "tags": [
         "chain",
         "abstraction"
+      ]
+    },
+    {
+      "id": "AS-163",
+      "concept": "Chain Fusion",
+      "definition": "Native multi-chain interaction capability allowing smart contracts to interact with Bitcoin, Ethereum, and other chains directly without bridges",
+      "category": "blockchain",
+      "svg": "chain-fusion.svg",
+      "tags": [
+        "chain",
+        "fusion"
       ]
     },
     {
@@ -676,6 +707,17 @@
       ]
     },
     {
+      "id": "AS-170",
+      "concept": "Crypto-Agility",
+      "definition": "The ability to switch cryptographic algorithms and protocols without redesigning the entire system, future-proofing against quantum attacks",
+      "category": "science",
+      "svg": "crypto-agility.svg",
+      "tags": [
+        "crypto",
+        "agility"
+      ]
+    },
+    {
       "id": "AS-030",
       "concept": "DAO",
       "definition": "Decentralized Autonomous Organization: an organization governed by smart contracts and token holders",
@@ -683,6 +725,17 @@
       "svg": "dao.svg",
       "tags": [
         "dao"
+      ]
+    },
+    {
+      "id": "AS-178",
+      "concept": "Data Availability",
+      "definition": "The guarantee that block data is available for nodes to download and verify, critical for Layer 2 scaling solutions",
+      "category": "blockchain",
+      "svg": "data-availability.svg",
+      "tags": [
+        "data",
+        "availability"
       ]
     },
     {
@@ -796,6 +849,17 @@
       "svg": "defi.svg",
       "tags": [
         "defi"
+      ]
+    },
+    {
+      "id": "AS-168",
+      "concept": "Delegated Autonomy",
+      "definition": "The transfer of decision-making authority to an autonomous agent, defining the boundaries of what it is permitted to do on behalf of a user",
+      "category": "agentic-economy",
+      "svg": "delegated-autonomy.svg",
+      "tags": [
+        "delegated",
+        "autonomy"
       ]
     },
     {
@@ -1336,6 +1400,19 @@
       ]
     },
     {
+      "id": "AS-167",
+      "concept": "Hardware Root of Trust",
+      "definition": "A foundational security layer anchored in physical hardware that establishes a chain of trust for all software running on a device",
+      "category": "science",
+      "svg": "hardware-root-of-trust.svg",
+      "tags": [
+        "hardware",
+        "root",
+        "of",
+        "trust"
+      ]
+    },
+    {
       "id": "AS-123",
       "slug": "hbm",
       "concept": "HBM (High Bandwidth Memory)",
@@ -1379,6 +1456,26 @@
         "high-throughput",
         "parallel",
         "chemistry"
+      ]
+    },
+    {
+      "id": "AS-169",
+      "concept": "HNDL",
+      "definition": "Harvest Now Decrypt Later: a quantum threat where adversaries capture encrypted data today to decrypt with future quantum computers",
+      "category": "science",
+      "svg": "hndl.svg",
+      "tags": [
+        "hndl"
+      ]
+    },
+    {
+      "id": "AS-175",
+      "concept": "IBC",
+      "definition": "Inter-Blockchain Communication: a protocol enabling sovereign blockchains to transfer tokens and data trustlessly",
+      "category": "blockchain",
+      "svg": "ibc.svg",
+      "tags": [
+        "ibc"
       ]
     },
     {
@@ -1587,6 +1684,29 @@
       ]
     },
     {
+      "id": "AS-171",
+      "concept": "Long Horizon Execution",
+      "definition": "An agent executing sophisticated multi-step workflows over extended timeframes, maintaining coherent goal pursuit across many actions",
+      "category": "agentic-economy",
+      "svg": "long-horizon-execution.svg",
+      "tags": [
+        "long",
+        "horizon",
+        "execution"
+      ]
+    },
+    {
+      "id": "AS-173",
+      "concept": "Managed Agent",
+      "definition": "A pre-provisioned autonomous agent with its own isolated OS-level sandbox, accessible via a single API call",
+      "category": "agentic-economy",
+      "svg": "managed-agent.svg",
+      "tags": [
+        "managed",
+        "agent"
+      ]
+    },
+    {
       "id": "AS-113",
       "slug": "materials-discovery",
       "concept": "Materials Discovery",
@@ -1779,6 +1899,17 @@
       ]
     },
     {
+      "id": "AS-177",
+      "concept": "Move Language",
+      "definition": "A programming language designed for safe smart contract development with first-class resource types that cannot be copied or discarded",
+      "category": "blockchain",
+      "svg": "move-language.svg",
+      "tags": [
+        "move",
+        "language"
+      ]
+    },
+    {
       "id": "AS-145",
       "slug": "mtp",
       "concept": "MTP (Massive Transformative Purpose)",
@@ -1906,6 +2037,16 @@
       ]
     },
     {
+      "id": "AS-166",
+      "concept": "NNS",
+      "definition": "Network Nervous System: a decentralized autonomous governance system that controls and evolves a blockchain protocol",
+      "category": "blockchain",
+      "svg": "nns.svg",
+      "tags": [
+        "nns"
+      ]
+    },
+    {
       "id": "AS-058",
       "slug": "node",
       "concept": "Node",
@@ -2007,6 +2148,17 @@
       ]
     },
     {
+      "id": "AS-164",
+      "concept": "Orthogonal Persistence",
+      "definition": "State is preserved automatically without explicit save operations \u2014 the system handles persistence transparently",
+      "category": "blockchain",
+      "svg": "orthogonal-persistence.svg",
+      "tags": [
+        "orthogonal",
+        "persistence"
+      ]
+    },
+    {
       "id": "AS-033",
       "slug": "ota-update",
       "concept": "OTA Update",
@@ -2050,6 +2202,27 @@
         "misalignment",
         "optimizer",
         "Bostrom"
+      ]
+    },
+    {
+      "id": "AS-174",
+      "concept": "Parachain",
+      "definition": "An independent blockchain that runs in parallel and connects to a central relay chain, sharing its security",
+      "category": "blockchain",
+      "svg": "parachain.svg",
+      "tags": [
+        "parachain"
+      ]
+    },
+    {
+      "id": "AS-172",
+      "concept": "Parallel Subagents",
+      "definition": "Multiple sub-agents running simultaneously to analyze complex data or complete independent tasks in parallel",
+      "category": "agentic-economy",
+      "svg": "parallel-subagents.svg",
+      "tags": [
+        "parallel",
+        "subagents"
       ]
     },
     {
@@ -2153,6 +2326,18 @@
       "svg": "prompt.svg",
       "tags": [
         "prompt"
+      ]
+    },
+    {
+      "id": "AS-176",
+      "concept": "Proof of History",
+      "definition": "A cryptographic clock that proves events occurred at specific moments in time, enabling high-throughput blockchain ordering",
+      "category": "blockchain",
+      "svg": "proof-of-history.svg",
+      "tags": [
+        "proof",
+        "of",
+        "history"
       ]
     },
     {
@@ -2369,6 +2554,17 @@
         "rocket",
         "SpaceX",
         "cost"
+      ]
+    },
+    {
+      "id": "AS-162",
+      "concept": "Reverse Gas Model",
+      "definition": "A model where the canister/smart contract pays for computation, not the user, eliminating wallet friction",
+      "category": "blockchain",
+      "svg": "reverse-gas.svg",
+      "tags": [
+        "reverse",
+        "gas"
       ]
     },
     {

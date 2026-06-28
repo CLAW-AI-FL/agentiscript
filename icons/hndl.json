@@ -1,0 +1,10 @@
+{
+  "id": "AS-169",
+  "concept": "HNDL",
+  "definition": "Harvest Now Decrypt Later: a quantum threat where adversaries capture encrypted data today to decrypt with future quantum computers",
+  "category": "science",
+  "svg": "hndl.svg",
+  "tags": [
+    "hndl"
+  ]
+}
