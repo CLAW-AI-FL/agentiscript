@@ -10,22 +10,28 @@ Every concept the agentic economy speaks but cannot show gets a visual token.
 
 ## What is in here
 
-- /icons/ SVG icons + JSON metadata for every concept
-- agentiscript.json machine-readable index of all icons
+- `/icons/` SVG icons + JSON metadata for every concept
+- `agentiscript.json` machine-readable index of all icons
 
 ## Use it
 
-<img src="https://agentiscript.com/icons/agentic-loop.svg" />
+```html
+<img src="https://agentiscript.com/icons/agentic-loop.svg" width="24" height="24" />
+```
 
+```bash
 npm install agentiscript
+```
 
 ## License
 
-Free tier: CC0 do whatever you want.
+Free tier: CC0 — do whatever you want.
 Pro tier: Commercial license at agentiscript.com/store
 
 ## Contributing
 
 See something missing? Submit at agentiscript.com/submit
 
-The language grows every day. So does the economy it speaks for.
+---
+
+*The language grows every day. So does the economy it speaks for.*
