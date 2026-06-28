@@ -1,0 +1,11 @@
+{
+  "id": "AS-170",
+  "concept": "Crypto-Agility",
+  "definition": "The ability to switch cryptographic algorithms and protocols without redesigning the entire system, future-proofing against quantum attacks",
+  "category": "science",
+  "svg": "crypto-agility.svg",
+  "tags": [
+    "crypto",
+    "agility"
+  ]
+}

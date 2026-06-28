@@ -1,0 +1,10 @@
+{
+  "id": "AS-161",
+  "concept": "Canister",
+  "definition": "A sealed software unit on the Internet Computer containing both code and state, capable of serving HTTP and holding gigabytes of data",
+  "category": "blockchain",
+  "svg": "canister.svg",
+  "tags": [
+    "canister"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "AS-174",
+  "concept": "Parachain",
+  "definition": "An independent blockchain that runs in parallel and connects to a central relay chain, sharing its security",
+  "category": "blockchain",
+  "svg": "parachain.svg",
+  "tags": [
+    "parachain"
+  ]
+}

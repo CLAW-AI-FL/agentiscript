@@ -1,0 +1,13 @@
+{
+  "id": "AS-167",
+  "concept": "Hardware Root of Trust",
+  "definition": "A foundational security layer anchored in physical hardware that establishes a chain of trust for all software running on a device",
+  "category": "science",
+  "svg": "hardware-root-of-trust.svg",
+  "tags": [
+    "hardware",
+    "root",
+    "of",
+    "trust"
+  ]
+}

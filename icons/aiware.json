@@ -1,0 +1,10 @@
+{
+  "id": "AS-165",
+  "concept": "AIware",
+  "definition": "Applications built and operated entirely by AI agents without human engineers, running on sovereign blockchain infrastructure",
+  "category": "agentic-economy",
+  "svg": "aiware.svg",
+  "tags": [
+    "aiware"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "AS-176",
+  "concept": "Proof of History",
+  "definition": "A cryptographic clock that proves events occurred at specific moments in time, enabling high-throughput blockchain ordering",
+  "category": "blockchain",
+  "svg": "proof-of-history.svg",
+  "tags": [
+    "proof",
+    "of",
+    "history"
+  ]
+}

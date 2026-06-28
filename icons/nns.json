@@ -1,0 +1,10 @@
+{
+  "id": "AS-166",
+  "concept": "NNS",
+  "definition": "Network Nervous System: a decentralized autonomous governance system that controls and evolves a blockchain protocol",
+  "category": "blockchain",
+  "svg": "nns.svg",
+  "tags": [
+    "nns"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "AS-162",
+  "concept": "Reverse Gas Model",
+  "definition": "A model where the canister/smart contract pays for computation, not the user, eliminating wallet friction",
+  "category": "blockchain",
+  "svg": "reverse-gas.svg",
+  "tags": [
+    "reverse",
+    "gas"
+  ]
+}
