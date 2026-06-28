@@ -1,0 +1,23 @@
+{
+  "id": "AS-145",
+  "slug": "mtp",
+  "concept": "MTP (Massive Transformative Purpose)",
+  "definition": "Salim Ismail's concept of an audacious mission statement that attracts talent and inspires action",
+  "aliases": [
+    "massive transformative purpose",
+    "ExO MTP",
+    "mission statement"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2203.09876"
+  ],
+  "svg": "mtp.svg",
+  "tags": [
+    "MTP",
+    "mission",
+    "purpose",
+    "transformation"
+  ]
+}

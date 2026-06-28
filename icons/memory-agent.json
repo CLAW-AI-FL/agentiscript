@@ -1,0 +1,11 @@
+{
+  "id": "AS-008",
+  "concept": "Memory (Agent)",
+  "definition": "Persistent storage of agent state, history, and learned information across sessions",
+  "category": "agentic-economy",
+  "svg": "memory-agent.svg",
+  "tags": [
+    "memory",
+    "agent"
+  ]
+}

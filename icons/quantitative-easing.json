@@ -1,0 +1,24 @@
+{
+  "id": "AS-129",
+  "slug": "quantitative-easing",
+  "concept": "Quantitative Easing",
+  "definition": "Central bank asset purchases to inject money into the economy when interest rates hit the zero bound",
+  "aliases": [
+    "QE",
+    "money printing",
+    "asset purchases",
+    "balance sheet expansion"
+  ],
+  "category": "economics",
+  "category_name": "Economics / Finance",
+  "sources": [
+    "https://arxiv.org/abs/1011.0714"
+  ],
+  "svg": "quantitative-easing.svg",
+  "tags": [
+    "QE",
+    "central bank",
+    "money",
+    "policy"
+  ]
+}

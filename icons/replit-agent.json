@@ -1,0 +1,23 @@
+{
+  "id": "AS-036",
+  "slug": "replit-agent",
+  "concept": "Replit Agent",
+  "definition": "An AI coding agent integrated into Replit that builds full applications from natural language prompts",
+  "aliases": [
+    "Replit AI",
+    "cloud coding agent",
+    "Ghostwriter"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://replit.com/ai"
+  ],
+  "svg": "replit-agent.svg",
+  "tags": [
+    "Replit",
+    "coding",
+    "agent",
+    "cloud"
+  ]
+}

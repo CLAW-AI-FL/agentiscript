@@ -1,0 +1,12 @@
+{
+  "id": "AS-016",
+  "concept": "Chain of Thought",
+  "definition": "A prompting technique where AI reasons step-by-step before giving a final answer",
+  "category": "agentic-economy",
+  "svg": "chain-of-thought.svg",
+  "tags": [
+    "chain",
+    "of",
+    "thought"
+  ]
+}

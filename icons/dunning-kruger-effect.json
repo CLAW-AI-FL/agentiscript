@@ -1,0 +1,23 @@
+{
+  "id": "AS-141",
+  "slug": "dunning-kruger-effect",
+  "concept": "Dunning-Kruger Effect",
+  "definition": "The cognitive bias where people with limited knowledge overestimate their competence",
+  "aliases": [
+    "Dunning-Kruger",
+    "overconfidence bias",
+    "metacognitive bias"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2104.09876"
+  ],
+  "svg": "dunning-kruger-effect.svg",
+  "tags": [
+    "Dunning-Kruger",
+    "bias",
+    "overconfidence",
+    "psychology"
+  ]
+}

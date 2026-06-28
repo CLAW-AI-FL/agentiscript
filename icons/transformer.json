@@ -1,0 +1,10 @@
+{
+  "id": "AS-021",
+  "concept": "Transformer",
+  "definition": "The neural network architecture using self-attention that powers modern LLMs",
+  "category": "agentic-economy",
+  "svg": "transformer.svg",
+  "tags": [
+    "transformer"
+  ]
+}

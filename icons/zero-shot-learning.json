@@ -1,0 +1,23 @@
+{
+  "id": "AS-019",
+  "slug": "zero-shot-learning",
+  "concept": "Zero-Shot Learning",
+  "definition": "An LLM performing a task without any examples, relying solely on instruction comprehension",
+  "aliases": [
+    "zero-shot",
+    "zero-shot prompting",
+    "instruction following"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/1707.00600"
+  ],
+  "svg": "zero-shot-learning.svg",
+  "tags": [
+    "zero-shot",
+    "instruction",
+    "generalization",
+    "LLM"
+  ]
+}

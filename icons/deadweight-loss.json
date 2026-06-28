@@ -1,0 +1,23 @@
+{
+  "id": "AS-131",
+  "slug": "deadweight-loss",
+  "concept": "Deadweight Loss",
+  "definition": "Economic inefficiency created when supply and demand are not in equilibrium due to interventions",
+  "aliases": [
+    "welfare loss",
+    "efficiency loss",
+    "market distortion"
+  ],
+  "category": "economics",
+  "category_name": "Economics / Finance",
+  "sources": [
+    "https://arxiv.org/abs/1602.02048"
+  ],
+  "svg": "deadweight-loss.svg",
+  "tags": [
+    "deadweight loss",
+    "efficiency",
+    "economics",
+    "welfare"
+  ]
+}

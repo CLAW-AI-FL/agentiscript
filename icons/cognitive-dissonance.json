@@ -1,0 +1,23 @@
+{
+  "id": "AS-140",
+  "slug": "cognitive-dissonance",
+  "concept": "Cognitive Dissonance",
+  "definition": "Mental discomfort from holding contradictory beliefs, values, or behaviors simultaneously",
+  "aliases": [
+    "belief conflict",
+    "mental discomfort",
+    "psychological tension"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2004.12556"
+  ],
+  "svg": "cognitive-dissonance.svg",
+  "tags": [
+    "cognitive dissonance",
+    "psychology",
+    "belief",
+    "conflict"
+  ]
+}

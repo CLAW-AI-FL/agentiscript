@@ -1,0 +1,23 @@
+{
+  "id": "AS-028",
+  "slug": "agentic-economy",
+  "concept": "Agentic Economy",
+  "definition": "An economic system where autonomous AI agents transact, negotiate, and create value independently",
+  "aliases": [
+    "agent economy",
+    "AI economy",
+    "autonomous economy"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/2309.11564"
+  ],
+  "svg": "agentic-economy.svg",
+  "tags": [
+    "economy",
+    "agents",
+    "autonomous",
+    "value"
+  ]
+}

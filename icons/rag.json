@@ -1,0 +1,10 @@
+{
+  "id": "AS-010",
+  "concept": "RAG",
+  "definition": "Retrieval Augmented Generation: augmenting LLMs with external knowledge retrieval",
+  "category": "agentic-economy",
+  "svg": "rag.svg",
+  "tags": [
+    "rag"
+  ]
+}

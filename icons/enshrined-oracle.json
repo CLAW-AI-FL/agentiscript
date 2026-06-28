@@ -1,0 +1,23 @@
+{
+  "id": "AS-068",
+  "slug": "enshrined-oracle",
+  "concept": "Enshrined Oracle",
+  "definition": "An oracle built into the blockchain protocol itself rather than as an external add-on",
+  "aliases": [
+    "protocol oracle",
+    "native oracle",
+    "on-chain oracle"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network/ftso/overview"
+  ],
+  "svg": "enshrined-oracle.svg",
+  "tags": [
+    "oracle",
+    "enshrined",
+    "protocol",
+    "native"
+  ]
+}

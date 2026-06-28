@@ -1,0 +1,23 @@
+{
+  "id": "AS-118",
+  "slug": "webhook",
+  "concept": "Webhook",
+  "definition": "An HTTP callback that sends real-time data to other applications when specific events occur",
+  "aliases": [
+    "HTTP callback",
+    "event notification",
+    "push notification"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2104.13099"
+  ],
+  "svg": "webhook.svg",
+  "tags": [
+    "webhook",
+    "callback",
+    "event",
+    "HTTP"
+  ]
+}

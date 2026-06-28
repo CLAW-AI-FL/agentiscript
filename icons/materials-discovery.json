@@ -1,0 +1,23 @@
+{
+  "id": "AS-113",
+  "slug": "materials-discovery",
+  "concept": "Materials Discovery",
+  "definition": "Using AI and high-throughput methods to identify novel materials with desired properties",
+  "aliases": [
+    "AI materials",
+    "computational materials",
+    "materials informatics"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2306.11025"
+  ],
+  "svg": "materials-discovery.svg",
+  "tags": [
+    "materials",
+    "discovery",
+    "AI",
+    "science"
+  ]
+}

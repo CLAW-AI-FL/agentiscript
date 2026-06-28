@@ -1,0 +1,23 @@
+{
+  "id": "AS-026",
+  "slug": "foundation-model",
+  "concept": "Foundation Model",
+  "definition": "A large AI model trained on broad data that can be adapted to a wide range of downstream tasks",
+  "aliases": [
+    "base model",
+    "pretrained model",
+    "FM"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/2108.07258"
+  ],
+  "svg": "foundation-model.svg",
+  "tags": [
+    "foundation",
+    "base",
+    "pretrained",
+    "model"
+  ]
+}

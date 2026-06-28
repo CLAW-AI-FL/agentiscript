@@ -1,0 +1,11 @@
+{
+  "id": "AS-032",
+  "concept": "On-Ramp",
+  "definition": "Converting fiat currency to cryptocurrency to enter the blockchain ecosystem",
+  "category": "blockchain",
+  "svg": "on-ramp.svg",
+  "tags": [
+    "on",
+    "ramp"
+  ]
+}

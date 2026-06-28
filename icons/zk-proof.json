@@ -1,0 +1,11 @@
+{
+  "id": "AS-029",
+  "concept": "ZK Proof",
+  "definition": "Zero-Knowledge Proof: proving knowledge of information without revealing the information itself",
+  "category": "blockchain",
+  "svg": "zk-proof.svg",
+  "tags": [
+    "zk",
+    "proof"
+  ]
+}

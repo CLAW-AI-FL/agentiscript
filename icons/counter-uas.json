@@ -1,0 +1,24 @@
+{
+  "id": "AS-155",
+  "slug": "counter-uas",
+  "concept": "Counter-UAS",
+  "definition": "Systems and tactics designed to detect, track, and neutralize unmanned aerial systems",
+  "aliases": [
+    "drone defense",
+    "anti-drone",
+    "C-UAS",
+    "counter-drone"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2311.09876"
+  ],
+  "svg": "counter-uas.svg",
+  "tags": [
+    "counter-UAS",
+    "drone",
+    "defense",
+    "autonomous"
+  ]
+}

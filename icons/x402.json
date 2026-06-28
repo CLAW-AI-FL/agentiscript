@@ -1,0 +1,10 @@
+{
+  "id": "AS-022",
+  "concept": "x402",
+  "definition": "An HTTP payment protocol enabling machine-to-machine micropayments in the agentic economy",
+  "category": "agentic-economy",
+  "svg": "x402.svg",
+  "tags": [
+    "x402"
+  ]
+}

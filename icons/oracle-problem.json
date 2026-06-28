@@ -1,0 +1,23 @@
+{
+  "id": "AS-049",
+  "slug": "oracle-problem",
+  "concept": "Oracle Problem",
+  "definition": "The fundamental challenge of reliably feeding real-world data to blockchain's isolated smart contracts",
+  "aliases": [
+    "blockchain oracle",
+    "data feed problem",
+    "oracle attack"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2004.01441"
+  ],
+  "svg": "oracle-problem.svg",
+  "tags": [
+    "oracle",
+    "data",
+    "blockchain",
+    "problem"
+  ]
+}

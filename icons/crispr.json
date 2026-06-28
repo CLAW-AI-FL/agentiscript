@@ -1,0 +1,10 @@
+{
+  "id": "AS-037",
+  "concept": "CRISPR",
+  "definition": "A gene-editing technology allowing precise modification of DNA sequences",
+  "category": "science",
+  "svg": "crispr.svg",
+  "tags": [
+    "crispr"
+  ]
+}

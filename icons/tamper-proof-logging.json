@@ -1,0 +1,23 @@
+{
+  "id": "AS-095",
+  "slug": "tamper-proof-logging",
+  "concept": "Tamper-Proof Logging",
+  "definition": "Immutable audit trails where records cannot be altered after creation, cryptographically guaranteed",
+  "aliases": [
+    "immutable logging",
+    "audit trail",
+    "append-only log"
+  ],
+  "category": "ripple-hedera",
+  "category_name": "Ripple / Hedera",
+  "sources": [
+    "https://hedera.com/use-cases/audit-trail"
+  ],
+  "svg": "tamper-proof-logging.svg",
+  "tags": [
+    "logging",
+    "immutable",
+    "audit",
+    "tamper-proof"
+  ]
+}

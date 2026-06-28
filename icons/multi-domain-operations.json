@@ -1,0 +1,23 @@
+{
+  "id": "AS-153",
+  "slug": "multi-domain-operations",
+  "concept": "Multi-Domain Operations",
+  "definition": "Military operations synchronized across land, sea, air, space, and cyberspace simultaneously",
+  "aliases": [
+    "MDO",
+    "joint all-domain operations",
+    "JADC2"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2309.09876"
+  ],
+  "svg": "multi-domain-operations.svg",
+  "tags": [
+    "multi-domain",
+    "military",
+    "operations",
+    "defense"
+  ]
+}

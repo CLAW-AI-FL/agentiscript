@@ -1,0 +1,23 @@
+{
+  "id": "AS-102",
+  "slug": "perpetual-futures",
+  "concept": "Perpetual Futures",
+  "definition": "Futures contracts with no expiry date, using funding rates to keep prices anchored to spot",
+  "aliases": [
+    "perps",
+    "perpetual swaps",
+    "endless futures"
+  ],
+  "category": "prediction-markets",
+  "category_name": "Prediction Markets",
+  "sources": [
+    "https://arxiv.org/abs/2210.01250"
+  ],
+  "svg": "perpetual-futures.svg",
+  "tags": [
+    "perpetual",
+    "futures",
+    "derivatives",
+    "trading"
+  ]
+}

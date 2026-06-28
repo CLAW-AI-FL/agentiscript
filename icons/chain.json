@@ -1,0 +1,23 @@
+{
+  "id": "AS-057",
+  "slug": "chain",
+  "concept": "Chain",
+  "definition": "A linked sequence of blocks forming an immutable, append-only ledger of transactions",
+  "aliases": [
+    "blockchain",
+    "ledger chain",
+    "hash chain"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2009.12193"
+  ],
+  "svg": "chain.svg",
+  "tags": [
+    "chain",
+    "blocks",
+    "ledger",
+    "immutable"
+  ]
+}

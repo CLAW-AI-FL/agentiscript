@@ -1,0 +1,11 @@
+{
+  "id": "AS-040",
+  "concept": "Prediction Market",
+  "definition": "A market where participants trade contracts based on the outcome of future events",
+  "category": "finance",
+  "svg": "prediction-market.svg",
+  "tags": [
+    "prediction",
+    "market"
+  ]
+}

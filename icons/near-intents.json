@@ -1,0 +1,23 @@
+{
+  "id": "AS-075",
+  "slug": "near-intents",
+  "concept": "NEAR Intents",
+  "definition": "NEAR's architecture where users express desired outcomes and the network finds optimal execution paths",
+  "aliases": [
+    "intent-centric",
+    "user intents",
+    "declarative transactions"
+  ],
+  "category": "near",
+  "category_name": "NEAR Protocol",
+  "sources": [
+    "https://near.org/intents"
+  ],
+  "svg": "near-intents.svg",
+  "tags": [
+    "intents",
+    "NEAR",
+    "declarative",
+    "execution"
+  ]
+}

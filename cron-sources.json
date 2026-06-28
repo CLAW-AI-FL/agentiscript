@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {"name": "arXiv AI", "url": "https://arxiv.org/rss/cs.AI", "frequency": "daily"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "frequency": "daily"},
+    {"name": "Hacker News", "url": "https://news.ycombinator.com/rss", "frequency": "daily"},
+    {"name": "Wikipedia New Articles", "url": "https://en.wikipedia.org/w/api.php?action=query&list=recentchanges&rctype=new&rcnamespace=0&rclimit=50&format=json", "frequency": "daily"},
+    {"name": "Merriam Webster", "url": "https://www.merriam-webster.com/words-at-play/new-words-in-the-dictionary", "frequency": "weekly"},
+    {"name": "NVIDIA Blog", "url": "https://blogs.nvidia.com/feed/", "frequency": "weekly"},
+    {"name": "Anthropic", "url": "https://www.anthropic.com/research", "frequency": "weekly"},
+    {"name": "Flare Network", "url": "https://flare.network/", "frequency": "weekly"},
+    {"name": "NEAR Protocol", "url": "https://near.org/", "frequency": "weekly"},
+    {"name": "Hedera", "url": "https://hedera.com/", "frequency": "weekly"},
+    {"name": "Ripple", "url": "https://ripple.com/", "frequency": "weekly"},
+    {"name": "Alphabet", "url": "https://abc.xyz/", "frequency": "weekly"},
+    {"name": "Meta AI", "url": "https://ai.meta.com/", "frequency": "weekly"},
+    {"name": "SEALSQ", "url": "https://www.sealsq.com/", "frequency": "weekly"},
+    {"name": "Replit", "url": "https://replit.com/", "frequency": "weekly"},
+    {"name": "Kalshi", "url": "https://kalshi.com/", "frequency": "weekly"},
+    {"name": "NIST Glossary", "url": "https://csrc.nist.gov/glossary", "frequency": "monthly"},
+    {"name": "arXiv Quantum", "url": "https://arxiv.org/rss/quant-ph", "frequency": "daily"},
+    {"name": "arXiv Economics", "url": "https://arxiv.org/rss/econ", "frequency": "weekly"}
+  ]
+}

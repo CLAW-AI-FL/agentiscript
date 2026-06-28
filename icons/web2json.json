@@ -1,0 +1,23 @@
+{
+  "id": "AS-067",
+  "slug": "web2json",
+  "concept": "Web2Json",
+  "definition": "Flare's attestation type that fetches JSON from web APIs and makes it verifiable on-chain",
+  "aliases": [
+    "Web2Json",
+    "API attestation",
+    "web oracle"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network/fdc/guides/web2json"
+  ],
+  "svg": "web2json.svg",
+  "tags": [
+    "Web2Json",
+    "API",
+    "JSON",
+    "oracle"
+  ]
+}

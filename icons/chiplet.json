@@ -1,0 +1,23 @@
+{
+  "id": "AS-122",
+  "slug": "chiplet",
+  "concept": "Chiplet",
+  "definition": "A small, modular chip die designed to be combined with others into a larger package",
+  "aliases": [
+    "die-to-die",
+    "chiplet architecture",
+    "advanced packaging"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2205.09291"
+  ],
+  "svg": "chiplet.svg",
+  "tags": [
+    "chiplet",
+    "die",
+    "packaging",
+    "semiconductor"
+  ]
+}

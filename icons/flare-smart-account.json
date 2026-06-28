@@ -1,0 +1,23 @@
+{
+  "id": "AS-074",
+  "slug": "flare-smart-account",
+  "concept": "Flare Smart Account",
+  "definition": "Account abstraction on Flare enabling programmable wallets with custom authorization logic",
+  "aliases": [
+    "account abstraction",
+    "smart wallet",
+    "ERC-4337 on Flare"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network"
+  ],
+  "svg": "flare-smart-account.svg",
+  "tags": [
+    "smart account",
+    "Flare",
+    "wallet",
+    "account abstraction"
+  ]
+}

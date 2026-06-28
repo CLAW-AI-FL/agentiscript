@@ -1,0 +1,23 @@
+{
+  "id": "AS-084",
+  "slug": "multichain-dao",
+  "concept": "Multichain DAO",
+  "definition": "A DAO that governs assets and operations across multiple blockchain networks simultaneously",
+  "aliases": [
+    "cross-chain DAO",
+    "multichain governance",
+    "chain-agnostic DAO"
+  ],
+  "category": "near",
+  "category_name": "NEAR Protocol",
+  "sources": [
+    "https://near.org"
+  ],
+  "svg": "multichain-dao.svg",
+  "tags": [
+    "DAO",
+    "multichain",
+    "governance",
+    "NEAR"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "AS-046",
+  "concept": "Post-Quantum Cryptography",
+  "definition": "Cryptographic algorithms resistant to attacks by quantum computers",
+  "category": "science",
+  "svg": "post-quantum-cryptography.svg",
+  "tags": [
+    "post",
+    "quantum",
+    "cryptography"
+  ]
+}

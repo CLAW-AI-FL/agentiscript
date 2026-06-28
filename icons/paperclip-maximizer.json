@@ -1,0 +1,23 @@
+{
+  "id": "AS-137",
+  "slug": "paperclip-maximizer",
+  "concept": "Paperclip Maximizer",
+  "definition": "Nick Bostrom's thought experiment about an AI optimizing a single goal to catastrophic ends",
+  "aliases": [
+    "Bostrom thought experiment",
+    "misaligned optimizer",
+    "convergent instrumental goals"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/1906.01820"
+  ],
+  "svg": "paperclip-maximizer.svg",
+  "tags": [
+    "paperclip",
+    "misalignment",
+    "optimizer",
+    "Bostrom"
+  ]
+}

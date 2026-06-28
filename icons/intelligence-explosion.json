@@ -1,0 +1,23 @@
+{
+  "id": "AS-135",
+  "slug": "intelligence-explosion",
+  "concept": "Intelligence Explosion",
+  "definition": "The rapid recursive self-improvement of AI leading to superintelligence faster than humans can respond",
+  "aliases": [
+    "recursive self-improvement",
+    "AI takeoff",
+    "fast takeoff"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2109.13916"
+  ],
+  "svg": "intelligence-explosion.svg",
+  "tags": [
+    "intelligence",
+    "explosion",
+    "recursive",
+    "AI"
+  ]
+}

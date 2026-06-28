@@ -1,0 +1,23 @@
+{
+  "id": "AS-156",
+  "slug": "autonomous-assets",
+  "concept": "Autonomous Assets",
+  "definition": "Vehicles, platforms, and systems capable of operating independently in complex environments",
+  "aliases": [
+    "autonomous systems",
+    "unmanned assets",
+    "autonomous platforms"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2311.10538"
+  ],
+  "svg": "autonomous-assets.svg",
+  "tags": [
+    "autonomous",
+    "assets",
+    "defense",
+    "systems"
+  ]
+}

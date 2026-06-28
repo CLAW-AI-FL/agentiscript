@@ -1,0 +1,23 @@
+{
+  "id": "AS-056",
+  "slug": "block",
+  "concept": "Block",
+  "definition": "A unit of data in a blockchain containing transactions, a timestamp, and a hash of the previous block",
+  "aliases": [
+    "blockchain block",
+    "block header",
+    "block data"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2009.12193"
+  ],
+  "svg": "block.svg",
+  "tags": [
+    "block",
+    "blockchain",
+    "transaction",
+    "hash"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AS-146",
+  "slug": "abundance-mindset",
+  "concept": "Abundance Mindset",
+  "definition": "The belief that resources, opportunities, and possibilities are unlimited — as opposed to scarcity thinking",
+  "aliases": [
+    "abundance thinking",
+    "growth mindset",
+    "Diamandis abundance"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2202.09876"
+  ],
+  "svg": "abundance-mindset.svg",
+  "tags": [
+    "abundance",
+    "mindset",
+    "thinking",
+    "growth"
+  ]
+}

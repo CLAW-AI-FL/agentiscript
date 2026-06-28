@@ -1,0 +1,23 @@
+{
+  "id": "AS-123",
+  "slug": "hbm",
+  "concept": "HBM (High Bandwidth Memory)",
+  "definition": "Stacked DRAM dies connected via through-silicon vias delivering very high memory bandwidth",
+  "aliases": [
+    "high bandwidth memory",
+    "stacked memory",
+    "HBM3"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2204.09394"
+  ],
+  "svg": "hbm.svg",
+  "tags": [
+    "HBM",
+    "memory",
+    "bandwidth",
+    "DRAM"
+  ]
+}

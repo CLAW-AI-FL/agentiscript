@@ -1,0 +1,23 @@
+{
+  "id": "AS-048",
+  "slug": "impermanent-loss",
+  "concept": "Impermanent Loss",
+  "definition": "The temporary loss of value experienced by liquidity providers when asset prices diverge from deposit time",
+  "aliases": [
+    "IL",
+    "LP impermanent loss",
+    "divergence loss"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2111.09192"
+  ],
+  "svg": "impermanent-loss.svg",
+  "tags": [
+    "impermanent loss",
+    "liquidity",
+    "AMM",
+    "DeFi"
+  ]
+}

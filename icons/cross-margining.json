@@ -1,0 +1,23 @@
+{
+  "id": "AS-088",
+  "slug": "cross-margining",
+  "concept": "Cross-Margining",
+  "definition": "Using combined collateral across multiple positions to optimize margin efficiency",
+  "aliases": [
+    "cross margin",
+    "portfolio margin",
+    "margin optimization"
+  ],
+  "category": "ripple-hedera",
+  "category_name": "Ripple / Hedera",
+  "sources": [
+    "https://ripple.com/solutions/"
+  ],
+  "svg": "cross-margining.svg",
+  "tags": [
+    "margin",
+    "cross",
+    "collateral",
+    "efficiency"
+  ]
+}

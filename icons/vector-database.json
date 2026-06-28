@@ -1,0 +1,11 @@
+{
+  "id": "AS-018",
+  "concept": "Vector Database",
+  "definition": "A database optimized for storing and querying high-dimensional vector embeddings",
+  "category": "agentic-economy",
+  "svg": "vector-database.svg",
+  "tags": [
+    "vector",
+    "database"
+  ]
+}

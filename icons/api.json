@@ -1,0 +1,23 @@
+{
+  "id": "AS-117",
+  "slug": "api",
+  "concept": "API",
+  "definition": "Application Programming Interface — a defined contract for software components to communicate",
+  "aliases": [
+    "application programming interface",
+    "REST API",
+    "endpoint"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2212.09263"
+  ],
+  "svg": "api.svg",
+  "tags": [
+    "API",
+    "interface",
+    "endpoint",
+    "integration"
+  ]
+}

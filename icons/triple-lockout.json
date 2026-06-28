@@ -1,0 +1,23 @@
+{
+  "id": "AS-079",
+  "slug": "triple-lockout",
+  "concept": "Triple Lockout",
+  "definition": "A three-layer security mechanism requiring multiple independent approvals before high-risk actions",
+  "aliases": [
+    "triple lock",
+    "multi-layer security",
+    "3-step verification"
+  ],
+  "category": "near",
+  "category_name": "NEAR Protocol",
+  "sources": [
+    "https://near.org"
+  ],
+  "svg": "triple-lockout.svg",
+  "tags": [
+    "security",
+    "lockout",
+    "verification",
+    "NEAR"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "AS-030",
+  "concept": "DAO",
+  "definition": "Decentralized Autonomous Organization: an organization governed by smart contracts and token holders",
+  "category": "blockchain",
+  "svg": "dao.svg",
+  "tags": [
+    "dao"
+  ]
+}

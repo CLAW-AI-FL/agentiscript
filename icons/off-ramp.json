@@ -1,0 +1,11 @@
+{
+  "id": "AS-033",
+  "concept": "Off-Ramp",
+  "definition": "Converting cryptocurrency back to fiat currency to exit the blockchain ecosystem",
+  "category": "blockchain",
+  "svg": "off-ramp.svg",
+  "tags": [
+    "off",
+    "ramp"
+  ]
+}

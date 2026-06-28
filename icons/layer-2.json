@@ -1,0 +1,24 @@
+{
+  "id": "AS-050",
+  "slug": "layer-2",
+  "concept": "Layer 2",
+  "definition": "A secondary protocol built on top of a blockchain to improve scalability and reduce transaction costs",
+  "aliases": [
+    "L2",
+    "rollup",
+    "off-chain scaling",
+    "sidechain"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/2012.10003"
+  ],
+  "svg": "layer-2.svg",
+  "tags": [
+    "layer 2",
+    "scaling",
+    "rollup",
+    "blockchain"
+  ]
+}

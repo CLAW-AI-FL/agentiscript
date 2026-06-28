@@ -1,0 +1,10 @@
+{
+  "id": "AS-009",
+  "concept": "Prompt",
+  "definition": "An input instruction that directs an AI model toward a desired output",
+  "category": "agentic-economy",
+  "svg": "prompt.svg",
+  "tags": [
+    "prompt"
+  ]
+}

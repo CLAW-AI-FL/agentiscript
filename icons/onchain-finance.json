@@ -1,0 +1,23 @@
+{
+  "id": "AS-090",
+  "slug": "onchain-finance",
+  "concept": "Onchain Finance",
+  "definition": "Financial services and products running natively on blockchain with full transparency and programmability",
+  "aliases": [
+    "on-chain finance",
+    "DeFi",
+    "blockchain finance"
+  ],
+  "category": "ripple-hedera",
+  "category_name": "Ripple / Hedera",
+  "sources": [
+    "https://hedera.com/use-cases/tokenization"
+  ],
+  "svg": "onchain-finance.svg",
+  "tags": [
+    "onchain",
+    "finance",
+    "blockchain",
+    "DeFi"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AS-071",
+  "slug": "verifiable-compute",
+  "concept": "Verifiable Compute",
+  "definition": "Computation whose correctness can be mathematically verified without re-executing it",
+  "aliases": [
+    "verifiable computation",
+    "ZK compute",
+    "provable compute"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://arxiv.org/abs/1811.04164"
+  ],
+  "svg": "verifiable-compute.svg",
+  "tags": [
+    "verifiable",
+    "compute",
+    "ZK",
+    "proof"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "AS-015",
+  "concept": "Alignment",
+  "definition": "Ensuring AI goals and behavior match human values and intentions",
+  "category": "agentic-economy",
+  "svg": "alignment.svg",
+  "tags": [
+    "alignment"
+  ]
+}

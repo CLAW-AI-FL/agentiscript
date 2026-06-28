@@ -1,0 +1,23 @@
+{
+  "id": "AS-059",
+  "slug": "wallet-crypto",
+  "concept": "Wallet (Crypto)",
+  "definition": "Software storing private keys that gives users access to their blockchain assets",
+  "aliases": [
+    "crypto wallet",
+    "key store",
+    "digital wallet"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://ethereum.org/en/wallets/"
+  ],
+  "svg": "wallet-crypto.svg",
+  "tags": [
+    "wallet",
+    "keys",
+    "crypto",
+    "storage"
+  ]
+}

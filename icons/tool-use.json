@@ -1,0 +1,11 @@
+{
+  "id": "AS-003",
+  "concept": "Tool Use",
+  "definition": "An AI agent calling external functions or APIs to complete tasks",
+  "category": "agentic-economy",
+  "svg": "tool-use.svg",
+  "tags": [
+    "tool",
+    "use"
+  ]
+}

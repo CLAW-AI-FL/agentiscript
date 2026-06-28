@@ -1,0 +1,23 @@
+{
+  "id": "AS-114",
+  "slug": "self-driving-lab",
+  "concept": "Self-Driving Lab",
+  "definition": "An automated laboratory using AI and robotics to run experiments autonomously and iterate",
+  "aliases": [
+    "autonomous lab",
+    "robot lab",
+    "AI-driven research"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2306.08645"
+  ],
+  "svg": "self-driving-lab.svg",
+  "tags": [
+    "lab",
+    "autonomous",
+    "AI",
+    "robotics"
+  ]
+}

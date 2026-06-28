@@ -1,0 +1,23 @@
+{
+  "id": "AS-151",
+  "slug": "mission-autonomy",
+  "concept": "Mission Autonomy",
+  "definition": "The capability of systems to accomplish objectives without human intervention in the loop",
+  "aliases": [
+    "autonomous mission",
+    "self-directing system",
+    "mission independence"
+  ],
+  "category": "space-defense",
+  "category_name": "Space & Defense",
+  "sources": [
+    "https://arxiv.org/abs/2311.10538"
+  ],
+  "svg": "mission-autonomy.svg",
+  "tags": [
+    "autonomy",
+    "mission",
+    "autonomous",
+    "defense"
+  ]
+}

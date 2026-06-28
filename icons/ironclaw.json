@@ -1,0 +1,23 @@
+{
+  "id": "AS-078",
+  "slug": "ironclaw",
+  "concept": "IronClaw",
+  "definition": "NEAR's smart contract security audit framework for identifying vulnerabilities",
+  "aliases": [
+    "IronClaw",
+    "NEAR security",
+    "smart contract audit"
+  ],
+  "category": "near",
+  "category_name": "NEAR Protocol",
+  "sources": [
+    "https://near.org"
+  ],
+  "svg": "ironclaw.svg",
+  "tags": [
+    "security",
+    "audit",
+    "NEAR",
+    "smart contract"
+  ]
+}

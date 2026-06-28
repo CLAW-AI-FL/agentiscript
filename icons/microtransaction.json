@@ -1,0 +1,23 @@
+{
+  "id": "AS-097",
+  "slug": "microtransaction",
+  "concept": "Microtransaction",
+  "definition": "Tiny financial transactions (fractions of a cent) enabled at scale by blockchain infrastructure",
+  "aliases": [
+    "micro payment",
+    "nanopayment",
+    "streaming payments"
+  ],
+  "category": "ripple-hedera",
+  "category_name": "Ripple / Hedera",
+  "sources": [
+    "https://arxiv.org/abs/2005.03556"
+  ],
+  "svg": "microtransaction.svg",
+  "tags": [
+    "microtransaction",
+    "payment",
+    "micro",
+    "blockchain"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AS-055",
+  "slug": "fork-blockchain",
+  "concept": "Fork (Blockchain)",
+  "definition": "A change to a blockchain protocol creating either a backwards-compatible or incompatible divergence",
+  "aliases": [
+    "hard fork",
+    "soft fork",
+    "protocol upgrade"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://arxiv.org/abs/1710.09405"
+  ],
+  "svg": "fork-blockchain.svg",
+  "tags": [
+    "fork",
+    "protocol",
+    "upgrade",
+    "blockchain"
+  ]
+}

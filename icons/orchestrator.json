@@ -1,0 +1,10 @@
+{
+  "id": "AS-006",
+  "concept": "Orchestrator",
+  "definition": "A directing agent that coordinates and delegates tasks to sub-agents",
+  "category": "agentic-economy",
+  "svg": "orchestrator.svg",
+  "tags": [
+    "orchestrator"
+  ]
+}

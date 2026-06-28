@@ -1,0 +1,24 @@
+{
+  "id": "AS-121",
+  "slug": "euv-lithography",
+  "concept": "EUV Lithography",
+  "definition": "Extreme Ultraviolet Lithography — uses 13.5nm wavelength light to etch sub-7nm chip features",
+  "aliases": [
+    "EUV",
+    "extreme ultraviolet",
+    "chip lithography",
+    "ASML"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2007.04347"
+  ],
+  "svg": "euv-lithography.svg",
+  "tags": [
+    "EUV",
+    "lithography",
+    "chip",
+    "ASML"
+  ]
+}

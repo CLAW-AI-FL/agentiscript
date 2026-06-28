@@ -1,0 +1,23 @@
+{
+  "id": "AS-080",
+  "slug": "confidential-mode",
+  "concept": "Confidential Mode",
+  "definition": "An execution mode protecting data privacy in agent operations, hiding inputs and outputs",
+  "aliases": [
+    "private mode",
+    "confidential compute",
+    "privacy mode"
+  ],
+  "category": "near",
+  "category_name": "NEAR Protocol",
+  "sources": [
+    "https://near.org"
+  ],
+  "svg": "confidential-mode.svg",
+  "tags": [
+    "confidential",
+    "privacy",
+    "NEAR",
+    "mode"
+  ]
+}

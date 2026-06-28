@@ -1,0 +1,23 @@
+{
+  "id": "AS-100",
+  "slug": "binary-outcome",
+  "concept": "Binary Outcome",
+  "definition": "An event with exactly two possible results — yes/no, true/false, win/lose",
+  "aliases": [
+    "binary event",
+    "yes/no outcome",
+    "boolean outcome"
+  ],
+  "category": "prediction-markets",
+  "category_name": "Prediction Markets",
+  "sources": [
+    "https://kalshi.com"
+  ],
+  "svg": "binary-outcome.svg",
+  "tags": [
+    "binary",
+    "outcome",
+    "yes/no",
+    "boolean"
+  ]
+}

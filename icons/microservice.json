@@ -1,0 +1,23 @@
+{
+  "id": "AS-119",
+  "slug": "microservice",
+  "concept": "Microservice",
+  "definition": "An architectural approach building software as small independent services communicating via APIs",
+  "aliases": [
+    "microservices architecture",
+    "service mesh",
+    "service-oriented"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "sources": [
+    "https://arxiv.org/abs/2301.07427"
+  ],
+  "svg": "microservice.svg",
+  "tags": [
+    "microservice",
+    "architecture",
+    "API",
+    "service"
+  ]
+}

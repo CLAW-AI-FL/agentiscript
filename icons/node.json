@@ -1,0 +1,23 @@
+{
+  "id": "AS-058",
+  "slug": "node",
+  "concept": "Node",
+  "definition": "A participant in a blockchain network that maintains a copy of the ledger and validates transactions",
+  "aliases": [
+    "network node",
+    "full node",
+    "light node"
+  ],
+  "category": "blockchain",
+  "category_name": "Blockchain / Web3",
+  "sources": [
+    "https://ethereum.org/en/developers/docs/nodes-and-clients/"
+  ],
+  "svg": "node.svg",
+  "tags": [
+    "node",
+    "network",
+    "validation",
+    "blockchain"
+  ]
+}

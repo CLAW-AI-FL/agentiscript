@@ -1,0 +1,23 @@
+{
+  "id": "AS-027",
+  "slug": "frontier-model",
+  "concept": "Frontier Model",
+  "definition": "The most capable AI models at the current leading edge of capability, often closed-source",
+  "aliases": [
+    "leading edge model",
+    "SOTA model",
+    "cutting-edge AI"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/2307.09009"
+  ],
+  "svg": "frontier-model.svg",
+  "tags": [
+    "frontier",
+    "SOTA",
+    "capability",
+    "leading edge"
+  ]
+}

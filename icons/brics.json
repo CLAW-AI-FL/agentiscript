@@ -1,0 +1,23 @@
+{
+  "id": "AS-132",
+  "slug": "brics",
+  "concept": "BRICS",
+  "definition": "The economic bloc of Brazil, Russia, India, China, South Africa — and expanding membership",
+  "aliases": [
+    "BRICS nations",
+    "emerging markets bloc",
+    "BRICS+"
+  ],
+  "category": "economics",
+  "category_name": "Economics / Finance",
+  "sources": [
+    "https://arxiv.org/abs/2305.05127"
+  ],
+  "svg": "brics.svg",
+  "tags": [
+    "BRICS",
+    "geopolitics",
+    "emerging markets",
+    "economics"
+  ]
+}

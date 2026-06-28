@@ -1,0 +1,10 @@
+{
+  "id": "AS-019",
+  "concept": "Temperature",
+  "definition": "A parameter controlling randomness and creativity in AI model outputs",
+  "category": "agentic-economy",
+  "svg": "temperature.svg",
+  "tags": [
+    "temperature"
+  ]
+}

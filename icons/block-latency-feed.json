@@ -1,0 +1,23 @@
+{
+  "id": "AS-072",
+  "slug": "block-latency-feed",
+  "concept": "Block-Latency Feed",
+  "definition": "A price feed updated every block (~1.8s) on Flare, providing near-real-time oracle data",
+  "aliases": [
+    "block-by-block feed",
+    "fast oracle feed",
+    "sub-second feed"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network/ftso/overview"
+  ],
+  "svg": "block-latency-feed.svg",
+  "tags": [
+    "feed",
+    "latency",
+    "oracle",
+    "real-time"
+  ]
+}

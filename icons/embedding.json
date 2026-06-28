@@ -1,0 +1,10 @@
+{
+  "id": "AS-017",
+  "concept": "Embedding",
+  "definition": "A numerical vector representation of data capturing semantic meaning and relationships",
+  "category": "agentic-economy",
+  "svg": "embedding.svg",
+  "tags": [
+    "embedding"
+  ]
+}

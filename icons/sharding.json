@@ -1,0 +1,23 @@
+{
+  "id": "AS-082",
+  "slug": "sharding",
+  "concept": "Sharding",
+  "definition": "Partitioning blockchain state across parallel shards to achieve horizontal scalability",
+  "aliases": [
+    "blockchain sharding",
+    "Nightshade",
+    "parallel processing"
+  ],
+  "category": "near",
+  "category_name": "NEAR Protocol",
+  "sources": [
+    "https://arxiv.org/abs/2106.02701"
+  ],
+  "svg": "sharding.svg",
+  "tags": [
+    "sharding",
+    "scalability",
+    "NEAR",
+    "parallel"
+  ]
+}

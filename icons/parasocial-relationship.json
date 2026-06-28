@@ -1,0 +1,23 @@
+{
+  "id": "AS-142",
+  "slug": "parasocial-relationship",
+  "concept": "Parasocial Relationship",
+  "definition": "A one-sided emotional bond a person forms with a media persona, celebrity, or AI without real interaction",
+  "aliases": [
+    "parasocial bond",
+    "one-sided relationship",
+    "media relationship"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2207.09876"
+  ],
+  "svg": "parasocial-relationship.svg",
+  "tags": [
+    "parasocial",
+    "relationship",
+    "psychology",
+    "media"
+  ]
+}

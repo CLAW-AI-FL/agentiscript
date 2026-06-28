@@ -1,0 +1,23 @@
+{
+  "id": "AS-099",
+  "slug": "event-contract",
+  "concept": "Event Contract",
+  "definition": "A financial contract whose payoff is determined by the outcome of a specific real-world event",
+  "aliases": [
+    "outcome contract",
+    "event derivative",
+    "binary contract"
+  ],
+  "category": "prediction-markets",
+  "category_name": "Prediction Markets",
+  "sources": [
+    "https://kalshi.com"
+  ],
+  "svg": "event-contract.svg",
+  "tags": [
+    "event",
+    "contract",
+    "outcome",
+    "market"
+  ]
+}

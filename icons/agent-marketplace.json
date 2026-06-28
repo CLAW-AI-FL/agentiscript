@@ -1,0 +1,23 @@
+{
+  "id": "AS-081",
+  "slug": "agent-marketplace",
+  "concept": "Agent Marketplace",
+  "definition": "A platform where AI agents can be discovered, deployed, hired, and monetized",
+  "aliases": [
+    "AI agent store",
+    "agent registry",
+    "agent hub"
+  ],
+  "category": "near",
+  "category_name": "NEAR Protocol",
+  "sources": [
+    "https://near.org"
+  ],
+  "svg": "agent-marketplace.svg",
+  "tags": [
+    "marketplace",
+    "agents",
+    "NEAR",
+    "discovery"
+  ]
+}

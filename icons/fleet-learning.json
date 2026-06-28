@@ -1,0 +1,23 @@
+{
+  "id": "AS-032",
+  "slug": "fleet-learning",
+  "concept": "Fleet Learning",
+  "definition": "Distributed learning where insights from a fleet of deployed agents improve the shared model",
+  "aliases": [
+    "federated fleet",
+    "collective learning",
+    "swarm learning"
+  ],
+  "category": "agentic-economy",
+  "category_name": "Agentic Economy",
+  "sources": [
+    "https://arxiv.org/abs/2205.00308"
+  ],
+  "svg": "fleet-learning.svg",
+  "tags": [
+    "fleet",
+    "distributed",
+    "learning",
+    "federated"
+  ]
+}

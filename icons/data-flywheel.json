@@ -1,0 +1,11 @@
+{
+  "id": "AS-042",
+  "concept": "Data Flywheel",
+  "definition": "A feedback loop where more usage generates more data, which improves the model, attracting more usage",
+  "category": "agentic-economy",
+  "svg": "data-flywheel.svg",
+  "tags": [
+    "data",
+    "flywheel"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "AS-026",
+  "concept": "Tokenization",
+  "definition": "Converting rights to a real-world asset into a digital token on a blockchain",
+  "category": "blockchain",
+  "svg": "tokenization.svg",
+  "tags": [
+    "tokenization"
+  ]
+}

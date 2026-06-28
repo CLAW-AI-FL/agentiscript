@@ -1,0 +1,23 @@
+{
+  "id": "AS-136",
+  "slug": "superintelligence",
+  "concept": "Superintelligence",
+  "definition": "A hypothetical AI that surpasses human cognitive performance across all domains",
+  "aliases": [
+    "ASI",
+    "artificial superintelligence",
+    "beyond-human AI"
+  ],
+  "category": "philosophy",
+  "category_name": "Philosophy / Thought",
+  "sources": [
+    "https://arxiv.org/abs/2109.13916"
+  ],
+  "svg": "superintelligence.svg",
+  "tags": [
+    "superintelligence",
+    "ASI",
+    "AI",
+    "capability"
+  ]
+}

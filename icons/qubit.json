@@ -1,0 +1,10 @@
+{
+  "id": "AS-035",
+  "concept": "Qubit",
+  "definition": "The basic unit of quantum information, existing in superposition of 0 and 1 simultaneously",
+  "category": "science",
+  "svg": "qubit.svg",
+  "tags": [
+    "qubit"
+  ]
+}

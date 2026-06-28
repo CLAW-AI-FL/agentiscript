@@ -1,0 +1,24 @@
+{
+  "id": "AS-065",
+  "slug": "fassets",
+  "concept": "FAssets",
+  "definition": "Flare's trustless system for bringing non-smart-contract tokens like BTC onto the Flare network",
+  "aliases": [
+    "Flare assets",
+    "FBTC",
+    "wrapped assets",
+    "trustless bridge"
+  ],
+  "category": "flare",
+  "category_name": "Flare Network",
+  "sources": [
+    "https://dev.flare.network/fassets/overview"
+  ],
+  "svg": "fassets.svg",
+  "tags": [
+    "FAssets",
+    "Flare",
+    "bridge",
+    "trustless"
+  ]
+}
