@@ -1,0 +1,13 @@
+{
+  "id": "two-thirds-majority",
+  "name": "two-thirds majority",
+  "category": "American Politics",
+  "tags": [
+    "two",
+    "thirds",
+    "majority"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

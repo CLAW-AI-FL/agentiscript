@@ -1,0 +1,12 @@
+{
+  "id": "vetounited-states",
+  "name": "Veto#United States",
+  "category": "American Politics",
+  "tags": [
+    "vetounited",
+    "states"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

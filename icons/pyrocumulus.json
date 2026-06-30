@@ -1,0 +1,11 @@
+{
+  "id": "pyrocumulus",
+  "name": "pyrocumulus",
+  "category": "Meteorology",
+  "tags": [
+    "pyrocumulus"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

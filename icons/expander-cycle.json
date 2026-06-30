@@ -1,0 +1,12 @@
+{
+  "id": "expander-cycle",
+  "name": "Expander cycle",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "expander",
+    "cycle"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

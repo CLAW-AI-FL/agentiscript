@@ -1,0 +1,12 @@
+{
+  "id": "edible-landscaping",
+  "name": "edible landscaping",
+  "category": "Agriculture",
+  "tags": [
+    "edible",
+    "landscaping"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

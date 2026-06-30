@@ -1,0 +1,11 @@
+{
+  "id": "internship",
+  "name": "Internship",
+  "category": "Medicine",
+  "tags": [
+    "internship"
+  ],
+  "source": "medicine",
+  "version": "2.3",
+  "license": "CC0"
+}

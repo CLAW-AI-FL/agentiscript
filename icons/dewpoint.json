@@ -1,0 +1,11 @@
+{
+  "id": "dewpoint",
+  "name": "dewpoint",
+  "category": "Meteorology",
+  "tags": [
+    "dewpoint"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

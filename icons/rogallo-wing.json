@@ -1,0 +1,12 @@
+{
+  "id": "rogallo-wing",
+  "name": "Rogallo wing",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "rogallo",
+    "wing"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

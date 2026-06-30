@@ -1,0 +1,11 @@
+{
+  "id": "magsail",
+  "name": "magsail",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "magsail"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

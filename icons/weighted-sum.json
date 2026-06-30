@@ -1,0 +1,12 @@
+{
+  "id": "weighted-sum",
+  "name": "weighted sum",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "weighted",
+    "sum"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

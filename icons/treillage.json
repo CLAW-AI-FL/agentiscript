@@ -1,0 +1,11 @@
+{
+  "id": "treillage",
+  "name": "treillage",
+  "category": "Agriculture",
+  "tags": [
+    "treillage"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "universal-gravitational-constant",
+  "name": "universal gravitational constant",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "universal",
+    "gravitational",
+    "constant"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

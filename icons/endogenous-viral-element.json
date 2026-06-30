@@ -1,0 +1,13 @@
+{
+  "id": "endogenous-viral-element",
+  "name": "endogenous viral element",
+  "category": "Virology",
+  "tags": [
+    "endogenous",
+    "viral",
+    "element"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

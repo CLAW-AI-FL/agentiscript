@@ -1,0 +1,11 @@
+{
+  "id": "menu",
+  "name": "Menu",
+  "category": "Library and Information Science",
+  "tags": [
+    "menu"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

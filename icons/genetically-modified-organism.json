@@ -1,0 +1,13 @@
+{
+  "id": "genetically-modified-organism",
+  "name": "genetically modified organism",
+  "category": "Agriculture",
+  "tags": [
+    "genetically",
+    "modified",
+    "organism"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

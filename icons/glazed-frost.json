@@ -1,0 +1,12 @@
+{
+  "id": "glazed-frost",
+  "name": "glazed frost",
+  "category": "Meteorology",
+  "tags": [
+    "glazed",
+    "frost"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

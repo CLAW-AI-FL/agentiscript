@@ -1,0 +1,12 @@
+{
+  "id": "tetrazolium-test",
+  "name": "tetrazolium test",
+  "category": "Agriculture",
+  "tags": [
+    "tetrazolium",
+    "test"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

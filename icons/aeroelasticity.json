@@ -1,0 +1,11 @@
+{
+  "id": "aeroelasticity",
+  "name": "Aeroelasticity",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "aeroelasticity"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

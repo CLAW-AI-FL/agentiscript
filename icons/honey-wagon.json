@@ -1,0 +1,12 @@
+{
+  "id": "honey-wagon",
+  "name": "honey wagon",
+  "category": "Agriculture",
+  "tags": [
+    "honey",
+    "wagon"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

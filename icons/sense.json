@@ -1,0 +1,11 @@
+{
+  "id": "sense",
+  "name": "sense",
+  "category": "Virology",
+  "tags": [
+    "sense"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hoskins-effect",
+  "name": "Hoskins effect",
+  "category": "Virology",
+  "tags": [
+    "hoskins",
+    "effect"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

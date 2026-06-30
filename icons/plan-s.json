@@ -1,0 +1,11 @@
+{
+  "id": "plan-s",
+  "name": "Plan S",
+  "category": "Library and Information Science",
+  "tags": [
+    "plan"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

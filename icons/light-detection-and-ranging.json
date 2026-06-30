@@ -1,0 +1,14 @@
+{
+  "id": "light-detection-and-ranging",
+  "name": "light detection and ranging",
+  "category": "Meteorology",
+  "tags": [
+    "light",
+    "detection",
+    "and",
+    "ranging"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

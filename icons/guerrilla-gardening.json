@@ -1,0 +1,12 @@
+{
+  "id": "guerrilla-gardening",
+  "name": "Guerrilla gardening",
+  "category": "Political Theory",
+  "tags": [
+    "guerrilla",
+    "gardening"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

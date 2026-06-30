@@ -1,0 +1,14 @@
+{
+  "id": "field-emission-electric-propulsion",
+  "name": "Field-emission electric propulsion",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "field",
+    "emission",
+    "electric",
+    "propulsion"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

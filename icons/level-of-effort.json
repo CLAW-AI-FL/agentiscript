@@ -1,0 +1,12 @@
+{
+  "id": "level-of-effort",
+  "name": "Level of effort",
+  "category": "Project Management",
+  "tags": [
+    "level",
+    "effort"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

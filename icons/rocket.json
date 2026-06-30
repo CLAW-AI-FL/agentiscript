@@ -1,0 +1,11 @@
+{
+  "id": "rocket",
+  "name": "Rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

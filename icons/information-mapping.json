@@ -1,0 +1,12 @@
+{
+  "id": "information-mapping",
+  "name": "Information mapping",
+  "category": "Library and Information Science",
+  "tags": [
+    "information",
+    "mapping"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

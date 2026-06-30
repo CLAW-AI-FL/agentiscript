@@ -1,0 +1,13 @@
+{
+  "id": "leaf-base-shape",
+  "name": "Leaf Base Shape",
+  "category": "Plant Morphology",
+  "tags": [
+    "leaf",
+    "base",
+    "shape"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

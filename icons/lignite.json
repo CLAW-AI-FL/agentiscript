@@ -1,0 +1,11 @@
+{
+  "id": "lignite",
+  "name": "lignite",
+  "category": "Geology",
+  "tags": [
+    "lignite"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

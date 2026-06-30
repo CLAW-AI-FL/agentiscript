@@ -1,0 +1,11 @@
+{
+  "id": "hygrometry",
+  "name": "hygrometry",
+  "category": "Meteorology",
+  "tags": [
+    "hygrometry"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

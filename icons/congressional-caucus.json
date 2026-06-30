@@ -1,0 +1,12 @@
+{
+  "id": "congressional-caucus",
+  "name": "Congressional caucus",
+  "category": "American Politics",
+  "tags": [
+    "congressional",
+    "caucus"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

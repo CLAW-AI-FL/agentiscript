@@ -1,0 +1,13 @@
+{
+  "id": "growing-degree-days",
+  "name": "growing degree-days",
+  "category": "Agriculture",
+  "tags": [
+    "growing",
+    "degree",
+    "days"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

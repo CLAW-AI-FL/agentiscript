@@ -1,0 +1,11 @@
+{
+  "id": "extropy",
+  "name": "extropy",
+  "category": "Philosophy",
+  "tags": [
+    "extropy"
+  ],
+  "source": "philosophy",
+  "version": "2.3",
+  "license": "CC0"
+}

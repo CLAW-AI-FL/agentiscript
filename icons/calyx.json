@@ -1,0 +1,11 @@
+{
+  "id": "calyx",
+  "name": "calyx",
+  "category": "Plant Morphology",
+  "tags": [
+    "calyx"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

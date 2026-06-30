@@ -1,0 +1,13 @@
+{
+  "id": "project-management-office",
+  "name": "Project management office",
+  "category": "Project Management",
+  "tags": [
+    "project",
+    "management",
+    "office"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

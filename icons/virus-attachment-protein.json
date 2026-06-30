@@ -1,0 +1,13 @@
+{
+  "id": "virus-attachment-protein",
+  "name": "virus attachment protein",
+  "category": "Virology",
+  "tags": [
+    "virus",
+    "attachment",
+    "protein"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

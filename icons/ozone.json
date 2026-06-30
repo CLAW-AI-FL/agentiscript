@@ -1,0 +1,11 @@
+{
+  "id": "ozone",
+  "name": "ozone",
+  "category": "Climate Change",
+  "tags": [
+    "ozone"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

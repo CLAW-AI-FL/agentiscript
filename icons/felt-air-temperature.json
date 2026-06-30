@@ -1,0 +1,13 @@
+{
+  "id": "felt-air-temperature",
+  "name": "felt air temperature",
+  "category": "Meteorology",
+  "tags": [
+    "felt",
+    "air",
+    "temperature"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

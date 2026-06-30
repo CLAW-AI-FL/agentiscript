@@ -1,0 +1,13 @@
+{
+  "id": "anthropogenic-climate-change",
+  "name": "anthropogenic climate change",
+  "category": "Climate Change",
+  "tags": [
+    "anthropogenic",
+    "climate",
+    "change"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

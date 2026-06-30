@@ -1,0 +1,12 @@
+{
+  "id": "mist-bow",
+  "name": "mist bow",
+  "category": "Meteorology",
+  "tags": [
+    "mist",
+    "bow"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

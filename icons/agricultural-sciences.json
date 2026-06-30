@@ -1,0 +1,12 @@
+{
+  "id": "agricultural-sciences",
+  "name": "agricultural sciences",
+  "category": "Agriculture",
+  "tags": [
+    "agricultural",
+    "sciences"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lifting-gas",
+  "name": "lifting gas",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "lifting",
+    "gas"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

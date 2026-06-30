@@ -1,0 +1,12 @@
+{
+  "id": "animal-virus",
+  "name": "animal virus",
+  "category": "Virology",
+  "tags": [
+    "animal",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

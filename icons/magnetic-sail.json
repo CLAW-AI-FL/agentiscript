@@ -1,0 +1,12 @@
+{
+  "id": "magnetic-sail",
+  "name": "Magnetic sail",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "magnetic",
+    "sail"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

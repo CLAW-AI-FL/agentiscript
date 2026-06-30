@@ -1,0 +1,12 @@
+{
+  "id": "carbon-offset",
+  "name": "carbon offset",
+  "category": "Climate Change",
+  "tags": [
+    "carbon",
+    "offset"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

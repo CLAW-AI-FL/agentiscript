@@ -1,0 +1,12 @@
+{
+  "id": "biennio-rosso",
+  "name": "Biennio rosso",
+  "category": "Political Theory",
+  "tags": [
+    "biennio",
+    "rosso"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

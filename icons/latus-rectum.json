@@ -1,0 +1,12 @@
+{
+  "id": "latus-rectum",
+  "name": "Latus rectum",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "latus",
+    "rectum"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "viral-disease",
+  "name": "viral disease",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "disease"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

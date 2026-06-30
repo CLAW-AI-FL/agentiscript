@@ -1,0 +1,12 @@
+{
+  "id": "heat-storm",
+  "name": "heat storm",
+  "category": "Meteorology",
+  "tags": [
+    "heat",
+    "storm"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

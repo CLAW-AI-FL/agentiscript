@@ -1,0 +1,11 @@
+{
+  "id": "standards",
+  "name": "Standards",
+  "category": "Project Management",
+  "tags": [
+    "standards"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

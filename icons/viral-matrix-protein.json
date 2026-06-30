@@ -1,0 +1,13 @@
+{
+  "id": "viral-matrix-protein",
+  "name": "viral matrix protein",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "matrix",
+    "protein"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

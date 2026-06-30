@@ -1,0 +1,14 @@
+{
+  "id": "trough-of-warm-air-aloft",
+  "name": "trough of warm air aloft",
+  "category": "Meteorology",
+  "tags": [
+    "trough",
+    "warm",
+    "air",
+    "aloft"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

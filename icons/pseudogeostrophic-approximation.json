@@ -1,0 +1,12 @@
+{
+  "id": "pseudogeostrophic-approximation",
+  "name": "pseudogeostrophic approximation",
+  "category": "Meteorology",
+  "tags": [
+    "pseudogeostrophic",
+    "approximation"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

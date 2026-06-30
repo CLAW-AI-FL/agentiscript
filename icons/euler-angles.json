@@ -1,0 +1,12 @@
+{
+  "id": "euler-angles",
+  "name": "Euler angles",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "euler",
+    "angles"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

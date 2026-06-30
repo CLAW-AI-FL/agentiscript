@@ -1,0 +1,13 @@
+{
+  "id": "human-immunodeficiency-virus",
+  "name": "Human Immunodeficiency Virus",
+  "category": "Virology",
+  "tags": [
+    "human",
+    "immunodeficiency",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

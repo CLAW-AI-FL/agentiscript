@@ -1,0 +1,13 @@
+{
+  "id": "permanent-wilting-point",
+  "name": "permanent wilting point",
+  "category": "Agriculture",
+  "tags": [
+    "permanent",
+    "wilting",
+    "point"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

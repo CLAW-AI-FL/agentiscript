@@ -1,0 +1,12 @@
+{
+  "id": "zygotic-induction",
+  "name": "zygotic induction",
+  "category": "Virology",
+  "tags": [
+    "zygotic",
+    "induction"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

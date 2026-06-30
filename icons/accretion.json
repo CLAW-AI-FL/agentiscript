@@ -1,0 +1,11 @@
+{
+  "id": "accretion",
+  "name": "Accretion",
+  "category": "Geology",
+  "tags": [
+    "accretion"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

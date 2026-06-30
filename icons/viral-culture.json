@@ -1,0 +1,12 @@
+{
+  "id": "viral-culture",
+  "name": "viral culture",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "culture"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

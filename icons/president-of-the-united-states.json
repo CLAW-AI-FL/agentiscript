@@ -1,0 +1,14 @@
+{
+  "id": "president-of-the-united-states",
+  "name": "President of the United States",
+  "category": "American Politics",
+  "tags": [
+    "president",
+    "the",
+    "united",
+    "states"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

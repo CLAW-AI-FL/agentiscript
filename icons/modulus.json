@@ -1,0 +1,11 @@
+{
+  "id": "modulus",
+  "name": "modulus",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "modulus"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

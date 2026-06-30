@@ -1,0 +1,13 @@
+{
+  "id": "linear-scheduling-method",
+  "name": "Linear scheduling method",
+  "category": "Project Management",
+  "tags": [
+    "linear",
+    "scheduling",
+    "method"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

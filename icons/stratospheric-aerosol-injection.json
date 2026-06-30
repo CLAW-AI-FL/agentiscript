@@ -1,0 +1,13 @@
+{
+  "id": "stratospheric-aerosol-injection",
+  "name": "Stratospheric aerosol injection",
+  "category": "Climate Change",
+  "tags": [
+    "stratospheric",
+    "aerosol",
+    "injection"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

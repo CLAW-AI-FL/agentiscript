@@ -1,0 +1,11 @@
+{
+  "id": "puddling",
+  "name": "puddling",
+  "category": "Agriculture",
+  "tags": [
+    "puddling"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

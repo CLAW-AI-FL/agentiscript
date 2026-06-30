@@ -1,0 +1,11 @@
+{
+  "id": "planetoids",
+  "name": "planetoids",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "planetoids"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

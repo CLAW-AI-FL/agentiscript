@@ -1,0 +1,11 @@
+{
+  "id": "boscard",
+  "name": "BOSCARD",
+  "category": "Project Management",
+  "tags": [
+    "boscard"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

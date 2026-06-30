@@ -1,0 +1,12 @@
+{
+  "id": "orbit-phasing",
+  "name": "Orbit phasing",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "orbit",
+    "phasing"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

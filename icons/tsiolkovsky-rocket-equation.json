@@ -1,0 +1,13 @@
+{
+  "id": "tsiolkovsky-rocket-equation",
+  "name": "Tsiolkovsky rocket equation",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "tsiolkovsky",
+    "rocket",
+    "equation"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

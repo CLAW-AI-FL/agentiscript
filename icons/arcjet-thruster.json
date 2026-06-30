@@ -1,0 +1,12 @@
+{
+  "id": "arcjet-thruster",
+  "name": "arcjet thruster",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "arcjet",
+    "thruster"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

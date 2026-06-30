@@ -1,0 +1,13 @@
+{
+  "id": "global-warming-period",
+  "name": "global warming period",
+  "category": "Climate Change",
+  "tags": [
+    "global",
+    "warming",
+    "period"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

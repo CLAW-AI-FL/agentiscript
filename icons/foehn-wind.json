@@ -1,0 +1,12 @@
+{
+  "id": "foehn-wind",
+  "name": "foehn wind",
+  "category": "Meteorology",
+  "tags": [
+    "foehn",
+    "wind"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

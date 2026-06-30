@@ -1,0 +1,11 @@
+{
+  "id": "aboiteaux",
+  "name": "aboiteaux",
+  "category": "Agriculture",
+  "tags": [
+    "aboiteaux"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

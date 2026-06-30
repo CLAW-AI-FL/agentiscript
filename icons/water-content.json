@@ -1,0 +1,12 @@
+{
+  "id": "water-content",
+  "name": "water content",
+  "category": "Meteorology",
+  "tags": [
+    "water",
+    "content"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

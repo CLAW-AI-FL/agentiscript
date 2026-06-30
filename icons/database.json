@@ -1,0 +1,11 @@
+{
+  "id": "database",
+  "name": "Database",
+  "category": "Library and Information Science",
+  "tags": [
+    "database"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

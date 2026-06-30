@@ -1,0 +1,12 @@
+{
+  "id": "orphan-virus",
+  "name": "orphan virus",
+  "category": "Virology",
+  "tags": [
+    "orphan",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

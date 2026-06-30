@@ -1,0 +1,11 @@
+{
+  "id": "journal",
+  "name": "Journal",
+  "category": "Library and Information Science",
+  "tags": [
+    "journal"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

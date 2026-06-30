@@ -1,0 +1,11 @@
+{
+  "id": "priming",
+  "name": "priming",
+  "category": "Agriculture",
+  "tags": [
+    "priming"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

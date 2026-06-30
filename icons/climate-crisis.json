@@ -1,0 +1,12 @@
+{
+  "id": "climate-crisis",
+  "name": "Climate crisis",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "crisis"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

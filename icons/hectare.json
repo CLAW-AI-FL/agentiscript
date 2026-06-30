@@ -1,0 +1,11 @@
+{
+  "id": "hectare",
+  "name": "hectare",
+  "category": "Agriculture",
+  "tags": [
+    "hectare"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "haymow",
+  "name": "haymow",
+  "category": "Agriculture",
+  "tags": [
+    "haymow"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

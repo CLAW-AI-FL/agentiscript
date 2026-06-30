@@ -1,0 +1,12 @@
+{
+  "id": "carbon-sink",
+  "name": "carbon sink",
+  "category": "Climate Change",
+  "tags": [
+    "carbon",
+    "sink"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "diurnal-range",
+  "name": "diurnal range",
+  "category": "Meteorology",
+  "tags": [
+    "diurnal",
+    "range"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

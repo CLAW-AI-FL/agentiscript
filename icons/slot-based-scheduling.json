@@ -1,0 +1,13 @@
+{
+  "id": "slot-based-scheduling",
+  "name": "Slot-based scheduling",
+  "category": "Project Management",
+  "tags": [
+    "slot",
+    "based",
+    "scheduling"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

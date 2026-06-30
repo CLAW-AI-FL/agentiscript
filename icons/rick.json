@@ -1,0 +1,11 @@
+{
+  "id": "rick",
+  "name": "rick",
+  "category": "Agriculture",
+  "tags": [
+    "rick"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

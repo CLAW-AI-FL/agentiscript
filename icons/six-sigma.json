@@ -1,0 +1,12 @@
+{
+  "id": "six-sigma",
+  "name": "Six Sigma",
+  "category": "Project Management",
+  "tags": [
+    "six",
+    "sigma"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

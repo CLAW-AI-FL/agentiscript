@@ -1,0 +1,13 @@
+{
+  "id": "jet-stream-core",
+  "name": "jet stream core",
+  "category": "Meteorology",
+  "tags": [
+    "jet",
+    "stream",
+    "core"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

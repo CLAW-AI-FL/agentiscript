@@ -1,0 +1,12 @@
+{
+  "id": "tail-assembly",
+  "name": "tail assembly",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "tail",
+    "assembly"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nitrous-oxide",
+  "name": "nitrous oxide",
+  "category": "Climate Change",
+  "tags": [
+    "nitrous",
+    "oxide"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

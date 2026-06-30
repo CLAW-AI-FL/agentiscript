@@ -1,0 +1,13 @@
+{
+  "id": "fixed-wing-aircraft",
+  "name": "Fixed-wing aircraft",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "fixed",
+    "wing",
+    "aircraft"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

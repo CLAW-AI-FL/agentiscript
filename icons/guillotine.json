@@ -1,0 +1,11 @@
+{
+  "id": "guillotine",
+  "name": "guillotine",
+  "category": "American Politics",
+  "tags": [
+    "guillotine"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

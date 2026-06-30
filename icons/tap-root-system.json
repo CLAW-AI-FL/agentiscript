@@ -1,0 +1,13 @@
+{
+  "id": "tap-root-system",
+  "name": "Tap-Root-System",
+  "category": "Plant Morphology",
+  "tags": [
+    "tap",
+    "root",
+    "system"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "poddy-calf",
+  "name": "poddy calf",
+  "category": "Agriculture",
+  "tags": [
+    "poddy",
+    "calf"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "alighting",
+  "name": "alighting",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "alighting"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

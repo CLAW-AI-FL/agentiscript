@@ -1,0 +1,13 @@
+{
+  "id": "north-atlantic-oscillation",
+  "name": "North Atlantic oscillation",
+  "category": "Climate Change",
+  "tags": [
+    "north",
+    "atlantic",
+    "oscillation"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

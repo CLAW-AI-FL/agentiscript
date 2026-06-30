@@ -1,0 +1,13 @@
+{
+  "id": "detection-and-attribution",
+  "name": "detection and attribution",
+  "category": "Climate Change",
+  "tags": [
+    "detection",
+    "and",
+    "attribution"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

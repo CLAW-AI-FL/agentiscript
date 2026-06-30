@@ -1,0 +1,11 @@
+{
+  "id": "turbomachinery",
+  "name": "Turbomachinery",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "turbomachinery"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "molecular-farming",
+  "name": "molecular farming",
+  "category": "Agriculture",
+  "tags": [
+    "molecular",
+    "farming"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

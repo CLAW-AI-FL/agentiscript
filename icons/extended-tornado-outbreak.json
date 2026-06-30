@@ -1,0 +1,13 @@
+{
+  "id": "extended-tornado-outbreak",
+  "name": "extended tornado outbreak",
+  "category": "Meteorology",
+  "tags": [
+    "extended",
+    "tornado",
+    "outbreak"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

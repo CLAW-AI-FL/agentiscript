@@ -1,0 +1,11 @@
+{
+  "id": "operations",
+  "name": "Operations",
+  "category": "Project Management",
+  "tags": [
+    "operations"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "percussion",
+  "name": "Percussion",
+  "category": "Medicine",
+  "tags": [
+    "percussion"
+  ],
+  "source": "medicine",
+  "version": "2.3",
+  "license": "CC0"
+}

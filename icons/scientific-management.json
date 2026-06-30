@@ -1,0 +1,12 @@
+{
+  "id": "scientific-management",
+  "name": "Scientific management",
+  "category": "Project Management",
+  "tags": [
+    "scientific",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

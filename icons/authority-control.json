@@ -1,0 +1,12 @@
+{
+  "id": "authority-control",
+  "name": "Authority control",
+  "category": "Library and Information Science",
+  "tags": [
+    "authority",
+    "control"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

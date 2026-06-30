@@ -1,0 +1,12 @@
+{
+  "id": "profile-drag",
+  "name": "profile drag",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "profile",
+    "drag"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

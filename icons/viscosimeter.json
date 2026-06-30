@@ -1,0 +1,11 @@
+{
+  "id": "viscosimeter",
+  "name": "viscosimeter",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "viscosimeter"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

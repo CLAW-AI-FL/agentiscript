@@ -1,0 +1,13 @@
+{
+  "id": "cavendish-gravitational-constant",
+  "name": "Cavendish gravitational constant",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "cavendish",
+    "gravitational",
+    "constant"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

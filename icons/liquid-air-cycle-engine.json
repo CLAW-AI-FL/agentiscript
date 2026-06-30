@@ -1,0 +1,14 @@
+{
+  "id": "liquid-air-cycle-engine",
+  "name": "Liquid air cycle engine",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "liquid",
+    "air",
+    "cycle",
+    "engine"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "precession",
+  "name": "Precession",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "precession"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

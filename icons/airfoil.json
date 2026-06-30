@@ -1,0 +1,11 @@
+{
+  "id": "airfoil",
+  "name": "Airfoil",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "airfoil"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

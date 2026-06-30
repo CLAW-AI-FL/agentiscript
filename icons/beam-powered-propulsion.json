@@ -1,0 +1,13 @@
+{
+  "id": "beam-powered-propulsion",
+  "name": "Beam-powered propulsion",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "beam",
+    "powered",
+    "propulsion"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

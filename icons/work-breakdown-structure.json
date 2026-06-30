@@ -1,0 +1,13 @@
+{
+  "id": "work-breakdown-structure",
+  "name": "Work breakdown structure",
+  "category": "Project Management",
+  "tags": [
+    "work",
+    "breakdown",
+    "structure"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

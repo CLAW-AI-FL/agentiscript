@@ -1,0 +1,12 @@
+{
+  "id": "snow-bale",
+  "name": "snow bale",
+  "category": "Meteorology",
+  "tags": [
+    "snow",
+    "bale"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

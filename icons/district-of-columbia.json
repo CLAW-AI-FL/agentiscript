@@ -1,0 +1,12 @@
+{
+  "id": "district-of-columbia",
+  "name": "District of Columbia",
+  "category": "American Politics",
+  "tags": [
+    "district",
+    "columbia"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

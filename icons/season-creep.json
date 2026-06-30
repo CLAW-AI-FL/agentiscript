@@ -1,0 +1,12 @@
+{
+  "id": "season-creep",
+  "name": "season creep",
+  "category": "Climate Change",
+  "tags": [
+    "season",
+    "creep"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

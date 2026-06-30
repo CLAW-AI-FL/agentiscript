@@ -1,0 +1,13 @@
+{
+  "id": "flight-management-systemfms",
+  "name": "Flight management system|FMS",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "flight",
+    "management",
+    "systemfms"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

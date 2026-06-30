@@ -1,0 +1,12 @@
+{
+  "id": "short-hundredweight",
+  "name": "short hundredweight",
+  "category": "Agriculture",
+  "tags": [
+    "short",
+    "hundredweight"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

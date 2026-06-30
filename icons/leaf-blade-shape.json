@@ -1,0 +1,13 @@
+{
+  "id": "leaf-blade-shape",
+  "name": "Leaf Blade Shape",
+  "category": "Plant Morphology",
+  "tags": [
+    "leaf",
+    "blade",
+    "shape"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

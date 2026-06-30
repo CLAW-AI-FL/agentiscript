@@ -1,0 +1,11 @@
+{
+  "id": "jet",
+  "name": "jet",
+  "category": "Meteorology",
+  "tags": [
+    "jet"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

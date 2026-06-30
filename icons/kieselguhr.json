@@ -1,0 +1,11 @@
+{
+  "id": "kieselguhr",
+  "name": "kieselguhr",
+  "category": "Agriculture",
+  "tags": [
+    "kieselguhr"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

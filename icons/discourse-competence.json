@@ -1,0 +1,12 @@
+{
+  "id": "discourse-competence",
+  "name": "Discourse competence",
+  "category": "Language Education",
+  "tags": [
+    "discourse",
+    "competence"
+  ],
+  "source": "linguistics",
+  "version": "2.3",
+  "license": "CC0"
+}

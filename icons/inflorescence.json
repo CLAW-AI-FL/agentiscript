@@ -1,0 +1,11 @@
+{
+  "id": "inflorescence",
+  "name": "inflorescence",
+  "category": "Plant Morphology",
+  "tags": [
+    "inflorescence"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

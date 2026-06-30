@@ -1,0 +1,12 @@
+{
+  "id": "terminal-velocity",
+  "name": "Terminal velocity",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "terminal",
+    "velocity"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

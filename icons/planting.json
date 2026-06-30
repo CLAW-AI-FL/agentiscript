@@ -1,0 +1,11 @@
+{
+  "id": "planting",
+  "name": "planting",
+  "category": "Agriculture",
+  "tags": [
+    "planting"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

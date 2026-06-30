@@ -1,0 +1,11 @@
+{
+  "id": "chamsin",
+  "name": "chamsin",
+  "category": "Meteorology",
+  "tags": [
+    "chamsin"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

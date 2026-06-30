@@ -1,0 +1,12 @@
+{
+  "id": "slurry-store",
+  "name": "slurry store",
+  "category": "Agriculture",
+  "tags": [
+    "slurry",
+    "store"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

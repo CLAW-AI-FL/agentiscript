@@ -1,0 +1,12 @@
+{
+  "id": "plow-pan",
+  "name": "plow pan",
+  "category": "Agriculture",
+  "tags": [
+    "plow",
+    "pan"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

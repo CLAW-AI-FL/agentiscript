@@ -1,0 +1,12 @@
+{
+  "id": "prandtlglauert-singularity",
+  "name": "Prandtl\u2013Glauert singularity",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "prandtlglauert",
+    "singularity"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "arrangement",
+  "name": "Arrangement",
+  "category": "Library and Information Science",
+  "tags": [
+    "arrangement"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

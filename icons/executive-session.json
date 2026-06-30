@@ -1,0 +1,12 @@
+{
+  "id": "executive-session",
+  "name": "executive session",
+  "category": "American Politics",
+  "tags": [
+    "executive",
+    "session"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

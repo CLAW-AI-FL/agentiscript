@@ -1,0 +1,13 @@
+{
+  "id": "hohmann-transfer-orbit",
+  "name": "Hohmann transfer orbit",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "hohmann",
+    "transfer",
+    "orbit"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

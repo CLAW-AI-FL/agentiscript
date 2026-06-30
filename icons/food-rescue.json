@@ -1,0 +1,12 @@
+{
+  "id": "food-rescue",
+  "name": "Food rescue",
+  "category": "Political Theory",
+  "tags": [
+    "food",
+    "rescue"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

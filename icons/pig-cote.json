@@ -1,0 +1,12 @@
+{
+  "id": "pig-cote",
+  "name": "pig-cote",
+  "category": "Agriculture",
+  "tags": [
+    "pig",
+    "cote"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

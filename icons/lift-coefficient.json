@@ -1,0 +1,12 @@
+{
+  "id": "lift-coefficient",
+  "name": "Lift coefficient",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "lift",
+    "coefficient"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

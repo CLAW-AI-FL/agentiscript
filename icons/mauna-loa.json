@@ -1,0 +1,12 @@
+{
+  "id": "mauna-loa",
+  "name": "Mauna Loa",
+  "category": "Climate Change",
+  "tags": [
+    "mauna",
+    "loa"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

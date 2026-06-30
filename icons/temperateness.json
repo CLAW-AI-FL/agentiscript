@@ -1,0 +1,11 @@
+{
+  "id": "temperateness",
+  "name": "temperateness",
+  "category": "Virology",
+  "tags": [
+    "temperateness"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

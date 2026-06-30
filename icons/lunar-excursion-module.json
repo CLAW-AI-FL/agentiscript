@@ -1,0 +1,13 @@
+{
+  "id": "lunar-excursion-module",
+  "name": "Lunar Excursion Module",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "lunar",
+    "excursion",
+    "module"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

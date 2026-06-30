@@ -1,0 +1,11 @@
+{
+  "id": "construction",
+  "name": "Construction",
+  "category": "Project Management",
+  "tags": [
+    "construction"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

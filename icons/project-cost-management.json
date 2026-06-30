@@ -1,0 +1,13 @@
+{
+  "id": "project-cost-management",
+  "name": "Project cost management",
+  "category": "Project Management",
+  "tags": [
+    "project",
+    "cost",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

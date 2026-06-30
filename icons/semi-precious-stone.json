@@ -1,0 +1,13 @@
+{
+  "id": "semi-precious-stone",
+  "name": "semi-precious stone",
+  "category": "Geology",
+  "tags": [
+    "semi",
+    "precious",
+    "stone"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

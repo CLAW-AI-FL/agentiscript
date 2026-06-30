@@ -1,0 +1,11 @@
+{
+  "id": "lade",
+  "name": "lade",
+  "category": "Agriculture",
+  "tags": [
+    "lade"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

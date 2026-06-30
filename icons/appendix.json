@@ -1,0 +1,11 @@
+{
+  "id": "appendix",
+  "name": "Appendix",
+  "category": "Library and Information Science",
+  "tags": [
+    "appendix"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

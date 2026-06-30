@@ -1,0 +1,11 @@
+{
+  "id": "reassortment",
+  "name": "reassortment",
+  "category": "Virology",
+  "tags": [
+    "reassortment"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "subject-heading",
+  "name": "Subject heading",
+  "category": "Library and Information Science",
+  "tags": [
+    "subject",
+    "heading"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

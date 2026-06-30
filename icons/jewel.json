@@ -1,0 +1,11 @@
+{
+  "id": "jewel",
+  "name": "jewel",
+  "category": "Geology",
+  "tags": [
+    "jewel"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

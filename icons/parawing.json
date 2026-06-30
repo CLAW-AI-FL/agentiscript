@@ -1,0 +1,11 @@
+{
+  "id": "parawing",
+  "name": "Parawing",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "parawing"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

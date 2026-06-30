@@ -1,0 +1,12 @@
+{
+  "id": "bi-elliptic-transfer",
+  "name": "Bi-elliptic transfer",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "elliptic",
+    "transfer"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

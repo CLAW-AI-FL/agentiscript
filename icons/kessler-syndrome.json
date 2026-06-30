@@ -1,0 +1,12 @@
+{
+  "id": "kessler-syndrome",
+  "name": "Kessler syndrome",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "kessler",
+    "syndrome"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

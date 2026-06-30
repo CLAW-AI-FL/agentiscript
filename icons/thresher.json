@@ -1,0 +1,11 @@
+{
+  "id": "thresher",
+  "name": "thresher",
+  "category": "Agriculture",
+  "tags": [
+    "thresher"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

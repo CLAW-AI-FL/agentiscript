@@ -1,0 +1,12 @@
+{
+  "id": "space-technology",
+  "name": "Space technology",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "space",
+    "technology"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

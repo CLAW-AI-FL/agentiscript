@@ -1,0 +1,13 @@
+{
+  "id": "blue-dog-coalition",
+  "name": "Blue Dog Coalition",
+  "category": "American Politics",
+  "tags": [
+    "blue",
+    "dog",
+    "coalition"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

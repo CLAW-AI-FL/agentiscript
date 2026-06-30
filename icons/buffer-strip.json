@@ -1,0 +1,12 @@
+{
+  "id": "buffer-strip",
+  "name": "buffer strip",
+  "category": "Agriculture",
+  "tags": [
+    "buffer",
+    "strip"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

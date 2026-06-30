@@ -1,0 +1,11 @@
+{
+  "id": "copyright",
+  "name": "Copyright",
+  "category": "Library and Information Science",
+  "tags": [
+    "copyright"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

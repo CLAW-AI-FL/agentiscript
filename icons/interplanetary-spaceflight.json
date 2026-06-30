@@ -1,0 +1,12 @@
+{
+  "id": "interplanetary-spaceflight",
+  "name": "Interplanetary spaceflight",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "interplanetary",
+    "spaceflight"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

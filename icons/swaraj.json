@@ -1,0 +1,11 @@
+{
+  "id": "swaraj",
+  "name": "Swaraj",
+  "category": "Political Theory",
+  "tags": [
+    "swaraj"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

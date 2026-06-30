@@ -1,0 +1,13 @@
+{
+  "id": "solar-thermal-rocket",
+  "name": "Solar thermal rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "solar",
+    "thermal",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

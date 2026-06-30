@@ -1,0 +1,12 @@
+{
+  "id": "initiative-election",
+  "name": "initiative election",
+  "category": "American Politics",
+  "tags": [
+    "initiative",
+    "election"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

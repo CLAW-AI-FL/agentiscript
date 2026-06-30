@@ -1,0 +1,11 @@
+{
+  "id": "sikh",
+  "name": "Sikh",
+  "category": "Philosophy",
+  "tags": [
+    "sikh"
+  ],
+  "source": "philosophy",
+  "version": "2.3",
+  "license": "CC0"
+}

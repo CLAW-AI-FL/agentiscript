@@ -1,0 +1,12 @@
+{
+  "id": "kyoto-protocol",
+  "name": "Kyoto Protocol",
+  "category": "Climate Change",
+  "tags": [
+    "kyoto",
+    "protocol"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

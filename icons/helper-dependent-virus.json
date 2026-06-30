@@ -1,0 +1,13 @@
+{
+  "id": "helper-dependent-virus",
+  "name": "helper dependent virus",
+  "category": "Virology",
+  "tags": [
+    "helper",
+    "dependent",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

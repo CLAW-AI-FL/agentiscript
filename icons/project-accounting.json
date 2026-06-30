@@ -1,0 +1,12 @@
+{
+  "id": "project-accounting",
+  "name": "Project accounting",
+  "category": "Project Management",
+  "tags": [
+    "project",
+    "accounting"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

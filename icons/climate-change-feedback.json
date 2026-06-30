@@ -1,0 +1,13 @@
+{
+  "id": "climate-change-feedback",
+  "name": "climate change feedback",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "change",
+    "feedback"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

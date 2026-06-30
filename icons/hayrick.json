@@ -1,0 +1,11 @@
+{
+  "id": "hayrick",
+  "name": "hayrick",
+  "category": "Agriculture",
+  "tags": [
+    "hayrick"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

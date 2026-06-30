@@ -1,0 +1,13 @@
+{
+  "id": "aft-crossing-trajectory",
+  "name": "Aft-crossing trajectory",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "aft",
+    "crossing",
+    "trajectory"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

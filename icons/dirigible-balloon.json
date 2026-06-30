@@ -1,0 +1,12 @@
+{
+  "id": "dirigible-balloon",
+  "name": "dirigible balloon",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "dirigible",
+    "balloon"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

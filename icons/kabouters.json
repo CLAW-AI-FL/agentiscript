@@ -1,0 +1,11 @@
+{
+  "id": "kabouters",
+  "name": "Kabouters",
+  "category": "Political Theory",
+  "tags": [
+    "kabouters"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

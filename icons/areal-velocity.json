@@ -1,0 +1,12 @@
+{
+  "id": "areal-velocity",
+  "name": "Areal velocity",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "areal",
+    "velocity"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

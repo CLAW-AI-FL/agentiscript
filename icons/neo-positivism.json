@@ -1,0 +1,12 @@
+{
+  "id": "neo-positivism",
+  "name": "neo-positivism",
+  "category": "Philosophy",
+  "tags": [
+    "neo",
+    "positivism"
+  ],
+  "source": "philosophy",
+  "version": "2.3",
+  "license": "CC0"
+}

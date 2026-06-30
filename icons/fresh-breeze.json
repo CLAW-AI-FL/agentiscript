@@ -1,0 +1,12 @@
+{
+  "id": "fresh-breeze",
+  "name": "fresh breeze",
+  "category": "Meteorology",
+  "tags": [
+    "fresh",
+    "breeze"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "glide-ratio",
+  "name": "Glide ratio",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "glide",
+    "ratio"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

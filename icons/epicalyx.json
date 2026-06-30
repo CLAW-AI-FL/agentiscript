@@ -1,0 +1,11 @@
+{
+  "id": "epicalyx",
+  "name": "epicalyx",
+  "category": "Plant Morphology",
+  "tags": [
+    "epicalyx"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

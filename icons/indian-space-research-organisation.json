@@ -1,0 +1,14 @@
+{
+  "id": "indian-space-research-organisation",
+  "name": "Indian Space Research Organisation",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "indian",
+    "space",
+    "research",
+    "organisation"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

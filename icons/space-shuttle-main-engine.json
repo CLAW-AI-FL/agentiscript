@@ -1,0 +1,14 @@
+{
+  "id": "space-shuttle-main-engine",
+  "name": "Space Shuttle main engine",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "space",
+    "shuttle",
+    "main",
+    "engine"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

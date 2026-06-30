@@ -1,0 +1,12 @@
+{
+  "id": "pellet-press",
+  "name": "pellet press",
+  "category": "Agriculture",
+  "tags": [
+    "pellet",
+    "press"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

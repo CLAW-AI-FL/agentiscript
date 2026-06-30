@@ -1,0 +1,11 @@
+{
+  "id": "hypanthium",
+  "name": "hypanthium",
+  "category": "Plant Morphology",
+  "tags": [
+    "hypanthium"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

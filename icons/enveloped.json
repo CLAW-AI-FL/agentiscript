@@ -1,0 +1,11 @@
+{
+  "id": "enveloped",
+  "name": "enveloped",
+  "category": "Virology",
+  "tags": [
+    "enveloped"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

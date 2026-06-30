@@ -1,0 +1,12 @@
+{
+  "id": "keyword-search",
+  "name": "Keyword search",
+  "category": "Library and Information Science",
+  "tags": [
+    "keyword",
+    "search"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

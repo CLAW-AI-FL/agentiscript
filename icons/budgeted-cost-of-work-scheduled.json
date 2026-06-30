@@ -1,0 +1,14 @@
+{
+  "id": "budgeted-cost-of-work-scheduled",
+  "name": "Budgeted cost of work scheduled",
+  "category": "Project Management",
+  "tags": [
+    "budgeted",
+    "cost",
+    "work",
+    "scheduled"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

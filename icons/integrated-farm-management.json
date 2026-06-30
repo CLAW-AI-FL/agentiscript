@@ -1,0 +1,13 @@
+{
+  "id": "integrated-farm-management",
+  "name": "integrated farm management",
+  "category": "Agriculture",
+  "tags": [
+    "integrated",
+    "farm",
+    "management"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

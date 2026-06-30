@@ -1,0 +1,12 @@
+{
+  "id": "gravitational-slingshot",
+  "name": "Gravitational slingshot",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "gravitational",
+    "slingshot"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

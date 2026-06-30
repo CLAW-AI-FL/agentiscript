@@ -1,0 +1,11 @@
+{
+  "id": "duster",
+  "name": "duster",
+  "category": "Meteorology",
+  "tags": [
+    "duster"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

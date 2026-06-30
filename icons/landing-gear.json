@@ -1,0 +1,12 @@
+{
+  "id": "landing-gear",
+  "name": "Landing gear",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "landing",
+    "gear"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

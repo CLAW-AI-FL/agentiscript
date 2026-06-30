@@ -1,0 +1,12 @@
+{
+  "id": "ram-accelerator",
+  "name": "Ram accelerator",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "ram",
+    "accelerator"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

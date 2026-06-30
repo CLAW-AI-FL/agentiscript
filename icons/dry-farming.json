@@ -1,0 +1,12 @@
+{
+  "id": "dry-farming",
+  "name": "dry farming",
+  "category": "Agriculture",
+  "tags": [
+    "dry",
+    "farming"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

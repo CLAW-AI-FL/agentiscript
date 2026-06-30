@@ -1,0 +1,12 @@
+{
+  "id": "heat-shield",
+  "name": "Heat shield",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "heat",
+    "shield"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

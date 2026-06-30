@@ -1,0 +1,12 @@
+{
+  "id": "sound-barrier",
+  "name": "Sound barrier",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "sound",
+    "barrier"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

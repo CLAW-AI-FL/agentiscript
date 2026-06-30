@@ -1,0 +1,11 @@
+{
+  "id": "plagiarism",
+  "name": "Plagiarism",
+  "category": "Library and Information Science",
+  "tags": [
+    "plagiarism"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "serial-passage",
+  "name": "serial passage",
+  "category": "Virology",
+  "tags": [
+    "serial",
+    "passage"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

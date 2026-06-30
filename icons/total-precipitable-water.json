@@ -1,0 +1,13 @@
+{
+  "id": "total-precipitable-water",
+  "name": "total precipitable water",
+  "category": "Meteorology",
+  "tags": [
+    "total",
+    "precipitable",
+    "water"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

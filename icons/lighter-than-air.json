@@ -1,0 +1,13 @@
+{
+  "id": "lighter-than-air",
+  "name": "Lighter than air",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "lighter",
+    "than",
+    "air"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "phonological-items",
+  "name": "Phonological items",
+  "category": "Language Education",
+  "tags": [
+    "phonological",
+    "items"
+  ],
+  "source": "linguistics",
+  "version": "2.3",
+  "license": "CC0"
+}

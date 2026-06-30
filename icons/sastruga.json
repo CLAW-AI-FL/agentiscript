@@ -1,0 +1,11 @@
+{
+  "id": "sastruga",
+  "name": "sastruga",
+  "category": "Meteorology",
+  "tags": [
+    "sastruga"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

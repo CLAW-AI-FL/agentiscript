@@ -1,0 +1,11 @@
+{
+  "id": "sporophyte",
+  "name": "sporophyte",
+  "category": "Plant Morphology",
+  "tags": [
+    "sporophyte"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

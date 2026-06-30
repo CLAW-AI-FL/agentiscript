@@ -1,0 +1,12 @@
+{
+  "id": "antimatter-rocket",
+  "name": "Antimatter rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "antimatter",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

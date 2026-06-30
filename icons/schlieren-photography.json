@@ -1,0 +1,12 @@
+{
+  "id": "schlieren-photography",
+  "name": "Schlieren photography",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "schlieren",
+    "photography"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

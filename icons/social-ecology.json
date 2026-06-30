@@ -1,0 +1,12 @@
+{
+  "id": "social-ecology",
+  "name": "Social ecology",
+  "category": "Political Theory",
+  "tags": [
+    "social",
+    "ecology"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

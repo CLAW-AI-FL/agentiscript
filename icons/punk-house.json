@@ -1,0 +1,12 @@
+{
+  "id": "punk-house",
+  "name": "Punk house",
+  "category": "Political Theory",
+  "tags": [
+    "punk",
+    "house"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

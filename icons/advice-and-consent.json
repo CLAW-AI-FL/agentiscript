@@ -1,0 +1,13 @@
+{
+  "id": "advice-and-consent",
+  "name": "advice and consent",
+  "category": "American Politics",
+  "tags": [
+    "advice",
+    "and",
+    "consent"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

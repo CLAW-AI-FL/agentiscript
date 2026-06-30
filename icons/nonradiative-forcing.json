@@ -1,0 +1,12 @@
+{
+  "id": "nonradiative-forcing",
+  "name": "nonradiative forcing",
+  "category": "Climate Change",
+  "tags": [
+    "nonradiative",
+    "forcing"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

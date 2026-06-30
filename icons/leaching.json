@@ -1,0 +1,11 @@
+{
+  "id": "leaching",
+  "name": "leaching",
+  "category": "Agriculture",
+  "tags": [
+    "leaching"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

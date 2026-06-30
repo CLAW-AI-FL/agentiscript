@@ -1,0 +1,12 @@
+{
+  "id": "navstar-gps",
+  "name": "Navstar GPS",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "navstar",
+    "gps"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

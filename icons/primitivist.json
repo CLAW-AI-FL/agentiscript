@@ -1,0 +1,11 @@
+{
+  "id": "primitivist",
+  "name": "Primitivist",
+  "category": "Political Theory",
+  "tags": [
+    "primitivist"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

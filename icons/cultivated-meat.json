@@ -1,0 +1,12 @@
+{
+  "id": "cultivated-meat",
+  "name": "cultivated meat",
+  "category": "Agriculture",
+  "tags": [
+    "cultivated",
+    "meat"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

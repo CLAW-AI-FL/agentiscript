@@ -1,0 +1,12 @@
+{
+  "id": "case-study",
+  "name": "Case study",
+  "category": "Project Management",
+  "tags": [
+    "case",
+    "study"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

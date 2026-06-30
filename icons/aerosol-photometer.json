@@ -1,0 +1,12 @@
+{
+  "id": "aerosol-photometer",
+  "name": "aerosol photometer",
+  "category": "Meteorology",
+  "tags": [
+    "aerosol",
+    "photometer"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

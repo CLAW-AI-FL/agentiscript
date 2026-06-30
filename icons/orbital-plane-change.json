@@ -1,0 +1,13 @@
+{
+  "id": "orbital-plane-change",
+  "name": "orbital plane change",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "orbital",
+    "plane",
+    "change"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

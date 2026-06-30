@@ -1,0 +1,13 @@
+{
+  "id": "global-warming-denial",
+  "name": "global warming denial",
+  "category": "Climate Change",
+  "tags": [
+    "global",
+    "warming",
+    "denial"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

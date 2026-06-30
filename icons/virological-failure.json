@@ -1,0 +1,12 @@
+{
+  "id": "virological-failure",
+  "name": "virological failure",
+  "category": "Virology",
+  "tags": [
+    "virological",
+    "failure"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

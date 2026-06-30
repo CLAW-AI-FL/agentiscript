@@ -1,0 +1,11 @@
+{
+  "id": "virusoid",
+  "name": "virusoid",
+  "category": "Virology",
+  "tags": [
+    "virusoid"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

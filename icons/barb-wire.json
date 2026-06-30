@@ -1,0 +1,12 @@
+{
+  "id": "barb-wire",
+  "name": "barb wire",
+  "category": "Agriculture",
+  "tags": [
+    "barb",
+    "wire"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

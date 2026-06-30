@@ -1,0 +1,12 @@
+{
+  "id": "entry-word",
+  "name": "entry word",
+  "category": "Library and Information Science",
+  "tags": [
+    "entry",
+    "word"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

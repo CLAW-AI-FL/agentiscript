@@ -1,0 +1,13 @@
+{
+  "id": "rocket-engine-nozzle",
+  "name": "Rocket engine nozzle",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "rocket",
+    "engine",
+    "nozzle"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "goddard-problem",
+  "name": "Goddard problem",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "goddard",
+    "problem"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "remote-manipulator-system",
+  "name": "Remote Manipulator System",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "remote",
+    "manipulator",
+    "system"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

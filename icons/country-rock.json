@@ -1,0 +1,12 @@
+{
+  "id": "country-rock",
+  "name": "country rock",
+  "category": "Geology",
+  "tags": [
+    "country",
+    "rock"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

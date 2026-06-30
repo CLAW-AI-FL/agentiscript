@@ -1,0 +1,13 @@
+{
+  "id": "assigned-amount-unit",
+  "name": "Assigned amount unit",
+  "category": "Climate Change",
+  "tags": [
+    "assigned",
+    "amount",
+    "unit"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

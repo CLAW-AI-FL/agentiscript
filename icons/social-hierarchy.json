@@ -1,0 +1,12 @@
+{
+  "id": "social-hierarchy",
+  "name": "Social hierarchy",
+  "category": "Political Theory",
+  "tags": [
+    "social",
+    "hierarchy"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

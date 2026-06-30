@@ -1,0 +1,13 @@
+{
+  "id": "group-specific-antigen",
+  "name": "group-specific antigen",
+  "category": "Virology",
+  "tags": [
+    "group",
+    "specific",
+    "antigen"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

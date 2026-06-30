@@ -1,0 +1,12 @@
+{
+  "id": "cold-snap",
+  "name": "cold snap",
+  "category": "Meteorology",
+  "tags": [
+    "cold",
+    "snap"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

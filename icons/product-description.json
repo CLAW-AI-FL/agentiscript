@@ -1,0 +1,12 @@
+{
+  "id": "product-description",
+  "name": "Product description",
+  "category": "Project Management",
+  "tags": [
+    "product",
+    "description"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

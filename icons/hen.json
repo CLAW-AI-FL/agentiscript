@@ -1,0 +1,11 @@
+{
+  "id": "hen",
+  "name": "hen",
+  "category": "Agriculture",
+  "tags": [
+    "hen"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

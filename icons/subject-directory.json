@@ -1,0 +1,12 @@
+{
+  "id": "subject-directory",
+  "name": "Subject directory",
+  "category": "Library and Information Science",
+  "tags": [
+    "subject",
+    "directory"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

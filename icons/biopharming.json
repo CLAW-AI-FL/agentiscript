@@ -1,0 +1,11 @@
+{
+  "id": "biopharming",
+  "name": "biopharming",
+  "category": "Agriculture",
+  "tags": [
+    "biopharming"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

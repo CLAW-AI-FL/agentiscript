@@ -1,0 +1,13 @@
+{
+  "id": "single-point-of-failure",
+  "name": "Single point of failure",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "single",
+    "point",
+    "failure"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

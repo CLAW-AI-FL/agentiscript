@@ -1,0 +1,14 @@
+{
+  "id": "mini-magnetospheric-plasma-propulsion",
+  "name": "Mini-magnetospheric plasma propulsion",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "mini",
+    "magnetospheric",
+    "plasma",
+    "propulsion"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

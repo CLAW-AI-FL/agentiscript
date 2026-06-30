@@ -1,0 +1,14 @@
+{
+  "id": "orbiter-boom-sensor-system",
+  "name": "Orbiter Boom Sensor System",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "orbiter",
+    "boom",
+    "sensor",
+    "system"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

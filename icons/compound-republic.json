@@ -1,0 +1,12 @@
+{
+  "id": "compound-republic",
+  "name": "compound republic",
+  "category": "American Politics",
+  "tags": [
+    "compound",
+    "republic"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

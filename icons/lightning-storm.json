@@ -1,0 +1,12 @@
+{
+  "id": "lightning-storm",
+  "name": "lightning storm",
+  "category": "Meteorology",
+  "tags": [
+    "lightning",
+    "storm"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

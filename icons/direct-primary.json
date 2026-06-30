@@ -1,0 +1,12 @@
+{
+  "id": "direct-primary",
+  "name": "direct primary",
+  "category": "American Politics",
+  "tags": [
+    "direct",
+    "primary"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

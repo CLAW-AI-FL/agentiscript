@@ -1,0 +1,12 @@
+{
+  "id": "black-bloc",
+  "name": "Black bloc",
+  "category": "Political Theory",
+  "tags": [
+    "black",
+    "bloc"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

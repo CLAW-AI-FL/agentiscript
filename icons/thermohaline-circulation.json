@@ -1,0 +1,12 @@
+{
+  "id": "thermohaline-circulation",
+  "name": "thermohaline circulation",
+  "category": "Climate Change",
+  "tags": [
+    "thermohaline",
+    "circulation"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

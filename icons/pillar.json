@@ -1,0 +1,11 @@
+{
+  "id": "pillar",
+  "name": "pillar",
+  "category": "Geology",
+  "tags": [
+    "pillar"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

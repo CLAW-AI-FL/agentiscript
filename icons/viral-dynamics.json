@@ -1,0 +1,12 @@
+{
+  "id": "viral-dynamics",
+  "name": "viral dynamics",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "dynamics"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

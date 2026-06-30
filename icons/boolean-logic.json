@@ -1,0 +1,12 @@
+{
+  "id": "boolean-logic",
+  "name": "Boolean logic",
+  "category": "Library and Information Science",
+  "tags": [
+    "boolean",
+    "logic"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

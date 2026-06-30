@@ -1,0 +1,12 @@
+{
+  "id": "critical-mach",
+  "name": "Critical mach",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "critical",
+    "mach"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

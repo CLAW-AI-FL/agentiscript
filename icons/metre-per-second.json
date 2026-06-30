@@ -1,0 +1,13 @@
+{
+  "id": "metre-per-second",
+  "name": "Metre per second",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "metre",
+    "per",
+    "second"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

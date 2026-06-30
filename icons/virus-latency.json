@@ -1,0 +1,12 @@
+{
+  "id": "virus-latency",
+  "name": "virus latency",
+  "category": "Virology",
+  "tags": [
+    "virus",
+    "latency"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

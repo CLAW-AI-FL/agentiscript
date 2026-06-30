@@ -1,0 +1,12 @@
+{
+  "id": "lithic-fragment",
+  "name": "Lithic fragment",
+  "category": "Geology",
+  "tags": [
+    "lithic",
+    "fragment"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

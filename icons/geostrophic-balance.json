@@ -1,0 +1,12 @@
+{
+  "id": "geostrophic-balance",
+  "name": "geostrophic balance",
+  "category": "Meteorology",
+  "tags": [
+    "geostrophic",
+    "balance"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

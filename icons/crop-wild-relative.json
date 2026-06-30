@@ -1,0 +1,13 @@
+{
+  "id": "crop-wild-relative",
+  "name": "crop wild relative",
+  "category": "Agriculture",
+  "tags": [
+    "crop",
+    "wild",
+    "relative"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

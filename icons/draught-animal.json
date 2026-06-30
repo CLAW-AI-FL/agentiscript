@@ -1,0 +1,12 @@
+{
+  "id": "draught-animal",
+  "name": "draught animal",
+  "category": "Agriculture",
+  "tags": [
+    "draught",
+    "animal"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

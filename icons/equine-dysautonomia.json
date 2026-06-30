@@ -1,0 +1,12 @@
+{
+  "id": "equine-dysautonomia",
+  "name": "equine dysautonomia",
+  "category": "Agriculture",
+  "tags": [
+    "equine",
+    "dysautonomia"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

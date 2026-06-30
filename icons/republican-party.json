@@ -1,0 +1,12 @@
+{
+  "id": "republican-party",
+  "name": "Republican Party",
+  "category": "American Politics",
+  "tags": [
+    "republican",
+    "party"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "vortexes",
+  "name": "vortexes",
+  "category": "Meteorology",
+  "tags": [
+    "vortexes"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "maritime-climate",
+  "name": "maritime climate",
+  "category": "Meteorology",
+  "tags": [
+    "maritime",
+    "climate"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

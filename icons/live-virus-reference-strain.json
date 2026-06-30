@@ -1,0 +1,14 @@
+{
+  "id": "live-virus-reference-strain",
+  "name": "live virus reference strain",
+  "category": "Virology",
+  "tags": [
+    "live",
+    "virus",
+    "reference",
+    "strain"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

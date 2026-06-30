@@ -1,0 +1,12 @@
+{
+  "id": "iron-triangle",
+  "name": "iron triangle",
+  "category": "American Politics",
+  "tags": [
+    "iron",
+    "triangle"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

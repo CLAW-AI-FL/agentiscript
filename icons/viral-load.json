@@ -1,0 +1,12 @@
+{
+  "id": "viral-load",
+  "name": "viral load",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "load"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

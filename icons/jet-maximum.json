@@ -1,0 +1,12 @@
+{
+  "id": "jet-maximum",
+  "name": "jet maximum",
+  "category": "Meteorology",
+  "tags": [
+    "jet",
+    "maximum"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

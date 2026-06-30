@@ -1,0 +1,14 @@
+{
+  "id": "lower-critical-mach-number",
+  "name": "lower critical Mach number",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "lower",
+    "critical",
+    "mach",
+    "number"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

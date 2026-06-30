@@ -1,0 +1,12 @@
+{
+  "id": "document-delivery",
+  "name": "Document delivery",
+  "category": "Library and Information Science",
+  "tags": [
+    "document",
+    "delivery"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

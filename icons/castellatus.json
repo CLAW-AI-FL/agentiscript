@@ -1,0 +1,11 @@
+{
+  "id": "castellatus",
+  "name": "castellatus",
+  "category": "Meteorology",
+  "tags": [
+    "castellatus"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

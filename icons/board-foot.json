@@ -1,0 +1,12 @@
+{
+  "id": "board-foot",
+  "name": "board foot",
+  "category": "Agriculture",
+  "tags": [
+    "board",
+    "foot"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

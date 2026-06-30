@@ -1,0 +1,12 @@
+{
+  "id": "flying-wing",
+  "name": "Flying wing",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "flying",
+    "wing"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

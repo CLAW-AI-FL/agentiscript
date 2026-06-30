@@ -1,0 +1,12 @@
+{
+  "id": "launch-window",
+  "name": "Launch window",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "launch",
+    "window"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

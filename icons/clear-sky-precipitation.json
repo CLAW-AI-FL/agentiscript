@@ -1,0 +1,13 @@
+{
+  "id": "clear-sky-precipitation",
+  "name": "clear-sky precipitation",
+  "category": "Meteorology",
+  "tags": [
+    "clear",
+    "sky",
+    "precipitation"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

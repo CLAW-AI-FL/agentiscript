@@ -1,0 +1,12 @@
+{
+  "id": "operations-management",
+  "name": "Operations management",
+  "category": "Project Management",
+  "tags": [
+    "operations",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "stalagmites",
+  "name": "stalagmites",
+  "category": "Geology",
+  "tags": [
+    "stalagmites"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

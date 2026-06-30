@@ -1,0 +1,12 @@
+{
+  "id": "truck-row",
+  "name": "truck row",
+  "category": "Agriculture",
+  "tags": [
+    "truck",
+    "row"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

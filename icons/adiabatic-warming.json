@@ -1,0 +1,12 @@
+{
+  "id": "adiabatic-warming",
+  "name": "adiabatic warming",
+  "category": "Meteorology",
+  "tags": [
+    "adiabatic",
+    "warming"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "replanting",
+  "name": "replanting",
+  "category": "Agriculture",
+  "tags": [
+    "replanting"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

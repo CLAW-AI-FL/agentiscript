@@ -1,0 +1,13 @@
+{
+  "id": "global-warming-controversy",
+  "name": "global warming controversy",
+  "category": "Climate Change",
+  "tags": [
+    "global",
+    "warming",
+    "controversy"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

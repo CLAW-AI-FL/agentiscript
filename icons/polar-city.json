@@ -1,0 +1,12 @@
+{
+  "id": "polar-city",
+  "name": "polar city",
+  "category": "Climate Change",
+  "tags": [
+    "polar",
+    "city"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

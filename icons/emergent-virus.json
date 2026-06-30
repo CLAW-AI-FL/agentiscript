@@ -1,0 +1,12 @@
+{
+  "id": "emergent-virus",
+  "name": "emergent virus",
+  "category": "Virology",
+  "tags": [
+    "emergent",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

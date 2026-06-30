@@ -1,0 +1,12 @@
+{
+  "id": "mechanised-agriculture",
+  "name": "mechanised agriculture",
+  "category": "Agriculture",
+  "tags": [
+    "mechanised",
+    "agriculture"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

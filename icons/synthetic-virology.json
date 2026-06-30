@@ -1,0 +1,12 @@
+{
+  "id": "synthetic-virology",
+  "name": "synthetic virology",
+  "category": "Virology",
+  "tags": [
+    "synthetic",
+    "virology"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "viral-envelope",
+  "name": "viral envelope",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "envelope"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

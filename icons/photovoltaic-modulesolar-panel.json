@@ -1,0 +1,13 @@
+{
+  "id": "photovoltaic-modulesolar-panel",
+  "name": "Photovoltaic module|Solar panel",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "photovoltaic",
+    "modulesolar",
+    "panel"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

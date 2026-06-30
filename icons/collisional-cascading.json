@@ -1,0 +1,12 @@
+{
+  "id": "collisional-cascading",
+  "name": "collisional cascading",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "collisional",
+    "cascading"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

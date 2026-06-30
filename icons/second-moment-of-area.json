@@ -1,0 +1,13 @@
+{
+  "id": "second-moment-of-area",
+  "name": "Second moment of area",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "second",
+    "moment",
+    "area"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

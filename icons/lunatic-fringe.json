@@ -1,0 +1,12 @@
+{
+  "id": "lunatic-fringe",
+  "name": "lunatic fringe",
+  "category": "American Politics",
+  "tags": [
+    "lunatic",
+    "fringe"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

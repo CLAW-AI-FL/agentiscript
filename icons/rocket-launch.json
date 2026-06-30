@@ -1,0 +1,12 @@
+{
+  "id": "rocket-launch",
+  "name": "Rocket launch",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "rocket",
+    "launch"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

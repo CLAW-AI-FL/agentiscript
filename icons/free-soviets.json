@@ -1,0 +1,12 @@
+{
+  "id": "free-soviets",
+  "name": "Free soviets",
+  "category": "Political Theory",
+  "tags": [
+    "free",
+    "soviets"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

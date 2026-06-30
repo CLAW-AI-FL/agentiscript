@@ -1,0 +1,12 @@
+{
+  "id": "fire-devil",
+  "name": "fire devil",
+  "category": "Meteorology",
+  "tags": [
+    "fire",
+    "devil"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

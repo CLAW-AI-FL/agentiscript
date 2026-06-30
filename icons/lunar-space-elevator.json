@@ -1,0 +1,13 @@
+{
+  "id": "lunar-space-elevator",
+  "name": "Lunar space elevator",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "lunar",
+    "space",
+    "elevator"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

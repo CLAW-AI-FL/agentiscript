@@ -1,0 +1,11 @@
+{
+  "id": "determinate",
+  "name": "Determinate",
+  "category": "Plant Morphology",
+  "tags": [
+    "determinate"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

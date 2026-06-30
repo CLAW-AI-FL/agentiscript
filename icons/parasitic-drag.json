@@ -1,0 +1,12 @@
+{
+  "id": "parasitic-drag",
+  "name": "Parasitic drag",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "parasitic",
+    "drag"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

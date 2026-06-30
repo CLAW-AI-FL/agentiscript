@@ -1,0 +1,13 @@
+{
+  "id": "climate-stabilization-wedge",
+  "name": "climate stabilization wedge",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "stabilization",
+    "wedge"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

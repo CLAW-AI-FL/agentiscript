@@ -1,0 +1,11 @@
+{
+  "id": "attachment",
+  "name": "attachment",
+  "category": "Virology",
+  "tags": [
+    "attachment"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

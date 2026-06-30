@@ -1,0 +1,13 @@
+{
+  "id": "project-management-triangle",
+  "name": "Project management triangle",
+  "category": "Project Management",
+  "tags": [
+    "project",
+    "management",
+    "triangle"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

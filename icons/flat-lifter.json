@@ -1,0 +1,12 @@
+{
+  "id": "flat-lifter",
+  "name": "flat lifter",
+  "category": "Agriculture",
+  "tags": [
+    "flat",
+    "lifter"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

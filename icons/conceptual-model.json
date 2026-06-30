@@ -1,0 +1,12 @@
+{
+  "id": "conceptual-model",
+  "name": "Conceptual model",
+  "category": "Library and Information Science",
+  "tags": [
+    "conceptual",
+    "model"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "elevator",
+  "name": "elevator",
+  "category": "Agriculture",
+  "tags": [
+    "elevator"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

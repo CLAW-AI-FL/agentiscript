@@ -1,0 +1,14 @@
+{
+  "id": "project-management-body-of-knowledge",
+  "name": "Project Management Body of Knowledge",
+  "category": "Project Management",
+  "tags": [
+    "project",
+    "management",
+    "body",
+    "knowledge"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "plenary-session",
+  "name": "plenary session",
+  "category": "American Politics",
+  "tags": [
+    "plenary",
+    "session"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

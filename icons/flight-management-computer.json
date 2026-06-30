@@ -1,0 +1,13 @@
+{
+  "id": "flight-management-computer",
+  "name": "Flight Management Computer",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "flight",
+    "management",
+    "computer"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

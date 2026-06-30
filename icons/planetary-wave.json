@@ -1,0 +1,12 @@
+{
+  "id": "planetary-wave",
+  "name": "planetary wave",
+  "category": "Meteorology",
+  "tags": [
+    "planetary",
+    "wave"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

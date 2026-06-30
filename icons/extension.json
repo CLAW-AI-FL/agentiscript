@@ -1,0 +1,11 @@
+{
+  "id": "extension",
+  "name": "Extension",
+  "category": "Geology",
+  "tags": [
+    "extension"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

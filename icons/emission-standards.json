@@ -1,0 +1,12 @@
+{
+  "id": "emission-standards",
+  "name": "emission standards",
+  "category": "Climate Change",
+  "tags": [
+    "emission",
+    "standards"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

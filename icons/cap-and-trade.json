@@ -1,0 +1,13 @@
+{
+  "id": "cap-and-trade",
+  "name": "cap and trade",
+  "category": "Climate Change",
+  "tags": [
+    "cap",
+    "and",
+    "trade"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tether-propulsion",
+  "name": "Tether propulsion",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "tether",
+    "propulsion"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

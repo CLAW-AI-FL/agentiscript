@@ -1,0 +1,13 @@
+{
+  "id": "anti-systemic-library",
+  "name": "Anti-systemic library",
+  "category": "Political Theory",
+  "tags": [
+    "anti",
+    "systemic",
+    "library"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

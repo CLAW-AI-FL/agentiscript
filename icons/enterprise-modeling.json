@@ -1,0 +1,12 @@
+{
+  "id": "enterprise-modeling",
+  "name": "Enterprise modeling",
+  "category": "Project Management",
+  "tags": [
+    "enterprise",
+    "modeling"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

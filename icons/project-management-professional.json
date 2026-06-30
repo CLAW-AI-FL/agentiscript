@@ -1,0 +1,13 @@
+{
+  "id": "project-management-professional",
+  "name": "Project management professional",
+  "category": "Project Management",
+  "tags": [
+    "project",
+    "management",
+    "professional"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

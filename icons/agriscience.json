@@ -1,0 +1,11 @@
+{
+  "id": "agriscience",
+  "name": "agriscience",
+  "category": "Agriculture",
+  "tags": [
+    "agriscience"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

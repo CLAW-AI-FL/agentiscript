@@ -1,0 +1,13 @@
+{
+  "id": "orbital-inclination-change",
+  "name": "Orbital inclination change",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "orbital",
+    "inclination",
+    "change"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

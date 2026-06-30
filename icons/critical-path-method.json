@@ -1,0 +1,13 @@
+{
+  "id": "critical-path-method",
+  "name": "Critical path method",
+  "category": "Project Management",
+  "tags": [
+    "critical",
+    "path",
+    "method"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

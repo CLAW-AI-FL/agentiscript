@@ -1,0 +1,11 @@
+{
+  "id": "prolate",
+  "name": "prolate",
+  "category": "Virology",
+  "tags": [
+    "prolate"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

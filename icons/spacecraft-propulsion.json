@@ -1,0 +1,12 @@
+{
+  "id": "spacecraft-propulsion",
+  "name": "Spacecraft propulsion",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "spacecraft",
+    "propulsion"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

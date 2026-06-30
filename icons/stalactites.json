@@ -1,0 +1,11 @@
+{
+  "id": "stalactites",
+  "name": "stalactites",
+  "category": "Geology",
+  "tags": [
+    "stalactites"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

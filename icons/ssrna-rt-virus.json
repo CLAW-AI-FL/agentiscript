@@ -1,0 +1,12 @@
+{
+  "id": "ssrna-rt-virus",
+  "name": "ssRNA-RT virus",
+  "category": "Virology",
+  "tags": [
+    "ssrna",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

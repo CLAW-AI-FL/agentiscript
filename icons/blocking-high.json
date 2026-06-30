@@ -1,0 +1,12 @@
+{
+  "id": "blocking-high",
+  "name": "blocking high",
+  "category": "Meteorology",
+  "tags": [
+    "blocking",
+    "high"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

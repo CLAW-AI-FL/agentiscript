@@ -1,0 +1,13 @@
+{
+  "id": "rapid-virological-response",
+  "name": "rapid virological response",
+  "category": "Virology",
+  "tags": [
+    "rapid",
+    "virological",
+    "response"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

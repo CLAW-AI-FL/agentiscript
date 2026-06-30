@@ -1,0 +1,12 @@
+{
+  "id": "lightning-bolt",
+  "name": "lightning bolt",
+  "category": "Meteorology",
+  "tags": [
+    "lightning",
+    "bolt"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "subtropical-jet",
+  "name": "subtropical jet",
+  "category": "Meteorology",
+  "tags": [
+    "subtropical",
+    "jet"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

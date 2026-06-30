@@ -1,0 +1,13 @@
+{
+  "id": "pulsed-inductive-thruster",
+  "name": "Pulsed inductive thruster",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "pulsed",
+    "inductive",
+    "thruster"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

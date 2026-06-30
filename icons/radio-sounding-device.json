@@ -1,0 +1,13 @@
+{
+  "id": "radio-sounding-device",
+  "name": "radio-sounding device",
+  "category": "Meteorology",
+  "tags": [
+    "radio",
+    "sounding",
+    "device"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

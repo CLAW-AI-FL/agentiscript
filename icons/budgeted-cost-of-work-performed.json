@@ -1,0 +1,14 @@
+{
+  "id": "budgeted-cost-of-work-performed",
+  "name": "Budgeted cost of work performed",
+  "category": "Project Management",
+  "tags": [
+    "budgeted",
+    "cost",
+    "work",
+    "performed"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

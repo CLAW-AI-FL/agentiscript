@@ -1,0 +1,13 @@
+{
+  "id": "space-activity-suit",
+  "name": "Space activity suit",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "space",
+    "activity",
+    "suit"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "wind-vane",
+  "name": "wind vane",
+  "category": "Meteorology",
+  "tags": [
+    "wind",
+    "vane"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

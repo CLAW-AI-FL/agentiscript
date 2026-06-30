@@ -1,0 +1,11 @@
+{
+  "id": "molding",
+  "name": "Molding",
+  "category": "Geology",
+  "tags": [
+    "molding"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

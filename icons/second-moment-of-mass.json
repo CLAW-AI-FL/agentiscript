@@ -1,0 +1,13 @@
+{
+  "id": "second-moment-of-mass",
+  "name": "second moment of mass",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "second",
+    "moment",
+    "mass"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

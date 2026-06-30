@@ -1,0 +1,11 @@
+{
+  "id": "general",
+  "name": "General",
+  "category": "Library and Information Science",
+  "tags": [
+    "general"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

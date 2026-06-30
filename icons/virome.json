@@ -1,0 +1,11 @@
+{
+  "id": "virome",
+  "name": "virome",
+  "category": "Virology",
+  "tags": [
+    "virome"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

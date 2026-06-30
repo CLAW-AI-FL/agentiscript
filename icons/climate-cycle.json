@@ -1,0 +1,12 @@
+{
+  "id": "climate-cycle",
+  "name": "climate cycle",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "cycle"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

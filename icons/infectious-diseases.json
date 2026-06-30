@@ -1,0 +1,12 @@
+{
+  "id": "infectious-diseases",
+  "name": "Infectious diseases",
+  "category": "Medicine",
+  "tags": [
+    "infectious",
+    "diseases"
+  ],
+  "source": "medicine",
+  "version": "2.3",
+  "license": "CC0"
+}

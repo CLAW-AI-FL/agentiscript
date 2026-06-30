@@ -1,0 +1,12 @@
+{
+  "id": "velocity-diagram",
+  "name": "velocity diagram",
+  "category": "Meteorology",
+  "tags": [
+    "velocity",
+    "diagram"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

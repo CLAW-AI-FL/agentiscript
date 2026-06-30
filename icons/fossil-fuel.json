@@ -1,0 +1,12 @@
+{
+  "id": "fossil-fuel",
+  "name": "fossil fuel",
+  "category": "Climate Change",
+  "tags": [
+    "fossil",
+    "fuel"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

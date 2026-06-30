@@ -1,0 +1,11 @@
+{
+  "id": "drouth",
+  "name": "drouth",
+  "category": "Meteorology",
+  "tags": [
+    "drouth"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

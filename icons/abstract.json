@@ -1,0 +1,11 @@
+{
+  "id": "abstract",
+  "name": "Abstract",
+  "category": "Library and Information Science",
+  "tags": [
+    "abstract"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

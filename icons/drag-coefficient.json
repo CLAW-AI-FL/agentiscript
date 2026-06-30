@@ -1,0 +1,12 @@
+{
+  "id": "drag-coefficient",
+  "name": "Drag coefficient",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "drag",
+    "coefficient"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "water-mill",
+  "name": "water mill",
+  "category": "Agriculture",
+  "tags": [
+    "water",
+    "mill"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

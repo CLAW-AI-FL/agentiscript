@@ -1,0 +1,13 @@
+{
+  "id": "mid-latitude-cyclone",
+  "name": "mid-latitude cyclone",
+  "category": "Meteorology",
+  "tags": [
+    "mid",
+    "latitude",
+    "cyclone"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

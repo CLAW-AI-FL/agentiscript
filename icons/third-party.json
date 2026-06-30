@@ -1,0 +1,12 @@
+{
+  "id": "third-party",
+  "name": "Third party",
+  "category": "American Politics",
+  "tags": [
+    "third",
+    "party"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pollen-tube",
+  "name": "pollen tube",
+  "category": "Plant Morphology",
+  "tags": [
+    "pollen",
+    "tube"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

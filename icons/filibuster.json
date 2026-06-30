@@ -1,0 +1,11 @@
+{
+  "id": "filibuster",
+  "name": "filibuster",
+  "category": "American Politics",
+  "tags": [
+    "filibuster"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

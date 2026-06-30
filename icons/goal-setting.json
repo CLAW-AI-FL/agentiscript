@@ -1,0 +1,12 @@
+{
+  "id": "goal-setting",
+  "name": "Goal setting",
+  "category": "Project Management",
+  "tags": [
+    "goal",
+    "setting"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

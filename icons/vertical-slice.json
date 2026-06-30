@@ -1,0 +1,12 @@
+{
+  "id": "vertical-slice",
+  "name": "Vertical slice",
+  "category": "Project Management",
+  "tags": [
+    "vertical",
+    "slice"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

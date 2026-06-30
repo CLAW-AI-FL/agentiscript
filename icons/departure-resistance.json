@@ -1,0 +1,12 @@
+{
+  "id": "departure-resistance",
+  "name": "Departure resistance",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "departure",
+    "resistance"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

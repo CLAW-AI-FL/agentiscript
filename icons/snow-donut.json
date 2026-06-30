@@ -1,0 +1,12 @@
+{
+  "id": "snow-donut",
+  "name": "snow donut",
+  "category": "Meteorology",
+  "tags": [
+    "snow",
+    "donut"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

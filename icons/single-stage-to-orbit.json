@@ -1,0 +1,13 @@
+{
+  "id": "single-stage-to-orbit",
+  "name": "Single-stage-to-orbit",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "single",
+    "stage",
+    "orbit"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

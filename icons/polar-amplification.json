@@ -1,0 +1,12 @@
+{
+  "id": "polar-amplification",
+  "name": "polar amplification",
+  "category": "Climate Change",
+  "tags": [
+    "polar",
+    "amplification"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

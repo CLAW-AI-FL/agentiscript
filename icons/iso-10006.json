@@ -1,0 +1,12 @@
+{
+  "id": "iso-10006",
+  "name": "ISO 10006",
+  "category": "Project Management",
+  "tags": [
+    "iso",
+    "10006"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

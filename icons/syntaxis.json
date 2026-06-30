@@ -1,0 +1,11 @@
+{
+  "id": "syntaxis",
+  "name": "syntaxis",
+  "category": "Geology",
+  "tags": [
+    "syntaxis"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

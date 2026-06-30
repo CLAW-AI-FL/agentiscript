@@ -1,0 +1,12 @@
+{
+  "id": "mechanics-of-fluids",
+  "name": "Mechanics of fluids",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "mechanics",
+    "fluids"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

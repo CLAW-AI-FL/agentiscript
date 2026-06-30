@@ -1,0 +1,13 @@
+{
+  "id": "is-true-if-and-only-if",
+  "name": "is true if, and only if",
+  "category": "Logic",
+  "tags": [
+    "true",
+    "and",
+    "only"
+  ],
+  "source": "philosophy",
+  "version": "2.3",
+  "license": "CC0"
+}

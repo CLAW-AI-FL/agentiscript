@@ -1,0 +1,13 @@
+{
+  "id": "automatic-direction-finderadf",
+  "name": "Automatic direction finder|ADF",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "automatic",
+    "direction",
+    "finderadf"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

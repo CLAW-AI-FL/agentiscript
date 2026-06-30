@@ -1,0 +1,12 @@
+{
+  "id": "yellow-journalism",
+  "name": "yellow journalism",
+  "category": "American Politics",
+  "tags": [
+    "yellow",
+    "journalism"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

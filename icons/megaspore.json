@@ -1,0 +1,11 @@
+{
+  "id": "megaspore",
+  "name": "megaspore",
+  "category": "Plant Morphology",
+  "tags": [
+    "megaspore"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

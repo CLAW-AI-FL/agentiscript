@@ -1,0 +1,12 @@
+{
+  "id": "open-access",
+  "name": "Open access",
+  "category": "Library and Information Science",
+  "tags": [
+    "open",
+    "access"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

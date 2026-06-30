@@ -1,0 +1,12 @@
+{
+  "id": "lee-depression",
+  "name": "lee depression",
+  "category": "Meteorology",
+  "tags": [
+    "lee",
+    "depression"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

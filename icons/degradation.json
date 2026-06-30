@@ -1,0 +1,11 @@
+{
+  "id": "degradation",
+  "name": "Degradation",
+  "category": "Geology",
+  "tags": [
+    "degradation"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

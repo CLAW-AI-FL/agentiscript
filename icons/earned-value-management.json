@@ -1,0 +1,13 @@
+{
+  "id": "earned-value-management",
+  "name": "Earned value management",
+  "category": "Project Management",
+  "tags": [
+    "earned",
+    "value",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

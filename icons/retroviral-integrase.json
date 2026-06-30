@@ -1,0 +1,12 @@
+{
+  "id": "retroviral-integrase",
+  "name": "retroviral integrase",
+  "category": "Virology",
+  "tags": [
+    "retroviral",
+    "integrase"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

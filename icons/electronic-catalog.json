@@ -1,0 +1,12 @@
+{
+  "id": "electronic-catalog",
+  "name": "electronic catalog",
+  "category": "Library and Information Science",
+  "tags": [
+    "electronic",
+    "catalog"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

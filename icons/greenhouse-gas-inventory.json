@@ -1,0 +1,13 @@
+{
+  "id": "greenhouse-gas-inventory",
+  "name": "greenhouse gas inventory",
+  "category": "Climate Change",
+  "tags": [
+    "greenhouse",
+    "gas",
+    "inventory"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

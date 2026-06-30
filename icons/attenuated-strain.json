@@ -1,0 +1,12 @@
+{
+  "id": "attenuated-strain",
+  "name": "attenuated strain",
+  "category": "Virology",
+  "tags": [
+    "attenuated",
+    "strain"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

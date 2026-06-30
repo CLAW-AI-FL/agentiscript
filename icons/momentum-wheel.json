@@ -1,0 +1,12 @@
+{
+  "id": "momentum-wheel",
+  "name": "Momentum wheel",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "momentum",
+    "wheel"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sea-level-rise",
+  "name": "sea level rise",
+  "category": "Climate Change",
+  "tags": [
+    "sea",
+    "level",
+    "rise"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wind-chill-factor",
+  "name": "wind chill factor",
+  "category": "Meteorology",
+  "tags": [
+    "wind",
+    "chill",
+    "factor"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

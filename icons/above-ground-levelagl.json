@@ -1,0 +1,13 @@
+{
+  "id": "above-ground-levelagl",
+  "name": "Above ground level|AGL",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "above",
+    "ground",
+    "levelagl"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

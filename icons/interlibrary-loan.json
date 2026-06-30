@@ -1,0 +1,12 @@
+{
+  "id": "interlibrary-loan",
+  "name": "Interlibrary loan",
+  "category": "Library and Information Science",
+  "tags": [
+    "interlibrary",
+    "loan"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

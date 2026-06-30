@@ -1,0 +1,12 @@
+{
+  "id": "aerospike-engine",
+  "name": "Aerospike engine",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "aerospike",
+    "engine"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

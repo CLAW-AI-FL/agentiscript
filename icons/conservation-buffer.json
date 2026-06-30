@@ -1,0 +1,12 @@
+{
+  "id": "conservation-buffer",
+  "name": "conservation buffer",
+  "category": "Agriculture",
+  "tags": [
+    "conservation",
+    "buffer"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

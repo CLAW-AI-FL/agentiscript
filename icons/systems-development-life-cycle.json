@@ -1,0 +1,14 @@
+{
+  "id": "systems-development-life-cycle",
+  "name": "Systems development life cycle",
+  "category": "Project Management",
+  "tags": [
+    "systems",
+    "development",
+    "life",
+    "cycle"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

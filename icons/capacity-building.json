@@ -1,0 +1,12 @@
+{
+  "id": "capacity-building",
+  "name": "Capacity building",
+  "category": "Climate Change",
+  "tags": [
+    "capacity",
+    "building"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

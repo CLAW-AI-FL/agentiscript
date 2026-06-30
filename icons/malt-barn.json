@@ -1,0 +1,12 @@
+{
+  "id": "malt-barn",
+  "name": "malt barn",
+  "category": "Agriculture",
+  "tags": [
+    "malt",
+    "barn"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

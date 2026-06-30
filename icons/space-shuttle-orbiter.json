@@ -1,0 +1,13 @@
+{
+  "id": "space-shuttle-orbiter",
+  "name": "Space Shuttle orbiter",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "space",
+    "shuttle",
+    "orbiter"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

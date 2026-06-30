@@ -1,0 +1,11 @@
+{
+  "id": "headland",
+  "name": "headland",
+  "category": "Agriculture",
+  "tags": [
+    "headland"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

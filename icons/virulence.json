@@ -1,0 +1,11 @@
+{
+  "id": "virulence",
+  "name": "virulence",
+  "category": "Virology",
+  "tags": [
+    "virulence"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

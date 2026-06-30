@@ -1,0 +1,13 @@
+{
+  "id": "radio-direction-finder",
+  "name": "Radio direction finder",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "radio",
+    "direction",
+    "finder"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

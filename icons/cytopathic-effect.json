@@ -1,0 +1,12 @@
+{
+  "id": "cytopathic-effect",
+  "name": "cytopathic effect",
+  "category": "Virology",
+  "tags": [
+    "cytopathic",
+    "effect"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

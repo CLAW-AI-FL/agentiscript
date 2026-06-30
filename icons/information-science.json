@@ -1,0 +1,12 @@
+{
+  "id": "information-science",
+  "name": "Information science",
+  "category": "Library and Information Science",
+  "tags": [
+    "information",
+    "science"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

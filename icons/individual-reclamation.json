@@ -1,0 +1,12 @@
+{
+  "id": "individual-reclamation",
+  "name": "Individual reclamation",
+  "category": "Political Theory",
+  "tags": [
+    "individual",
+    "reclamation"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

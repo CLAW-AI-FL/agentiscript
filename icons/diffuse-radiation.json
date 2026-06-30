@@ -1,0 +1,12 @@
+{
+  "id": "diffuse-radiation",
+  "name": "diffuse radiation",
+  "category": "Meteorology",
+  "tags": [
+    "diffuse",
+    "radiation"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

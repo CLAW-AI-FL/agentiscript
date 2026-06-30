@@ -1,0 +1,12 @@
+{
+  "id": "eye-wall",
+  "name": "eye wall",
+  "category": "Meteorology",
+  "tags": [
+    "eye",
+    "wall"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "virus-like-particle",
+  "name": "virus-like particle",
+  "category": "Virology",
+  "tags": [
+    "virus",
+    "like",
+    "particle"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

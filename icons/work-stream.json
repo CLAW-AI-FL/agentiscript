@@ -1,0 +1,12 @@
+{
+  "id": "work-stream",
+  "name": "Work stream",
+  "category": "Project Management",
+  "tags": [
+    "work",
+    "stream"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "kuttajoukowski-theorem",
+  "name": "Kutta\u2013Joukowski theorem",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "kuttajoukowski",
+    "theorem"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

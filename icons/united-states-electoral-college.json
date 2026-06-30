@@ -1,0 +1,14 @@
+{
+  "id": "united-states-electoral-college",
+  "name": "United States Electoral College",
+  "category": "American Politics",
+  "tags": [
+    "united",
+    "states",
+    "electoral",
+    "college"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

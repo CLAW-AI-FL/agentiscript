@@ -1,0 +1,12 @@
+{
+  "id": "executive-sponsor",
+  "name": "Executive sponsor",
+  "category": "Project Management",
+  "tags": [
+    "executive",
+    "sponsor"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

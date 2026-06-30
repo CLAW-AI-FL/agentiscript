@@ -1,0 +1,13 @@
+{
+  "id": "lab-grown-meat",
+  "name": "lab-grown meat",
+  "category": "Agriculture",
+  "tags": [
+    "lab",
+    "grown",
+    "meat"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

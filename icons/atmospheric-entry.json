@@ -1,0 +1,12 @@
+{
+  "id": "atmospheric-entry",
+  "name": "Atmospheric entry",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "atmospheric",
+    "entry"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

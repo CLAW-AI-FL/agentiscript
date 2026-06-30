@@ -1,0 +1,11 @@
+{
+  "id": "integument",
+  "name": "integument",
+  "category": "Plant Morphology",
+  "tags": [
+    "integument"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "postmortem-documentation",
+  "name": "Postmortem documentation",
+  "category": "Project Management",
+  "tags": [
+    "postmortem",
+    "documentation"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

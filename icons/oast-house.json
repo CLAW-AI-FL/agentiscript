@@ -1,0 +1,12 @@
+{
+  "id": "oast-house",
+  "name": "oast house",
+  "category": "Agriculture",
+  "tags": [
+    "oast",
+    "house"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

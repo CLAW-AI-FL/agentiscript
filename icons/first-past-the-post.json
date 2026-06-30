@@ -1,0 +1,14 @@
+{
+  "id": "first-past-the-post",
+  "name": "first-past-the-post",
+  "category": "American Politics",
+  "tags": [
+    "first",
+    "past",
+    "the",
+    "post"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

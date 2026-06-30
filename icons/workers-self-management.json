@@ -1,0 +1,13 @@
+{
+  "id": "workers-self-management",
+  "name": "Workers' self-management",
+  "category": "Political Theory",
+  "tags": [
+    "workers",
+    "self",
+    "management"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

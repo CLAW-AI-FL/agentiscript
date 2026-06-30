@@ -1,0 +1,12 @@
+{
+  "id": "viral-shedding",
+  "name": "viral shedding",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "shedding"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

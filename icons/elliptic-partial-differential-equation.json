@@ -1,0 +1,14 @@
+{
+  "id": "elliptic-partial-differential-equation",
+  "name": "Elliptic partial differential equation",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "elliptic",
+    "partial",
+    "differential",
+    "equation"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

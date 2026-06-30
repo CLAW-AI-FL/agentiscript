@@ -1,0 +1,11 @@
+{
+  "id": "combine",
+  "name": "combine",
+  "category": "Agriculture",
+  "tags": [
+    "combine"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

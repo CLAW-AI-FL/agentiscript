@@ -1,0 +1,12 @@
+{
+  "id": "counter-economics",
+  "name": "Counter-economics",
+  "category": "Political Theory",
+  "tags": [
+    "counter",
+    "economics"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "storm-cellar",
+  "name": "storm cellar",
+  "category": "Meteorology",
+  "tags": [
+    "storm",
+    "cellar"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

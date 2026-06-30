@@ -1,0 +1,11 @@
+{
+  "id": "sporangia",
+  "name": "sporangia",
+  "category": "Plant Morphology",
+  "tags": [
+    "sporangia"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

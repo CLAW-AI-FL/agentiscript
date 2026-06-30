@@ -1,0 +1,12 @@
+{
+  "id": "debris-ball",
+  "name": "debris ball",
+  "category": "Meteorology",
+  "tags": [
+    "debris",
+    "ball"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

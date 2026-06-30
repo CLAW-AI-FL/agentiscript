@@ -1,0 +1,12 @@
+{
+  "id": "gulf-stream",
+  "name": "Gulf Stream",
+  "category": "Climate Change",
+  "tags": [
+    "gulf",
+    "stream"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

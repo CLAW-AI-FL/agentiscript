@@ -1,0 +1,13 @@
+{
+  "id": "blue-dog-democrats",
+  "name": "Blue Dog Democrats",
+  "category": "American Politics",
+  "tags": [
+    "blue",
+    "dog",
+    "democrats"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

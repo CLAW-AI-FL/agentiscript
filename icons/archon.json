@@ -1,0 +1,11 @@
+{
+  "id": "archon",
+  "name": "Archon",
+  "category": "Political Theory",
+  "tags": [
+    "archon"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

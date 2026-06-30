@@ -1,0 +1,11 @@
+{
+  "id": "hotbed",
+  "name": "hotbed",
+  "category": "Agriculture",
+  "tags": [
+    "hotbed"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

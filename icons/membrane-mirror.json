@@ -1,0 +1,12 @@
+{
+  "id": "membrane-mirror",
+  "name": "Membrane mirror",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "membrane",
+    "mirror"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

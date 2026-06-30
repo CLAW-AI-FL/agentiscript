@@ -1,0 +1,14 @@
+{
+  "id": "advanced-space-vision-system",
+  "name": "Advanced Space Vision System",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "advanced",
+    "space",
+    "vision",
+    "system"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}
