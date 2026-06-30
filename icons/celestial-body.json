@@ -1,0 +1,11 @@
+{
+  "name": "celestial-body",
+  "label": "celestial body",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "celestial",
+    "body"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "messier-object",
+  "label": "Messier object",
+  "category": "science",
+  "tags": [
+    "science",
+    "messier",
+    "object"
+  ],
+  "version": "1.9"
+}

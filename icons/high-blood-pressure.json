@@ -1,0 +1,12 @@
+{
+  "name": "high-blood-pressure",
+  "label": "High blood pressure",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "high",
+    "blood",
+    "pressure"
+  ],
+  "version": "1.9"
+}

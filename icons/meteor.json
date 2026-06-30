@@ -1,0 +1,10 @@
+{
+  "name": "meteor",
+  "label": "meteor",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "meteor"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mutator-gene",
+  "label": "mutator gene",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "mutator",
+    "gene"
+  ],
+  "version": "1.9"
+}

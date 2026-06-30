@@ -1,0 +1,10 @@
+{
+  "name": "palpation",
+  "label": "Palpation",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "palpation"
+  ],
+  "version": "1.9"
+}

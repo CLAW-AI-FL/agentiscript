@@ -1,0 +1,13 @@
+{
+  "name": "quantum-confined-atoms-qca",
+  "label": "Quantum Confined Atoms",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "quantum",
+    "confined",
+    "atoms",
+    "qca"
+  ],
+  "version": "1.9"
+}

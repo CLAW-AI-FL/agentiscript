@@ -1,0 +1,10 @@
+{
+  "name": "moon",
+  "label": "Moon",
+  "category": "science",
+  "tags": [
+    "science",
+    "moon"
+  ],
+  "version": "1.9"
+}

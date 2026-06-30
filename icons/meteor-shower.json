@@ -1,0 +1,11 @@
+{
+  "name": "meteor-shower",
+  "label": "meteor shower",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "meteor",
+    "shower"
+  ],
+  "version": "1.9"
+}

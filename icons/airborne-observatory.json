@@ -1,0 +1,11 @@
+{
+  "name": "airborne-observatory",
+  "label": "airborne observatory",
+  "category": "science",
+  "tags": [
+    "science",
+    "airborne",
+    "observatory"
+  ],
+  "version": "1.9"
+}

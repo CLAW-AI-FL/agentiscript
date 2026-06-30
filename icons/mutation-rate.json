@@ -1,0 +1,11 @@
+{
+  "name": "mutation-rate",
+  "label": "mutation rate",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "mutation",
+    "rate"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "host-specific-parasite",
+  "label": "host-specific parasite",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "host",
+    "specific",
+    "parasite"
+  ],
+  "version": "1.9"
+}

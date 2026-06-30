@@ -1,0 +1,10 @@
+{
+  "name": "rdflt",
+  "label": "RDF/LT",
+  "category": "science",
+  "tags": [
+    "science",
+    "rdf"
+  ],
+  "version": "1.9"
+}

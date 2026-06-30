@@ -1,0 +1,11 @@
+{
+  "name": "solvation-shell",
+  "label": "solvation shell",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "solvation",
+    "shell"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nomad-planet",
+  "label": "nomad planet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "nomad",
+    "planet"
+  ],
+  "version": "1.9"
+}

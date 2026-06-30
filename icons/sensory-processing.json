@@ -1,0 +1,11 @@
+{
+  "name": "sensory-processing",
+  "label": "Sensory processing",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "sensory",
+    "processing"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "extant-taxon",
+  "label": "extant taxon",
+  "category": "science",
+  "tags": [
+    "science",
+    "extant",
+    "taxon"
+  ],
+  "version": "1.9"
+}

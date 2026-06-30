@@ -1,0 +1,10 @@
+{
+  "name": "hemoptysis",
+  "label": "Hemoptysis",
+  "category": "science",
+  "tags": [
+    "science",
+    "hemoptysis"
+  ],
+  "version": "1.9"
+}

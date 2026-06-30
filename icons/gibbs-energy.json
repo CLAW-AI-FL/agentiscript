@@ -1,0 +1,11 @@
+{
+  "name": "gibbs-energy",
+  "label": "Gibbs energy",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "gibbs",
+    "energy"
+  ],
+  "version": "1.9"
+}

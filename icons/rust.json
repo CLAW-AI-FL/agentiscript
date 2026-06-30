@@ -1,0 +1,10 @@
+{
+  "name": "rust",
+  "label": "rust",
+  "category": "science",
+  "tags": [
+    "science",
+    "rust"
+  ],
+  "version": "1.9"
+}

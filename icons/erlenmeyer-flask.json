@@ -1,0 +1,11 @@
+{
+  "name": "erlenmeyer-flask",
+  "label": "Erlenmeyer flask",
+  "category": "science",
+  "tags": [
+    "science",
+    "erlenmeyer",
+    "flask"
+  ],
+  "version": "1.9"
+}

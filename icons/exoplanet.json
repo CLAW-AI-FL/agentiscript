@@ -1,0 +1,10 @@
+{
+  "name": "exoplanet",
+  "label": "exoplanet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "exoplanet"
+  ],
+  "version": "1.9"
+}

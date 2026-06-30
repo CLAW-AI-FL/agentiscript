@@ -1,0 +1,11 @@
+{
+  "name": "dewar-flask",
+  "label": "Dewar flask",
+  "category": "science",
+  "tags": [
+    "science",
+    "dewar",
+    "flask"
+  ],
+  "version": "1.9"
+}

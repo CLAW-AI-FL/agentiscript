@@ -1,0 +1,11 @@
+{
+  "name": "laboratory-flask",
+  "label": "laboratory flask",
+  "category": "science",
+  "tags": [
+    "science",
+    "laboratory",
+    "flask"
+  ],
+  "version": "1.9"
+}

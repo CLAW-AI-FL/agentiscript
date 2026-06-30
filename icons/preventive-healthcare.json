@@ -1,0 +1,11 @@
+{
+  "name": "preventive-healthcare",
+  "label": "Preventive healthcare",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "preventive",
+    "healthcare"
+  ],
+  "version": "1.9"
+}

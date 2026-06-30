@@ -1,0 +1,12 @@
+{
+  "name": "salt-metathesis-reaction",
+  "label": "salt metathesis reaction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "salt",
+    "metathesis",
+    "reaction"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "surgery",
+  "label": "Surgery",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "surgery"
+  ],
+  "version": "1.9"
+}

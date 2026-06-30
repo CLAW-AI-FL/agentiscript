@@ -1,0 +1,11 @@
+{
+  "name": "electrical-resistivity",
+  "label": "electrical resistivity",
+  "category": "science",
+  "tags": [
+    "science",
+    "electrical",
+    "resistivity"
+  ],
+  "version": "1.9"
+}

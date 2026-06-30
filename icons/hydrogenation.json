@@ -1,0 +1,10 @@
+{
+  "name": "hydrogenation",
+  "label": "hydrogenation",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "hydrogenation"
+  ],
+  "version": "1.9"
+}

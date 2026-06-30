@@ -1,0 +1,11 @@
+{
+  "name": "isolation-by-distance",
+  "label": "isolation by distance",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "isolation",
+    "distance"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vaporization-point",
+  "label": "vaporization point",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "vaporization",
+    "point"
+  ],
+  "version": "1.9"
+}

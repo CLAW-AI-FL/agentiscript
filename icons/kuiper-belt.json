@@ -1,0 +1,11 @@
+{
+  "name": "kuiper-belt",
+  "label": "Kuiper belt",
+  "category": "science",
+  "tags": [
+    "science",
+    "kuiper",
+    "belt"
+  ],
+  "version": "1.9"
+}

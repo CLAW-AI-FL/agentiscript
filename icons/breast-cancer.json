@@ -1,0 +1,11 @@
+{
+  "name": "breast-cancer",
+  "label": "Breast cancer",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "breast",
+    "cancer"
+  ],
+  "version": "1.9"
+}

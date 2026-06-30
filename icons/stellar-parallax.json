@@ -1,0 +1,11 @@
+{
+  "name": "stellar-parallax",
+  "label": "stellar parallax",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "stellar",
+    "parallax"
+  ],
+  "version": "1.9"
+}

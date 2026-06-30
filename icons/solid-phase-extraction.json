@@ -1,0 +1,12 @@
+{
+  "name": "solid-phase-extraction",
+  "label": "solid-phase extraction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "solid",
+    "phase",
+    "extraction"
+  ],
+  "version": "1.9"
+}

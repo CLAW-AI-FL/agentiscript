@@ -1,0 +1,11 @@
+{
+  "name": "gene-dosage",
+  "label": "gene dosage",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "gene",
+    "dosage"
+  ],
+  "version": "1.9"
+}

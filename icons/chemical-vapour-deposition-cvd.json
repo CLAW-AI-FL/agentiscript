@@ -1,0 +1,13 @@
+{
+  "name": "chemical-vapour-deposition-cvd",
+  "label": "Chemical Vapour Deposition",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "chemical",
+    "vapour",
+    "deposition",
+    "cvd"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "osmolarity",
+  "label": "osmolarity",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "osmolarity"
+  ],
+  "version": "1.9"
+}

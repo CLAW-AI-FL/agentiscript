@@ -1,0 +1,10 @@
+{
+  "name": "ecliptic",
+  "label": "ecliptic",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "ecliptic"
+  ],
+  "version": "1.9"
+}

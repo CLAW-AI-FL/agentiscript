@@ -1,0 +1,11 @@
+{
+  "name": "planetary-geology",
+  "label": "planetary geology",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "planetary",
+    "geology"
+  ],
+  "version": "1.9"
+}

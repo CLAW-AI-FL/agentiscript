@@ -1,0 +1,12 @@
+{
+  "name": "reaction-rate-constant",
+  "label": "reaction rate constant",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "reaction",
+    "rate",
+    "constant"
+  ],
+  "version": "1.9"
+}

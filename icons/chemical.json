@@ -1,0 +1,10 @@
+{
+  "name": "chemical",
+  "label": "chemical",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "chemical"
+  ],
+  "version": "1.9"
+}

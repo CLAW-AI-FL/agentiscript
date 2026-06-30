@@ -1,0 +1,11 @@
+{
+  "name": "orbital-inclination",
+  "label": "orbital inclination",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "orbital",
+    "inclination"
+  ],
+  "version": "1.9"
+}

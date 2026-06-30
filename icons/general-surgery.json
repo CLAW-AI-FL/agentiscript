@@ -1,0 +1,11 @@
+{
+  "name": "general-surgery",
+  "label": "General surgery",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "general",
+    "surgery"
+  ],
+  "version": "1.9"
+}

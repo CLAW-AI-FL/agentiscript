@@ -1,0 +1,11 @@
+{
+  "name": "electrochemical-battery",
+  "label": "electrochemical battery",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "electrochemical",
+    "battery"
+  ],
+  "version": "1.9"
+}

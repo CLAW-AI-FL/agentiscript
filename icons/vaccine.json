@@ -1,0 +1,10 @@
+{
+  "name": "vaccine",
+  "label": "Vaccine",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "vaccine"
+  ],
+  "version": "1.9"
+}

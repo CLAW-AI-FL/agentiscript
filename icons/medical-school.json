@@ -1,0 +1,11 @@
+{
+  "name": "medical-school",
+  "label": "Medical school",
+  "category": "science",
+  "tags": [
+    "science",
+    "medical",
+    "school"
+  ],
+  "version": "1.9"
+}

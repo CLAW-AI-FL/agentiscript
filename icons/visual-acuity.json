@@ -1,0 +1,11 @@
+{
+  "name": "visual-acuity",
+  "label": "Visual acuity",
+  "category": "science",
+  "tags": [
+    "science",
+    "visual",
+    "acuity"
+  ],
+  "version": "1.9"
+}

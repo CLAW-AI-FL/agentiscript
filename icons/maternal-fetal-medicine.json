@@ -1,0 +1,12 @@
+{
+  "name": "maternal-fetal-medicine",
+  "label": "Maternal-fetal medicine",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "maternal",
+    "fetal",
+    "medicine"
+  ],
+  "version": "1.9"
+}

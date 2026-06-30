@@ -1,0 +1,11 @@
+{
+  "name": "mass-concentration-chemistry",
+  "label": "mass concentration",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "mass",
+    "concentration"
+  ],
+  "version": "1.9"
+}

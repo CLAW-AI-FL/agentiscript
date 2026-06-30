@@ -1,0 +1,11 @@
+{
+  "name": "cardiothoracic-surgery",
+  "label": "Cardiothoracic surgery",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "cardiothoracic",
+    "surgery"
+  ],
+  "version": "1.9"
+}

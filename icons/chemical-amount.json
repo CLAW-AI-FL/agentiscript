@@ -1,0 +1,11 @@
+{
+  "name": "chemical-amount",
+  "label": "chemical amount",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "chemical",
+    "amount"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "superlattice-nanowire",
+  "label": "Superlattice Nanowire",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "superlattice",
+    "nanowire"
+  ],
+  "version": "1.9"
+}

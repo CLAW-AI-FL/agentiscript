@@ -1,0 +1,11 @@
+{
+  "name": "asteroid-belt",
+  "label": "asteroid belt",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "asteroid",
+    "belt"
+  ],
+  "version": "1.9"
+}

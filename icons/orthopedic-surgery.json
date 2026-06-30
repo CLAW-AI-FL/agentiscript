@@ -1,0 +1,11 @@
+{
+  "name": "orthopedic-surgery",
+  "label": "Orthopedic surgery",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "orthopedic",
+    "surgery"
+  ],
+  "version": "1.9"
+}

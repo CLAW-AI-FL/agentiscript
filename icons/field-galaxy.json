@@ -1,0 +1,11 @@
+{
+  "name": "field-galaxy",
+  "label": "field galaxy",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "field",
+    "galaxy"
+  ],
+  "version": "1.9"
+}

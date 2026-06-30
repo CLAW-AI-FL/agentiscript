@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-group",
+  "label": "galaxy group",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "galaxy",
+    "group"
+  ],
+  "version": "1.9"
+}

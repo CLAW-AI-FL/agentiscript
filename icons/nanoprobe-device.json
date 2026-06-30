@@ -1,0 +1,11 @@
+{
+  "name": "nanoprobe-device",
+  "label": "Nanoprobe",
+  "category": "nanotechnology",
+  "tags": [
+    "nanotechnology",
+    "nanoprobe",
+    "device"
+  ],
+  "version": "1.9"
+}

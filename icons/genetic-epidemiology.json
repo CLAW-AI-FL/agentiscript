@@ -1,0 +1,11 @@
+{
+  "name": "genetic-epidemiology",
+  "label": "genetic epidemiology",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "genetic",
+    "epidemiology"
+  ],
+  "version": "1.9"
+}

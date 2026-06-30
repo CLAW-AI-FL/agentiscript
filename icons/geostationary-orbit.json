@@ -1,0 +1,11 @@
+{
+  "name": "geostationary-orbit",
+  "label": "geostationary orbit",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "geostationary",
+    "orbit"
+  ],
+  "version": "1.9"
+}

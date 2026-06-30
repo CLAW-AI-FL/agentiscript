@@ -1,0 +1,11 @@
+{
+  "name": "medical-laboratory",
+  "label": "Medical laboratory",
+  "category": "science",
+  "tags": [
+    "science",
+    "medical",
+    "laboratory"
+  ],
+  "version": "1.9"
+}

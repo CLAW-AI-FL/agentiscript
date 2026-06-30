@@ -1,0 +1,10 @@
+{
+  "name": "cure",
+  "label": "Cure",
+  "category": "science",
+  "tags": [
+    "science",
+    "cure"
+  ],
+  "version": "1.9"
+}

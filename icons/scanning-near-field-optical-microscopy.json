@@ -1,0 +1,14 @@
+{
+  "name": "scanning-near-field-optical-microscopy",
+  "label": "Scanning Near Field Optical Microscopy",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "scanning",
+    "near",
+    "field",
+    "optical",
+    "microscopy"
+  ],
+  "version": "1.9"
+}

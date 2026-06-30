@@ -1,0 +1,11 @@
+{
+  "name": "inspection-medicine",
+  "label": "Inspection",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "inspection",
+    "medicine"
+  ],
+  "version": "1.9"
+}

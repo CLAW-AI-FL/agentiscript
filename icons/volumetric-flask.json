@@ -1,0 +1,11 @@
+{
+  "name": "volumetric-flask",
+  "label": "volumetric flask",
+  "category": "science",
+  "tags": [
+    "science",
+    "volumetric",
+    "flask"
+  ],
+  "version": "1.9"
+}

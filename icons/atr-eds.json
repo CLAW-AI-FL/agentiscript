@@ -1,0 +1,11 @@
+{
+  "name": "atr-eds",
+  "label": "ATR-EDS",
+  "category": "science",
+  "tags": [
+    "science",
+    "atr",
+    "eds"
+  ],
+  "version": "1.9"
+}

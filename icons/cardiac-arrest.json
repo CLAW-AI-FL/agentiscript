@@ -1,0 +1,11 @@
+{
+  "name": "cardiac-arrest",
+  "label": "Cardiac arrest",
+  "category": "science",
+  "tags": [
+    "science",
+    "cardiac",
+    "arrest"
+  ],
+  "version": "1.9"
+}

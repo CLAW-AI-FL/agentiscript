@@ -1,0 +1,11 @@
+{
+  "name": "kepler-orbit",
+  "label": "Kepler orbit",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "kepler",
+    "orbit"
+  ],
+  "version": "1.9"
+}

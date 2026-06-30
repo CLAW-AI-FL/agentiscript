@@ -1,0 +1,10 @@
+{
+  "name": "comet",
+  "label": "comet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "comet"
+  ],
+  "version": "1.9"
+}

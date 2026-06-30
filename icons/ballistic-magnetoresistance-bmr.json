@@ -1,0 +1,12 @@
+{
+  "name": "ballistic-magnetoresistance-bmr",
+  "label": "Ballistic Magnetoresistance",
+  "category": "science",
+  "tags": [
+    "science",
+    "ballistic",
+    "magnetoresistance",
+    "bmr"
+  ],
+  "version": "1.9"
+}

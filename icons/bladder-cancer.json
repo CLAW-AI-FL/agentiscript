@@ -1,0 +1,11 @@
+{
+  "name": "bladder-cancer",
+  "label": "Bladder cancer",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "bladder",
+    "cancer"
+  ],
+  "version": "1.9"
+}

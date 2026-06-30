@@ -1,0 +1,12 @@
+{
+  "name": "major-depressive-disorder",
+  "label": "Major depressive disorder",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "major",
+    "depressive",
+    "disorder"
+  ],
+  "version": "1.9"
+}

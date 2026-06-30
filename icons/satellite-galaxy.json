@@ -1,0 +1,11 @@
+{
+  "name": "satellite-galaxy",
+  "label": "satellite galaxy",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "satellite",
+    "galaxy"
+  ],
+  "version": "1.9"
+}

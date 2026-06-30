@@ -1,0 +1,10 @@
+{
+  "name": "apds-t",
+  "label": "APDS-T",
+  "category": "science",
+  "tags": [
+    "science",
+    "apds"
+  ],
+  "version": "1.9"
+}

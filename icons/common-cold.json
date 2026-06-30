@@ -1,0 +1,11 @@
+{
+  "name": "common-cold",
+  "label": "Common cold",
+  "category": "science",
+  "tags": [
+    "science",
+    "common",
+    "cold"
+  ],
+  "version": "1.9"
+}

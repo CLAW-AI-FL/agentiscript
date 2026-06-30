@@ -1,0 +1,11 @@
+{
+  "name": "monomolecular-computing",
+  "label": "Monomolecular Computing",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "monomolecular",
+    "computing"
+  ],
+  "version": "1.9"
+}

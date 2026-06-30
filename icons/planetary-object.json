@@ -1,0 +1,11 @@
+{
+  "name": "planetary-object",
+  "label": "planetary object",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "planetary",
+    "object"
+  ],
+  "version": "1.9"
+}

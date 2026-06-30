@@ -1,0 +1,12 @@
+{
+  "name": "dietary-reference-intake",
+  "label": "Dietary reference intake",
+  "category": "science",
+  "tags": [
+    "science",
+    "dietary",
+    "reference",
+    "intake"
+  ],
+  "version": "1.9"
+}

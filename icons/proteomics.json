@@ -1,0 +1,10 @@
+{
+  "name": "proteomics",
+  "label": "Proteomics",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "proteomics"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clinical-research",
+  "label": "Clinical research",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "clinical",
+    "research"
+  ],
+  "version": "1.9"
+}

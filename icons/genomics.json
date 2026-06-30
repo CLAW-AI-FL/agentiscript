@@ -1,0 +1,10 @@
+{
+  "name": "genomics",
+  "label": "genomics",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "genomics"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "spectrometry",
+  "label": "spectrometry",
+  "category": "science",
+  "tags": [
+    "science",
+    "spectrometry"
+  ],
+  "version": "1.9"
+}

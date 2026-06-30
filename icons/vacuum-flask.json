@@ -1,0 +1,11 @@
+{
+  "name": "vacuum-flask",
+  "label": "vacuum flask",
+  "category": "science",
+  "tags": [
+    "science",
+    "vacuum",
+    "flask"
+  ],
+  "version": "1.9"
+}

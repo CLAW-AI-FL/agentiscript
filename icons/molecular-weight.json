@@ -1,0 +1,11 @@
+{
+  "name": "molecular-weight",
+  "label": "molecular weight",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "molecular",
+    "weight"
+  ],
+  "version": "1.9"
+}

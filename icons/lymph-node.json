@@ -1,0 +1,11 @@
+{
+  "name": "lymph-node",
+  "label": "Lymph node",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "lymph",
+    "node"
+  ],
+  "version": "1.9"
+}

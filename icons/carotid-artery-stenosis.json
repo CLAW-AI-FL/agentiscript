@@ -1,0 +1,12 @@
+{
+  "name": "carotid-artery-stenosis",
+  "label": "Carotid artery stenosis",
+  "category": "science",
+  "tags": [
+    "science",
+    "carotid",
+    "artery",
+    "stenosis"
+  ],
+  "version": "1.9"
+}

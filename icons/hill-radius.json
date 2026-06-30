@@ -1,0 +1,11 @@
+{
+  "name": "hill-radius",
+  "label": "Hill radius",
+  "category": "science",
+  "tags": [
+    "science",
+    "hill",
+    "radius"
+  ],
+  "version": "1.9"
+}

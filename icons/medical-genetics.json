@@ -1,0 +1,11 @@
+{
+  "name": "medical-genetics",
+  "label": "medical genetics",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "medical",
+    "genetics"
+  ],
+  "version": "1.9"
+}

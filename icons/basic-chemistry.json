@@ -1,0 +1,11 @@
+{
+  "name": "basic-chemistry",
+  "label": "basic",
+  "category": "science",
+  "tags": [
+    "science",
+    "basic",
+    "chemistry"
+  ],
+  "version": "1.9"
+}

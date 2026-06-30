@@ -1,0 +1,10 @@
+{
+  "name": "toxicology",
+  "label": "Toxicology",
+  "category": "science",
+  "tags": [
+    "science",
+    "toxicology"
+  ],
+  "version": "1.9"
+}

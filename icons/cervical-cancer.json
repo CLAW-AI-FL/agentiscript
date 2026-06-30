@@ -1,0 +1,11 @@
+{
+  "name": "cervical-cancer",
+  "label": "Cervical cancer",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "cervical",
+    "cancer"
+  ],
+  "version": "1.9"
+}

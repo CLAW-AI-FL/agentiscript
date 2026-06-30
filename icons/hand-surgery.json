@@ -1,0 +1,11 @@
+{
+  "name": "hand-surgery",
+  "label": "Hand surgery",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "hand",
+    "surgery"
+  ],
+  "version": "1.9"
+}

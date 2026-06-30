@@ -1,0 +1,11 @@
+{
+  "name": "water-molecule",
+  "label": "water",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "water",
+    "molecule"
+  ],
+  "version": "1.9"
+}

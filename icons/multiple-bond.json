@@ -1,0 +1,11 @@
+{
+  "name": "multiple-bond",
+  "label": "Multiple bond",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "multiple",
+    "bond"
+  ],
+  "version": "1.9"
+}

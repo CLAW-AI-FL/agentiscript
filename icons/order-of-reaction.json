@@ -1,0 +1,11 @@
+{
+  "name": "order-of-reaction",
+  "label": "order of reaction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "order",
+    "reaction"
+  ],
+  "version": "1.9"
+}

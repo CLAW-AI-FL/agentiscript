@@ -1,0 +1,11 @@
+{
+  "name": "solar-eclipse",
+  "label": "solar eclipse",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "solar",
+    "eclipse"
+  ],
+  "version": "1.9"
+}

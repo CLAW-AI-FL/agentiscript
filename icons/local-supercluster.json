@@ -1,0 +1,11 @@
+{
+  "name": "local-supercluster",
+  "label": "Local Supercluster",
+  "category": "science",
+  "tags": [
+    "science",
+    "local",
+    "supercluster"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lattice-energy",
+  "label": "lattice energy",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "lattice",
+    "energy"
+  ],
+  "version": "1.9"
+}

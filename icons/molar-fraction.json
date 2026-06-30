@@ -1,0 +1,11 @@
+{
+  "name": "molar-fraction",
+  "label": "molar fraction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "molar",
+    "fraction"
+  ],
+  "version": "1.9"
+}

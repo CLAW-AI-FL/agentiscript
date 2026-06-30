@@ -1,0 +1,11 @@
+{
+  "name": "molecular-formula",
+  "label": "molecular formula",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "molecular",
+    "formula"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stellar-dynamics",
+  "label": "stellar dynamics",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "stellar",
+    "dynamics"
+  ],
+  "version": "1.9"
+}

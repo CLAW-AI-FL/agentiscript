@@ -1,0 +1,11 @@
+{
+  "name": "charge-number",
+  "label": "charge number",
+  "category": "science",
+  "tags": [
+    "science",
+    "charge",
+    "number"
+  ],
+  "version": "1.9"
+}

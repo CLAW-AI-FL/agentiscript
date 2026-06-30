@@ -1,0 +1,11 @@
+{
+  "name": "colorimeter-chemistry",
+  "label": "colorimeter",
+  "category": "science",
+  "tags": [
+    "science",
+    "colorimeter",
+    "chemistry"
+  ],
+  "version": "1.9"
+}

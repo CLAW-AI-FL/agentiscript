@@ -1,0 +1,11 @@
+{
+  "name": "molecular-machine",
+  "label": "Molecular machine",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "molecular",
+    "machine"
+  ],
+  "version": "1.9"
+}

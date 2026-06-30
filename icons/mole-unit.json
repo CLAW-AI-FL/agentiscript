@@ -1,0 +1,11 @@
+{
+  "name": "mole-unit",
+  "label": "mole",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "mole",
+    "unit"
+  ],
+  "version": "1.9"
+}

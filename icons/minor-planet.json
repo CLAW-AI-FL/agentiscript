@@ -1,0 +1,11 @@
+{
+  "name": "minor-planet",
+  "label": "minor planet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "minor",
+    "planet"
+  ],
+  "version": "1.9"
+}

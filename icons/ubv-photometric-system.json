@@ -1,0 +1,12 @@
+{
+  "name": "ubv-photometric-system",
+  "label": "UBV photometric system",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "ubv",
+    "photometric",
+    "system"
+  ],
+  "version": "1.9"
+}

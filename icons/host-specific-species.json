@@ -1,0 +1,12 @@
+{
+  "name": "host-specific-species",
+  "label": "host-specific species",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "host",
+    "specific",
+    "species"
+  ],
+  "version": "1.9"
+}

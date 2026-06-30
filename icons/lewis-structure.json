@@ -1,0 +1,11 @@
+{
+  "name": "lewis-structure",
+  "label": "Lewis structure",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "lewis",
+    "structure"
+  ],
+  "version": "1.9"
+}

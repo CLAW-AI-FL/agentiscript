@@ -1,0 +1,10 @@
+{
+  "name": "am-star",
+  "label": "Am star",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "star"
+  ],
+  "version": "1.9"
+}

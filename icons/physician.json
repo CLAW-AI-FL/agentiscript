@@ -1,0 +1,10 @@
+{
+  "name": "physician",
+  "label": "Physician",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "physician"
+  ],
+  "version": "1.9"
+}

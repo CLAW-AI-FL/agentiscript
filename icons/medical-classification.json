@@ -1,0 +1,11 @@
+{
+  "name": "medical-classification",
+  "label": "Medical classification",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "medical",
+    "classification"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "observation-arc",
+  "label": "observation arc",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "observation",
+    "arc"
+  ],
+  "version": "1.9"
+}

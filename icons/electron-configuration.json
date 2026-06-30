@@ -1,0 +1,11 @@
+{
+  "name": "electron-configuration",
+  "label": "electron configuration",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "electron",
+    "configuration"
+  ],
+  "version": "1.9"
+}

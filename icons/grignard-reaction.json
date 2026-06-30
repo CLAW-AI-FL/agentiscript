@@ -1,0 +1,11 @@
+{
+  "name": "grignard-reaction",
+  "label": "Grignard reaction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "grignard",
+    "reaction"
+  ],
+  "version": "1.9"
+}

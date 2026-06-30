@@ -1,0 +1,11 @@
+{
+  "name": "sidereal-time",
+  "label": "sidereal time",
+  "category": "science",
+  "tags": [
+    "science",
+    "sidereal",
+    "time"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "atomistic-simultations",
+  "label": "Atomistic Simultations",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "atomistic",
+    "simultations"
+  ],
+  "version": "1.9"
+}

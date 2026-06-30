@@ -1,0 +1,12 @@
+{
+  "name": "nuclear-star-cluster",
+  "label": "nuclear star cluster",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "nuclear",
+    "star",
+    "cluster"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "milstar",
+  "label": "MILSTAR",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "milstar"
+  ],
+  "version": "1.9"
+}

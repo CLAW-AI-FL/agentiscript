@@ -1,0 +1,11 @@
+{
+  "name": "diatomic-molecule",
+  "label": "diatomic molecule",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "diatomic",
+    "molecule"
+  ],
+  "version": "1.9"
+}

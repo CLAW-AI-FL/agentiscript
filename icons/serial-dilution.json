@@ -1,0 +1,11 @@
+{
+  "name": "serial-dilution",
+  "label": "serial dilution",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "serial",
+    "dilution"
+  ],
+  "version": "1.9"
+}

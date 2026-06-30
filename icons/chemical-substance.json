@@ -1,0 +1,11 @@
+{
+  "name": "chemical-substance",
+  "label": "chemical substance",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "chemical",
+    "substance"
+  ],
+  "version": "1.9"
+}

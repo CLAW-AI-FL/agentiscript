@@ -1,0 +1,11 @@
+{
+  "name": "osw-usaf",
+  "label": "OSW",
+  "category": "science",
+  "tags": [
+    "science",
+    "osw",
+    "usaf"
+  ],
+  "version": "1.9"
+}

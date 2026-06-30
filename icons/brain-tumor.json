@@ -1,0 +1,11 @@
+{
+  "name": "brain-tumor",
+  "label": "Brain tumor",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "brain",
+    "tumor"
+  ],
+  "version": "1.9"
+}

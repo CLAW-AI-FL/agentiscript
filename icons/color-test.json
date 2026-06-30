@@ -1,0 +1,11 @@
+{
+  "name": "color-test",
+  "label": "color test",
+  "category": "science",
+  "tags": [
+    "science",
+    "color",
+    "test"
+  ],
+  "version": "1.9"
+}

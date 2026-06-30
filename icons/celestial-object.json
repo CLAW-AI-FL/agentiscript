@@ -1,0 +1,11 @@
+{
+  "name": "celestial-object",
+  "label": "celestial object",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "celestial",
+    "object"
+  ],
+  "version": "1.9"
+}

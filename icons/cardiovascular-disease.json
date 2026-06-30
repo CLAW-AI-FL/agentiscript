@@ -1,0 +1,11 @@
+{
+  "name": "cardiovascular-disease",
+  "label": "Cardiovascular disease",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "cardiovascular",
+    "disease"
+  ],
+  "version": "1.9"
+}

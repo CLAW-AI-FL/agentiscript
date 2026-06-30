@@ -1,0 +1,12 @@
+{
+  "name": "x-ray-photoelectron-spectroscopy",
+  "label": "X-ray photoelectron spectroscopy",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "ray",
+    "photoelectron",
+    "spectroscopy"
+  ],
+  "version": "1.9"
+}

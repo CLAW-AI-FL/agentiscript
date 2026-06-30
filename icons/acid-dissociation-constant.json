@@ -1,0 +1,12 @@
+{
+  "name": "acid-dissociation-constant",
+  "label": "acid dissociation constant",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "acid",
+    "dissociation",
+    "constant"
+  ],
+  "version": "1.9"
+}

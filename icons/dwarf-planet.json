@@ -1,0 +1,11 @@
+{
+  "name": "dwarf-planet",
+  "label": "dwarf planet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "dwarf",
+    "planet"
+  ],
+  "version": "1.9"
+}

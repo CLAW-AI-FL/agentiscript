@@ -1,0 +1,10 @@
+{
+  "name": "hematology",
+  "label": "Hematology",
+  "category": "science",
+  "tags": [
+    "science",
+    "hematology"
+  ],
+  "version": "1.9"
+}

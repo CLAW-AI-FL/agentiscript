@@ -1,0 +1,11 @@
+{
+  "name": "orbital-node",
+  "label": "orbital node",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "orbital",
+    "node"
+  ],
+  "version": "1.9"
+}

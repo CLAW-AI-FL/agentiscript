@@ -1,0 +1,11 @@
+{
+  "name": "internal-medicine",
+  "label": "Internal medicine",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "internal",
+    "medicine"
+  ],
+  "version": "1.9"
+}

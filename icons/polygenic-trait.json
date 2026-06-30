@@ -1,0 +1,11 @@
+{
+  "name": "polygenic-trait",
+  "label": "polygenic trait",
+  "category": "science",
+  "tags": [
+    "science",
+    "polygenic",
+    "trait"
+  ],
+  "version": "1.9"
+}

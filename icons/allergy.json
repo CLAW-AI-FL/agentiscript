@@ -1,0 +1,10 @@
+{
+  "name": "allergy",
+  "label": "Allergy",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "allergy"
+  ],
+  "version": "1.9"
+}

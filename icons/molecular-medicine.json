@@ -1,0 +1,11 @@
+{
+  "name": "molecular-medicine",
+  "label": "Molecular Medicine",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "molecular",
+    "medicine"
+  ],
+  "version": "1.9"
+}

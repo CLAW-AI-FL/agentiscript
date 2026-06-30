@@ -1,0 +1,12 @@
+{
+  "name": "ecliptic-coordinate-system",
+  "label": "ecliptic coordinate system",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "ecliptic",
+    "coordinate",
+    "system"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gauche-conformation",
+  "label": "gauche conformation",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "gauche",
+    "conformation"
+  ],
+  "version": "1.9"
+}

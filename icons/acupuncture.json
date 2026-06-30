@@ -1,0 +1,10 @@
+{
+  "name": "acupuncture",
+  "label": "Acupuncture",
+  "category": "science",
+  "tags": [
+    "science",
+    "acupuncture"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wiktchemical",
+  "label": "wikt:chemical",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "wikt",
+    "chemical"
+  ],
+  "version": "1.9"
+}

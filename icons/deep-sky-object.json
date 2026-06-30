@@ -1,0 +1,12 @@
+{
+  "name": "deep-sky-object",
+  "label": "deep-sky object",
+  "category": "science",
+  "tags": [
+    "science",
+    "deep",
+    "sky",
+    "object"
+  ],
+  "version": "1.9"
+}

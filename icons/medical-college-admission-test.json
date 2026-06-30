@@ -1,0 +1,13 @@
+{
+  "name": "medical-college-admission-test",
+  "label": "Medical College Admission Test",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "medical",
+    "college",
+    "admission",
+    "test"
+  ],
+  "version": "1.9"
+}

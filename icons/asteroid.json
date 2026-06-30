@@ -1,0 +1,10 @@
+{
+  "name": "asteroid",
+  "label": "asteroid",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "asteroid"
+  ],
+  "version": "1.9"
+}

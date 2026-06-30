@@ -1,0 +1,12 @@
+{
+  "name": "hydrogen-burning-limit",
+  "label": "hydrogen burning limit",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "hydrogen",
+    "burning",
+    "limit"
+  ],
+  "version": "1.9"
+}

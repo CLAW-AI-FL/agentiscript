@@ -1,0 +1,11 @@
+{
+  "name": "chemical-species",
+  "label": "chemical species",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "chemical",
+    "species"
+  ],
+  "version": "1.9"
+}

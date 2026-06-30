@@ -1,0 +1,10 @@
+{
+  "name": "bionems",
+  "label": "BioNEMS",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "bionems"
+  ],
+  "version": "1.9"
+}

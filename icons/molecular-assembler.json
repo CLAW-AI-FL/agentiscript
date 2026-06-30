@@ -1,0 +1,11 @@
+{
+  "name": "molecular-assembler",
+  "label": "Molecular assembler",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "molecular",
+    "assembler"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "field-of-view",
+  "label": "field of view",
+  "category": "science",
+  "tags": [
+    "science",
+    "field",
+    "view"
+  ],
+  "version": "1.9"
+}

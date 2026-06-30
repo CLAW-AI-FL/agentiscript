@@ -1,0 +1,11 @@
+{
+  "name": "medical-device",
+  "label": "Medical device",
+  "category": "science",
+  "tags": [
+    "science",
+    "medical",
+    "device"
+  ],
+  "version": "1.9"
+}

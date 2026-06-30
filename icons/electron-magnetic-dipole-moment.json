@@ -1,0 +1,13 @@
+{
+  "name": "electron-magnetic-dipole-moment",
+  "label": "electron magnetic dipole moment",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "electron",
+    "magnetic",
+    "dipole",
+    "moment"
+  ],
+  "version": "1.9"
+}

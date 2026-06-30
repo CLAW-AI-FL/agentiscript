@@ -1,0 +1,11 @@
+{
+  "name": "vital-signs",
+  "label": "Vital signs",
+  "category": "science",
+  "tags": [
+    "science",
+    "vital",
+    "signs"
+  ],
+  "version": "1.9"
+}

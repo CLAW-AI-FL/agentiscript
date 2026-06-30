@@ -1,0 +1,11 @@
+{
+  "name": "birth-control",
+  "label": "Birth control",
+  "category": "science",
+  "tags": [
+    "science",
+    "birth",
+    "control"
+  ],
+  "version": "1.9"
+}

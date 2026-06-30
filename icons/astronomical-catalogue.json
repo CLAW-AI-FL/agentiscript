@@ -1,0 +1,11 @@
+{
+  "name": "astronomical-catalogue",
+  "label": "astronomical catalogue",
+  "category": "science",
+  "tags": [
+    "science",
+    "astronomical",
+    "catalogue"
+  ],
+  "version": "1.9"
+}

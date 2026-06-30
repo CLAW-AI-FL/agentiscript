@@ -1,0 +1,13 @@
+{
+  "name": "infectious-diseases-medical-specialty",
+  "label": "Infectious diseases",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "infectious",
+    "diseases",
+    "medical",
+    "specialty"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-cluster",
+  "label": "galaxy cluster",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "galaxy",
+    "cluster"
+  ],
+  "version": "1.9"
+}

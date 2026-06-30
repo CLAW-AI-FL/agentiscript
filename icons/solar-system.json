@@ -1,0 +1,11 @@
+{
+  "name": "solar-system",
+  "label": "Solar System",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "solar",
+    "system"
+  ],
+  "version": "1.9"
+}

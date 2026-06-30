@@ -1,0 +1,11 @@
+{
+  "name": "substitution-reaction",
+  "label": "substitution reaction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "substitution",
+    "reaction"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "prognosis",
+  "label": "Prognosis",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "prognosis"
+  ],
+  "version": "1.9"
+}

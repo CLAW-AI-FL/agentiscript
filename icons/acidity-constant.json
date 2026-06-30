@@ -1,0 +1,11 @@
+{
+  "name": "acidity-constant",
+  "label": "acidity constant",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "acidity",
+    "constant"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "electron-electric-dipole-moment",
+  "label": "electron electric dipole moment",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "electron",
+    "electric",
+    "dipole",
+    "moment"
+  ],
+  "version": "1.9"
+}

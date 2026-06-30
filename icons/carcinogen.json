@@ -1,0 +1,10 @@
+{
+  "name": "carcinogen",
+  "label": "Carcinogen",
+  "category": "science",
+  "tags": [
+    "science",
+    "carcinogen"
+  ],
+  "version": "1.9"
+}

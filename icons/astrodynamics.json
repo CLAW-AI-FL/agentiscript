@@ -1,0 +1,10 @@
+{
+  "name": "astrodynamics",
+  "label": "astrodynamics",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "astrodynamics"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "sensory-nervous-system",
+  "label": "Sensory nervous system",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "sensory",
+    "nervous",
+    "system"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "star-cluster",
+  "label": "star cluster",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "star",
+    "cluster"
+  ],
+  "version": "1.9"
+}

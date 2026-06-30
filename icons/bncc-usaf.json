@@ -1,0 +1,11 @@
+{
+  "name": "bncc-usaf",
+  "label": "BNCC",
+  "category": "science",
+  "tags": [
+    "science",
+    "bncc",
+    "usaf"
+  ],
+  "version": "1.9"
+}

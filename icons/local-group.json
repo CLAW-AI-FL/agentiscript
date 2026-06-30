@@ -1,0 +1,11 @@
+{
+  "name": "local-group",
+  "label": "Local Group",
+  "category": "science",
+  "tags": [
+    "science",
+    "local",
+    "group"
+  ],
+  "version": "1.9"
+}

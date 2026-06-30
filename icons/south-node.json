@@ -1,0 +1,11 @@
+{
+  "name": "south-node",
+  "label": "south node",
+  "category": "science",
+  "tags": [
+    "science",
+    "south",
+    "node"
+  ],
+  "version": "1.9"
+}

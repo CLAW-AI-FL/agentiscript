@@ -1,0 +1,10 @@
+{
+  "name": "astrometry",
+  "label": "astrometry",
+  "category": "science",
+  "tags": [
+    "science",
+    "astrometry"
+  ],
+  "version": "1.9"
+}

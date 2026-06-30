@@ -1,0 +1,10 @@
+{
+  "name": "deposition-chemistry",
+  "label": "deposition",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "deposition"
+  ],
+  "version": "1.9"
+}

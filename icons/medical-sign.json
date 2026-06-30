@@ -1,0 +1,11 @@
+{
+  "name": "medical-sign",
+  "label": "Medical sign",
+  "category": "science",
+  "tags": [
+    "science",
+    "medical",
+    "sign"
+  ],
+  "version": "1.9"
+}

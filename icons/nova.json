@@ -1,0 +1,10 @@
+{
+  "name": "nova",
+  "label": "nova",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "nova"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "coordinate-covalent-bond",
+  "label": "coordinate covalent bond",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "coordinate",
+    "covalent",
+    "bond"
+  ],
+  "version": "1.9"
+}

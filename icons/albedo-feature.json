@@ -1,0 +1,11 @@
+{
+  "name": "albedo-feature",
+  "label": "albedo feature",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "albedo",
+    "feature"
+  ],
+  "version": "1.9"
+}

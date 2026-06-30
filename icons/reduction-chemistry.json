@@ -1,0 +1,10 @@
+{
+  "name": "reduction-chemistry",
+  "label": "reduction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "reduction"
+  ],
+  "version": "1.9"
+}

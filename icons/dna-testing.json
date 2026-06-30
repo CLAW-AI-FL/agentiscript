@@ -1,0 +1,11 @@
+{
+  "name": "dna-testing",
+  "label": "DNA testing",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "dna",
+    "testing"
+  ],
+  "version": "1.9"
+}

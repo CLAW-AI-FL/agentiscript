@@ -1,0 +1,10 @@
+{
+  "name": "cancer",
+  "label": "Cancer",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "cancer"
+  ],
+  "version": "1.9"
+}

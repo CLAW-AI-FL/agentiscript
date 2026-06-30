@@ -1,0 +1,10 @@
+{
+  "name": "mineral",
+  "label": "mineral",
+  "category": "science",
+  "tags": [
+    "science",
+    "mineral"
+  ],
+  "version": "1.9"
+}

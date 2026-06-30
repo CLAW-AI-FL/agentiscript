@@ -1,0 +1,10 @@
+{
+  "name": "hemoperfusion",
+  "label": "Hemoperfusion",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "hemoperfusion"
+  ],
+  "version": "1.9"
+}

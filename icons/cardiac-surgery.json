@@ -1,0 +1,11 @@
+{
+  "name": "cardiac-surgery",
+  "label": "Cardiac surgery",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "cardiac",
+    "surgery"
+  ],
+  "version": "1.9"
+}

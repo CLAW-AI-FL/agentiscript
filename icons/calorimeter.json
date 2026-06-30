@@ -1,0 +1,10 @@
+{
+  "name": "calorimeter",
+  "label": "calorimeter",
+  "category": "science",
+  "tags": [
+    "science",
+    "calorimeter"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "horizon",
+  "label": "horizon",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "horizon"
+  ],
+  "version": "1.9"
+}

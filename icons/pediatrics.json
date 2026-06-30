@@ -1,0 +1,10 @@
+{
+  "name": "pediatrics",
+  "label": "Pediatrics",
+  "category": "science",
+  "tags": [
+    "science",
+    "pediatrics"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mass-fraction-chemistry",
+  "label": "mass fraction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "mass",
+    "fraction"
+  ],
+  "version": "1.9"
+}

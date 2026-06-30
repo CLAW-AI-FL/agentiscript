@@ -1,0 +1,11 @@
+{
+  "name": "geosynchronous-orbit",
+  "label": "geosynchronous orbit",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "geosynchronous",
+    "orbit"
+  ],
+  "version": "1.9"
+}

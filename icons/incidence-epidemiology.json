@@ -1,0 +1,11 @@
+{
+  "name": "incidence-epidemiology",
+  "label": "incidence",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "incidence",
+    "epidemiology"
+  ],
+  "version": "1.9"
+}

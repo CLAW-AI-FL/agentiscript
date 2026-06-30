@@ -1,0 +1,11 @@
+{
+  "name": "diabetes-mellitus",
+  "label": "Diabetes mellitus",
+  "category": "science",
+  "tags": [
+    "science",
+    "diabetes",
+    "mellitus"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "norm-of-reaction",
+  "label": "norm of reaction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "norm",
+    "reaction"
+  ],
+  "version": "1.9"
+}

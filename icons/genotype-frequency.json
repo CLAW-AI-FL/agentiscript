@@ -1,0 +1,11 @@
+{
+  "name": "genotype-frequency",
+  "label": "genotype frequency",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "genotype",
+    "frequency"
+  ],
+  "version": "1.9"
+}

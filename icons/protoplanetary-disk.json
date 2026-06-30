@@ -1,0 +1,11 @@
+{
+  "name": "protoplanetary-disk",
+  "label": "protoplanetary disk",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "protoplanetary",
+    "disk"
+  ],
+  "version": "1.9"
+}

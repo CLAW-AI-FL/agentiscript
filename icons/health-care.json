@@ -1,0 +1,11 @@
+{
+  "name": "health-care",
+  "label": "Health care",
+  "category": "science",
+  "tags": [
+    "science",
+    "health",
+    "care"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bond-angle",
+  "label": "bond angle",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "bond",
+    "angle"
+  ],
+  "version": "1.9"
+}

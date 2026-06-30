@@ -1,0 +1,10 @@
+{
+  "name": "biopsy",
+  "label": "Biopsy",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "biopsy"
+  ],
+  "version": "1.9"
+}

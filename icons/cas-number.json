@@ -1,0 +1,11 @@
+{
+  "name": "cas-number",
+  "label": "CAS Number",
+  "category": "science",
+  "tags": [
+    "science",
+    "cas",
+    "number"
+  ],
+  "version": "1.9"
+}
