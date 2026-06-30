@@ -1,0 +1,16 @@
+{
+  "name": "agentiscript",
+  "version": "1.0.0",
+  "description": "The visual language of the agentic economy — 20,000+ icons for AI, blockchain, quantum, and every concept the agentic economy speaks but cannot show",
+  "main": "index.js",
+  "keywords": ["agentscript", "icons", "svg", "agentic", "blockchain", "ai", "x402", "mcp"],
+  "license": "CC0-1.0",
+  "repository": {"type": "git", "url": "https://github.com/CLAW-AI-FL/agentiscript"},
+  "bin": {
+    "agentiscript": "./cli.js"
+  },
+  "scripts": {
+    "mcp": "node mcp-server.js",
+    "start": "node mcp-server.js"
+  }
+}
