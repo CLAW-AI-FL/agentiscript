@@ -29,14 +29,14 @@ export default {
           error: 'Payment Required',
           accepts: [{
             scheme: 'exact',
-            network: 'hedera:mainnet',
-            maxAmountRequired: '1000', // $0.001 in USDC tinycents
+            network: 'xrpl:mainnet',
+            maxAmountRequired: '1000', // 0.001 XRP in drops
             resource: request.url,
             description: `AgentiScript icon: ${slug}`,
             mimeType: 'image/svg+xml',
-            payTo: env.HBAR_WALLET_ADDRESS || 'HBAR_WALLET_PLACEHOLDER',
+            payTo: env.XRPL_WALLET_ADDRESS || 'rfKCUyLy21qKC1SQmxjHe8gEP1S8gJvzTi',
             maxTimeoutSeconds: 300,
-            asset: '0.0.456858', // USDC on Hedera HTS
+            asset: 'XRP',
             extra: {
               name: 'AgentiScript',
               version: '3.0',
