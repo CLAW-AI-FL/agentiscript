@@ -1,0 +1,22 @@
+{
+  "name": "service-mesh",
+  "label": "Service Mesh",
+  "concept": "Service Mesh",
+  "definition": "A dedicated infrastructure layer that handles service-to-service communication in microservices architectures, providing observability, security, and traffic management",
+  "aliases": [
+    "sidecar proxy",
+    "Istio",
+    "Linkerd",
+    "service-to-service networking"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "service mesh",
+    "microservices",
+    "networking",
+    "infrastructure",
+    "proxy"
+  ],
+  "version": "1.5"
+}

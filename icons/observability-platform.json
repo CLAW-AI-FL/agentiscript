@@ -1,0 +1,22 @@
+{
+  "name": "observability-platform",
+  "label": "Observability Platform",
+  "concept": "Observability Platform",
+  "definition": "An integrated system for collecting, storing, and analyzing metrics, logs, and traces from distributed systems, providing deep insight into system behavior and performance",
+  "aliases": [
+    "monitoring platform",
+    "telemetry platform",
+    "SRE platform",
+    "OpenTelemetry"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "observability",
+    "monitoring",
+    "metrics",
+    "logs",
+    "traces"
+  ],
+  "version": "1.5"
+}

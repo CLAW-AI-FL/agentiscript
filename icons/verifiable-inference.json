@@ -1,0 +1,22 @@
+{
+  "name": "verifiable-inference",
+  "label": "Verifiable Inference",
+  "concept": "Verifiable Inference",
+  "definition": "AI inference where the computation is accompanied by a cryptographic proof that allows anyone to verify the output was produced correctly by a specific model",
+  "aliases": [
+    "proven inference",
+    "auditable AI",
+    "trustless AI inference",
+    "proof of computation"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "verifiable",
+    "inference",
+    "cryptographic proof",
+    "trustless",
+    "AI"
+  ],
+  "version": "1.5"
+}

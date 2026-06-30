@@ -1,0 +1,22 @@
+{
+  "name": "distributed-tracing",
+  "label": "Distributed Tracing",
+  "concept": "Distributed Tracing",
+  "definition": "A monitoring technique that tracks requests across multiple microservices or agents, recording timing and causality to diagnose latency, failures, and performance bottlenecks",
+  "aliases": [
+    "request tracing",
+    "span tracing",
+    "OpenTelemetry tracing",
+    "Jaeger tracing"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "distributed tracing",
+    "observability",
+    "spans",
+    "microservices",
+    "monitoring"
+  ],
+  "version": "1.5"
+}

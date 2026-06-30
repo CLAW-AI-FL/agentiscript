@@ -1,0 +1,22 @@
+{
+  "name": "api-gateway",
+  "label": "API Gateway",
+  "concept": "API Gateway",
+  "definition": "A server that acts as the single entry point for all client requests, routing them to appropriate microservices while handling authentication, rate limiting, and protocol translation",
+  "aliases": [
+    "API proxy",
+    "gateway service",
+    "API management",
+    "reverse proxy gateway"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "API gateway",
+    "routing",
+    "microservices",
+    "authentication",
+    "infrastructure"
+  ],
+  "version": "1.5"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "event-sourcing",
+  "label": "Event Sourcing",
+  "concept": "Event Sourcing",
+  "definition": "An architectural pattern where application state is derived by replaying an immutable log of domain events rather than storing current state directly, enabling auditability and time-travel queries",
+  "aliases": [
+    "event log",
+    "event store",
+    "append-only log",
+    "event replay"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "event sourcing",
+    "events",
+    "immutable log",
+    "architecture",
+    "CQRS"
+  ],
+  "version": "1.5"
+}

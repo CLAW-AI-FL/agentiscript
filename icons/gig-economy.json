@@ -1,0 +1,22 @@
+{
+  "name": "gig-economy",
+  "label": "Gig Economy",
+  "concept": "Gig Economy",
+  "definition": "A labor market characterized by short-term, on-demand task contracts rather than permanent employment, extended to AI agents performing discrete tasks for hire",
+  "aliases": [
+    "freelance economy",
+    "on-demand economy",
+    "task economy",
+    "agent gig market"
+  ],
+  "category": "economics-finance",
+  "category_name": "Economics & Finance",
+  "tags": [
+    "gig",
+    "economy",
+    "freelance",
+    "on-demand",
+    "tasks"
+  ],
+  "version": "1.5"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "attention-economy",
+  "label": "Attention Economy",
+  "concept": "Attention Economy",
+  "definition": "An economic model treating human or AI attention as a scarce resource, where platforms and agents compete to capture, direct, and monetize attention flows",
+  "aliases": [
+    "attention markets",
+    "engagement economy",
+    "attention as currency",
+    "eyeball economy"
+  ],
+  "category": "economics-finance",
+  "category_name": "Economics & Finance",
+  "tags": [
+    "attention",
+    "economy",
+    "engagement",
+    "monetization",
+    "media"
+  ],
+  "version": "1.5"
+}

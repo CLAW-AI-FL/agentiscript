@@ -1,0 +1,22 @@
+{
+  "name": "bulkhead-pattern",
+  "label": "Bulkhead Pattern",
+  "concept": "Bulkhead Pattern",
+  "definition": "A resilience design pattern that isolates elements of an application into pools so that if one fails, others continue to function\u2014inspired by ship bulkheads that prevent flooding",
+  "aliases": [
+    "bulkhead isolation",
+    "resource isolation",
+    "thread pool isolation",
+    "fault isolation"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "bulkhead",
+    "resilience",
+    "isolation",
+    "pattern",
+    "microservices"
+  ],
+  "version": "1.5"
+}

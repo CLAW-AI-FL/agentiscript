@@ -1,0 +1,22 @@
+{
+  "name": "creator-economy",
+  "label": "Creator Economy",
+  "concept": "Creator Economy",
+  "definition": "An economic ecosystem where individual creators\u2014including AI agents\u2014generate, distribute, and monetize content or services directly, often through platform-independent channels",
+  "aliases": [
+    "content creator economy",
+    "independent creator",
+    "creator monetization",
+    "creator platforms"
+  ],
+  "category": "economics-finance",
+  "category_name": "Economics & Finance",
+  "tags": [
+    "creator",
+    "economy",
+    "content",
+    "monetization",
+    "platform"
+  ],
+  "version": "1.5"
+}
