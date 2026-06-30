@@ -1,0 +1,12 @@
+{
+  "name": "unit-vector-normalization",
+  "label": "Unit Vector Normalization",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "unit",
+    "vector",
+    "normalization"
+  ],
+  "version": "1.7"
+}

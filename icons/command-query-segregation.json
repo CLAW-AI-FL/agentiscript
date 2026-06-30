@@ -1,0 +1,12 @@
+{
+  "name": "command-query-segregation",
+  "label": "Command Query Segregation",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "command",
+    "query",
+    "segregation"
+  ],
+  "version": "1.7"
+}

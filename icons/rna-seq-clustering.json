@@ -1,0 +1,12 @@
+{
+  "name": "rna-seq-clustering",
+  "label": "Rna Seq Clustering",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "rna",
+    "seq",
+    "clustering"
+  ],
+  "version": "1.7"
+}

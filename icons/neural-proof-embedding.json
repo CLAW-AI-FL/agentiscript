@@ -1,0 +1,12 @@
+{
+  "name": "neural-proof-embedding",
+  "label": "Neural Proof Embedding",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "neural",
+    "proof",
+    "embedding"
+  ],
+  "version": "1.7"
+}

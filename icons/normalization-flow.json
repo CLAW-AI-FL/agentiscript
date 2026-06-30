@@ -1,0 +1,11 @@
+{
+  "name": "normalization-flow",
+  "label": "Normalization Flow",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "normalization",
+    "flow"
+  ],
+  "version": "1.7"
+}

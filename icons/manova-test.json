@@ -1,0 +1,11 @@
+{
+  "name": "manova-test",
+  "label": "Manova Test",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "manova",
+    "test"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-operator",
+  "label": "Kubernetes Operator",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "1.7"
+}

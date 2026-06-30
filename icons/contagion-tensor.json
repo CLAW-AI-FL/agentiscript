@@ -1,0 +1,11 @@
+{
+  "name": "contagion-tensor",
+  "label": "Contagion Tensor",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "contagion",
+    "tensor"
+  ],
+  "version": "1.7"
+}

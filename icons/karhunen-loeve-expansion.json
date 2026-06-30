@@ -1,0 +1,12 @@
+{
+  "name": "karhunen-loeve-expansion",
+  "label": "Karhunen Loeve Expansion",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "karhunen",
+    "loeve",
+    "expansion"
+  ],
+  "version": "1.7"
+}

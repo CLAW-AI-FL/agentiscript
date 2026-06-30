@@ -1,0 +1,11 @@
+{
+  "name": "disentangled-representation",
+  "label": "Disentangled Representation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "disentangled",
+    "representation"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rotary-position-embedding",
+  "label": "Rotary Position Embedding",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "rotary",
+    "position",
+    "embedding"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mesh-generation",
+  "label": "Mesh Generation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "mesh",
+    "generation"
+  ],
+  "version": "1.7"
+}

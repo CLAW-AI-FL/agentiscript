@@ -1,0 +1,12 @@
+{
+  "name": "causal-discovery-algorithm",
+  "label": "Causal Discovery Algorithm",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "causal",
+    "discovery",
+    "algorithm"
+  ],
+  "version": "1.7"
+}

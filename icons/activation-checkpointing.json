@@ -1,0 +1,11 @@
+{
+  "name": "activation-checkpointing",
+  "label": "Activation Checkpointing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "activation",
+    "checkpointing"
+  ],
+  "version": "1.7"
+}

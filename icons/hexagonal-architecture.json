@@ -1,0 +1,10 @@
+{
+  "name": "hexagonal-architecture",
+  "label": "Hexagonal Architecture",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "hexagonal"
+  ],
+  "version": "1.7"
+}

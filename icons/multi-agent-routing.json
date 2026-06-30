@@ -1,0 +1,12 @@
+{
+  "name": "multi-agent-routing",
+  "label": "Multi Agent Routing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "multi",
+    "agent",
+    "routing"
+  ],
+  "version": "1.7"
+}

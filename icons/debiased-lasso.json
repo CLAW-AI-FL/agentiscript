@@ -1,0 +1,11 @@
+{
+  "name": "debiased-lasso",
+  "label": "Debiased Lasso",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "debiased",
+    "lasso"
+  ],
+  "version": "1.7"
+}

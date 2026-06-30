@@ -1,0 +1,12 @@
+{
+  "name": "secure-socket-layer",
+  "label": "Secure Socket Layer",
+  "category": "security",
+  "tags": [
+    "security",
+    "secure",
+    "socket",
+    "layer"
+  ],
+  "version": "1.7"
+}

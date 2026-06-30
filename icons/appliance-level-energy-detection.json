@@ -1,0 +1,13 @@
+{
+  "name": "appliance-level-energy-detection",
+  "label": "Appliance Level Energy Detection",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "appliance",
+    "level",
+    "energy",
+    "detection"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "classifier-free-guidance",
+  "label": "Classifier Free Guidance",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "classifier",
+    "free",
+    "guidance"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bgp-routing-protocol",
+  "label": "Bgp Routing Protocol",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "bgp",
+    "routing",
+    "protocol"
+  ],
+  "version": "1.7"
+}

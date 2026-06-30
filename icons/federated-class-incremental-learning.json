@@ -1,0 +1,13 @@
+{
+  "name": "federated-class-incremental-learning",
+  "label": "Federated Class Incremental Learning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "federated",
+    "class",
+    "incremental",
+    "learning"
+  ],
+  "version": "1.7"
+}

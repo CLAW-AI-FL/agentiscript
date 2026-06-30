@@ -1,0 +1,11 @@
+{
+  "name": "flash-crash",
+  "label": "Flash Crash",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "flash",
+    "crash"
+  ],
+  "version": "1.7"
+}

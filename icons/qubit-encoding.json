@@ -1,0 +1,11 @@
+{
+  "name": "qubit-encoding",
+  "label": "Qubit Encoding",
+  "category": "quantum",
+  "tags": [
+    "quantum",
+    "qubit",
+    "encoding"
+  ],
+  "version": "1.7"
+}

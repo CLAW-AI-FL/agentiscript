@@ -1,0 +1,11 @@
+{
+  "name": "swap-spread",
+  "label": "Swap Spread",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "swap",
+    "spread"
+  ],
+  "version": "1.7"
+}

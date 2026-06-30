@@ -1,0 +1,12 @@
+{
+  "name": "energy-based-model",
+  "label": "Energy Based Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "energy",
+    "based",
+    "model"
+  ],
+  "version": "1.7"
+}

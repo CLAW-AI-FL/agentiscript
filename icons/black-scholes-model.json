@@ -1,0 +1,12 @@
+{
+  "name": "black-scholes-model",
+  "label": "Black Scholes Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "black",
+    "scholes",
+    "model"
+  ],
+  "version": "1.7"
+}

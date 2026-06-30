@@ -1,0 +1,12 @@
+{
+  "name": "kv-cache-compression",
+  "label": "Kv Cache Compression",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "kv",
+    "cache",
+    "compression"
+  ],
+  "version": "1.7"
+}

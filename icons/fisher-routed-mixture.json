@@ -1,0 +1,12 @@
+{
+  "name": "fisher-routed-mixture",
+  "label": "Fisher Routed Mixture",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "fisher",
+    "routed",
+    "mixture"
+  ],
+  "version": "1.7"
+}

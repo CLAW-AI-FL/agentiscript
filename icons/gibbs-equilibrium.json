@@ -1,0 +1,11 @@
+{
+  "name": "gibbs-equilibrium",
+  "label": "Gibbs Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "gibbs",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

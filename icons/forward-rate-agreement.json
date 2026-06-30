@@ -1,0 +1,12 @@
+{
+  "name": "forward-rate-agreement",
+  "label": "Forward Rate Agreement",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "forward",
+    "rate",
+    "agreement"
+  ],
+  "version": "1.7"
+}

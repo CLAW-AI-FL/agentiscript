@@ -1,0 +1,11 @@
+{
+  "name": "reverse-etl",
+  "label": "Reverse Etl",
+  "category": "data",
+  "tags": [
+    "data",
+    "reverse",
+    "etl"
+  ],
+  "version": "1.7"
+}

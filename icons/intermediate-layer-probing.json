@@ -1,0 +1,12 @@
+{
+  "name": "intermediate-layer-probing",
+  "label": "Intermediate Layer Probing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "intermediate",
+    "layer",
+    "probing"
+  ],
+  "version": "1.7"
+}

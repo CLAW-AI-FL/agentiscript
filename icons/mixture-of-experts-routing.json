@@ -1,0 +1,13 @@
+{
+  "name": "mixture-of-experts-routing",
+  "label": "Mixture Of Experts Routing",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "mixture",
+    "of",
+    "experts",
+    "routing"
+  ],
+  "version": "1.7"
+}

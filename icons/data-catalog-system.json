@@ -1,0 +1,11 @@
+{
+  "name": "data-catalog-system",
+  "label": "Data Catalog System",
+  "category": "data",
+  "tags": [
+    "data",
+    "catalog",
+    "system"
+  ],
+  "version": "1.7"
+}

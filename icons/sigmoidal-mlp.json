@@ -1,0 +1,11 @@
+{
+  "name": "sigmoidal-mlp",
+  "label": "Sigmoidal Mlp",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "sigmoidal",
+    "mlp"
+  ],
+  "version": "1.7"
+}

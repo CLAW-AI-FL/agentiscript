@@ -1,0 +1,11 @@
+{
+  "name": "negotiation-theory",
+  "label": "Negotiation Theory",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "negotiation",
+    "theory"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dexterous-manipulation",
+  "label": "Dexterous Manipulation",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "dexterous",
+    "manipulation"
+  ],
+  "version": "1.7"
+}

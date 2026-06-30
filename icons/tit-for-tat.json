@@ -1,0 +1,12 @@
+{
+  "name": "tit-for-tat",
+  "label": "Tit For Tat",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "tit",
+    "for",
+    "tat"
+  ],
+  "version": "1.7"
+}

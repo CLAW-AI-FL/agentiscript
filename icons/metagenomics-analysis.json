@@ -1,0 +1,11 @@
+{
+  "name": "metagenomics-analysis",
+  "label": "Metagenomics Analysis",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "metagenomics",
+    "analysis"
+  ],
+  "version": "1.7"
+}

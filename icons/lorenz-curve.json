@@ -1,0 +1,11 @@
+{
+  "name": "lorenz-curve",
+  "label": "Lorenz Curve",
+  "category": "economics",
+  "tags": [
+    "economics",
+    "lorenz",
+    "curve"
+  ],
+  "version": "1.7"
+}

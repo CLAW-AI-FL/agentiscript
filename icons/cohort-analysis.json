@@ -1,0 +1,11 @@
+{
+  "name": "cohort-analysis",
+  "label": "Cohort Analysis",
+  "category": "product",
+  "tags": [
+    "product",
+    "cohort",
+    "analysis"
+  ],
+  "version": "1.7"
+}

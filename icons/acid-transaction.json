@@ -1,0 +1,11 @@
+{
+  "name": "acid-transaction",
+  "label": "Acid Transaction",
+  "category": "database",
+  "tags": [
+    "database",
+    "acid",
+    "transaction"
+  ],
+  "version": "1.7"
+}

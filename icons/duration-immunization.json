@@ -1,0 +1,11 @@
+{
+  "name": "duration-immunization",
+  "label": "Duration Immunization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "duration",
+    "immunization"
+  ],
+  "version": "1.7"
+}

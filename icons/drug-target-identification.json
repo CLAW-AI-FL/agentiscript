@@ -1,0 +1,12 @@
+{
+  "name": "drug-target-identification",
+  "label": "Drug Target Identification",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "drug",
+    "target",
+    "identification"
+  ],
+  "version": "1.7"
+}

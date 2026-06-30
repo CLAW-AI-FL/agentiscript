@@ -1,0 +1,11 @@
+{
+  "name": "retention-curve",
+  "label": "Retention Curve",
+  "category": "product",
+  "tags": [
+    "product",
+    "retention",
+    "curve"
+  ],
+  "version": "1.7"
+}

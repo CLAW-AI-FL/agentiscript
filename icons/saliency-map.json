@@ -1,0 +1,11 @@
+{
+  "name": "saliency-map",
+  "label": "Saliency Map",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "saliency",
+    "map"
+  ],
+  "version": "1.7"
+}

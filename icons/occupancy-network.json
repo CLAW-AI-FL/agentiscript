@@ -1,0 +1,11 @@
+{
+  "name": "occupancy-network",
+  "label": "Occupancy Network",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "occupancy",
+    "network"
+  ],
+  "version": "1.7"
+}

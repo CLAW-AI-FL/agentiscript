@@ -1,0 +1,12 @@
+{
+  "name": "binary-cross-entropy",
+  "label": "Binary Cross Entropy",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "binary",
+    "cross",
+    "entropy"
+  ],
+  "version": "1.7"
+}

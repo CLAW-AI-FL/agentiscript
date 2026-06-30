@@ -1,0 +1,12 @@
+{
+  "name": "structural-causal-model",
+  "label": "Structural Causal Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "structural",
+    "causal",
+    "model"
+  ],
+  "version": "1.7"
+}

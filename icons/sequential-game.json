@@ -1,0 +1,11 @@
+{
+  "name": "sequential-game",
+  "label": "Sequential Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "sequential",
+    "game"
+  ],
+  "version": "1.7"
+}

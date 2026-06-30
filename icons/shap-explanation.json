@@ -1,0 +1,11 @@
+{
+  "name": "shap-explanation",
+  "label": "Shap Explanation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "shap",
+    "explanation"
+  ],
+  "version": "1.7"
+}

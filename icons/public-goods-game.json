@@ -1,0 +1,12 @@
+{
+  "name": "public-goods-game",
+  "label": "Public Goods Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "public",
+    "goods",
+    "game"
+  ],
+  "version": "1.7"
+}

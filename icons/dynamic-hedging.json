@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-hedging",
+  "label": "Dynamic Hedging",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "dynamic",
+    "hedging"
+  ],
+  "version": "1.7"
+}

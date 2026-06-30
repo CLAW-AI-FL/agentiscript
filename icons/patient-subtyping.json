@@ -1,0 +1,11 @@
+{
+  "name": "patient-subtyping",
+  "label": "Patient Subtyping",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "patient",
+    "subtyping"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "semantic-segmentation",
+  "label": "Semantic Segmentation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "semantic",
+    "segmentation"
+  ],
+  "version": "1.7"
+}

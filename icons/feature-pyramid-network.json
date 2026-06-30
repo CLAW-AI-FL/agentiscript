@@ -1,0 +1,12 @@
+{
+  "name": "feature-pyramid-network",
+  "label": "Feature Pyramid Network",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "feature",
+    "pyramid",
+    "network"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "combinatorial-explosion",
+  "label": "Combinatorial Explosion",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "combinatorial",
+    "explosion"
+  ],
+  "version": "1.7"
+}

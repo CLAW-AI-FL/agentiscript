@@ -1,0 +1,11 @@
+{
+  "name": "traffic-shaping",
+  "label": "Traffic Shaping",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "traffic",
+    "shaping"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "flat-minima-reduction",
+  "label": "Flat Minima Reduction",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "flat",
+    "minima",
+    "reduction"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "markov-strategy",
+  "label": "Markov Strategy",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "markov",
+    "strategy"
+  ],
+  "version": "1.7"
+}

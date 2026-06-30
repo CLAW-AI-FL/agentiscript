@@ -1,0 +1,11 @@
+{
+  "name": "regression-augmentation",
+  "label": "Regression Augmentation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "regression",
+    "augmentation"
+  ],
+  "version": "1.7"
+}

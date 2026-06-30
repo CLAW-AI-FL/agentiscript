@@ -1,0 +1,11 @@
+{
+  "name": "incentive-compatibility",
+  "label": "Incentive Compatibility",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "incentive",
+    "compatibility"
+  ],
+  "version": "1.7"
+}

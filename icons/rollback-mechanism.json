@@ -1,0 +1,11 @@
+{
+  "name": "rollback-mechanism",
+  "label": "Rollback Mechanism",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "rollback",
+    "mechanism"
+  ],
+  "version": "1.7"
+}

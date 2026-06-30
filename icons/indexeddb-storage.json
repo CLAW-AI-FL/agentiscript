@@ -1,0 +1,11 @@
+{
+  "name": "indexeddb-storage",
+  "label": "Indexeddb Storage",
+  "category": "web",
+  "tags": [
+    "web",
+    "indexeddb",
+    "storage"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "model-merging",
+  "label": "Model Merging",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "model",
+    "merging"
+  ],
+  "version": "1.7"
+}

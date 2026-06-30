@@ -1,0 +1,12 @@
+{
+  "name": "double-descent-curve",
+  "label": "Double Descent Curve",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "double",
+    "descent",
+    "curve"
+  ],
+  "version": "1.7"
+}

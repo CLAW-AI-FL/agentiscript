@@ -1,0 +1,11 @@
+{
+  "name": "data-quality-monitoring",
+  "label": "Data Quality Monitoring",
+  "category": "data",
+  "tags": [
+    "data",
+    "quality",
+    "monitoring"
+  ],
+  "version": "1.7"
+}

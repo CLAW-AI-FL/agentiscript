@@ -1,0 +1,12 @@
+{
+  "name": "implicit-neural-representation",
+  "label": "Implicit Neural Representation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "implicit",
+    "neural",
+    "representation"
+  ],
+  "version": "1.7"
+}

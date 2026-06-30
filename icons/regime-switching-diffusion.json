@@ -1,0 +1,12 @@
+{
+  "name": "regime-switching-diffusion",
+  "label": "Regime Switching Diffusion",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "regime",
+    "switching",
+    "diffusion"
+  ],
+  "version": "1.7"
+}

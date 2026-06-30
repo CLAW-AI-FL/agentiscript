@@ -1,0 +1,11 @@
+{
+  "name": "clip-embeddings",
+  "label": "Clip Embeddings",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "clip",
+    "embeddings"
+  ],
+  "version": "1.7"
+}

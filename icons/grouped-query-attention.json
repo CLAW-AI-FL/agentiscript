@@ -1,0 +1,12 @@
+{
+  "name": "grouped-query-attention",
+  "label": "Grouped Query Attention",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "grouped",
+    "query",
+    "attention"
+  ],
+  "version": "1.7"
+}

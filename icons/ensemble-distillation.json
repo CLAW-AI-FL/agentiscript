@@ -1,0 +1,11 @@
+{
+  "name": "ensemble-distillation",
+  "label": "Ensemble Distillation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "ensemble",
+    "distillation"
+  ],
+  "version": "1.7"
+}

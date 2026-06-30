@@ -1,0 +1,11 @@
+{
+  "name": "knapsack-auction",
+  "label": "Knapsack Auction",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "knapsack",
+    "auction"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "multi-agent-debate",
+  "label": "Multi Agent Debate",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "multi",
+    "agent",
+    "debate"
+  ],
+  "version": "1.7"
+}

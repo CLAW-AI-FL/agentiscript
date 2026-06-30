@@ -1,0 +1,11 @@
+{
+  "name": "temporal-convolution",
+  "label": "Temporal Convolution",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "temporal",
+    "convolution"
+  ],
+  "version": "1.7"
+}

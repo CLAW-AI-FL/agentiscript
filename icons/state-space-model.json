@@ -1,0 +1,12 @@
+{
+  "name": "state-space-model",
+  "label": "State Space Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "state",
+    "space",
+    "model"
+  ],
+  "version": "1.7"
+}

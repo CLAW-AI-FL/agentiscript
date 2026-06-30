@@ -1,0 +1,12 @@
+{
+  "name": "cash-flow-waterfall",
+  "label": "Cash Flow Waterfall",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "cash",
+    "flow",
+    "waterfall"
+  ],
+  "version": "1.7"
+}

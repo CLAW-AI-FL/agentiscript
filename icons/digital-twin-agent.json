@@ -1,0 +1,12 @@
+{
+  "name": "digital-twin-agent",
+  "label": "Digital Twin Agent",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "digital",
+    "twin",
+    "agent"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "identity-access-management",
+  "label": "Identity Access Management",
+  "category": "security",
+  "tags": [
+    "security",
+    "identity",
+    "access",
+    "management"
+  ],
+  "version": "1.7"
+}

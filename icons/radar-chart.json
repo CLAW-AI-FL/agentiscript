@@ -1,0 +1,11 @@
+{
+  "name": "radar-chart",
+  "label": "Radar Chart",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "radar",
+    "chart"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dictator-game",
+  "label": "Dictator Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "dictator",
+    "game"
+  ],
+  "version": "1.7"
+}

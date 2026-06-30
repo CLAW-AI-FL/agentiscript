@@ -1,0 +1,11 @@
+{
+  "name": "complete-contract",
+  "label": "Complete Contract",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "complete",
+    "contract"
+  ],
+  "version": "1.7"
+}

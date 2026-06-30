@@ -1,0 +1,12 @@
+{
+  "name": "hard-negative-mining",
+  "label": "Hard Negative Mining",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "hard",
+    "negative",
+    "mining"
+  ],
+  "version": "1.7"
+}

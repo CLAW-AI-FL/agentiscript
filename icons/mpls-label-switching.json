@@ -1,0 +1,12 @@
+{
+  "name": "mpls-label-switching",
+  "label": "Mpls Label Switching",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "mpls",
+    "label",
+    "switching"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cosine-annealing",
+  "label": "Cosine Annealing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "cosine",
+    "annealing"
+  ],
+  "version": "1.7"
+}

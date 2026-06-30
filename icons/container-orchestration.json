@@ -1,0 +1,11 @@
+{
+  "name": "container-orchestration",
+  "label": "Container Orchestration",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "container",
+    "orchestration"
+  ],
+  "version": "1.7"
+}

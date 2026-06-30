@@ -1,0 +1,11 @@
+{
+  "name": "microservice-decomposition",
+  "label": "Microservice Decomposition",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "microservice",
+    "decomposition"
+  ],
+  "version": "1.7"
+}

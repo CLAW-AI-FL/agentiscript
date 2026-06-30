@@ -1,0 +1,11 @@
+{
+  "name": "phylogenetic-tree",
+  "label": "Phylogenetic Tree",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "phylogenetic",
+    "tree"
+  ],
+  "version": "1.7"
+}

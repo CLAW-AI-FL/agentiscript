@@ -1,0 +1,10 @@
+{
+  "name": "expectiminimax",
+  "label": "Expectiminimax",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "expectiminimax"
+  ],
+  "version": "1.7"
+}

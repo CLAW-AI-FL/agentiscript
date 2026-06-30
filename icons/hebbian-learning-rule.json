@@ -1,0 +1,12 @@
+{
+  "name": "hebbian-learning-rule",
+  "label": "Hebbian Learning Rule",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "hebbian",
+    "learning",
+    "rule"
+  ],
+  "version": "1.7"
+}

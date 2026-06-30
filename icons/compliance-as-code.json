@@ -1,0 +1,12 @@
+{
+  "name": "compliance-as-code",
+  "label": "Compliance As Code",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "compliance",
+    "as",
+    "code"
+  ],
+  "version": "1.7"
+}

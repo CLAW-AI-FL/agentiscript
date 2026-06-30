@@ -1,0 +1,11 @@
+{
+  "name": "query-optimizer",
+  "label": "Query Optimizer",
+  "category": "database",
+  "tags": [
+    "database",
+    "query",
+    "optimizer"
+  ],
+  "version": "1.7"
+}

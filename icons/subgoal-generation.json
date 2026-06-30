@@ -1,0 +1,11 @@
+{
+  "name": "subgoal-generation",
+  "label": "Subgoal Generation",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "subgoal",
+    "generation"
+  ],
+  "version": "1.7"
+}

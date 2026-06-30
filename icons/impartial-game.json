@@ -1,0 +1,11 @@
+{
+  "name": "impartial-game",
+  "label": "Impartial Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "impartial",
+    "game"
+  ],
+  "version": "1.7"
+}

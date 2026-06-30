@@ -1,0 +1,11 @@
+{
+  "name": "stationarity-test",
+  "label": "Stationarity Test",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "stationarity",
+    "test"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bar-chart",
+  "label": "Bar Chart",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "bar",
+    "chart"
+  ],
+  "version": "1.7"
+}

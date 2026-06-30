@@ -1,0 +1,11 @@
+{
+  "name": "neural-operator",
+  "label": "Neural Operator",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "neural",
+    "operator"
+  ],
+  "version": "1.7"
+}

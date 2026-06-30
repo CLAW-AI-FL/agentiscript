@@ -1,0 +1,11 @@
+{
+  "name": "subspace-learning",
+  "label": "Subspace Learning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "subspace",
+    "learning"
+  ],
+  "version": "1.7"
+}

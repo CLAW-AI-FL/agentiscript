@@ -1,0 +1,11 @@
+{
+  "name": "skewness-measure",
+  "label": "Skewness Measure",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "skewness",
+    "measure"
+  ],
+  "version": "1.7"
+}

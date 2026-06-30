@@ -1,0 +1,12 @@
+{
+  "name": "delta-lake-format",
+  "label": "Delta Lake Format",
+  "category": "data",
+  "tags": [
+    "data",
+    "delta",
+    "lake",
+    "format"
+  ],
+  "version": "1.7"
+}

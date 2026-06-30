@@ -1,0 +1,11 @@
+{
+  "name": "convex-optimization",
+  "label": "Convex Optimization",
+  "category": "math",
+  "tags": [
+    "math",
+    "convex",
+    "optimization"
+  ],
+  "version": "1.7"
+}

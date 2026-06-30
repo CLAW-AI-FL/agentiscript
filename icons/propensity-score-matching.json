@@ -1,0 +1,12 @@
+{
+  "name": "propensity-score-matching",
+  "label": "Propensity Score Matching",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "propensity",
+    "score",
+    "matching"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "customer-acquisition-cost",
+  "label": "Customer Acquisition Cost",
+  "category": "product",
+  "tags": [
+    "product",
+    "customer",
+    "acquisition",
+    "cost"
+  ],
+  "version": "1.7"
+}

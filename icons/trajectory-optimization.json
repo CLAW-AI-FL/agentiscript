@@ -1,0 +1,11 @@
+{
+  "name": "trajectory-optimization",
+  "label": "Trajectory Optimization",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "trajectory",
+    "optimization"
+  ],
+  "version": "1.7"
+}

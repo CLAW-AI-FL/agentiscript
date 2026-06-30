@@ -1,0 +1,11 @@
+{
+  "name": "artifact-registry",
+  "label": "Artifact Registry",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "artifact",
+    "registry"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "covariance-agnostic-filter",
+  "label": "Covariance Agnostic Filter",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "covariance",
+    "agnostic",
+    "filter"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "collateral-management",
+  "label": "Collateral Management",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "collateral",
+    "management"
+  ],
+  "version": "1.7"
+}

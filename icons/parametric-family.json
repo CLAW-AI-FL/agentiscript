@@ -1,0 +1,11 @@
+{
+  "name": "parametric-family",
+  "label": "Parametric Family",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "parametric",
+    "family"
+  ],
+  "version": "1.7"
+}

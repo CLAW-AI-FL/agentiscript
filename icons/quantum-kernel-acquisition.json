@@ -1,0 +1,12 @@
+{
+  "name": "quantum-kernel-acquisition",
+  "label": "Quantum Kernel Acquisition",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "quantum",
+    "kernel",
+    "acquisition"
+  ],
+  "version": "1.7"
+}

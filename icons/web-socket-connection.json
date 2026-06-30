@@ -1,0 +1,11 @@
+{
+  "name": "web-socket-connection",
+  "label": "Web Socket Connection",
+  "category": "web",
+  "tags": [
+    "web",
+    "socket",
+    "connection"
+  ],
+  "version": "1.7"
+}

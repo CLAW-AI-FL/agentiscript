@@ -1,0 +1,12 @@
+{
+  "name": "api-gateway-pattern",
+  "label": "Api Gateway Pattern",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "api",
+    "gateway",
+    "pattern"
+  ],
+  "version": "1.7"
+}

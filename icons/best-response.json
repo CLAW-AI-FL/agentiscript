@@ -1,0 +1,11 @@
+{
+  "name": "best-response",
+  "label": "Best Response",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "best",
+    "response"
+  ],
+  "version": "1.7"
+}

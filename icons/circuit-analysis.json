@@ -1,0 +1,11 @@
+{
+  "name": "circuit-analysis",
+  "label": "Circuit Analysis",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "circuit",
+    "analysis"
+  ],
+  "version": "1.7"
+}

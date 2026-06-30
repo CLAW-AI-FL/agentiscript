@@ -1,0 +1,12 @@
+{
+  "name": "domain-adaptive-pretraining",
+  "label": "Domain Adaptive Pretraining",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "domain",
+    "adaptive",
+    "pretraining"
+  ],
+  "version": "1.7"
+}

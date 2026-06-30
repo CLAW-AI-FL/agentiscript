@@ -1,0 +1,12 @@
+{
+  "name": "noise-contrastive-estimation",
+  "label": "Noise Contrastive Estimation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "noise",
+    "contrastive",
+    "estimation"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "treasury-yield-curve",
+  "label": "Treasury Yield Curve",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "treasury",
+    "yield",
+    "curve"
+  ],
+  "version": "1.7"
+}

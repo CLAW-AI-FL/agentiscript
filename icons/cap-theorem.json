@@ -1,0 +1,11 @@
+{
+  "name": "cap-theorem",
+  "label": "Cap Theorem",
+  "category": "database",
+  "tags": [
+    "database",
+    "cap",
+    "theorem"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "centipede-game",
+  "label": "Centipede Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "centipede",
+    "game"
+  ],
+  "version": "1.7"
+}

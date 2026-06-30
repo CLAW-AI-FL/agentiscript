@@ -1,0 +1,11 @@
+{
+  "name": "dependency-injection",
+  "label": "Dependency Injection",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "dependency",
+    "injection"
+  ],
+  "version": "1.7"
+}

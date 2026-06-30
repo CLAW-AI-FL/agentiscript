@@ -1,0 +1,12 @@
+{
+  "name": "quantization-aware-training",
+  "label": "Quantization Aware Training",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "quantization",
+    "aware",
+    "training"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "quantal-response-equilibrium",
+  "label": "Quantal Response Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "quantal",
+    "response",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

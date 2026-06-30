@@ -1,0 +1,11 @@
+{
+  "name": "mixed-strategy",
+  "label": "Mixed Strategy",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "mixed",
+    "strategy"
+  ],
+  "version": "1.7"
+}

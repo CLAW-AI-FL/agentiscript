@@ -1,0 +1,11 @@
+{
+  "name": "transport-layer-security",
+  "label": "Transport Layer Security",
+  "category": "security",
+  "tags": [
+    "security",
+    "transport",
+    "layer"
+  ],
+  "version": "1.7"
+}

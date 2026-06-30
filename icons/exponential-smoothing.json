@@ -1,0 +1,11 @@
+{
+  "name": "exponential-smoothing",
+  "label": "Exponential Smoothing",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "exponential",
+    "smoothing"
+  ],
+  "version": "1.7"
+}

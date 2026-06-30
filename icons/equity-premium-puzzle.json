@@ -1,0 +1,12 @@
+{
+  "name": "equity-premium-puzzle",
+  "label": "Equity Premium Puzzle",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "equity",
+    "premium",
+    "puzzle"
+  ],
+  "version": "1.7"
+}

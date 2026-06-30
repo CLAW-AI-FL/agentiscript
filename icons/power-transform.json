@@ -1,0 +1,11 @@
+{
+  "name": "power-transform",
+  "label": "Power Transform",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "power",
+    "transform"
+  ],
+  "version": "1.7"
+}

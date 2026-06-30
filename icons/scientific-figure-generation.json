@@ -1,0 +1,12 @@
+{
+  "name": "scientific-figure-generation",
+  "label": "Scientific Figure Generation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "scientific",
+    "figure",
+    "generation"
+  ],
+  "version": "1.7"
+}

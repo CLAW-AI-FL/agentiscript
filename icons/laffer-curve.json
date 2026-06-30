@@ -1,0 +1,11 @@
+{
+  "name": "laffer-curve",
+  "label": "Laffer Curve",
+  "category": "economics",
+  "tags": [
+    "economics",
+    "laffer",
+    "curve"
+  ],
+  "version": "1.7"
+}

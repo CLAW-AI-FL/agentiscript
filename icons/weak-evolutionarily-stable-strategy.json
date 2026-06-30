@@ -1,0 +1,13 @@
+{
+  "name": "weak-evolutionarily-stable-strategy",
+  "label": "Weak Evolutionarily Stable Strategy",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "weak",
+    "evolutionarily",
+    "stable",
+    "strategy"
+  ],
+  "version": "1.7"
+}

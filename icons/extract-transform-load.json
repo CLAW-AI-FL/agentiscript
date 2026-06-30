@@ -1,0 +1,12 @@
+{
+  "name": "extract-transform-load",
+  "label": "Extract Transform Load",
+  "category": "data",
+  "tags": [
+    "data",
+    "extract",
+    "transform",
+    "load"
+  ],
+  "version": "1.7"
+}

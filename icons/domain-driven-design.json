@@ -1,0 +1,12 @@
+{
+  "name": "domain-driven-design",
+  "label": "Domain Driven Design",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "domain",
+    "driven",
+    "design"
+  ],
+  "version": "1.7"
+}

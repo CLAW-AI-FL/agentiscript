@@ -1,0 +1,12 @@
+{
+  "name": "quality-of-service",
+  "label": "Quality Of Service",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "quality",
+    "of",
+    "service"
+  ],
+  "version": "1.7"
+}

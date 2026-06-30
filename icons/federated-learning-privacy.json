@@ -1,0 +1,12 @@
+{
+  "name": "federated-learning-privacy",
+  "label": "Federated Learning Privacy",
+  "category": "security",
+  "tags": [
+    "security",
+    "federated",
+    "learning",
+    "privacy"
+  ],
+  "version": "1.7"
+}

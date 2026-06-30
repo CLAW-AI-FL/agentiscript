@@ -1,0 +1,11 @@
+{
+  "name": "eventual-consistency",
+  "label": "Eventual Consistency",
+  "category": "database",
+  "tags": [
+    "database",
+    "eventual",
+    "consistency"
+  ],
+  "version": "1.7"
+}

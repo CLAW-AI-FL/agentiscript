@@ -1,0 +1,11 @@
+{
+  "name": "deployment-gate",
+  "label": "Deployment Gate",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "deployment",
+    "gate"
+  ],
+  "version": "1.7"
+}

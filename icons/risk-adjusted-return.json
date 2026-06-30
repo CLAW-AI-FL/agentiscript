@@ -1,0 +1,12 @@
+{
+  "name": "risk-adjusted-return",
+  "label": "Risk Adjusted Return",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "risk",
+    "adjusted",
+    "return"
+  ],
+  "version": "1.7"
+}

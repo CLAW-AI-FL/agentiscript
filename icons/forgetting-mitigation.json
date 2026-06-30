@@ -1,0 +1,11 @@
+{
+  "name": "forgetting-mitigation",
+  "label": "Forgetting Mitigation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "forgetting",
+    "mitigation"
+  ],
+  "version": "1.7"
+}

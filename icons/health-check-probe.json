@@ -1,0 +1,12 @@
+{
+  "name": "health-check-probe",
+  "label": "Health Check Probe",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "health",
+    "check",
+    "probe"
+  ],
+  "version": "1.7"
+}

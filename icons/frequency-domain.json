@@ -1,0 +1,11 @@
+{
+  "name": "frequency-domain",
+  "label": "Frequency Domain",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "frequency",
+    "domain"
+  ],
+  "version": "1.7"
+}

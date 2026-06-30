@@ -1,0 +1,11 @@
+{
+  "name": "emergent-capability",
+  "label": "Emergent Capability",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "emergent",
+    "capability"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "partial-correlation",
+  "label": "Partial Correlation",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "partial",
+    "correlation"
+  ],
+  "version": "1.7"
+}

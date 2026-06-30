@@ -1,0 +1,12 @@
+{
+  "name": "write-ahead-log",
+  "label": "Write Ahead Log",
+  "category": "database",
+  "tags": [
+    "database",
+    "write",
+    "ahead",
+    "log"
+  ],
+  "version": "1.7"
+}

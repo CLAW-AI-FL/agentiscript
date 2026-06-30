@@ -1,0 +1,12 @@
+{
+  "name": "zero-shot-transfer",
+  "label": "Zero Shot Transfer",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "zero",
+    "shot",
+    "transfer"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "threat-intelligence-feed",
+  "label": "Threat Intelligence Feed",
+  "category": "security",
+  "tags": [
+    "security",
+    "threat",
+    "intelligence",
+    "feed"
+  ],
+  "version": "1.7"
+}

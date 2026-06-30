@@ -1,0 +1,12 @@
+{
+  "name": "value-at-risk",
+  "label": "Value At Risk",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "value",
+    "at",
+    "risk"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "helly-metric",
+  "label": "Helly Metric",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "helly",
+    "metric"
+  ],
+  "version": "1.7"
+}

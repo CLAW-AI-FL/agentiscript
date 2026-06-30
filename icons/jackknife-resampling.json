@@ -1,0 +1,11 @@
+{
+  "name": "jackknife-resampling",
+  "label": "Jackknife Resampling",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "jackknife",
+    "resampling"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "model-soup-ensemble",
+  "label": "Model Soup Ensemble",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "model",
+    "soup",
+    "ensemble"
+  ],
+  "version": "1.7"
+}

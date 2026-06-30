@@ -1,0 +1,11 @@
+{
+  "name": "fourier-analysis",
+  "label": "Fourier Analysis",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "fourier",
+    "analysis"
+  ],
+  "version": "1.7"
+}

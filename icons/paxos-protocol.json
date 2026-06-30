@@ -1,0 +1,11 @@
+{
+  "name": "paxos-protocol",
+  "label": "Paxos Protocol",
+  "category": "database",
+  "tags": [
+    "database",
+    "paxos",
+    "protocol"
+  ],
+  "version": "1.7"
+}

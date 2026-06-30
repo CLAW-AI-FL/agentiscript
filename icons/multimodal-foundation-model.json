@@ -1,0 +1,12 @@
+{
+  "name": "multimodal-foundation-model",
+  "label": "Multimodal Foundation Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "multimodal",
+    "foundation",
+    "model"
+  ],
+  "version": "1.7"
+}

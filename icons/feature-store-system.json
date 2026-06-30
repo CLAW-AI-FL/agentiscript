@@ -1,0 +1,12 @@
+{
+  "name": "feature-store-system",
+  "label": "Feature Store System",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "feature",
+    "store",
+    "system"
+  ],
+  "version": "1.7"
+}

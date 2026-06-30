@@ -1,0 +1,12 @@
+{
+  "name": "few-shot-adaptation",
+  "label": "Few Shot Adaptation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "few",
+    "shot",
+    "adaptation"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "distributional-shift",
+  "label": "Distributional Shift",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "distributional",
+    "shift"
+  ],
+  "version": "1.7"
+}

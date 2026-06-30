@@ -1,0 +1,11 @@
+{
+  "name": "condorcet-winner",
+  "label": "Condorcet Winner",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "condorcet",
+    "winner"
+  ],
+  "version": "1.7"
+}

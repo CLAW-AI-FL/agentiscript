@@ -1,0 +1,12 @@
+{
+  "name": "deep-monomial-network",
+  "label": "Deep Monomial Network",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "deep",
+    "monomial",
+    "network"
+  ],
+  "version": "1.7"
+}

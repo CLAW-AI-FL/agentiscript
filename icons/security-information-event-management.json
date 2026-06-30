@@ -1,0 +1,12 @@
+{
+  "name": "security-information-event-management",
+  "label": "Security Information Event Management",
+  "category": "security",
+  "tags": [
+    "security",
+    "information",
+    "event",
+    "management"
+  ],
+  "version": "1.7"
+}

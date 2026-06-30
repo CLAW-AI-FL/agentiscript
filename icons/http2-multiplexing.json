@@ -1,0 +1,11 @@
+{
+  "name": "http2-multiplexing",
+  "label": "Http2 Multiplexing",
+  "category": "web",
+  "tags": [
+    "web",
+    "http2",
+    "multiplexing"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "apache-spark-streaming",
+  "label": "Apache Spark Streaming",
+  "category": "data",
+  "tags": [
+    "data",
+    "apache",
+    "spark",
+    "streaming"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fourier-neural-operator",
+  "label": "Fourier Neural Operator",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "fourier",
+    "neural",
+    "operator"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bayesian-regression",
+  "label": "Bayesian Regression",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "bayesian",
+    "regression"
+  ],
+  "version": "1.7"
+}

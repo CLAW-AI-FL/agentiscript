@@ -1,0 +1,11 @@
+{
+  "name": "grand-coalition",
+  "label": "Grand Coalition",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "grand",
+    "coalition"
+  ],
+  "version": "1.7"
+}

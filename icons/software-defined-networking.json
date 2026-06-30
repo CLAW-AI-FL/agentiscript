@@ -1,0 +1,11 @@
+{
+  "name": "software-defined-networking",
+  "label": "Software Defined Networking",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "software",
+    "defined"
+  ],
+  "version": "1.7"
+}

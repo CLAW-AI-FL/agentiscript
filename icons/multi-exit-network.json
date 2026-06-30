@@ -1,0 +1,12 @@
+{
+  "name": "multi-exit-network",
+  "label": "Multi Exit Network",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "multi",
+    "exit",
+    "network"
+  ],
+  "version": "1.7"
+}

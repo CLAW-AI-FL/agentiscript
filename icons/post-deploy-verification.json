@@ -1,0 +1,12 @@
+{
+  "name": "post-deploy-verification",
+  "label": "Post Deploy Verification",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "post",
+    "deploy",
+    "verification"
+  ],
+  "version": "1.7"
+}

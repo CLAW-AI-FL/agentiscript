@@ -1,0 +1,11 @@
+{
+  "name": "edgeworth-box",
+  "label": "Edgeworth Box",
+  "category": "economics",
+  "tags": [
+    "economics",
+    "edgeworth",
+    "box"
+  ],
+  "version": "1.7"
+}

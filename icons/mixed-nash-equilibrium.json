@@ -1,0 +1,12 @@
+{
+  "name": "mixed-nash-equilibrium",
+  "label": "Mixed Nash Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "mixed",
+    "nash",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kv-compression",
+  "label": "Kv Compression",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "kv",
+    "compression"
+  ],
+  "version": "1.7"
+}

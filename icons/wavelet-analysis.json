@@ -1,0 +1,11 @@
+{
+  "name": "wavelet-analysis",
+  "label": "Wavelet Analysis",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "wavelet",
+    "analysis"
+  ],
+  "version": "1.7"
+}

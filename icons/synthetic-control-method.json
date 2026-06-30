@@ -1,0 +1,12 @@
+{
+  "name": "synthetic-control-method",
+  "label": "Synthetic Control Method",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "synthetic",
+    "control",
+    "method"
+  ],
+  "version": "1.7"
+}

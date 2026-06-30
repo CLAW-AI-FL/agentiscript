@@ -1,0 +1,11 @@
+{
+  "name": "contingency-table",
+  "label": "Contingency Table",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "contingency",
+    "table"
+  ],
+  "version": "1.7"
+}

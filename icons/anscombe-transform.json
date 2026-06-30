@@ -1,0 +1,11 @@
+{
+  "name": "anscombe-transform",
+  "label": "Anscombe Transform",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "anscombe",
+    "transform"
+  ],
+  "version": "1.7"
+}

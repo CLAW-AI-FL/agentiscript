@@ -1,0 +1,11 @@
+{
+  "name": "pie-chart",
+  "label": "Pie Chart",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "pie",
+    "chart"
+  ],
+  "version": "1.7"
+}

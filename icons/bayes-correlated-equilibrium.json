@@ -1,0 +1,12 @@
+{
+  "name": "bayes-correlated-equilibrium",
+  "label": "Bayes Correlated Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "bayes",
+    "correlated",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

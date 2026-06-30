@@ -1,0 +1,12 @@
+{
+  "name": "credit-default-swap",
+  "label": "Credit Default Swap",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "credit",
+    "default",
+    "swap"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "instrumental-variable",
+  "label": "Instrumental Variable",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "instrumental",
+    "variable"
+  ],
+  "version": "1.7"
+}

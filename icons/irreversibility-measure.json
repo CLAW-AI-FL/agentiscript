@@ -1,0 +1,11 @@
+{
+  "name": "irreversibility-measure",
+  "label": "Irreversibility Measure",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "irreversibility",
+    "measure"
+  ],
+  "version": "1.7"
+}

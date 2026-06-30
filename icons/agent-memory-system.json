@@ -1,0 +1,12 @@
+{
+  "name": "agent-memory-system",
+  "label": "Agent Memory System",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "agent",
+    "memory",
+    "system"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "graph-attention-network",
+  "label": "Graph Attention Network",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "graph",
+    "attention",
+    "network"
+  ],
+  "version": "1.7"
+}

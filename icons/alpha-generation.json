@@ -1,0 +1,11 @@
+{
+  "name": "alpha-generation",
+  "label": "Alpha Generation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "alpha",
+    "generation"
+  ],
+  "version": "1.7"
+}

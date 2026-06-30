@@ -1,0 +1,11 @@
+{
+  "name": "latency-optimization",
+  "label": "Latency Optimization",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "latency",
+    "optimization"
+  ],
+  "version": "1.7"
+}

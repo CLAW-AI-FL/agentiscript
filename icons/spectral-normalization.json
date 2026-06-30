@@ -1,0 +1,11 @@
+{
+  "name": "spectral-normalization",
+  "label": "Spectral Normalization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "spectral",
+    "normalization"
+  ],
+  "version": "1.7"
+}

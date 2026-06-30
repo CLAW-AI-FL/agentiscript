@@ -1,0 +1,11 @@
+{
+  "name": "resampling-method",
+  "label": "Resampling Method",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "resampling",
+    "method"
+  ],
+  "version": "1.7"
+}

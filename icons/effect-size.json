@@ -1,0 +1,11 @@
+{
+  "name": "effect-size",
+  "label": "Effect Size",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "effect",
+    "size"
+  ],
+  "version": "1.7"
+}

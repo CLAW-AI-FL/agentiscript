@@ -1,0 +1,12 @@
+{
+  "name": "active-quantum-kernel",
+  "label": "Active Quantum Kernel",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "active",
+    "quantum",
+    "kernel"
+  ],
+  "version": "1.7"
+}

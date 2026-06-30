@@ -1,0 +1,12 @@
+{
+  "name": "bloom-filter-lookup",
+  "label": "Bloom Filter Lookup",
+  "category": "database",
+  "tags": [
+    "database",
+    "bloom",
+    "filter",
+    "lookup"
+  ],
+  "version": "1.7"
+}

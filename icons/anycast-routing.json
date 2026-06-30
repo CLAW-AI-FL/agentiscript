@@ -1,0 +1,11 @@
+{
+  "name": "anycast-routing",
+  "label": "Anycast Routing",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "anycast",
+    "routing"
+  ],
+  "version": "1.7"
+}

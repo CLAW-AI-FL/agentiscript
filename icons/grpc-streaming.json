@@ -1,0 +1,11 @@
+{
+  "name": "grpc-streaming",
+  "label": "Grpc Streaming",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "grpc",
+    "streaming"
+  ],
+  "version": "1.7"
+}

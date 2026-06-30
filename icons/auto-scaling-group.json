@@ -1,0 +1,12 @@
+{
+  "name": "auto-scaling-group",
+  "label": "Auto Scaling Group",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "auto",
+    "scaling",
+    "group"
+  ],
+  "version": "1.7"
+}

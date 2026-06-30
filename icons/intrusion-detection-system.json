@@ -1,0 +1,12 @@
+{
+  "name": "intrusion-detection-system",
+  "label": "Intrusion Detection System",
+  "category": "security",
+  "tags": [
+    "security",
+    "intrusion",
+    "detection",
+    "system"
+  ],
+  "version": "1.7"
+}

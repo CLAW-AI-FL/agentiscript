@@ -1,0 +1,11 @@
+{
+  "name": "probing-classifier",
+  "label": "Probing Classifier",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "probing",
+    "classifier"
+  ],
+  "version": "1.7"
+}

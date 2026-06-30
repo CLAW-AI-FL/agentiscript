@@ -1,0 +1,11 @@
+{
+  "name": "decidability-game",
+  "label": "Decidability Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "decidability",
+    "game"
+  ],
+  "version": "1.7"
+}

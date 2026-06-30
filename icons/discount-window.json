@@ -1,0 +1,11 @@
+{
+  "name": "discount-window",
+  "label": "Discount Window",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "discount",
+    "window"
+  ],
+  "version": "1.7"
+}

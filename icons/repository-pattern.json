@@ -1,0 +1,11 @@
+{
+  "name": "repository-pattern",
+  "label": "Repository Pattern",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "repository",
+    "pattern"
+  ],
+  "version": "1.7"
+}

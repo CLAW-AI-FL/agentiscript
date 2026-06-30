@@ -1,0 +1,11 @@
+{
+  "name": "outcome-space",
+  "label": "Outcome Space",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "outcome",
+    "space"
+  ],
+  "version": "1.7"
+}

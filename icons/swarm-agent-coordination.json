@@ -1,0 +1,12 @@
+{
+  "name": "swarm-agent-coordination",
+  "label": "Swarm Agent Coordination",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "swarm",
+    "agent",
+    "coordination"
+  ],
+  "version": "1.7"
+}

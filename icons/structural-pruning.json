@@ -1,0 +1,11 @@
+{
+  "name": "structural-pruning",
+  "label": "Structural Pruning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "structural",
+    "pruning"
+  ],
+  "version": "1.7"
+}

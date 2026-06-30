@@ -1,0 +1,12 @@
+{
+  "name": "safety-aware-planning",
+  "label": "Safety Aware Planning",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "safety",
+    "aware",
+    "planning"
+  ],
+  "version": "1.7"
+}

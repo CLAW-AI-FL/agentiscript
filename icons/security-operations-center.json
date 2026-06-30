@@ -1,0 +1,11 @@
+{
+  "name": "security-operations-center",
+  "label": "Security Operations Center",
+  "category": "security",
+  "tags": [
+    "security",
+    "operations",
+    "center"
+  ],
+  "version": "1.7"
+}

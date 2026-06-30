@@ -1,0 +1,11 @@
+{
+  "name": "gitops-workflow",
+  "label": "Gitops Workflow",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "gitops",
+    "workflow"
+  ],
+  "version": "1.7"
+}

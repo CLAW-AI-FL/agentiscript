@@ -1,0 +1,12 @@
+{
+  "name": "finance-tabular-diffusion",
+  "label": "Finance Tabular Diffusion",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "finance",
+    "tabular",
+    "diffusion"
+  ],
+  "version": "1.7"
+}

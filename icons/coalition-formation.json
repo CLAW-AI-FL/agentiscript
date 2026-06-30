@@ -1,0 +1,11 @@
+{
+  "name": "coalition-formation",
+  "label": "Coalition Formation",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "coalition",
+    "formation"
+  ],
+  "version": "1.7"
+}

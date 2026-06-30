@@ -1,0 +1,11 @@
+{
+  "name": "options-greeks",
+  "label": "Options Greeks",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "options",
+    "greeks"
+  ],
+  "version": "1.7"
+}

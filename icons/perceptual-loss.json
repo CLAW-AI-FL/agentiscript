@@ -1,0 +1,11 @@
+{
+  "name": "perceptual-loss",
+  "label": "Perceptual Loss",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "perceptual",
+    "loss"
+  ],
+  "version": "1.7"
+}

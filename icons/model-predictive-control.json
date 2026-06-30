@@ -1,0 +1,12 @@
+{
+  "name": "model-predictive-control",
+  "label": "Model Predictive Control",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "model",
+    "predictive",
+    "control"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "data-augmentation-strategy",
+  "label": "Data Augmentation Strategy",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "data",
+    "augmentation",
+    "strategy"
+  ],
+  "version": "1.7"
+}

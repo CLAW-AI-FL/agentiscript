@@ -1,0 +1,12 @@
+{
+  "name": "net-promoter-score",
+  "label": "Net Promoter Score",
+  "category": "product",
+  "tags": [
+    "product",
+    "net",
+    "promoter",
+    "score"
+  ],
+  "version": "1.7"
+}

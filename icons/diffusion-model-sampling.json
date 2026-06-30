@@ -1,0 +1,12 @@
+{
+  "name": "diffusion-model-sampling",
+  "label": "Diffusion Model Sampling",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "diffusion",
+    "model",
+    "sampling"
+  ],
+  "version": "1.7"
+}

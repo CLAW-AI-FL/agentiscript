@@ -1,0 +1,11 @@
+{
+  "name": "linear-regression",
+  "label": "Linear Regression",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "linear",
+    "regression"
+  ],
+  "version": "1.7"
+}

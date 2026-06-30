@@ -1,0 +1,11 @@
+{
+  "name": "order-statistic",
+  "label": "Order Statistic",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "order",
+    "statistic"
+  ],
+  "version": "1.7"
+}

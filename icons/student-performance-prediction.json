@@ -1,0 +1,12 @@
+{
+  "name": "student-performance-prediction",
+  "label": "Student Performance Prediction",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "student",
+    "performance",
+    "prediction"
+  ],
+  "version": "1.7"
+}

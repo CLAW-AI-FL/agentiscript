@@ -1,0 +1,11 @@
+{
+  "name": "impedance-control",
+  "label": "Impedance Control",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "impedance",
+    "control"
+  ],
+  "version": "1.7"
+}

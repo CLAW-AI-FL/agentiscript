@@ -1,0 +1,11 @@
+{
+  "name": "game-complexity",
+  "label": "Game Complexity",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "game",
+    "complexity"
+  ],
+  "version": "1.7"
+}

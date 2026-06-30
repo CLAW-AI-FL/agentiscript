@@ -1,0 +1,11 @@
+{
+  "name": "mechanistic-interpretability",
+  "label": "Mechanistic Interpretability",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "mechanistic",
+    "interpretability"
+  ],
+  "version": "1.7"
+}

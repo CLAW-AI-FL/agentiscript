@@ -1,0 +1,11 @@
+{
+  "name": "model-selection",
+  "label": "Model Selection",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "model",
+    "selection"
+  ],
+  "version": "1.7"
+}

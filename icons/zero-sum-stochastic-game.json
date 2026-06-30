@@ -1,0 +1,13 @@
+{
+  "name": "zero-sum-stochastic-game",
+  "label": "Zero Sum Stochastic Game",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "zero",
+    "sum",
+    "stochastic",
+    "game"
+  ],
+  "version": "1.7"
+}

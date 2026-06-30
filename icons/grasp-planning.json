@@ -1,0 +1,11 @@
+{
+  "name": "grasp-planning",
+  "label": "Grasp Planning",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "grasp",
+    "planning"
+  ],
+  "version": "1.7"
+}

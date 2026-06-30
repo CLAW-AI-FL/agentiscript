@@ -1,0 +1,12 @@
+{
+  "name": "set-valued-prediction",
+  "label": "Set Valued Prediction",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "set",
+    "valued",
+    "prediction"
+  ],
+  "version": "1.7"
+}

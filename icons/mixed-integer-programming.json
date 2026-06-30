@@ -1,0 +1,12 @@
+{
+  "name": "mixed-integer-programming",
+  "label": "Mixed Integer Programming",
+  "category": "math",
+  "tags": [
+    "math",
+    "mixed",
+    "integer",
+    "programming"
+  ],
+  "version": "1.7"
+}

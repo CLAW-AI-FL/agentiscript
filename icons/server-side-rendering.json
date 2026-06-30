@@ -1,0 +1,12 @@
+{
+  "name": "server-side-rendering",
+  "label": "Server Side Rendering",
+  "category": "web",
+  "tags": [
+    "web",
+    "server",
+    "side",
+    "rendering"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "mean-variance-optimization",
+  "label": "Mean Variance Optimization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "mean",
+    "variance",
+    "optimization"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "service-worker",
+  "label": "Service Worker",
+  "category": "web",
+  "tags": [
+    "web",
+    "service",
+    "worker"
+  ],
+  "version": "1.7"
+}

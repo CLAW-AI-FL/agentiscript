@@ -1,0 +1,12 @@
+{
+  "name": "average-absolute-deviation",
+  "label": "Average Absolute Deviation",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "average",
+    "absolute",
+    "deviation"
+  ],
+  "version": "1.7"
+}

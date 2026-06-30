@@ -1,0 +1,11 @@
+{
+  "name": "scatter-plot",
+  "label": "Scatter Plot",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "scatter",
+    "plot"
+  ],
+  "version": "1.7"
+}

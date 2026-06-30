@@ -1,0 +1,12 @@
+{
+  "name": "adaptive-gradient-clipping",
+  "label": "Adaptive Gradient Clipping",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "adaptive",
+    "gradient",
+    "clipping"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "certificate-authority",
+  "label": "Certificate Authority",
+  "category": "security",
+  "tags": [
+    "security",
+    "certificate",
+    "authority"
+  ],
+  "version": "1.7"
+}

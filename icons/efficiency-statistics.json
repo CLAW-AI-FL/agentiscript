@@ -1,0 +1,10 @@
+{
+  "name": "efficiency-statistics",
+  "label": "Efficiency Statistics",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "efficiency"
+  ],
+  "version": "1.7"
+}

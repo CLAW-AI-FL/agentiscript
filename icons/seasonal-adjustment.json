@@ -1,0 +1,11 @@
+{
+  "name": "seasonal-adjustment",
+  "label": "Seasonal Adjustment",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "seasonal",
+    "adjustment"
+  ],
+  "version": "1.7"
+}

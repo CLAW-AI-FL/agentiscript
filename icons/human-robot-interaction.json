@@ -1,0 +1,12 @@
+{
+  "name": "human-robot-interaction",
+  "label": "Human Robot Interaction",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "human",
+    "robot",
+    "interaction"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "loss-hessian-eigenspectrum",
+  "label": "Loss Hessian Eigenspectrum",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "loss",
+    "hessian",
+    "eigenspectrum"
+  ],
+  "version": "1.7"
+}

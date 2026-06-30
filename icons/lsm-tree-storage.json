@@ -1,0 +1,12 @@
+{
+  "name": "lsm-tree-storage",
+  "label": "Lsm Tree Storage",
+  "category": "database",
+  "tags": [
+    "database",
+    "lsm",
+    "tree",
+    "storage"
+  ],
+  "version": "1.7"
+}

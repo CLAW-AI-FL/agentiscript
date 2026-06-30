@@ -1,0 +1,13 @@
+{
+  "name": "markov-chain-monte-carlo",
+  "label": "Markov Chain Monte Carlo",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "markov",
+    "chain",
+    "monte",
+    "carlo"
+  ],
+  "version": "1.7"
+}

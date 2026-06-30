@@ -1,0 +1,12 @@
+{
+  "name": "world-model-agent",
+  "label": "World Model Agent",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "world",
+    "model",
+    "agent"
+  ],
+  "version": "1.7"
+}

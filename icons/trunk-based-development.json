@@ -1,0 +1,12 @@
+{
+  "name": "trunk-based-development",
+  "label": "Trunk Based Development",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "trunk",
+    "based",
+    "development"
+  ],
+  "version": "1.7"
+}

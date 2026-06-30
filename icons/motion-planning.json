@@ -1,0 +1,11 @@
+{
+  "name": "motion-planning",
+  "label": "Motion Planning",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "motion",
+    "planning"
+  ],
+  "version": "1.7"
+}

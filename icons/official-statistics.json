@@ -1,0 +1,10 @@
+{
+  "name": "official-statistics",
+  "label": "Official Statistics",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "official"
+  ],
+  "version": "1.7"
+}

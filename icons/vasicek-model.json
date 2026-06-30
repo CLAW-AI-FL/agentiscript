@@ -1,0 +1,11 @@
+{
+  "name": "vasicek-model",
+  "label": "Vasicek Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "vasicek",
+    "model"
+  ],
+  "version": "1.7"
+}

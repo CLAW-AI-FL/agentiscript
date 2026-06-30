@@ -1,0 +1,12 @@
+{
+  "name": "tensor-network-memory",
+  "label": "Tensor Network Memory",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "tensor",
+    "network",
+    "memory"
+  ],
+  "version": "1.7"
+}

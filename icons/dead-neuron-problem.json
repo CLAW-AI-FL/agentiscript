@@ -1,0 +1,12 @@
+{
+  "name": "dead-neuron-problem",
+  "label": "Dead Neuron Problem",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "dead",
+    "neuron",
+    "problem"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "group-normalization",
+  "label": "Group Normalization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "group",
+    "normalization"
+  ],
+  "version": "1.7"
+}

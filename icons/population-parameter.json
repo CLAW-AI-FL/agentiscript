@@ -1,0 +1,11 @@
+{
+  "name": "population-parameter",
+  "label": "Population Parameter",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "population",
+    "parameter"
+  ],
+  "version": "1.7"
+}

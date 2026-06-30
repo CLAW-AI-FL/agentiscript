@@ -1,0 +1,11 @@
+{
+  "name": "fictitious-play",
+  "label": "Fictitious Play",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "fictitious",
+    "play"
+  ],
+  "version": "1.7"
+}

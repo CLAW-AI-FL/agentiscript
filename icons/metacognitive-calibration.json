@@ -1,0 +1,11 @@
+{
+  "name": "metacognitive-calibration",
+  "label": "Metacognitive Calibration",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "metacognitive",
+    "calibration"
+  ],
+  "version": "1.7"
+}

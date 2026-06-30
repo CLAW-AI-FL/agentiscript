@@ -1,0 +1,11 @@
+{
+  "name": "temperature-scaling",
+  "label": "Temperature Scaling",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "temperature",
+    "scaling"
+  ],
+  "version": "1.7"
+}

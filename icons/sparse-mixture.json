@@ -1,0 +1,11 @@
+{
+  "name": "sparse-mixture",
+  "label": "Sparse Mixture",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "sparse",
+    "mixture"
+  ],
+  "version": "1.7"
+}

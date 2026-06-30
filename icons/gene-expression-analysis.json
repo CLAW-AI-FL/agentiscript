@@ -1,0 +1,12 @@
+{
+  "name": "gene-expression-analysis",
+  "label": "Gene Expression Analysis",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "gene",
+    "expression",
+    "analysis"
+  ],
+  "version": "1.7"
+}

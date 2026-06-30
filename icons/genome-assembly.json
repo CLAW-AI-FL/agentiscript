@@ -1,0 +1,11 @@
+{
+  "name": "genome-assembly",
+  "label": "Genome Assembly",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "genome",
+    "assembly"
+  ],
+  "version": "1.7"
+}

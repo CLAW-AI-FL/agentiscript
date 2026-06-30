@@ -1,0 +1,11 @@
+{
+  "name": "masked-autoencoder",
+  "label": "Masked Autoencoder",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "masked",
+    "autoencoder"
+  ],
+  "version": "1.7"
+}

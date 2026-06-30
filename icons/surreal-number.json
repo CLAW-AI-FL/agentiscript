@@ -1,0 +1,11 @@
+{
+  "name": "surreal-number",
+  "label": "Surreal Number",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "surreal",
+    "number"
+  ],
+  "version": "1.7"
+}

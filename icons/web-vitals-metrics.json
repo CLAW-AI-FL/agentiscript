@@ -1,0 +1,11 @@
+{
+  "name": "web-vitals-metrics",
+  "label": "Web Vitals Metrics",
+  "category": "web",
+  "tags": [
+    "web",
+    "vitals",
+    "metrics"
+  ],
+  "version": "1.7"
+}

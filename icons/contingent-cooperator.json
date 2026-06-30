@@ -1,0 +1,11 @@
+{
+  "name": "contingent-cooperator",
+  "label": "Contingent Cooperator",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "contingent",
+    "cooperator"
+  ],
+  "version": "1.7"
+}

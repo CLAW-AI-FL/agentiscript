@@ -1,0 +1,11 @@
+{
+  "name": "appeasement-strategy",
+  "label": "Appeasement Strategy",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "appeasement",
+    "strategy"
+  ],
+  "version": "1.7"
+}

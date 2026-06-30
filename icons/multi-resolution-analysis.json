@@ -1,0 +1,12 @@
+{
+  "name": "multi-resolution-analysis",
+  "label": "Multi Resolution Analysis",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "multi",
+    "resolution",
+    "analysis"
+  ],
+  "version": "1.7"
+}

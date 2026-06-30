@@ -1,0 +1,12 @@
+{
+  "name": "pipeline-as-code",
+  "label": "Pipeline As Code",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "pipeline",
+    "as",
+    "code"
+  ],
+  "version": "1.7"
+}

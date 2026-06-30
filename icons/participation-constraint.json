@@ -1,0 +1,11 @@
+{
+  "name": "participation-constraint",
+  "label": "Participation Constraint",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "participation",
+    "constraint"
+  ],
+  "version": "1.7"
+}

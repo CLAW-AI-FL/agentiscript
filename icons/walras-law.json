@@ -1,0 +1,11 @@
+{
+  "name": "walras-law",
+  "label": "Walras Law",
+  "category": "economics",
+  "tags": [
+    "economics",
+    "walras",
+    "law"
+  ],
+  "version": "1.7"
+}

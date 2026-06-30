@@ -1,0 +1,12 @@
+{
+  "name": "content-security-policy",
+  "label": "Content Security Policy",
+  "category": "web",
+  "tags": [
+    "web",
+    "content",
+    "security",
+    "policy"
+  ],
+  "version": "1.7"
+}

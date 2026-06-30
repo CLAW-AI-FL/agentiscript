@@ -1,0 +1,12 @@
+{
+  "name": "object-storage-system",
+  "label": "Object Storage System",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "object",
+    "storage",
+    "system"
+  ],
+  "version": "1.7"
+}

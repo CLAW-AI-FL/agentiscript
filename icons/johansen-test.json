@@ -1,0 +1,11 @@
+{
+  "name": "johansen-test",
+  "label": "Johansen Test",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "johansen",
+    "test"
+  ],
+  "version": "1.7"
+}

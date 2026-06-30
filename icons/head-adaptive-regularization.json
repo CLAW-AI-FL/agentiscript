@@ -1,0 +1,12 @@
+{
+  "name": "head-adaptive-regularization",
+  "label": "Head Adaptive Regularization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "head",
+    "adaptive",
+    "regularization"
+  ],
+  "version": "1.7"
+}

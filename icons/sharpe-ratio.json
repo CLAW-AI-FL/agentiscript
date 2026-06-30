@@ -1,0 +1,11 @@
+{
+  "name": "sharpe-ratio",
+  "label": "Sharpe Ratio",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "sharpe",
+    "ratio"
+  ],
+  "version": "1.7"
+}

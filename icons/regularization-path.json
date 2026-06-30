@@ -1,0 +1,11 @@
+{
+  "name": "regularization-path",
+  "label": "Regularization Path",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "regularization",
+    "path"
+  ],
+  "version": "1.7"
+}

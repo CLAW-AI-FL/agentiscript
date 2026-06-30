@@ -1,0 +1,11 @@
+{
+  "name": "universal-approximation",
+  "label": "Universal Approximation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "universal",
+    "approximation"
+  ],
+  "version": "1.7"
+}

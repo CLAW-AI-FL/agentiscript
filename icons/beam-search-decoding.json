@@ -1,0 +1,12 @@
+{
+  "name": "beam-search-decoding",
+  "label": "Beam Search Decoding",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "beam",
+    "search",
+    "decoding"
+  ],
+  "version": "1.7"
+}

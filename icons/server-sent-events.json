@@ -1,0 +1,12 @@
+{
+  "name": "server-sent-events",
+  "label": "Server Sent Events",
+  "category": "web",
+  "tags": [
+    "web",
+    "server",
+    "sent",
+    "events"
+  ],
+  "version": "1.7"
+}

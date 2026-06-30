@@ -1,0 +1,12 @@
+{
+  "name": "b-tree-index",
+  "label": "B Tree Index",
+  "category": "database",
+  "tags": [
+    "database",
+    "b",
+    "tree",
+    "index"
+  ],
+  "version": "1.7"
+}

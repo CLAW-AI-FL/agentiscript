@@ -1,0 +1,12 @@
+{
+  "name": "protocol-buffer-encoding",
+  "label": "Protocol Buffer Encoding",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "protocol",
+    "buffer",
+    "encoding"
+  ],
+  "version": "1.7"
+}

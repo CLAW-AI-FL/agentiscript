@@ -1,0 +1,12 @@
+{
+  "name": "stream-processing-engine",
+  "label": "Stream Processing Engine",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "stream",
+    "processing",
+    "engine"
+  ],
+  "version": "1.7"
+}

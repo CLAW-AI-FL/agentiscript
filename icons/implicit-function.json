@@ -1,0 +1,11 @@
+{
+  "name": "implicit-function",
+  "label": "Implicit Function",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "implicit",
+    "function"
+  ],
+  "version": "1.7"
+}

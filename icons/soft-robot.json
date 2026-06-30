@@ -1,0 +1,11 @@
+{
+  "name": "soft-robot",
+  "label": "Soft Robot",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "soft",
+    "robot"
+  ],
+  "version": "1.7"
+}

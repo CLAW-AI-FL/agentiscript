@@ -1,0 +1,12 @@
+{
+  "name": "constrained-tabular-diffusion",
+  "label": "Constrained Tabular Diffusion",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "constrained",
+    "tabular",
+    "diffusion"
+  ],
+  "version": "1.7"
+}

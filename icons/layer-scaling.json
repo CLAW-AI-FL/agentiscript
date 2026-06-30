@@ -1,0 +1,11 @@
+{
+  "name": "layer-scaling",
+  "label": "Layer Scaling",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "layer",
+    "scaling"
+  ],
+  "version": "1.7"
+}

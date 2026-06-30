@@ -1,0 +1,12 @@
+{
+  "name": "asset-liability-management",
+  "label": "Asset Liability Management",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "asset",
+    "liability",
+    "management"
+  ],
+  "version": "1.7"
+}

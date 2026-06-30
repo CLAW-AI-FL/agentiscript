@@ -1,0 +1,11 @@
+{
+  "name": "paranoid-algorithm",
+  "label": "Paranoid Algorithm",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "paranoid",
+    "algorithm"
+  ],
+  "version": "1.7"
+}

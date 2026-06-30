@@ -1,0 +1,12 @@
+{
+  "name": "pathway-enrichment-analysis",
+  "label": "Pathway Enrichment Analysis",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "pathway",
+    "enrichment",
+    "analysis"
+  ],
+  "version": "1.7"
+}

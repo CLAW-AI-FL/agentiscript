@@ -1,0 +1,11 @@
+{
+  "name": "coherence-constraint",
+  "label": "Coherence Constraint",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "coherence",
+    "constraint"
+  ],
+  "version": "1.7"
+}

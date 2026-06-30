@@ -1,0 +1,12 @@
+{
+  "name": "multi-index-model",
+  "label": "Multi Index Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "multi",
+    "index",
+    "model"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "feature-visualization",
+  "label": "Feature Visualization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "feature",
+    "visualization"
+  ],
+  "version": "1.7"
+}

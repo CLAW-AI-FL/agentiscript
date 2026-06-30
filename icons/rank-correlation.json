@@ -1,0 +1,11 @@
+{
+  "name": "rank-correlation",
+  "label": "Rank Correlation",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "rank",
+    "correlation"
+  ],
+  "version": "1.7"
+}

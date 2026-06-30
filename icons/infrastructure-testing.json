@@ -1,0 +1,11 @@
+{
+  "name": "infrastructure-testing",
+  "label": "Infrastructure Testing",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "infrastructure",
+    "testing"
+  ],
+  "version": "1.7"
+}

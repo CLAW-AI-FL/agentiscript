@@ -1,0 +1,12 @@
+{
+  "name": "operator-learning-framework",
+  "label": "Operator Learning Framework",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "operator",
+    "learning",
+    "framework"
+  ],
+  "version": "1.7"
+}

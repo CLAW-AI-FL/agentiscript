@@ -1,0 +1,11 @@
+{
+  "name": "berge-equilibrium",
+  "label": "Berge Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "berge",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

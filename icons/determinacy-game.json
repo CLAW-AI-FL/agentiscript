@@ -1,0 +1,11 @@
+{
+  "name": "determinacy-game",
+  "label": "Determinacy Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "determinacy",
+    "game"
+  ],
+  "version": "1.7"
+}

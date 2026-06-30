@@ -1,0 +1,12 @@
+{
+  "name": "cross-currency-swap",
+  "label": "Cross Currency Swap",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "cross",
+    "currency",
+    "swap"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "permutation-test",
+  "label": "Permutation Test",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "permutation",
+    "test"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vector-quantization",
+  "label": "Vector Quantization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "vector",
+    "quantization"
+  ],
+  "version": "1.7"
+}

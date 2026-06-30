@@ -1,0 +1,11 @@
+{
+  "name": "proprioceptive-sensing",
+  "label": "Proprioceptive Sensing",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "proprioceptive",
+    "sensing"
+  ],
+  "version": "1.7"
+}
