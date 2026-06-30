@@ -1,0 +1,11 @@
+{
+  "name": "block-proposer",
+  "label": "Block Proposer",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "block",
+    "proposer"
+  ],
+  "version": "1.3"
+}

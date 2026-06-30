@@ -1,0 +1,13 @@
+{
+  "name": "ant-colony-optimization-aco",
+  "label": "Ant Colony Optimization Aco",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "ant",
+    "colony",
+    "optimization",
+    "aco"
+  ],
+  "version": "1.3"
+}

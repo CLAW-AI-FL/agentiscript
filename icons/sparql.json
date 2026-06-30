@@ -1,0 +1,10 @@
+{
+  "name": "sparql",
+  "label": "Sparql",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "sparql"
+  ],
+  "version": "1.3"
+}

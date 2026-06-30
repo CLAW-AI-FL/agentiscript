@@ -1,0 +1,11 @@
+{
+  "name": "block-reward",
+  "label": "Block Reward",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "block",
+    "reward"
+  ],
+  "version": "1.3"
+}

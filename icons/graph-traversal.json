@@ -1,0 +1,11 @@
+{
+  "name": "graph-traversal",
+  "label": "Graph Traversal",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "graph",
+    "traversal"
+  ],
+  "version": "1.3"
+}

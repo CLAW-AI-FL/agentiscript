@@ -1,0 +1,10 @@
+{
+  "name": "account",
+  "label": "Account",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "account"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "difficulty",
+  "label": "Difficulty",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "difficulty"
+  ],
+  "version": "1.3"
+}

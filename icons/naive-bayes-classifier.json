@@ -1,0 +1,12 @@
+{
+  "name": "naive-bayes-classifier",
+  "label": "Naive Bayes Classifier",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "naive",
+    "bayes",
+    "classifier"
+  ],
+  "version": "1.3"
+}

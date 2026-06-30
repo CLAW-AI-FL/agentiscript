@@ -1,0 +1,11 @@
+{
+  "name": "liquidity-tokens",
+  "label": "Liquidity Tokens",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "liquidity",
+    "tokens"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "soft-fork",
+  "label": "Soft Fork",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "soft",
+    "fork"
+  ],
+  "version": "1.3"
+}

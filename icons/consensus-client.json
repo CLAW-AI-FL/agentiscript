@@ -1,0 +1,11 @@
+{
+  "name": "consensus-client",
+  "label": "Consensus Client",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "consensus",
+    "client"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inference-engine",
+  "label": "Inference Engine",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "inference",
+    "engine"
+  ],
+  "version": "1.3"
+}

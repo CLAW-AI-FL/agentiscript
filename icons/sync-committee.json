@@ -1,0 +1,11 @@
+{
+  "name": "sync-committee",
+  "label": "Sync Committee",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "sync",
+    "committee"
+  ],
+  "version": "1.3"
+}

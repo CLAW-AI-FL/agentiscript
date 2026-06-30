@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-rule",
+  "label": "Fuzzy Rule",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "fuzzy",
+    "rule"
+  ],
+  "version": "1.3"
+}

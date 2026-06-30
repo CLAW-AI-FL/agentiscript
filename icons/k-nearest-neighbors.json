@@ -1,0 +1,11 @@
+{
+  "name": "k-nearest-neighbors",
+  "label": "K Nearest Neighbors",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "nearest",
+    "neighbors"
+  ],
+  "version": "1.3"
+}

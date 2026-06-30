@@ -1,0 +1,11 @@
+{
+  "name": "behavior-tree-bt",
+  "label": "Behavior Tree Bt",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "behavior",
+    "tree"
+  ],
+  "version": "1.3"
+}

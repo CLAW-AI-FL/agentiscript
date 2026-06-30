@@ -1,0 +1,11 @@
+{
+  "name": "execution-client",
+  "label": "Execution Client",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "execution",
+    "client"
+  ],
+  "version": "1.3"
+}

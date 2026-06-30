@@ -1,0 +1,11 @@
+{
+  "name": "genetic-operator",
+  "label": "Genetic Operator",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "genetic",
+    "operator"
+  ],
+  "version": "1.3"
+}

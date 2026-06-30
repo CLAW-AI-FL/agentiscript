@@ -1,0 +1,10 @@
+{
+  "name": "mycin",
+  "label": "Mycin",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "mycin"
+  ],
+  "version": "1.3"
+}

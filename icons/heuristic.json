@@ -1,0 +1,10 @@
+{
+  "name": "heuristic",
+  "label": "Heuristic",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "heuristic"
+  ],
+  "version": "1.3"
+}

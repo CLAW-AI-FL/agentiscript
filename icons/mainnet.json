@@ -1,0 +1,10 @@
+{
+  "name": "mainnet",
+  "label": "Mainnet",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "mainnet"
+  ],
+  "version": "1.3"
+}

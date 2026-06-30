@@ -1,0 +1,11 @@
+{
+  "name": "graph-theory",
+  "label": "Graph Theory",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "graph",
+    "theory"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "consensus-rules",
+  "label": "Consensus Rules",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "consensus",
+    "rules"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "erc-721",
+  "label": "Erc 721",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "erc",
+    "721"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "autonomous-robot",
+  "label": "Autonomous Robot",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "autonomous",
+    "robot"
+  ],
+  "version": "1.3"
+}

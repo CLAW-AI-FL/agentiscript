@@ -1,0 +1,11 @@
+{
+  "name": "public-key",
+  "label": "Public Key",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "public",
+    "key"
+  ],
+  "version": "1.3"
+}

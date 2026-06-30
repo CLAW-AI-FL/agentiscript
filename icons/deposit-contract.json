@@ -1,0 +1,11 @@
+{
+  "name": "deposit-contract",
+  "label": "Deposit Contract",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "deposit",
+    "contract"
+  ],
+  "version": "1.3"
+}

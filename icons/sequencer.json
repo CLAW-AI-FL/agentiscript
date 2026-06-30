@@ -1,0 +1,10 @@
+{
+  "name": "sequencer",
+  "label": "Sequencer",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "sequencer"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "issuance",
+  "label": "Issuance",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "issuance"
+  ],
+  "version": "1.3"
+}

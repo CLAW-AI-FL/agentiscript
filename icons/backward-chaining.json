@@ -1,0 +1,11 @@
+{
+  "name": "backward-chaining",
+  "label": "Backward Chaining",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "backward",
+    "chaining"
+  ],
+  "version": "1.3"
+}

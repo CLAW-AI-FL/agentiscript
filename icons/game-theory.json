@@ -1,0 +1,11 @@
+{
+  "name": "game-theory",
+  "label": "Game Theory",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "game",
+    "theory"
+  ],
+  "version": "1.3"
+}

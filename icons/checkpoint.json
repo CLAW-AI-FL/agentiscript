@@ -1,0 +1,10 @@
+{
+  "name": "checkpoint",
+  "label": "Checkpoint",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "checkpoint"
+  ],
+  "version": "1.3"
+}

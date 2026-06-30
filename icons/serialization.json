@@ -1,0 +1,10 @@
+{
+  "name": "serialization",
+  "label": "Serialization",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "serialization"
+  ],
+  "version": "1.3"
+}

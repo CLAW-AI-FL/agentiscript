@@ -1,0 +1,10 @@
+{
+  "name": "testnet",
+  "label": "Testnet",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "testnet"
+  ],
+  "version": "1.3"
+}

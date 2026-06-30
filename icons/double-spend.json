@@ -1,0 +1,11 @@
+{
+  "name": "double-spend",
+  "label": "Double Spend",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "double",
+    "spend"
+  ],
+  "version": "1.3"
+}

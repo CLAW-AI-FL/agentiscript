@@ -1,0 +1,12 @@
+{
+  "name": "terminal-total-difficulty",
+  "label": "Terminal Total Difficulty",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "terminal",
+    "total",
+    "difficulty"
+  ],
+  "version": "1.3"
+}

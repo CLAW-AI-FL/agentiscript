@@ -1,0 +1,11 @@
+{
+  "name": "generalization-error",
+  "label": "Generalization Error",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "generalization",
+    "error"
+  ],
+  "version": "1.3"
+}

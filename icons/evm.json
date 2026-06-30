@@ -1,0 +1,10 @@
+{
+  "name": "evm",
+  "label": "Evm",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "evm"
+  ],
+  "version": "1.3"
+}

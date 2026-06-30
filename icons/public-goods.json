@@ -1,0 +1,11 @@
+{
+  "name": "public-goods",
+  "label": "Public Goods",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "public",
+    "goods"
+  ],
+  "version": "1.3"
+}

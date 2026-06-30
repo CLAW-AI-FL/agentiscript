@@ -1,0 +1,11 @@
+{
+  "name": "byzantium-fork",
+  "label": "Byzantium Fork",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "byzantium",
+    "fork"
+  ],
+  "version": "1.3"
+}

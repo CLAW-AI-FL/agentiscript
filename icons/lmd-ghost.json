@@ -1,0 +1,11 @@
+{
+  "name": "lmd-ghost",
+  "label": "Lmd Ghost",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "lmd",
+    "ghost"
+  ],
+  "version": "1.3"
+}

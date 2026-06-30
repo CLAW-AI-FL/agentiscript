@@ -1,0 +1,11 @@
+{
+  "name": "markov-chain",
+  "label": "Markov Chain",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "markov",
+    "chain"
+  ],
+  "version": "1.3"
+}

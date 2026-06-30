@@ -1,0 +1,11 @@
+{
+  "name": "feature-selection",
+  "label": "Feature Selection",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "feature",
+    "selection"
+  ],
+  "version": "1.3"
+}

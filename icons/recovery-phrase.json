@@ -1,0 +1,11 @@
+{
+  "name": "recovery-phrase",
+  "label": "Recovery Phrase",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "recovery",
+    "phrase"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sensor-fusion",
+  "label": "Sensor Fusion",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "sensor",
+    "fusion"
+  ],
+  "version": "1.3"
+}

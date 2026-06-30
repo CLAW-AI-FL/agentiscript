@@ -1,0 +1,10 @@
+{
+  "name": "crossover",
+  "label": "Crossover",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "crossover"
+  ],
+  "version": "1.3"
+}

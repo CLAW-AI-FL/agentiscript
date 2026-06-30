@@ -1,0 +1,10 @@
+{
+  "name": "syncing",
+  "label": "Syncing",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "syncing"
+  ],
+  "version": "1.3"
+}

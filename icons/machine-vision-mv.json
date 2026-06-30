@@ -1,0 +1,11 @@
+{
+  "name": "machine-vision-mv",
+  "label": "Machine Vision Mv",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "machine",
+    "vision"
+  ],
+  "version": "1.3"
+}

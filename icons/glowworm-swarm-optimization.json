@@ -1,0 +1,12 @@
+{
+  "name": "glowworm-swarm-optimization",
+  "label": "Glowworm Swarm Optimization",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "glowworm",
+    "swarm",
+    "optimization"
+  ],
+  "version": "1.3"
+}

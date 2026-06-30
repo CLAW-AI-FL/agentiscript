@@ -1,0 +1,10 @@
+{
+  "name": "dex",
+  "label": "Dex",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "dex"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "distributed-hash-table",
+  "label": "Distributed Hash Table",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "distributed",
+    "hash",
+    "table"
+  ],
+  "version": "1.3"
+}

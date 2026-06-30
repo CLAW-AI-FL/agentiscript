@@ -1,0 +1,13 @@
+{
+  "name": "generative-pretrained-transformer-gpt",
+  "label": "Generative Pretrained Transformer Gpt",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "generative",
+    "pretrained",
+    "transformer",
+    "gpt"
+  ],
+  "version": "1.3"
+}

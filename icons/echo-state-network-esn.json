@@ -1,0 +1,13 @@
+{
+  "name": "echo-state-network-esn",
+  "label": "Echo State Network Esn",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "echo",
+    "state",
+    "network",
+    "esn"
+  ],
+  "version": "1.3"
+}

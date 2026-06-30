@@ -1,0 +1,10 @@
+{
+  "name": "permissionless",
+  "label": "Permissionless",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "permissionless"
+  ],
+  "version": "1.3"
+}

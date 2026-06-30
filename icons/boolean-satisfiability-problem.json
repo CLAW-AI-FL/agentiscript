@@ -1,0 +1,12 @@
+{
+  "name": "boolean-satisfiability-problem",
+  "label": "Boolean Satisfiability Problem",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "boolean",
+    "satisfiability",
+    "problem"
+  ],
+  "version": "1.3"
+}

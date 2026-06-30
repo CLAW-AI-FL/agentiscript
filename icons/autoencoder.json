@@ -1,0 +1,10 @@
+{
+  "name": "autoencoder",
+  "label": "Autoencoder",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "autoencoder"
+  ],
+  "version": "1.3"
+}

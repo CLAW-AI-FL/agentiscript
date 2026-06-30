@@ -1,0 +1,11 @@
+{
+  "name": "expert-system",
+  "label": "Expert System",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "expert",
+    "system"
+  ],
+  "version": "1.3"
+}

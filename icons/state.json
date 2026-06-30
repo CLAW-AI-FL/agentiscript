@@ -1,0 +1,10 @@
+{
+  "name": "state",
+  "label": "State",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "state"
+  ],
+  "version": "1.3"
+}

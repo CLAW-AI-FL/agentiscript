@@ -1,0 +1,10 @@
+{
+  "name": "entropy",
+  "label": "Entropy",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "entropy"
+  ],
+  "version": "1.3"
+}

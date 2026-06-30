@@ -1,0 +1,10 @@
+{
+  "name": "alphago",
+  "label": "Alphago",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "alphago"
+  ],
+  "version": "1.3"
+}

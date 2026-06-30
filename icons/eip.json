@@ -1,0 +1,10 @@
+{
+  "name": "eip",
+  "label": "Eip",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "eip"
+  ],
+  "version": "1.3"
+}

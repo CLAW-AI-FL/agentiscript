@@ -1,0 +1,11 @@
+{
+  "name": "constructed-language",
+  "label": "Constructed Language",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "constructed",
+    "language"
+  ],
+  "version": "1.3"
+}

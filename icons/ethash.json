@@ -1,0 +1,10 @@
+{
+  "name": "ethash",
+  "label": "Ethash",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "ethash"
+  ],
+  "version": "1.3"
+}

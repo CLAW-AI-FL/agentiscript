@@ -1,0 +1,11 @@
+{
+  "name": "ebert-test",
+  "label": "Ebert Test",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "ebert",
+    "test"
+  ],
+  "version": "1.3"
+}

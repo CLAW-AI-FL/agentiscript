@@ -1,0 +1,11 @@
+{
+  "name": "message-call",
+  "label": "Message Call",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "message",
+    "call"
+  ],
+  "version": "1.3"
+}

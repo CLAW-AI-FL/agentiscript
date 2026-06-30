@@ -1,0 +1,11 @@
+{
+  "name": "boltzmann-machine",
+  "label": "Boltzmann Machine",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "boltzmann",
+    "machine"
+  ],
+  "version": "1.3"
+}

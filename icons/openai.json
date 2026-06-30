@@ -1,0 +1,10 @@
+{
+  "name": "openai",
+  "label": "Openai",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "openai"
+  ],
+  "version": "1.3"
+}

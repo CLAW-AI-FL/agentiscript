@@ -1,0 +1,10 @@
+{
+  "name": "ether",
+  "label": "Ether",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "ether"
+  ],
+  "version": "1.3"
+}

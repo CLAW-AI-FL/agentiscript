@@ -1,0 +1,11 @@
+{
+  "name": "deductive-classifier",
+  "label": "Deductive Classifier",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "deductive",
+    "classifier"
+  ],
+  "version": "1.3"
+}

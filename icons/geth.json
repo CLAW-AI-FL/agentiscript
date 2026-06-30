@@ -1,0 +1,10 @@
+{
+  "name": "geth",
+  "label": "Geth",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "geth"
+  ],
+  "version": "1.3"
+}

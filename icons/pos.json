@@ -1,0 +1,10 @@
+{
+  "name": "pos",
+  "label": "Pos",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "pos"
+  ],
+  "version": "1.3"
+}

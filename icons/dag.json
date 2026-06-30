@@ -1,0 +1,10 @@
+{
+  "name": "dag",
+  "label": "Dag",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "dag"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "speech-recognition",
+  "label": "Speech Recognition",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "speech",
+    "recognition"
+  ],
+  "version": "1.3"
+}

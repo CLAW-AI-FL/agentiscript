@@ -1,0 +1,11 @@
+{
+  "name": "block-header",
+  "label": "Block Header",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "block",
+    "header"
+  ],
+  "version": "1.3"
+}

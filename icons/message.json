@@ -1,0 +1,10 @@
+{
+  "name": "message",
+  "label": "Message",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "message"
+  ],
+  "version": "1.3"
+}

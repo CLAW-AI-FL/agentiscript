@@ -1,0 +1,10 @@
+{
+  "name": "pytorch",
+  "label": "Pytorch",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "pytorch"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quantum-computing",
+  "label": "Quantum Computing",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "quantum",
+    "computing"
+  ],
+  "version": "1.3"
+}

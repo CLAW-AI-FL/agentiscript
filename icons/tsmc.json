@@ -1,0 +1,10 @@
+{
+  "name": "tsmc",
+  "label": "Tsmc",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "tsmc"
+  ],
+  "version": "1.3"
+}

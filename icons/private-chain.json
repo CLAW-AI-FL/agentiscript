@@ -1,0 +1,11 @@
+{
+  "name": "private-chain",
+  "label": "Private Chain",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "private",
+    "chain"
+  ],
+  "version": "1.3"
+}

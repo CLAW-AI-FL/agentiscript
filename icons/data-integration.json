@@ -1,0 +1,11 @@
+{
+  "name": "data-integration",
+  "label": "Data Integration",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "data",
+    "integration"
+  ],
+  "version": "1.3"
+}

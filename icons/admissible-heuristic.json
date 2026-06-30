@@ -1,0 +1,11 @@
+{
+  "name": "admissible-heuristic",
+  "label": "Admissible Heuristic",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "admissible",
+    "heuristic"
+  ],
+  "version": "1.3"
+}

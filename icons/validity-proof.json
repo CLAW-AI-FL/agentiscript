@@ -1,0 +1,11 @@
+{
+  "name": "validity-proof",
+  "label": "Validity Proof",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "validity",
+    "proof"
+  ],
+  "version": "1.3"
+}

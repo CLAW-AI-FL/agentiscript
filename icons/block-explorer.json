@@ -1,0 +1,11 @@
+{
+  "name": "block-explorer",
+  "label": "Block Explorer",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "block",
+    "explorer"
+  ],
+  "version": "1.3"
+}

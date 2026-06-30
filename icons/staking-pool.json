@@ -1,0 +1,11 @@
+{
+  "name": "staking-pool",
+  "label": "Staking Pool",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "staking",
+    "pool"
+  ],
+  "version": "1.3"
+}

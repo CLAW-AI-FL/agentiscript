@@ -1,0 +1,13 @@
+{
+  "name": "restricted-boltzmann-machine-rbm",
+  "label": "Restricted Boltzmann Machine Rbm",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "restricted",
+    "boltzmann",
+    "machine",
+    "rbm"
+  ],
+  "version": "1.3"
+}

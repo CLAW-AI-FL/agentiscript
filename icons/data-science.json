@@ -1,0 +1,11 @@
+{
+  "name": "data-science",
+  "label": "Data Science",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "data",
+    "science"
+  ],
+  "version": "1.3"
+}

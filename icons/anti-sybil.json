@@ -1,0 +1,11 @@
+{
+  "name": "anti-sybil",
+  "label": "Anti Sybil",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "anti",
+    "sybil"
+  ],
+  "version": "1.3"
+}

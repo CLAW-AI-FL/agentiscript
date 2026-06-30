@@ -1,0 +1,11 @@
+{
+  "name": "gas-price",
+  "label": "Gas Price",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "gas",
+    "price"
+  ],
+  "version": "1.3"
+}

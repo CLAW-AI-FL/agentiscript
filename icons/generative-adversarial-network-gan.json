@@ -1,0 +1,13 @@
+{
+  "name": "generative-adversarial-network-gan",
+  "label": "Generative Adversarial Network Gan",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "generative",
+    "adversarial",
+    "network",
+    "gan"
+  ],
+  "version": "1.3"
+}

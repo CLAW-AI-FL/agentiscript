@@ -1,0 +1,11 @@
+{
+  "name": "evolutionary-algorithm-ea",
+  "label": "Evolutionary Algorithm Ea",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "evolutionary",
+    "algorithm"
+  ],
+  "version": "1.3"
+}

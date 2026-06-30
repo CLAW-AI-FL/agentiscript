@@ -1,0 +1,11 @@
+{
+  "name": "block-validation",
+  "label": "Block Validation",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "block",
+    "validation"
+  ],
+  "version": "1.3"
+}

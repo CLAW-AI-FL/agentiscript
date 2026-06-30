@@ -1,0 +1,12 @@
+{
+  "name": "contract-creation-transaction",
+  "label": "Contract Creation Transaction",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "contract",
+    "creation",
+    "transaction"
+  ],
+  "version": "1.3"
+}

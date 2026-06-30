@@ -1,0 +1,10 @@
+{
+  "name": "homestead",
+  "label": "Homestead",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "homestead"
+  ],
+  "version": "1.3"
+}

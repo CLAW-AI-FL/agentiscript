@@ -1,0 +1,10 @@
+{
+  "name": "rpc",
+  "label": "Rpc",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "rpc"
+  ],
+  "version": "1.3"
+}

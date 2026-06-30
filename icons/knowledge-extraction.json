@@ -1,0 +1,11 @@
+{
+  "name": "knowledge-extraction",
+  "label": "Knowledge Extraction",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "knowledge",
+    "extraction"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "forward-chaining",
+  "label": "Forward Chaining",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "forward",
+    "chaining"
+  ],
+  "version": "1.3"
+}

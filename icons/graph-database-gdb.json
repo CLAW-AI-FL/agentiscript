@@ -1,0 +1,12 @@
+{
+  "name": "graph-database-gdb",
+  "label": "Graph Database Gdb",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "graph",
+    "database",
+    "gdb"
+  ],
+  "version": "1.3"
+}

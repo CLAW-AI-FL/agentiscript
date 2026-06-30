@@ -1,0 +1,11 @@
+{
+  "name": "sybil-attack",
+  "label": "Sybil Attack",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "sybil",
+    "attack"
+  ],
+  "version": "1.3"
+}

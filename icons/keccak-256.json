@@ -1,0 +1,11 @@
+{
+  "name": "keccak-256",
+  "label": "Keccak 256",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "keccak",
+    "256"
+  ],
+  "version": "1.3"
+}

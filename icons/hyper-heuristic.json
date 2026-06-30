@@ -1,0 +1,11 @@
+{
+  "name": "hyper-heuristic",
+  "label": "Hyper Heuristic",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "hyper",
+    "heuristic"
+  ],
+  "version": "1.3"
+}

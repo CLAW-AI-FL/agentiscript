@@ -1,0 +1,13 @@
+{
+  "name": "partially-observable-markov-decision-process-pomdp",
+  "label": "Partially Observable Markov Decision Process Pomdp",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "partially",
+    "observable",
+    "markov",
+    "decision"
+  ],
+  "version": "1.3"
+}

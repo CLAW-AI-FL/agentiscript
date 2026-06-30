@@ -1,0 +1,10 @@
+{
+  "name": "solidity",
+  "label": "Solidity",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "solidity"
+  ],
+  "version": "1.3"
+}

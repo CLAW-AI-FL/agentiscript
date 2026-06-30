@@ -1,0 +1,11 @@
+{
+  "name": "hash-rate",
+  "label": "Hash Rate",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "hash",
+    "rate"
+  ],
+  "version": "1.3"
+}

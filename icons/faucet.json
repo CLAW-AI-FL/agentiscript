@@ -1,0 +1,10 @@
+{
+  "name": "faucet",
+  "label": "Faucet",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "faucet"
+  ],
+  "version": "1.3"
+}
