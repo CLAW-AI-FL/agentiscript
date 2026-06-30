@@ -1,0 +1,12 @@
+{
+  "id": "social-revolution",
+  "name": "Social revolution",
+  "category": "Political Theory",
+  "tags": [
+    "social",
+    "revolution"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

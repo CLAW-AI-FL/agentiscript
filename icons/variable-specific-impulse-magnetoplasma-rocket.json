@@ -1,0 +1,15 @@
+{
+  "id": "variable-specific-impulse-magnetoplasma-rocket",
+  "name": "Variable specific impulse magnetoplasma rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "variable",
+    "specific",
+    "impulse",
+    "magnetoplasma",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

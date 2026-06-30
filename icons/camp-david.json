@@ -1,0 +1,12 @@
+{
+  "id": "camp-david",
+  "name": "Camp David",
+  "category": "American Politics",
+  "tags": [
+    "camp",
+    "david"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "hygrothermograph",
+  "name": "hygrothermograph",
+  "category": "Meteorology",
+  "tags": [
+    "hygrothermograph"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

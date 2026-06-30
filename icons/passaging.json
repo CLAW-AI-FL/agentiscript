@@ -1,0 +1,11 @@
+{
+  "id": "passaging",
+  "name": "passaging",
+  "category": "Virology",
+  "tags": [
+    "passaging"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

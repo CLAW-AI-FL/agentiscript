@@ -1,0 +1,11 @@
+{
+  "id": "conferee",
+  "name": "conferee",
+  "category": "American Politics",
+  "tags": [
+    "conferee"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

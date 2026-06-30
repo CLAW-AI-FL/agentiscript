@@ -1,0 +1,13 @@
+{
+  "id": "cross-reference-database",
+  "name": "Cross reference database",
+  "category": "Library and Information Science",
+  "tags": [
+    "cross",
+    "reference",
+    "database"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

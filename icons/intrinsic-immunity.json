@@ -1,0 +1,12 @@
+{
+  "id": "intrinsic-immunity",
+  "name": "intrinsic immunity",
+  "category": "Virology",
+  "tags": [
+    "intrinsic",
+    "immunity"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "actiniform",
+  "name": "actiniform",
+  "category": "Meteorology",
+  "tags": [
+    "actiniform"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

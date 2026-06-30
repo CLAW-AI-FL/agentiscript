@@ -1,0 +1,12 @@
+{
+  "id": "democratic-party",
+  "name": "Democratic Party",
+  "category": "American Politics",
+  "tags": [
+    "democratic",
+    "party"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

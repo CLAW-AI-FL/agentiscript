@@ -1,0 +1,12 @@
+{
+  "id": "acquisition-of-signal",
+  "name": "Acquisition of signal",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "acquisition",
+    "signal"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

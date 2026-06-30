@@ -1,0 +1,13 @@
+{
+  "id": "dam-calf-separation",
+  "name": "dam-calf separation",
+  "category": "Agriculture",
+  "tags": [
+    "dam",
+    "calf",
+    "separation"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

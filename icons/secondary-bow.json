@@ -1,0 +1,12 @@
+{
+  "id": "secondary-bow",
+  "name": "secondary bow",
+  "category": "Meteorology",
+  "tags": [
+    "secondary",
+    "bow"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

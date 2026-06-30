@@ -1,0 +1,12 @@
+{
+  "id": "cable-lacing",
+  "name": "Cable lacing",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "cable",
+    "lacing"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "multiplicity-of-infection",
+  "name": "multiplicity of infection",
+  "category": "Virology",
+  "tags": [
+    "multiplicity",
+    "infection"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

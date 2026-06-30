@@ -1,0 +1,12 @@
+{
+  "id": "muck-spreader",
+  "name": "muck spreader",
+  "category": "Agriculture",
+  "tags": [
+    "muck",
+    "spreader"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

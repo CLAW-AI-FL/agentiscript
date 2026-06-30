@@ -1,0 +1,12 @@
+{
+  "id": "slurry-lagoon",
+  "name": "slurry lagoon",
+  "category": "Agriculture",
+  "tags": [
+    "slurry",
+    "lagoon"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

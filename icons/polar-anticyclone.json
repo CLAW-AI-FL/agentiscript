@@ -1,0 +1,12 @@
+{
+  "id": "polar-anticyclone",
+  "name": "polar anticyclone",
+  "category": "Meteorology",
+  "tags": [
+    "polar",
+    "anticyclone"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "virtual-design-and-construction",
+  "name": "Virtual design and construction",
+  "category": "Project Management",
+  "tags": [
+    "virtual",
+    "design",
+    "and",
+    "construction"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

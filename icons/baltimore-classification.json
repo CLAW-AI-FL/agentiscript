@@ -1,0 +1,12 @@
+{
+  "id": "baltimore-classification",
+  "name": "Baltimore classification",
+  "category": "Virology",
+  "tags": [
+    "baltimore",
+    "classification"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

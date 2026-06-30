@@ -1,0 +1,12 @@
+{
+  "id": "absolute-value",
+  "name": "Absolute value",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "absolute",
+    "value"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

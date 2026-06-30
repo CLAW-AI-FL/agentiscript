@@ -1,0 +1,12 @@
+{
+  "id": "equations-of-motion",
+  "name": "Equations of motion",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "equations",
+    "motion"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

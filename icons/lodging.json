@@ -1,0 +1,11 @@
+{
+  "id": "lodging",
+  "name": "lodging",
+  "category": "Agriculture",
+  "tags": [
+    "lodging"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

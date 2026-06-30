@@ -1,0 +1,11 @@
+{
+  "id": "airlock",
+  "name": "Airlock",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "airlock"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

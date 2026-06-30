@@ -1,0 +1,11 @@
+{
+  "id": "hay",
+  "name": "hay",
+  "category": "Agriculture",
+  "tags": [
+    "hay"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

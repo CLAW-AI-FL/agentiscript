@@ -1,0 +1,14 @@
+{
+  "id": "height-above-ground-level",
+  "name": "height above ground level",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "height",
+    "above",
+    "ground",
+    "level"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

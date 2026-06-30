@@ -1,0 +1,13 @@
+{
+  "id": "reusable-launch-system",
+  "name": "Reusable launch system",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "reusable",
+    "launch",
+    "system"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

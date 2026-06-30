@@ -1,0 +1,11 @@
+{
+  "id": "descriptor",
+  "name": "Descriptor",
+  "category": "Library and Information Science",
+  "tags": [
+    "descriptor"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

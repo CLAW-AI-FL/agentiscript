@@ -1,0 +1,11 @@
+{
+  "id": "gynoecium",
+  "name": "gynoecium",
+  "category": "Plant Morphology",
+  "tags": [
+    "gynoecium"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

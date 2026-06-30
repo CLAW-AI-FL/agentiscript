@@ -1,0 +1,13 @@
+{
+  "id": "helicopter-flight-controls",
+  "name": "helicopter flight controls",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "helicopter",
+    "flight",
+    "controls"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

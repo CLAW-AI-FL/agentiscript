@@ -1,0 +1,13 @@
+{
+  "id": "hurricane-of-the-prairie",
+  "name": "hurricane of the prairie",
+  "category": "Meteorology",
+  "tags": [
+    "hurricane",
+    "the",
+    "prairie"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

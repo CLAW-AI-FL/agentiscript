@@ -1,0 +1,13 @@
+{
+  "id": "global-virus-network",
+  "name": "Global Virus Network",
+  "category": "Virology",
+  "tags": [
+    "global",
+    "virus",
+    "network"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

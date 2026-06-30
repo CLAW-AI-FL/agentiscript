@@ -1,0 +1,12 @@
+{
+  "id": "popular-assembly",
+  "name": "Popular assembly",
+  "category": "Political Theory",
+  "tags": [
+    "popular",
+    "assembly"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

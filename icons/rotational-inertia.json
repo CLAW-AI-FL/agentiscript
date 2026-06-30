@@ -1,0 +1,12 @@
+{
+  "id": "rotational-inertia",
+  "name": "rotational inertia",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "rotational",
+    "inertia"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

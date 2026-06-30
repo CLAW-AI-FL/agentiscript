@@ -1,0 +1,11 @@
+{
+  "id": "lithobraking",
+  "name": "Lithobraking",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "lithobraking"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

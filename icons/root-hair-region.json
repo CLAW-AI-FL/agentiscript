@@ -1,0 +1,13 @@
+{
+  "id": "root-hair-region",
+  "name": "root-hair-region",
+  "category": "Plant Morphology",
+  "tags": [
+    "root",
+    "hair",
+    "region"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lagrangian-points",
+  "name": "Lagrangian points",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "lagrangian",
+    "points"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

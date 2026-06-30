@@ -1,0 +1,12 @@
+{
+  "id": "cabin-pressurization",
+  "name": "Cabin pressurization",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "cabin",
+    "pressurization"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

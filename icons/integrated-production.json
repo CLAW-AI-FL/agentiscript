@@ -1,0 +1,12 @@
+{
+  "id": "integrated-production",
+  "name": "integrated production",
+  "category": "Agriculture",
+  "tags": [
+    "integrated",
+    "production"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "spokescouncil",
+  "name": "Spokescouncil",
+  "category": "Political Theory",
+  "tags": [
+    "spokescouncil"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

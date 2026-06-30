@@ -1,0 +1,12 @@
+{
+  "id": "orographic-uplift",
+  "name": "orographic uplift",
+  "category": "Meteorology",
+  "tags": [
+    "orographic",
+    "uplift"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

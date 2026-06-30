@@ -1,0 +1,13 @@
+{
+  "id": "earths-energy-imbalance",
+  "name": "Earth's energy imbalance",
+  "category": "Climate Change",
+  "tags": [
+    "earths",
+    "energy",
+    "imbalance"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

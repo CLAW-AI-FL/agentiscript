@@ -1,0 +1,12 @@
+{
+  "id": "antigenic-imprinting",
+  "name": "antigenic imprinting",
+  "category": "Virology",
+  "tags": [
+    "antigenic",
+    "imprinting"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cauda",
+  "name": "cauda",
+  "category": "Meteorology",
+  "tags": [
+    "cauda"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

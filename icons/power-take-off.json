@@ -1,0 +1,13 @@
+{
+  "id": "power-take-off",
+  "name": "power take-off",
+  "category": "Agriculture",
+  "tags": [
+    "power",
+    "take",
+    "off"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

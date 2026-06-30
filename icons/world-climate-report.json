@@ -1,0 +1,13 @@
+{
+  "id": "world-climate-report",
+  "name": "World Climate Report",
+  "category": "Climate Change",
+  "tags": [
+    "world",
+    "climate",
+    "report"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

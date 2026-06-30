@@ -1,0 +1,13 @@
+{
+  "id": "lifted-condensation-level",
+  "name": "lifted condensation level",
+  "category": "Meteorology",
+  "tags": [
+    "lifted",
+    "condensation",
+    "level"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

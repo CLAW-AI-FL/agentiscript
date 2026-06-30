@@ -1,0 +1,12 @@
+{
+  "id": "management-process",
+  "name": "Management process",
+  "category": "Project Management",
+  "tags": [
+    "management",
+    "process"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

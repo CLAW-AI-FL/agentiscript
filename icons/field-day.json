@@ -1,0 +1,12 @@
+{
+  "id": "field-day",
+  "name": "field day",
+  "category": "Agriculture",
+  "tags": [
+    "field",
+    "day"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "product-breakdown-structure",
+  "name": "Product breakdown structure",
+  "category": "Project Management",
+  "tags": [
+    "product",
+    "breakdown",
+    "structure"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

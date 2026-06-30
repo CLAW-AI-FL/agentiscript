@@ -1,0 +1,12 @@
+{
+  "id": "sediment-trap",
+  "name": "Sediment trap",
+  "category": "Geology",
+  "tags": [
+    "sediment",
+    "trap"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "space-station",
+  "name": "Space station",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "space",
+    "station"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

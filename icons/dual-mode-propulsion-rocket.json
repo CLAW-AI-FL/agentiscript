@@ -1,0 +1,14 @@
+{
+  "id": "dual-mode-propulsion-rocket",
+  "name": "Dual mode propulsion rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "dual",
+    "mode",
+    "propulsion",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

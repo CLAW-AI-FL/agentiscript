@@ -1,0 +1,11 @@
+{
+  "id": "paleovirology",
+  "name": "paleovirology",
+  "category": "Virology",
+  "tags": [
+    "paleovirology"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

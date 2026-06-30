@@ -1,0 +1,12 @@
+{
+  "id": "cost-engineering",
+  "name": "Cost engineering",
+  "category": "Project Management",
+  "tags": [
+    "cost",
+    "engineering"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

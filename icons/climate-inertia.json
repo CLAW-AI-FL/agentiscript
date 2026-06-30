@@ -1,0 +1,12 @@
+{
+  "id": "climate-inertia",
+  "name": "climate inertia",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "inertia"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

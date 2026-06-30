@@ -1,0 +1,12 @@
+{
+  "id": "shock-wave",
+  "name": "Shock wave",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "shock",
+    "wave"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

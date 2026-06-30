@@ -1,0 +1,13 @@
+{
+  "id": "post-harvest-losses",
+  "name": "post-harvest losses",
+  "category": "Agriculture",
+  "tags": [
+    "post",
+    "harvest",
+    "losses"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "milankovitch-cycles",
+  "name": "Milankovitch cycles",
+  "category": "Climate Change",
+  "tags": [
+    "milankovitch",
+    "cycles"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

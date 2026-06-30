@@ -1,0 +1,13 @@
+{
+  "id": "instrumental-temperature-record",
+  "name": "instrumental temperature record",
+  "category": "Climate Change",
+  "tags": [
+    "instrumental",
+    "temperature",
+    "record"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

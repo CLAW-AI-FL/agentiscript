@@ -1,0 +1,13 @@
+{
+  "id": "extreme-project-management",
+  "name": "Extreme project management",
+  "category": "Project Management",
+  "tags": [
+    "extreme",
+    "project",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

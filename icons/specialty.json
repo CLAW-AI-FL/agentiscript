@@ -1,0 +1,11 @@
+{
+  "id": "specialty",
+  "name": "Specialty",
+  "category": "Medicine",
+  "tags": [
+    "specialty"
+  ],
+  "source": "medicine",
+  "version": "2.3",
+  "license": "CC0"
+}

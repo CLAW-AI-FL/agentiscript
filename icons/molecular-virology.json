@@ -1,0 +1,12 @@
+{
+  "id": "molecular-virology",
+  "name": "molecular virology",
+  "category": "Virology",
+  "tags": [
+    "molecular",
+    "virology"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

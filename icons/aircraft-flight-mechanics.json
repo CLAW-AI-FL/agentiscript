@@ -1,0 +1,13 @@
+{
+  "id": "aircraft-flight-mechanics",
+  "name": "Aircraft flight mechanics",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "aircraft",
+    "flight",
+    "mechanics"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

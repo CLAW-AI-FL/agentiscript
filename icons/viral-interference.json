@@ -1,0 +1,12 @@
+{
+  "id": "viral-interference",
+  "name": "viral interference",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "interference"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

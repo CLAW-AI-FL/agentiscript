@@ -1,0 +1,12 @@
+{
+  "id": "specific-impulse",
+  "name": "Specific impulse",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "specific",
+    "impulse"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "plenum",
+  "name": "plenum",
+  "category": "American Politics",
+  "tags": [
+    "plenum"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

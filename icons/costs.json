@@ -1,0 +1,11 @@
+{
+  "id": "costs",
+  "name": "Cost]]s",
+  "category": "Project Management",
+  "tags": [
+    "costs"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

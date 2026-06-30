@@ -1,0 +1,12 @@
+{
+  "id": "nonlinear-management",
+  "name": "Nonlinear management",
+  "category": "Project Management",
+  "tags": [
+    "nonlinear",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

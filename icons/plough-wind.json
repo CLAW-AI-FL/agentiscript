@@ -1,0 +1,12 @@
+{
+  "id": "plough-wind",
+  "name": "plough wind",
+  "category": "Meteorology",
+  "tags": [
+    "plough",
+    "wind"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

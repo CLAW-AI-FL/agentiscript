@@ -1,0 +1,11 @@
+{
+  "id": "earthshine",
+  "name": "Earthshine",
+  "category": "Climate Change",
+  "tags": [
+    "earthshine"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "antarctic-oscillation",
+  "name": "Antarctic oscillation",
+  "category": "Climate Change",
+  "tags": [
+    "antarctic",
+    "oscillation"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "aircraft-flight-control-system",
+  "name": "aircraft flight control system",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "aircraft",
+    "flight",
+    "control",
+    "system"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

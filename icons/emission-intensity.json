@@ -1,0 +1,12 @@
+{
+  "id": "emission-intensity",
+  "name": "emission intensity",
+  "category": "Climate Change",
+  "tags": [
+    "emission",
+    "intensity"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "tensiometer",
+  "name": "tensiometer",
+  "category": "Agriculture",
+  "tags": [
+    "tensiometer"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

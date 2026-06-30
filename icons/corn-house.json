@@ -1,0 +1,12 @@
+{
+  "id": "corn-house",
+  "name": "corn house",
+  "category": "Agriculture",
+  "tags": [
+    "corn",
+    "house"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

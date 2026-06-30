@@ -1,0 +1,12 @@
+{
+  "id": "viral-protein",
+  "name": "viral protein",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "protein"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

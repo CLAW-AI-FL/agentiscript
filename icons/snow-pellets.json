@@ -1,0 +1,12 @@
+{
+  "id": "snow-pellets",
+  "name": "snow pellets",
+  "category": "Meteorology",
+  "tags": [
+    "snow",
+    "pellets"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "plurality-vote",
+  "name": "plurality vote",
+  "category": "American Politics",
+  "tags": [
+    "plurality",
+    "vote"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

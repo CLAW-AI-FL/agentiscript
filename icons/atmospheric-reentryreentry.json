@@ -1,0 +1,12 @@
+{
+  "id": "atmospheric-reentryreentry",
+  "name": "Atmospheric reentry|Reentry",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "atmospheric",
+    "reentryreentry"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "high-yielding-variety",
+  "name": "high-yielding variety",
+  "category": "Agriculture",
+  "tags": [
+    "high",
+    "yielding",
+    "variety"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

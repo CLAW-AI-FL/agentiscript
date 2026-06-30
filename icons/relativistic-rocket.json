@@ -1,0 +1,12 @@
+{
+  "id": "relativistic-rocket",
+  "name": "Relativistic rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "relativistic",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

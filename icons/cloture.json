@@ -1,0 +1,11 @@
+{
+  "id": "cloture",
+  "name": "cloture",
+  "category": "American Politics",
+  "tags": [
+    "cloture"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "drop-test",
+  "name": "Drop test",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "drop",
+    "test"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

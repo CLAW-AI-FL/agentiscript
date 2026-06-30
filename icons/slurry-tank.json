@@ -1,0 +1,12 @@
+{
+  "id": "slurry-tank",
+  "name": "slurry tank",
+  "category": "Agriculture",
+  "tags": [
+    "slurry",
+    "tank"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

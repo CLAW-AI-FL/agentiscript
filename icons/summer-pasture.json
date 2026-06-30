@@ -1,0 +1,12 @@
+{
+  "id": "summer-pasture",
+  "name": "summer pasture",
+  "category": "Agriculture",
+  "tags": [
+    "summer",
+    "pasture"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

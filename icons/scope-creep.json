@@ -1,0 +1,12 @@
+{
+  "id": "scope-creep",
+  "name": "Scope creep",
+  "category": "Project Management",
+  "tags": [
+    "scope",
+    "creep"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

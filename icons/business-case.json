@@ -1,0 +1,12 @@
+{
+  "id": "business-case",
+  "name": "Business case",
+  "category": "Project Management",
+  "tags": [
+    "business",
+    "case"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

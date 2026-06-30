@@ -1,0 +1,12 @@
+{
+  "id": "ocean-effect",
+  "name": "ocean-effect",
+  "category": "Meteorology",
+  "tags": [
+    "ocean",
+    "effect"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

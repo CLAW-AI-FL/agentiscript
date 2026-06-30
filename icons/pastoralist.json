@@ -1,0 +1,11 @@
+{
+  "id": "pastoralist",
+  "name": "pastoralist",
+  "category": "Agriculture",
+  "tags": [
+    "pastoralist"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

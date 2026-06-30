@@ -1,0 +1,12 @@
+{
+  "id": "aggregate-planning",
+  "name": "Aggregate planning",
+  "category": "Project Management",
+  "tags": [
+    "aggregate",
+    "planning"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

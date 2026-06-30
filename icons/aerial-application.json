@@ -1,0 +1,12 @@
+{
+  "id": "aerial-application",
+  "name": "aerial application",
+  "category": "Agriculture",
+  "tags": [
+    "aerial",
+    "application"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

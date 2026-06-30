@@ -1,0 +1,11 @@
+{
+  "id": "t2m",
+  "name": "T2m",
+  "category": "Meteorology",
+  "tags": [
+    "t2m"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "big-dumb-booster",
+  "name": "Big dumb booster",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "big",
+    "dumb",
+    "booster"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

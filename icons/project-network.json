@@ -1,0 +1,12 @@
+{
+  "id": "project-network",
+  "name": "Project network",
+  "category": "Project Management",
+  "tags": [
+    "project",
+    "network"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

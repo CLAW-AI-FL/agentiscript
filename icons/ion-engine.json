@@ -1,0 +1,12 @@
+{
+  "id": "ion-engine",
+  "name": "ion engine",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "ion",
+    "engine"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

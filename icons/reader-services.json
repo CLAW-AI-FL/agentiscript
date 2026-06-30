@@ -1,0 +1,12 @@
+{
+  "id": "reader-services",
+  "name": "reader services",
+  "category": "Library and Information Science",
+  "tags": [
+    "reader",
+    "services"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

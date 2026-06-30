@@ -1,0 +1,12 @@
+{
+  "id": "dynamic-trough",
+  "name": "dynamic trough",
+  "category": "Meteorology",
+  "tags": [
+    "dynamic",
+    "trough"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

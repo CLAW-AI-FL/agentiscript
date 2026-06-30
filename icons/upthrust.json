@@ -1,0 +1,11 @@
+{
+  "id": "upthrust",
+  "name": "upthrust",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "upthrust"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

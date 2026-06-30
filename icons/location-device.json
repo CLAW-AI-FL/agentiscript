@@ -1,0 +1,12 @@
+{
+  "id": "location-device",
+  "name": "Location device",
+  "category": "Library and Information Science",
+  "tags": [
+    "location",
+    "device"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

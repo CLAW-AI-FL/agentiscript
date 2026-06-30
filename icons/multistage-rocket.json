@@ -1,0 +1,12 @@
+{
+  "id": "multistage-rocket",
+  "name": "Multistage rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "multistage",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

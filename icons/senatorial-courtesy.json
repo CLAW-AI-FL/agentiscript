@@ -1,0 +1,12 @@
+{
+  "id": "senatorial-courtesy",
+  "name": "Senatorial courtesy",
+  "category": "American Politics",
+  "tags": [
+    "senatorial",
+    "courtesy"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

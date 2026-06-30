@@ -1,0 +1,12 @@
+{
+  "id": "giant-virus",
+  "name": "giant virus",
+  "category": "Virology",
+  "tags": [
+    "giant",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

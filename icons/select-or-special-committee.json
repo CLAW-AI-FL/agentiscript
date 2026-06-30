@@ -1,0 +1,13 @@
+{
+  "id": "select-or-special-committee",
+  "name": "select or special committee",
+  "category": "American Politics",
+  "tags": [
+    "select",
+    "special",
+    "committee"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

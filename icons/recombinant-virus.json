@@ -1,0 +1,12 @@
+{
+  "id": "recombinant-virus",
+  "name": "recombinant virus",
+  "category": "Virology",
+  "tags": [
+    "recombinant",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

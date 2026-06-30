@@ -1,0 +1,11 @@
+{
+  "id": "adhocracy",
+  "name": "Adhocracy",
+  "category": "Political Theory",
+  "tags": [
+    "adhocracy"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

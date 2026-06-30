@@ -1,0 +1,12 @@
+{
+  "id": "viral-vector",
+  "name": "viral vector",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "vector"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

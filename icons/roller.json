@@ -1,0 +1,11 @@
+{
+  "id": "roller",
+  "name": "roller",
+  "category": "Agriculture",
+  "tags": [
+    "roller"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

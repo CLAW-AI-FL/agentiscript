@@ -1,0 +1,11 @@
+{
+  "id": "aeroacoustics",
+  "name": "Aeroacoustics",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "aeroacoustics"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

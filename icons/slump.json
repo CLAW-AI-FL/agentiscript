@@ -1,0 +1,11 @@
+{
+  "id": "slump",
+  "name": "Slump",
+  "category": "Geology",
+  "tags": [
+    "slump"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

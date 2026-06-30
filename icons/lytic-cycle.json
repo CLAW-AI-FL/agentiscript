@@ -1,0 +1,12 @@
+{
+  "id": "lytic-cycle",
+  "name": "lytic cycle",
+  "category": "Virology",
+  "tags": [
+    "lytic",
+    "cycle"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

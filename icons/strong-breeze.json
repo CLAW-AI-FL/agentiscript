@@ -1,0 +1,12 @@
+{
+  "id": "strong-breeze",
+  "name": "strong breeze",
+  "category": "Meteorology",
+  "tags": [
+    "strong",
+    "breeze"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

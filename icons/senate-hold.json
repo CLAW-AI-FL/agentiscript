@@ -1,0 +1,12 @@
+{
+  "id": "senate-hold",
+  "name": "Senate hold",
+  "category": "American Politics",
+  "tags": [
+    "senate",
+    "hold"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

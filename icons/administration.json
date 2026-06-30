@@ -1,0 +1,11 @@
+{
+  "id": "administration",
+  "name": "Administration",
+  "category": "American Politics",
+  "tags": [
+    "administration"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

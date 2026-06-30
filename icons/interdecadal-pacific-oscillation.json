@@ -1,0 +1,13 @@
+{
+  "id": "interdecadal-pacific-oscillation",
+  "name": "Interdecadal Pacific Oscillation",
+  "category": "Climate Change",
+  "tags": [
+    "interdecadal",
+    "pacific",
+    "oscillation"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

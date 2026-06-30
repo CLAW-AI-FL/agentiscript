@@ -1,0 +1,12 @@
+{
+  "id": "indicated-airspeed",
+  "name": "Indicated airspeed",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "indicated",
+    "airspeed"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

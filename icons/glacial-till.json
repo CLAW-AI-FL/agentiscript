@@ -1,0 +1,12 @@
+{
+  "id": "glacial-till",
+  "name": "glacial till",
+  "category": "Geology",
+  "tags": [
+    "glacial",
+    "till"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

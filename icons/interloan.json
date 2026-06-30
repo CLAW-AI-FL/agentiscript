@@ -1,0 +1,11 @@
+{
+  "id": "interloan",
+  "name": "interloan",
+  "category": "Library and Information Science",
+  "tags": [
+    "interloan"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

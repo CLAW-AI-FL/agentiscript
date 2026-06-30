@@ -1,0 +1,13 @@
+{
+  "id": "geologic-time-scale",
+  "name": "geologic time scale",
+  "category": "Geology",
+  "tags": [
+    "geologic",
+    "time",
+    "scale"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

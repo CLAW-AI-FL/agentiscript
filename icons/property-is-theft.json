@@ -1,0 +1,12 @@
+{
+  "id": "property-is-theft",
+  "name": "Property is theft!",
+  "category": "Political Theory",
+  "tags": [
+    "property",
+    "theft"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

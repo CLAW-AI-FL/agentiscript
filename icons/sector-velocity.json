@@ -1,0 +1,12 @@
+{
+  "id": "sector-velocity",
+  "name": "sector velocity",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "sector",
+    "velocity"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

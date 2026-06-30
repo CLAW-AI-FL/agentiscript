@@ -1,0 +1,12 @@
+{
+  "id": "glossary-of-medicine",
+  "name": "glossary of medicine",
+  "category": "Medicine",
+  "tags": [
+    "glossary",
+    "medicine"
+  ],
+  "source": "medicine",
+  "version": "2.3",
+  "license": "CC0"
+}

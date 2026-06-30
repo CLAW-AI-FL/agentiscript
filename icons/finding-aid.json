@@ -1,0 +1,12 @@
+{
+  "id": "finding-aid",
+  "name": "Finding aid",
+  "category": "Library and Information Science",
+  "tags": [
+    "finding",
+    "aid"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

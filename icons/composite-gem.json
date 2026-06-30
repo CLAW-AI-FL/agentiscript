@@ -1,0 +1,12 @@
+{
+  "id": "composite-gem",
+  "name": "composite gem",
+  "category": "Geology",
+  "tags": [
+    "composite",
+    "gem"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "glacial-earthquake",
+  "name": "glacial earthquake",
+  "category": "Climate Change",
+  "tags": [
+    "glacial",
+    "earthquake"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

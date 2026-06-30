@@ -1,0 +1,12 @@
+{
+  "id": "environmental-crime",
+  "name": "environmental crime",
+  "category": "Climate Change",
+  "tags": [
+    "environmental",
+    "crime"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

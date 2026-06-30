@@ -1,0 +1,12 @@
+{
+  "id": "bellwether-state",
+  "name": "bellwether state",
+  "category": "American Politics",
+  "tags": [
+    "bellwether",
+    "state"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

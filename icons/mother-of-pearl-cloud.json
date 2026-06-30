@@ -1,0 +1,13 @@
+{
+  "id": "mother-of-pearl-cloud",
+  "name": "mother-of-pearl cloud",
+  "category": "Meteorology",
+  "tags": [
+    "mother",
+    "pearl",
+    "cloud"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

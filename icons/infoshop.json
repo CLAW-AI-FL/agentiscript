@@ -1,0 +1,11 @@
+{
+  "id": "infoshop",
+  "name": "Infoshop",
+  "category": "Political Theory",
+  "tags": [
+    "infoshop"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

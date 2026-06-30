@@ -1,0 +1,12 @@
+{
+  "id": "aerospace-materials",
+  "name": "Aerospace materials",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "aerospace",
+    "materials"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "whistle-stop-train-tour",
+  "name": "Whistle stop train tour",
+  "category": "American Politics",
+  "tags": [
+    "whistle",
+    "stop",
+    "train",
+    "tour"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

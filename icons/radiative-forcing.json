@@ -1,0 +1,12 @@
+{
+  "id": "radiative-forcing",
+  "name": "radiative forcing",
+  "category": "Climate Change",
+  "tags": [
+    "radiative",
+    "forcing"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

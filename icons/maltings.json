@@ -1,0 +1,11 @@
+{
+  "id": "maltings",
+  "name": "maltings",
+  "category": "Agriculture",
+  "tags": [
+    "maltings"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

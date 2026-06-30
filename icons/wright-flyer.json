@@ -1,0 +1,12 @@
+{
+  "id": "wright-flyer",
+  "name": "Wright Flyer",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "wright",
+    "flyer"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

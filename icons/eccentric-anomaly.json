@@ -1,0 +1,12 @@
+{
+  "id": "eccentric-anomaly",
+  "name": "Eccentric anomaly",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "eccentric",
+    "anomaly"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

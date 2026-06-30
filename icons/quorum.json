@@ -1,0 +1,11 @@
+{
+  "id": "quorum",
+  "name": "quorum",
+  "category": "American Politics",
+  "tags": [
+    "quorum"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

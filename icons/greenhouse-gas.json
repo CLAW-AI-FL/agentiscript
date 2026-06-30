@@ -1,0 +1,12 @@
+{
+  "id": "greenhouse-gas",
+  "name": "greenhouse gas",
+  "category": "Climate Change",
+  "tags": [
+    "greenhouse",
+    "gas"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

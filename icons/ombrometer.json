@@ -1,0 +1,11 @@
+{
+  "id": "ombrometer",
+  "name": "ombrometer",
+  "category": "Meteorology",
+  "tags": [
+    "ombrometer"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

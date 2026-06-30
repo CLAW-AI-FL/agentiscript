@@ -1,0 +1,13 @@
+{
+  "id": "control-systems-engineering",
+  "name": "control systems engineering",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "control",
+    "systems",
+    "engineering"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

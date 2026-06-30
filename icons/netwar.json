@@ -1,0 +1,11 @@
+{
+  "id": "netwar",
+  "name": "Netwar",
+  "category": "Political Theory",
+  "tags": [
+    "netwar"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

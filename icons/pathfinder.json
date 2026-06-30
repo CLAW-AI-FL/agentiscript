@@ -1,0 +1,11 @@
+{
+  "id": "pathfinder",
+  "name": "Pathfinder",
+  "category": "Library and Information Science",
+  "tags": [
+    "pathfinder"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

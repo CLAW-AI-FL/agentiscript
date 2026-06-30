@@ -1,0 +1,13 @@
+{
+  "id": "give-away-shop",
+  "name": "Give-away shop",
+  "category": "Political Theory",
+  "tags": [
+    "give",
+    "away",
+    "shop"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

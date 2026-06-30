@@ -1,0 +1,12 @@
+{
+  "id": "time-limit",
+  "name": "Time limit",
+  "category": "Project Management",
+  "tags": [
+    "time",
+    "limit"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "empennage",
+  "name": "Empennage",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "empennage"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

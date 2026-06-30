@@ -1,0 +1,12 @@
+{
+  "id": "weight-function",
+  "name": "Weight function",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "weight",
+    "function"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

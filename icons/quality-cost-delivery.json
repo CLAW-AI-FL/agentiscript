@@ -1,0 +1,13 @@
+{
+  "id": "quality-cost-delivery",
+  "name": "Quality, cost, delivery",
+  "category": "Project Management",
+  "tags": [
+    "quality",
+    "cost",
+    "delivery"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

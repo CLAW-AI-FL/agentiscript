@@ -1,0 +1,12 @@
+{
+  "id": "cytopathogenic-effect",
+  "name": "cytopathogenic effect",
+  "category": "Virology",
+  "tags": [
+    "cytopathogenic",
+    "effect"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

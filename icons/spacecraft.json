@@ -1,0 +1,11 @@
+{
+  "id": "spacecraft",
+  "name": "Spacecraft",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "spacecraft"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

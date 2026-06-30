@@ -1,0 +1,12 @@
+{
+  "id": "act-of-congress",
+  "name": "Act of Congress",
+  "category": "American Politics",
+  "tags": [
+    "act",
+    "congress"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

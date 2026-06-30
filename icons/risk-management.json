@@ -1,0 +1,12 @@
+{
+  "id": "risk-management",
+  "name": "Risk management",
+  "category": "Project Management",
+  "tags": [
+    "risk",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

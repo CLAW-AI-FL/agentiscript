@@ -1,0 +1,11 @@
+{
+  "id": "or-simply-a",
+  "name": "or simply a",
+  "category": "Agriculture",
+  "tags": [
+    "simply"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

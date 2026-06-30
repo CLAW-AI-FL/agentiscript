@@ -1,0 +1,12 @@
+{
+  "id": "cap-snatching",
+  "name": "cap snatching",
+  "category": "Virology",
+  "tags": [
+    "cap",
+    "snatching"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

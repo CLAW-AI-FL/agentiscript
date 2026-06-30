@@ -1,0 +1,12 @@
+{
+  "id": "surface-of-revolution",
+  "name": "Surface of revolution",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "surface",
+    "revolution"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

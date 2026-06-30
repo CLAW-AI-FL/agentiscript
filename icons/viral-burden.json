@@ -1,0 +1,12 @@
+{
+  "id": "viral-burden",
+  "name": "viral burden",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "burden"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

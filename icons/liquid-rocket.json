@@ -1,0 +1,12 @@
+{
+  "id": "liquid-rocket",
+  "name": "liquid rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "liquid",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

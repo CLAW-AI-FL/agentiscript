@@ -1,0 +1,11 @@
+{
+  "id": "avionics",
+  "name": "Avionics",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "avionics"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "slow-virus",
+  "name": "slow virus",
+  "category": "Virology",
+  "tags": [
+    "slow",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

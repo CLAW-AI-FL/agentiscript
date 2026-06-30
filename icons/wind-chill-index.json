@@ -1,0 +1,13 @@
+{
+  "id": "wind-chill-index",
+  "name": "wind chill index",
+  "category": "Meteorology",
+  "tags": [
+    "wind",
+    "chill",
+    "index"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

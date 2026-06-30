@@ -1,0 +1,12 @@
+{
+  "id": "tissue-tropism",
+  "name": "tissue tropism",
+  "category": "Virology",
+  "tags": [
+    "tissue",
+    "tropism"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

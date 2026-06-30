@@ -1,0 +1,11 @@
+{
+  "id": "prince2",
+  "name": "PRINCE2",
+  "category": "Project Management",
+  "tags": [
+    "prince2"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

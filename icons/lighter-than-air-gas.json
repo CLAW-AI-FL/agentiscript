@@ -1,0 +1,14 @@
+{
+  "id": "lighter-than-air-gas",
+  "name": "lighter than air gas",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "lighter",
+    "than",
+    "air",
+    "gas"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

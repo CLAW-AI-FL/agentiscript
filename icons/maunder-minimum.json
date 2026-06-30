@@ -1,0 +1,12 @@
+{
+  "id": "maunder-minimum",
+  "name": "Maunder Minimum",
+  "category": "Climate Change",
+  "tags": [
+    "maunder",
+    "minimum"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

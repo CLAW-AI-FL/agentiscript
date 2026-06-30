@@ -1,0 +1,12 @@
+{
+  "id": "acid-rock",
+  "name": "Acid rock",
+  "category": "Geology",
+  "tags": [
+    "acid",
+    "rock"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

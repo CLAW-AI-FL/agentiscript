@@ -1,0 +1,12 @@
+{
+  "id": "test-target",
+  "name": "Test target",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "test",
+    "target"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

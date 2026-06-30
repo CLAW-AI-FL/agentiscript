@@ -1,0 +1,11 @@
+{
+  "id": "stakeholder",
+  "name": "Stakeholder",
+  "category": "Project Management",
+  "tags": [
+    "stakeholder"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

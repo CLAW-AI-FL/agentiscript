@@ -1,0 +1,11 @@
+{
+  "id": "conditioning",
+  "name": "conditioning",
+  "category": "Agriculture",
+  "tags": [
+    "conditioning"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

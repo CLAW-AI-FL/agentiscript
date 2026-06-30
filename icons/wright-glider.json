@@ -1,0 +1,12 @@
+{
+  "id": "wright-glider",
+  "name": "Wright Glider",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "wright",
+    "glider"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

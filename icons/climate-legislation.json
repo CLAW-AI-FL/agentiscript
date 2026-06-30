@@ -1,0 +1,12 @@
+{
+  "id": "climate-legislation",
+  "name": "climate legislation",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "legislation"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

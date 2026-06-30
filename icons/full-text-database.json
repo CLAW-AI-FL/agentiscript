@@ -1,0 +1,13 @@
+{
+  "id": "full-text-database",
+  "name": "Full text database",
+  "category": "Library and Information Science",
+  "tags": [
+    "full",
+    "text",
+    "database"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

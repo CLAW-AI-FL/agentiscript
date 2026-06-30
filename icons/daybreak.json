@@ -1,0 +1,11 @@
+{
+  "id": "daybreak",
+  "name": "daybreak",
+  "category": "Meteorology",
+  "tags": [
+    "daybreak"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

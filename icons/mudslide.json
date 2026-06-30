@@ -1,0 +1,11 @@
+{
+  "id": "mudslide",
+  "name": "mudslide",
+  "category": "Meteorology",
+  "tags": [
+    "mudslide"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

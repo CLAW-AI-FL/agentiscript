@@ -1,0 +1,12 @@
+{
+  "id": "library-classification",
+  "name": "Library classification",
+  "category": "Library and Information Science",
+  "tags": [
+    "library",
+    "classification"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

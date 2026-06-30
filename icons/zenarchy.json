@@ -1,0 +1,11 @@
+{
+  "id": "zenarchy",
+  "name": "Zenarchy",
+  "category": "Political Theory",
+  "tags": [
+    "zenarchy"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "flange",
+  "name": "Flange",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "flange"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

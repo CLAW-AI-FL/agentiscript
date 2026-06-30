@@ -1,0 +1,12 @@
+{
+  "id": "enrolled-bill",
+  "name": "enrolled bill",
+  "category": "American Politics",
+  "tags": [
+    "enrolled",
+    "bill"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

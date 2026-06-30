@@ -1,0 +1,12 @@
+{
+  "id": "digital-datcom",
+  "name": "Digital Datcom",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "digital",
+    "datcom"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

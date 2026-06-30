@@ -1,0 +1,12 @@
+{
+  "id": "duration-of-leaves",
+  "name": "Duration of leaves",
+  "category": "Plant Morphology",
+  "tags": [
+    "duration",
+    "leaves"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

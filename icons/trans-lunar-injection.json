@@ -1,0 +1,13 @@
+{
+  "id": "trans-lunar-injection",
+  "name": "Trans Lunar Injection",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "trans",
+    "lunar",
+    "injection"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

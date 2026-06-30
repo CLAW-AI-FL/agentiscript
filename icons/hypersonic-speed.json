@@ -1,0 +1,12 @@
+{
+  "id": "hypersonic-speed",
+  "name": "Hypersonic speed",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "hypersonic",
+    "speed"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

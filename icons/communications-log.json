@@ -1,0 +1,12 @@
+{
+  "id": "communications-log",
+  "name": "Communications log",
+  "category": "Project Management",
+  "tags": [
+    "communications",
+    "log"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

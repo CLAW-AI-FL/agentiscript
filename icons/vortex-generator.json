@@ -1,0 +1,12 @@
+{
+  "id": "vortex-generator",
+  "name": "Vortex generator",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "vortex",
+    "generator"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

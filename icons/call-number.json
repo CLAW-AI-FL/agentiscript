@@ -1,0 +1,12 @@
+{
+  "id": "call-number",
+  "name": "Call number",
+  "category": "Library and Information Science",
+  "tags": [
+    "call",
+    "number"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

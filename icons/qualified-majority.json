@@ -1,0 +1,12 @@
+{
+  "id": "qualified-majority",
+  "name": "qualified majority",
+  "category": "American Politics",
+  "tags": [
+    "qualified",
+    "majority"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

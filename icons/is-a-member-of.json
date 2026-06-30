@@ -1,0 +1,11 @@
+{
+  "id": "is-a-member-of",
+  "name": "is a member of",
+  "category": "Logic",
+  "tags": [
+    "member"
+  ],
+  "source": "philosophy",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "angular-mass",
+  "name": "angular mass",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "angular",
+    "mass"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

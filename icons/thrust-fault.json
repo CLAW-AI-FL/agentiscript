@@ -1,0 +1,12 @@
+{
+  "id": "thrust-fault",
+  "name": "thrust fault",
+  "category": "Geology",
+  "tags": [
+    "thrust",
+    "fault"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

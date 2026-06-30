@@ -1,0 +1,12 @@
+{
+  "id": "rocket-engine",
+  "name": "Rocket engine",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "rocket",
+    "engine"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

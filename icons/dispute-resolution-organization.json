@@ -1,0 +1,13 @@
+{
+  "id": "dispute-resolution-organization",
+  "name": "Dispute resolution organization",
+  "category": "Political Theory",
+  "tags": [
+    "dispute",
+    "resolution",
+    "organization"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

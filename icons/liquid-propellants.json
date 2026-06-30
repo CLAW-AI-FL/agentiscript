@@ -1,0 +1,12 @@
+{
+  "id": "liquid-propellants",
+  "name": "liquid propellants",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "liquid",
+    "propellants"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

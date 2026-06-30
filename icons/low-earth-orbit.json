@@ -1,0 +1,13 @@
+{
+  "id": "low-earth-orbit",
+  "name": "Low Earth orbit",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "low",
+    "earth",
+    "orbit"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

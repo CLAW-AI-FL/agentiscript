@@ -1,0 +1,12 @@
+{
+  "id": "kessler-effect",
+  "name": "Kessler effect",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "kessler",
+    "effect"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

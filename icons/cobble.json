@@ -1,0 +1,11 @@
+{
+  "id": "cobble",
+  "name": "cobble",
+  "category": "Geology",
+  "tags": [
+    "cobble"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

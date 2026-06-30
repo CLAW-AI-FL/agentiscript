@@ -1,0 +1,12 @@
+{
+  "id": "soil-compaction",
+  "name": "soil compaction",
+  "category": "Agriculture",
+  "tags": [
+    "soil",
+    "compaction"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

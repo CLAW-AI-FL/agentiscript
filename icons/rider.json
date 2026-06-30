@@ -1,0 +1,11 @@
+{
+  "id": "rider",
+  "name": "rider",
+  "category": "American Politics",
+  "tags": [
+    "rider"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

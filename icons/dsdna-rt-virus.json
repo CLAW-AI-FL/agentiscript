@@ -1,0 +1,12 @@
+{
+  "id": "dsdna-rt-virus",
+  "name": "dsDNA-RT virus",
+  "category": "Virology",
+  "tags": [
+    "dsdna",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

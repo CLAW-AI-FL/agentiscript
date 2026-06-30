@@ -1,0 +1,11 @@
+{
+  "id": "researchscholarly",
+  "name": "Research|Scholarly",
+  "category": "Library and Information Science",
+  "tags": [
+    "researchscholarly"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "upper-critical-mach-number",
+  "name": "upper critical Mach number",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "upper",
+    "critical",
+    "mach",
+    "number"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

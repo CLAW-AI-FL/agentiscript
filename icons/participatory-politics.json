@@ -1,0 +1,12 @@
+{
+  "id": "participatory-politics",
+  "name": "Participatory politics",
+  "category": "Political Theory",
+  "tags": [
+    "participatory",
+    "politics"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

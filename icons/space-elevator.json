@@ -1,0 +1,12 @@
+{
+  "id": "space-elevator",
+  "name": "Space elevator",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "space",
+    "elevator"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

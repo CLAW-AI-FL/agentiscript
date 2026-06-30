@@ -1,0 +1,12 @@
+{
+  "id": "spacecraft-design",
+  "name": "Spacecraft design",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "spacecraft",
+    "design"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

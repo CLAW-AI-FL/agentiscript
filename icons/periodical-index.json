@@ -1,0 +1,12 @@
+{
+  "id": "periodical-index",
+  "name": "Periodical index",
+  "category": "Library and Information Science",
+  "tags": [
+    "periodical",
+    "index"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

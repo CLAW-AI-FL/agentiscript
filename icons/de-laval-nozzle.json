@@ -1,0 +1,12 @@
+{
+  "id": "de-laval-nozzle",
+  "name": "De Laval nozzle",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "laval",
+    "nozzle"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

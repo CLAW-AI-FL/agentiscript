@@ -1,0 +1,11 @@
+{
+  "id": "hierarchy",
+  "name": "Hierarchy",
+  "category": "Political Theory",
+  "tags": [
+    "hierarchy"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

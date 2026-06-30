@@ -1,0 +1,12 @@
+{
+  "id": "host-tropism",
+  "name": "host tropism",
+  "category": "Virology",
+  "tags": [
+    "host",
+    "tropism"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

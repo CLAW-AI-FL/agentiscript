@@ -1,0 +1,11 @@
+{
+  "id": "shield",
+  "name": "Shield",
+  "category": "Geology",
+  "tags": [
+    "shield"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

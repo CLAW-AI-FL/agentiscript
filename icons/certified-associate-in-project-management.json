@@ -1,0 +1,14 @@
+{
+  "id": "certified-associate-in-project-management",
+  "name": "Certified Associate in Project Management",
+  "category": "Project Management",
+  "tags": [
+    "certified",
+    "associate",
+    "project",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

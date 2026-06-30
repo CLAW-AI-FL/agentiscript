@@ -1,0 +1,12 @@
+{
+  "id": "constructability-review",
+  "name": "Constructability review",
+  "category": "Project Management",
+  "tags": [
+    "constructability",
+    "review"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

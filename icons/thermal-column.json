@@ -1,0 +1,12 @@
+{
+  "id": "thermal-column",
+  "name": "thermal column",
+  "category": "Meteorology",
+  "tags": [
+    "thermal",
+    "column"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

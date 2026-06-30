@@ -1,0 +1,13 @@
+{
+  "id": "air-augmented-rocket",
+  "name": "Air-augmented rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "air",
+    "augmented",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

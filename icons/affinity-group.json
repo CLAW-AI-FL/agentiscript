@@ -1,0 +1,12 @@
+{
+  "id": "affinity-group",
+  "name": "Affinity group",
+  "category": "Political Theory",
+  "tags": [
+    "affinity",
+    "group"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

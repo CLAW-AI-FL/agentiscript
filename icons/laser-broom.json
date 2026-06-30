@@ -1,0 +1,12 @@
+{
+  "id": "laser-broom",
+  "name": "Laser broom",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "laser",
+    "broom"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

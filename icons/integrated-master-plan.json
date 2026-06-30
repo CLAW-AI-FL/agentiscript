@@ -1,0 +1,13 @@
+{
+  "id": "integrated-master-plan",
+  "name": "Integrated Master Plan",
+  "category": "Project Management",
+  "tags": [
+    "integrated",
+    "master",
+    "plan"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

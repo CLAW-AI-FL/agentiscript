@@ -1,0 +1,12 @@
+{
+  "id": "unfunded-mandate",
+  "name": "unfunded mandate",
+  "category": "American Politics",
+  "tags": [
+    "unfunded",
+    "mandate"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

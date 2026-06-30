@@ -1,0 +1,11 @@
+{
+  "id": "twister",
+  "name": "twister",
+  "category": "Meteorology",
+  "tags": [
+    "twister"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "polar-air-depression",
+  "name": "polar-air depression",
+  "category": "Meteorology",
+  "tags": [
+    "polar",
+    "air",
+    "depression"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

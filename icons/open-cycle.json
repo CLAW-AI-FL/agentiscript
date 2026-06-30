@@ -1,0 +1,12 @@
+{
+  "id": "open-cycle",
+  "name": "open cycle",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "open",
+    "cycle"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

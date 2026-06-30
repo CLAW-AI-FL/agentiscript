@@ -1,0 +1,14 @@
+{
+  "id": "north-atlantic-deep-water",
+  "name": "North Atlantic Deep Water",
+  "category": "Climate Change",
+  "tags": [
+    "north",
+    "atlantic",
+    "deep",
+    "water"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

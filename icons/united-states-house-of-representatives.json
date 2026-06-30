@@ -1,0 +1,14 @@
+{
+  "id": "united-states-house-of-representatives",
+  "name": "United States House of Representatives",
+  "category": "American Politics",
+  "tags": [
+    "united",
+    "states",
+    "house",
+    "representatives"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

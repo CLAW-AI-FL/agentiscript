@@ -1,0 +1,13 @@
+{
+  "id": "climate-change-mitigation",
+  "name": "climate change mitigation",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "change",
+    "mitigation"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

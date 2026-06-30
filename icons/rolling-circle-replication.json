@@ -1,0 +1,13 @@
+{
+  "id": "rolling-circle-replication",
+  "name": "rolling circle replication",
+  "category": "Virology",
+  "tags": [
+    "rolling",
+    "circle",
+    "replication"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bunker-fuels",
+  "name": "Bunker fuels",
+  "category": "Climate Change",
+  "tags": [
+    "bunker",
+    "fuels"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lysogenic-cycle",
+  "name": "lysogenic cycle",
+  "category": "Virology",
+  "tags": [
+    "lysogenic",
+    "cycle"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

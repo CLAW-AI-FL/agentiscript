@@ -1,0 +1,12 @@
+{
+  "id": "rotational-momentum",
+  "name": "rotational momentum",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "rotational",
+    "momentum"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

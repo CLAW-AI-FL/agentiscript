@@ -1,0 +1,12 @@
+{
+  "id": "resource-leveling",
+  "name": "Resource leveling",
+  "category": "Project Management",
+  "tags": [
+    "resource",
+    "leveling"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

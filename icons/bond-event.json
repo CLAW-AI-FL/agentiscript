@@ -1,0 +1,12 @@
+{
+  "id": "bond-event",
+  "name": "Bond event",
+  "category": "Climate Change",
+  "tags": [
+    "bond",
+    "event"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "organization-development",
+  "name": "Organization development",
+  "category": "Project Management",
+  "tags": [
+    "organization",
+    "development"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "red-adaptation-goggles",
+  "name": "red adaptation goggles",
+  "category": "Meteorology",
+  "tags": [
+    "red",
+    "adaptation",
+    "goggles"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

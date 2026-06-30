@@ -1,0 +1,13 @@
+{
+  "id": "global-warming-potential",
+  "name": "global warming potential",
+  "category": "Climate Change",
+  "tags": [
+    "global",
+    "warming",
+    "potential"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

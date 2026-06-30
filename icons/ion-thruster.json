@@ -1,0 +1,12 @@
+{
+  "id": "ion-thruster",
+  "name": "Ion thruster",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "ion",
+    "thruster"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

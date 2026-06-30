@@ -1,0 +1,13 @@
+{
+  "id": "hall-effect-thruster",
+  "name": "Hall effect thruster",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "hall",
+    "effect",
+    "thruster"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "blyttsernander-system",
+  "name": "Blytt\u2013Sernander system",
+  "category": "Climate Change",
+  "tags": [
+    "blyttsernander",
+    "system"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

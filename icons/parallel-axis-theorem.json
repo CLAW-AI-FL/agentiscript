@@ -1,0 +1,13 @@
+{
+  "id": "parallel-axis-theorem",
+  "name": "Parallel axis theorem",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "parallel",
+    "axis",
+    "theorem"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

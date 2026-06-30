@@ -1,0 +1,12 @@
+{
+  "id": "bourse-du-travail",
+  "name": "Bourse du Travail",
+  "category": "Political Theory",
+  "tags": [
+    "bourse",
+    "travail"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

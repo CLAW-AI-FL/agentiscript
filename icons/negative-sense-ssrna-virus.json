@@ -1,0 +1,14 @@
+{
+  "id": "negative-sense-ssrna-virus",
+  "name": "negative-sense ssRNA virus",
+  "category": "Virology",
+  "tags": [
+    "negative",
+    "sense",
+    "ssrna",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

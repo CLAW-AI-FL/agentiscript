@@ -1,0 +1,12 @@
+{
+  "id": "eigenvector-slew",
+  "name": "Eigenvector slew",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "eigenvector",
+    "slew"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

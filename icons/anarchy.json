@@ -1,0 +1,11 @@
+{
+  "id": "anarchy",
+  "name": "Anarchy",
+  "category": "Political Theory",
+  "tags": [
+    "anarchy"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

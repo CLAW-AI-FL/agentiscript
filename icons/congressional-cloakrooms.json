@@ -1,0 +1,12 @@
+{
+  "id": "congressional-cloakrooms",
+  "name": "Congressional cloakrooms",
+  "category": "American Politics",
+  "tags": [
+    "congressional",
+    "cloakrooms"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

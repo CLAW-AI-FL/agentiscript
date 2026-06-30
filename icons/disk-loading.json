@@ -1,0 +1,12 @@
+{
+  "id": "disk-loading",
+  "name": "Disk loading",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "disk",
+    "loading"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

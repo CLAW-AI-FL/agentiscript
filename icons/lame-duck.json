@@ -1,0 +1,12 @@
+{
+  "id": "lame-duck",
+  "name": "lame duck",
+  "category": "American Politics",
+  "tags": [
+    "lame",
+    "duck"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

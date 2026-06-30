@@ -1,0 +1,12 @@
+{
+  "id": "extensive-farming",
+  "name": "extensive farming",
+  "category": "Agriculture",
+  "tags": [
+    "extensive",
+    "farming"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

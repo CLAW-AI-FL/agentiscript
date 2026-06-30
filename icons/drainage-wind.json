@@ -1,0 +1,12 @@
+{
+  "id": "drainage-wind",
+  "name": "drainage wind",
+  "category": "Meteorology",
+  "tags": [
+    "drainage",
+    "wind"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "compressor-map",
+  "name": "Compressor map",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "compressor",
+    "map"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

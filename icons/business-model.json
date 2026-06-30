@@ -1,0 +1,12 @@
+{
+  "id": "business-model",
+  "name": "Business model",
+  "category": "Project Management",
+  "tags": [
+    "business",
+    "model"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

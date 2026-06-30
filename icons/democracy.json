@@ -1,0 +1,11 @@
+{
+  "id": "democracy",
+  "name": "democracy",
+  "category": "American Politics",
+  "tags": [
+    "democracy"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

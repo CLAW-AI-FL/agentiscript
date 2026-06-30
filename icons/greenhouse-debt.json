@@ -1,0 +1,12 @@
+{
+  "id": "greenhouse-debt",
+  "name": "greenhouse debt",
+  "category": "Climate Change",
+  "tags": [
+    "greenhouse",
+    "debt"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

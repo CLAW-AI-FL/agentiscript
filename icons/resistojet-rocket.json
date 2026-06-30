@@ -1,0 +1,12 @@
+{
+  "id": "resistojet-rocket",
+  "name": "Resistojet rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "resistojet",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

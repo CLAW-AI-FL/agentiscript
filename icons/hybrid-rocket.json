@@ -1,0 +1,12 @@
+{
+  "id": "hybrid-rocket",
+  "name": "Hybrid rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "hybrid",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

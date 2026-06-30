@@ -1,0 +1,11 @@
+{
+  "id": "virucide",
+  "name": "virucide",
+  "category": "Virology",
+  "tags": [
+    "virucide"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

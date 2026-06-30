@@ -1,0 +1,12 @@
+{
+  "id": "monopropellant-rocket",
+  "name": "Monopropellant rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "monopropellant",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "propulsion",
+  "name": "Propulsion",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "propulsion"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

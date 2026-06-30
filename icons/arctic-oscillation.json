@@ -1,0 +1,12 @@
+{
+  "id": "arctic-oscillation",
+  "name": "Arctic oscillation",
+  "category": "Climate Change",
+  "tags": [
+    "arctic",
+    "oscillation"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

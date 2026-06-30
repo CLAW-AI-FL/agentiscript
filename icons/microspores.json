@@ -1,0 +1,11 @@
+{
+  "id": "microspores",
+  "name": "microspores",
+  "category": "Plant Morphology",
+  "tags": [
+    "microspores"
+  ],
+  "source": "life-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

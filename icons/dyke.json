@@ -1,0 +1,11 @@
+{
+  "id": "dyke",
+  "name": "dyke",
+  "category": "Geology",
+  "tags": [
+    "dyke"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

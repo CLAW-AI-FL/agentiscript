@@ -1,0 +1,13 @@
+{
+  "id": "total-air-temperature",
+  "name": "Total air temperature",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "total",
+    "air",
+    "temperature"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "anoxic-event",
+  "name": "anoxic event",
+  "category": "Climate Change",
+  "tags": [
+    "anoxic",
+    "event"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

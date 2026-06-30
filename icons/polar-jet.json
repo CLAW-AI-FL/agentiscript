@@ -1,0 +1,12 @@
+{
+  "id": "polar-jet",
+  "name": "polar jet",
+  "category": "Meteorology",
+  "tags": [
+    "polar",
+    "jet"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "standing-committee",
+  "name": "standing committee",
+  "category": "American Politics",
+  "tags": [
+    "standing",
+    "committee"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

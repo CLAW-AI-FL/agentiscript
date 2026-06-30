@@ -1,0 +1,13 @@
+{
+  "id": "newtonian-constant-of-gravitation",
+  "name": "Newtonian constant of gravitation",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "newtonian",
+    "constant",
+    "gravitation"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

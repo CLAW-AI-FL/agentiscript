@@ -1,0 +1,12 @@
+{
+  "id": "cyclonic-storm",
+  "name": "cyclonic storm",
+  "category": "Meteorology",
+  "tags": [
+    "cyclonic",
+    "storm"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

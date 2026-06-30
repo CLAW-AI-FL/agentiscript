@@ -1,0 +1,11 @@
+{
+  "id": "vug",
+  "name": "vug",
+  "category": "Geology",
+  "tags": [
+    "vug"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

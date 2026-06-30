@@ -1,0 +1,11 @@
+{
+  "id": "anarch",
+  "name": "Anarch",
+  "category": "Political Theory",
+  "tags": [
+    "anarch"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

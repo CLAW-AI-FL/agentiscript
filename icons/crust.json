@@ -1,0 +1,11 @@
+{
+  "id": "crust",
+  "name": "Crust",
+  "category": "Geology",
+  "tags": [
+    "crust"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

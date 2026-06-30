@@ -1,0 +1,11 @@
+{
+  "id": "hoe",
+  "name": "hoe",
+  "category": "Agriculture",
+  "tags": [
+    "hoe"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

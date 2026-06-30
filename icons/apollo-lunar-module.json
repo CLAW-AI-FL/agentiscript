@@ -1,0 +1,13 @@
+{
+  "id": "apollo-lunar-module",
+  "name": "Apollo Lunar Module",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "apollo",
+    "lunar",
+    "module"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

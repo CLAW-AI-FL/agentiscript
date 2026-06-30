@@ -1,0 +1,11 @@
+{
+  "id": "yearling",
+  "name": "yearling",
+  "category": "Agriculture",
+  "tags": [
+    "yearling"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

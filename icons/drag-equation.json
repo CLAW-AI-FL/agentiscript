@@ -1,0 +1,12 @@
+{
+  "id": "drag-equation",
+  "name": "Drag equation",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "drag",
+    "equation"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

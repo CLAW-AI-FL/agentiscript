@@ -1,0 +1,11 @@
+{
+  "id": "ambar",
+  "name": "ambar",
+  "category": "Agriculture",
+  "tags": [
+    "ambar"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

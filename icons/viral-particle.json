@@ -1,0 +1,12 @@
+{
+  "id": "viral-particle",
+  "name": "viral particle",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "particle"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

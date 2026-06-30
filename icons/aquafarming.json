@@ -1,0 +1,11 @@
+{
+  "id": "aquafarming",
+  "name": "aquafarming",
+  "category": "Agriculture",
+  "tags": [
+    "aquafarming"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

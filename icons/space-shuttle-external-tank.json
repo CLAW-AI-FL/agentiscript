@@ -1,0 +1,14 @@
+{
+  "id": "space-shuttle-external-tank",
+  "name": "Space Shuttle external tank",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "space",
+    "shuttle",
+    "external",
+    "tank"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

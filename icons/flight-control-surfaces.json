@@ -1,0 +1,13 @@
+{
+  "id": "flight-control-surfaces",
+  "name": "Flight control surfaces",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "flight",
+    "control",
+    "surfaces"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

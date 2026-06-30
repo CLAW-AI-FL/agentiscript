@@ -1,0 +1,12 @@
+{
+  "id": "gantt-chart",
+  "name": "Gantt chart",
+  "category": "Project Management",
+  "tags": [
+    "gantt",
+    "chart"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

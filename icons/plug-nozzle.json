@@ -1,0 +1,12 @@
+{
+  "id": "plug-nozzle",
+  "name": "Plug nozzle",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "plug",
+    "nozzle"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

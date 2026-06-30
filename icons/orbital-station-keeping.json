@@ -1,0 +1,13 @@
+{
+  "id": "orbital-station-keeping",
+  "name": "Orbital station-keeping",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "orbital",
+    "station",
+    "keeping"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

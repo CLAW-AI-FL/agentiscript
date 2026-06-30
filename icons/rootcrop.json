@@ -1,0 +1,11 @@
+{
+  "id": "rootcrop",
+  "name": "rootcrop",
+  "category": "Agriculture",
+  "tags": [
+    "rootcrop"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

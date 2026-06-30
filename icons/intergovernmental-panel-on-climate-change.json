@@ -1,0 +1,14 @@
+{
+  "id": "intergovernmental-panel-on-climate-change",
+  "name": "Intergovernmental Panel on Climate Change",
+  "category": "Climate Change",
+  "tags": [
+    "intergovernmental",
+    "panel",
+    "climate",
+    "change"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

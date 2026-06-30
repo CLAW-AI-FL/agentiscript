@@ -1,0 +1,11 @@
+{
+  "id": "neurovirology",
+  "name": "neurovirology",
+  "category": "Virology",
+  "tags": [
+    "neurovirology"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

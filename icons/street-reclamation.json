@@ -1,0 +1,12 @@
+{
+  "id": "street-reclamation",
+  "name": "Street reclamation",
+  "category": "Political Theory",
+  "tags": [
+    "street",
+    "reclamation"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rate-of-climb",
+  "name": "Rate of climb",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "rate",
+    "climb"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

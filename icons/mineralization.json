@@ -1,0 +1,11 @@
+{
+  "id": "mineralization",
+  "name": "Mineralization",
+  "category": "Geology",
+  "tags": [
+    "mineralization"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

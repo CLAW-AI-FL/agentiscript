@@ -1,0 +1,12 @@
+{
+  "id": "eccentricity-vector",
+  "name": "Eccentricity vector",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "eccentricity",
+    "vector"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

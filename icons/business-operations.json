@@ -1,0 +1,12 @@
+{
+  "id": "business-operations",
+  "name": "Business operations",
+  "category": "Project Management",
+  "tags": [
+    "business",
+    "operations"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

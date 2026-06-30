@@ -1,0 +1,12 @@
+{
+  "id": "mutual-aid",
+  "name": "Mutual aid",
+  "category": "Political Theory",
+  "tags": [
+    "mutual",
+    "aid"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

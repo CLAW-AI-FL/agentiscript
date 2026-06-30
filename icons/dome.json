@@ -1,0 +1,11 @@
+{
+  "id": "dome",
+  "name": "Dome",
+  "category": "Geology",
+  "tags": [
+    "dome"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

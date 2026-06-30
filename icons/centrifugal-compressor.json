@@ -1,0 +1,12 @@
+{
+  "id": "centrifugal-compressor",
+  "name": "Centrifugal compressor",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "centrifugal",
+    "compressor"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

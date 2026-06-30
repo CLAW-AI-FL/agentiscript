@@ -1,0 +1,12 @@
+{
+  "id": "systems-engineering",
+  "name": "Systems engineering",
+  "category": "Project Management",
+  "tags": [
+    "systems",
+    "engineering"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

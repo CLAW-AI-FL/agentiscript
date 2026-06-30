@@ -1,0 +1,12 @@
+{
+  "id": "solar-variation",
+  "name": "solar variation",
+  "category": "Climate Change",
+  "tags": [
+    "solar",
+    "variation"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

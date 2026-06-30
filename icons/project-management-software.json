@@ -1,0 +1,13 @@
+{
+  "id": "project-management-software",
+  "name": "Project management software",
+  "category": "Project Management",
+  "tags": [
+    "project",
+    "management",
+    "software"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

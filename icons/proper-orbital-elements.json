@@ -1,0 +1,13 @@
+{
+  "id": "proper-orbital-elements",
+  "name": "Proper orbital elements",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "proper",
+    "orbital",
+    "elements"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

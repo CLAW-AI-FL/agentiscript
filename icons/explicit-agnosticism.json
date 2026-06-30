@@ -1,0 +1,12 @@
+{
+  "id": "explicit-agnosticism",
+  "name": "explicit agnosticism",
+  "category": "Philosophy",
+  "tags": [
+    "explicit",
+    "agnosticism"
+  ],
+  "source": "philosophy",
+  "version": "2.3",
+  "license": "CC0"
+}

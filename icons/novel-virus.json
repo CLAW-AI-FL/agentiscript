@@ -1,0 +1,12 @@
+{
+  "id": "novel-virus",
+  "name": "novel virus",
+  "category": "Virology",
+  "tags": [
+    "novel",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

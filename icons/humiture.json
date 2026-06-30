@@ -1,0 +1,11 @@
+{
+  "id": "humiture",
+  "name": "humiture",
+  "category": "Meteorology",
+  "tags": [
+    "humiture"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

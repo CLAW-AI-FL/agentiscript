@@ -1,0 +1,12 @@
+{
+  "id": "business-process",
+  "name": "Business process",
+  "category": "Project Management",
+  "tags": [
+    "business",
+    "process"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

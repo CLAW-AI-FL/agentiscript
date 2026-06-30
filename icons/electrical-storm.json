@@ -1,0 +1,12 @@
+{
+  "id": "electrical-storm",
+  "name": "electrical storm",
+  "category": "Meteorology",
+  "tags": [
+    "electrical",
+    "storm"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

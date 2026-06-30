@@ -1,0 +1,12 @@
+{
+  "id": "bibliographic-database",
+  "name": "Bibliographic database",
+  "category": "Library and Information Science",
+  "tags": [
+    "bibliographic",
+    "database"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

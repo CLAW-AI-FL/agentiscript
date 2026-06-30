@@ -1,0 +1,13 @@
+{
+  "id": "constant-speed-drive",
+  "name": "Constant speed drive",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "constant",
+    "speed",
+    "drive"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "climate-commitment",
+  "name": "climate commitment",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "commitment"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

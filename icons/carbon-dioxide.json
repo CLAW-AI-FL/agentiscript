@@ -1,0 +1,12 @@
+{
+  "id": "carbon-dioxide",
+  "name": "carbon dioxide",
+  "category": "Climate Change",
+  "tags": [
+    "carbon",
+    "dioxide"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "triangulation-number",
+  "name": "triangulation number",
+  "category": "Virology",
+  "tags": [
+    "triangulation",
+    "number"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

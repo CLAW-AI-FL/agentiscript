@@ -1,0 +1,12 @@
+{
+  "id": "value-engineering",
+  "name": "Value engineering",
+  "category": "Project Management",
+  "tags": [
+    "value",
+    "engineering"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

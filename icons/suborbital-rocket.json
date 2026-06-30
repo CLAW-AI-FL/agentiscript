@@ -1,0 +1,12 @@
+{
+  "id": "suborbital-rocket",
+  "name": "suborbital rocket",
+  "category": "Meteorology",
+  "tags": [
+    "suborbital",
+    "rocket"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

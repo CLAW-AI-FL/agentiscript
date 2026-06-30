@@ -1,0 +1,12 @@
+{
+  "id": "climate-movement",
+  "name": "climate movement",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "movement"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "zine-library",
+  "name": "Zine library",
+  "category": "Political Theory",
+  "tags": [
+    "zine",
+    "library"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

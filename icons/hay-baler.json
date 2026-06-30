@@ -1,0 +1,12 @@
+{
+  "id": "hay-baler",
+  "name": "hay baler",
+  "category": "Agriculture",
+  "tags": [
+    "hay",
+    "baler"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

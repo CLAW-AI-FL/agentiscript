@@ -1,0 +1,12 @@
+{
+  "id": "spontaneous-order",
+  "name": "Spontaneous order",
+  "category": "Political Theory",
+  "tags": [
+    "spontaneous",
+    "order"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

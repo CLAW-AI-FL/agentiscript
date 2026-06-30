@@ -1,0 +1,11 @@
+{
+  "id": "ansoc",
+  "name": "Ansoc",
+  "category": "Political Theory",
+  "tags": [
+    "ansoc"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

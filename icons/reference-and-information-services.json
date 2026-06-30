@@ -1,0 +1,14 @@
+{
+  "id": "reference-and-information-services",
+  "name": "reference and information services",
+  "category": "Library and Information Science",
+  "tags": [
+    "reference",
+    "and",
+    "information",
+    "services"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

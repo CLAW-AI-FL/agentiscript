@@ -1,0 +1,12 @@
+{
+  "id": "security-culture",
+  "name": "Security culture",
+  "category": "Political Theory",
+  "tags": [
+    "security",
+    "culture"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

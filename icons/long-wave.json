@@ -1,0 +1,12 @@
+{
+  "id": "long-wave",
+  "name": "long wave",
+  "category": "Meteorology",
+  "tags": [
+    "long",
+    "wave"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

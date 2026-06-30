@@ -1,0 +1,12 @@
+{
+  "id": "aerospace-architecture",
+  "name": "Aerospace architecture",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "aerospace",
+    "architecture"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pitch-angle",
+  "name": "Pitch Angle",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "pitch",
+    "angle"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

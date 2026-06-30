@@ -1,0 +1,13 @@
+{
+  "id": "common-sense-realism",
+  "name": "common sense realism",
+  "category": "Philosophy",
+  "tags": [
+    "common",
+    "sense",
+    "realism"
+  ],
+  "source": "philosophy",
+  "version": "2.3",
+  "license": "CC0"
+}

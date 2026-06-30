@@ -1,0 +1,12 @@
+{
+  "id": "green-season",
+  "name": "green season",
+  "category": "Meteorology",
+  "tags": [
+    "green",
+    "season"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

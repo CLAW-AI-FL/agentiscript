@@ -1,0 +1,13 @@
+{
+  "id": "event-chain-diagram",
+  "name": "Event chain diagram",
+  "category": "Project Management",
+  "tags": [
+    "event",
+    "chain",
+    "diagram"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "climate-variability",
+  "name": "climate variability",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "variability"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

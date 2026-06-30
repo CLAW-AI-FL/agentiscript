@@ -1,0 +1,13 @@
+{
+  "id": "staged-combustion-cycle",
+  "name": "Staged combustion cycle",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "staged",
+    "combustion",
+    "cycle"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

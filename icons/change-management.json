@@ -1,0 +1,12 @@
+{
+  "id": "change-management",
+  "name": "Change management",
+  "category": "Project Management",
+  "tags": [
+    "change",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pre-mortem",
+  "name": "Pre-mortem",
+  "category": "Project Management",
+  "tags": [
+    "pre",
+    "mortem"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

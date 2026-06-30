@@ -1,0 +1,12 @@
+{
+  "id": "monochemical-rocket",
+  "name": "monochemical rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "monochemical",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

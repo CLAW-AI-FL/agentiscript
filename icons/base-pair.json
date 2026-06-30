@@ -1,0 +1,12 @@
+{
+  "id": "base-pair",
+  "name": "base pair",
+  "category": "Virology",
+  "tags": [
+    "base",
+    "pair"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

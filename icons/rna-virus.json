@@ -1,0 +1,12 @@
+{
+  "id": "rna-virus",
+  "name": "RNA virus",
+  "category": "Virology",
+  "tags": [
+    "rna",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

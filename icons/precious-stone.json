@@ -1,0 +1,12 @@
+{
+  "id": "precious-stone",
+  "name": "precious stone",
+  "category": "Geology",
+  "tags": [
+    "precious",
+    "stone"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

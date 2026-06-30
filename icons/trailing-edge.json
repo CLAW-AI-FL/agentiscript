@@ -1,0 +1,12 @@
+{
+  "id": "trailing-edge",
+  "name": "Trailing edge",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "trailing",
+    "edge"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

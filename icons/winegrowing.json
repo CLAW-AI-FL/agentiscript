@@ -1,0 +1,11 @@
+{
+  "id": "winegrowing",
+  "name": "winegrowing",
+  "category": "Agriculture",
+  "tags": [
+    "winegrowing"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

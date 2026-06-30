@@ -1,0 +1,11 @@
+{
+  "id": "paywall",
+  "name": "Paywall",
+  "category": "Library and Information Science",
+  "tags": [
+    "paywall"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

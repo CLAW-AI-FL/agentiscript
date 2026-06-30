@@ -1,0 +1,12 @@
+{
+  "id": "scientific-humanism",
+  "name": "scientific humanism",
+  "category": "Philosophy",
+  "tags": [
+    "scientific",
+    "humanism"
+  ],
+  "source": "philosophy",
+  "version": "2.3",
+  "license": "CC0"
+}

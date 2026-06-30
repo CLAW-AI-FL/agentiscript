@@ -1,0 +1,12 @@
+{
+  "id": "ablation-cascade",
+  "name": "ablation cascade",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "ablation",
+    "cascade"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

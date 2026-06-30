@@ -1,0 +1,11 @@
+{
+  "id": "floatstick",
+  "name": "Floatstick",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "floatstick"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

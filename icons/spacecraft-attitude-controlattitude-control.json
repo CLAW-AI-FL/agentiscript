@@ -1,0 +1,14 @@
+{
+  "id": "spacecraft-attitude-controlattitude-control",
+  "name": "Spacecraft attitude control|Attitude control",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "spacecraft",
+    "attitude",
+    "controlattitude",
+    "control"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

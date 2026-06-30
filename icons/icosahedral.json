@@ -1,0 +1,11 @@
+{
+  "id": "icosahedral",
+  "name": "icosahedral",
+  "category": "Virology",
+  "tags": [
+    "icosahedral"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

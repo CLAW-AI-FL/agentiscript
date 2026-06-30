@@ -1,0 +1,14 @@
+{
+  "id": "hyperbolic-partial-differential-equation",
+  "name": "Hyperbolic partial differential equation",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "hyperbolic",
+    "partial",
+    "differential",
+    "equation"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

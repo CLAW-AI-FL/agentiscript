@@ -1,0 +1,12 @@
+{
+  "id": "inclusion-body",
+  "name": "inclusion body",
+  "category": "Virology",
+  "tags": [
+    "inclusion",
+    "body"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

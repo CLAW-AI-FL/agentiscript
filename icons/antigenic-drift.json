@@ -1,0 +1,12 @@
+{
+  "id": "antigenic-drift",
+  "name": "antigenic drift",
+  "category": "Virology",
+  "tags": [
+    "antigenic",
+    "drift"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

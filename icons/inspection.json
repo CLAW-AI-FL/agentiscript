@@ -1,0 +1,11 @@
+{
+  "id": "inspection",
+  "name": "Inspection",
+  "category": "Medicine",
+  "tags": [
+    "inspection"
+  ],
+  "source": "medicine",
+  "version": "2.3",
+  "license": "CC0"
+}

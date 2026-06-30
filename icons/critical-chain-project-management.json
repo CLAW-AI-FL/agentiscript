@@ -1,0 +1,14 @@
+{
+  "id": "critical-chain-project-management",
+  "name": "Critical chain project management",
+  "category": "Project Management",
+  "tags": [
+    "critical",
+    "chain",
+    "project",
+    "management"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

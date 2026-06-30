@@ -1,0 +1,12 @@
+{
+  "id": "interplanetary-travel",
+  "name": "Interplanetary travel",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "interplanetary",
+    "travel"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

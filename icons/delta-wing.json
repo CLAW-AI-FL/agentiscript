@@ -1,0 +1,12 @@
+{
+  "id": "delta-wing",
+  "name": "Delta wing",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "delta",
+    "wing"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

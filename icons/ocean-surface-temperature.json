@@ -1,0 +1,13 @@
+{
+  "id": "ocean-surface-temperature",
+  "name": "ocean surface temperature",
+  "category": "Meteorology",
+  "tags": [
+    "ocean",
+    "surface",
+    "temperature"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

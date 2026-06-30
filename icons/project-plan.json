@@ -1,0 +1,12 @@
+{
+  "id": "project-plan",
+  "name": "Project plan",
+  "category": "Project Management",
+  "tags": [
+    "project",
+    "plan"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

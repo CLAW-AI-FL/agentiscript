@@ -1,0 +1,12 @@
+{
+  "id": "literature-search",
+  "name": "Literature search",
+  "category": "Library and Information Science",
+  "tags": [
+    "literature",
+    "search"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "kitchen-cabinet",
+  "name": "Kitchen Cabinet",
+  "category": "American Politics",
+  "tags": [
+    "kitchen",
+    "cabinet"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

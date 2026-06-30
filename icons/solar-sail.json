@@ -1,0 +1,12 @@
+{
+  "id": "solar-sail",
+  "name": "Solar sail",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "solar",
+    "sail"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

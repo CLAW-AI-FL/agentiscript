@@ -1,0 +1,12 @@
+{
+  "id": "viral-replication",
+  "name": "Viral replication",
+  "category": "Virology",
+  "tags": [
+    "viral",
+    "replication"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

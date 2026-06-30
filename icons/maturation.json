@@ -1,0 +1,11 @@
+{
+  "id": "maturation",
+  "name": "maturation",
+  "category": "Virology",
+  "tags": [
+    "maturation"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

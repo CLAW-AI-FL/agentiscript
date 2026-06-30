@@ -1,0 +1,12 @@
+{
+  "id": "modern-school",
+  "name": "Modern School",
+  "category": "Political Theory",
+  "tags": [
+    "modern",
+    "school"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

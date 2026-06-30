@@ -1,0 +1,12 @@
+{
+  "id": "community-analysis",
+  "name": "Community analysis",
+  "category": "Library and Information Science",
+  "tags": [
+    "community",
+    "analysis"
+  ],
+  "source": "library-info-science",
+  "version": "2.3",
+  "license": "CC0"
+}

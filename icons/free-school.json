@@ -1,0 +1,12 @@
+{
+  "id": "free-school",
+  "name": "Free school",
+  "category": "Political Theory",
+  "tags": [
+    "free",
+    "school"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

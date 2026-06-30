@@ -1,0 +1,11 @@
+{
+  "id": "virokine",
+  "name": "virokine",
+  "category": "Virology",
+  "tags": [
+    "virokine"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

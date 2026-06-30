@@ -1,0 +1,11 @@
+{
+  "id": "superinfection",
+  "name": "superinfection",
+  "category": "Virology",
+  "tags": [
+    "superinfection"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

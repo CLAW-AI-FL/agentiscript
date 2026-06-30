@@ -1,0 +1,11 @@
+{
+  "id": "insolation",
+  "name": "insolation",
+  "category": "Climate Change",
+  "tags": [
+    "insolation"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

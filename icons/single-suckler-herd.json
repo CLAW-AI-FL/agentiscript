@@ -1,0 +1,13 @@
+{
+  "id": "single-suckler-herd",
+  "name": "single-suckler herd",
+  "category": "Agriculture",
+  "tags": [
+    "single",
+    "suckler",
+    "herd"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

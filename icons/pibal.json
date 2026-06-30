@@ -1,0 +1,11 @@
+{
+  "id": "pibal",
+  "name": "pibal",
+  "category": "Meteorology",
+  "tags": [
+    "pibal"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

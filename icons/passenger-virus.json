@@ -1,0 +1,12 @@
+{
+  "id": "passenger-virus",
+  "name": "passenger virus",
+  "category": "Virology",
+  "tags": [
+    "passenger",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

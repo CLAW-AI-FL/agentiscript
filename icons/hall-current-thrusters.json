@@ -1,0 +1,13 @@
+{
+  "id": "hall-current-thrusters",
+  "name": "Hall-current thrusters",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "hall",
+    "current",
+    "thrusters"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

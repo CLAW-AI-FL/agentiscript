@@ -1,0 +1,11 @@
+{
+  "id": "urania",
+  "name": "urania",
+  "category": "Geology",
+  "tags": [
+    "urania"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dual-power",
+  "name": "Dual power",
+  "category": "Political Theory",
+  "tags": [
+    "dual",
+    "power"
+  ],
+  "source": "political-science",
+  "version": "2.3",
+  "license": "CC0"
+}

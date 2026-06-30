@@ -1,0 +1,12 @@
+{
+  "id": "sweep-theory",
+  "name": "Sweep theory",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "sweep",
+    "theory"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

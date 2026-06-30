@@ -1,0 +1,11 @@
+{
+  "id": "outplanting",
+  "name": "outplanting",
+  "category": "Agriculture",
+  "tags": [
+    "outplanting"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

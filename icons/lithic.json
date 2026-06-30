@@ -1,0 +1,11 @@
+{
+  "id": "lithic",
+  "name": "lithic",
+  "category": "Geology",
+  "tags": [
+    "lithic"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

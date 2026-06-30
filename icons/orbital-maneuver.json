@@ -1,0 +1,12 @@
+{
+  "id": "orbital-maneuver",
+  "name": "Orbital maneuver",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "orbital",
+    "maneuver"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

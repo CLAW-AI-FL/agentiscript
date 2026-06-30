@@ -1,0 +1,11 @@
+{
+  "id": "gemmology",
+  "name": "gemmology",
+  "category": "Geology",
+  "tags": [
+    "gemmology"
+  ],
+  "source": "earth-sciences",
+  "version": "2.3",
+  "license": "CC0"
+}

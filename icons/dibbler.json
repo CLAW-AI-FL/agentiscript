@@ -1,0 +1,11 @@
+{
+  "id": "dibbler",
+  "name": "dibbler",
+  "category": "Agriculture",
+  "tags": [
+    "dibbler"
+  ],
+  "source": "agriculture",
+  "version": "2.3",
+  "license": "CC0"
+}

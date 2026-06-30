@@ -1,0 +1,12 @@
+{
+  "id": "solid-of-revolution",
+  "name": "Solid of revolution",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "solid",
+    "revolution"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

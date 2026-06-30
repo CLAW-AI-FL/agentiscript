@@ -1,0 +1,11 @@
+{
+  "id": "duration",
+  "name": "Duration",
+  "category": "Project Management",
+  "tags": [
+    "duration"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

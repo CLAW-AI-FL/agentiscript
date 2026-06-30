@@ -1,0 +1,13 @@
+{
+  "id": "bay-effect-snow",
+  "name": "bay-effect snow",
+  "category": "Meteorology",
+  "tags": [
+    "bay",
+    "effect",
+    "snow"
+  ],
+  "source": "meteorology",
+  "version": "2.3",
+  "license": "CC0"
+}

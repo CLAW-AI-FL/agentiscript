@@ -1,0 +1,12 @@
+{
+  "id": "flexible-wing",
+  "name": "flexible wing",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "flexible",
+    "wing"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

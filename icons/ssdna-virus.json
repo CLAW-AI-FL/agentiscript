@@ -1,0 +1,12 @@
+{
+  "id": "ssdna-virus",
+  "name": "ssDNA virus",
+  "category": "Virology",
+  "tags": [
+    "ssdna",
+    "virus"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

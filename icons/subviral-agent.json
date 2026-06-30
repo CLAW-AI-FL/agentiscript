@@ -1,0 +1,12 @@
+{
+  "id": "subviral-agent",
+  "name": "subviral agent",
+  "category": "Virology",
+  "tags": [
+    "subviral",
+    "agent"
+  ],
+  "source": "virology",
+  "version": "2.3",
+  "license": "CC0"
+}

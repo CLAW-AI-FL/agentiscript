@@ -1,0 +1,13 @@
+{
+  "id": "climate-change-denial",
+  "name": "climate change denial",
+  "category": "Climate Change",
+  "tags": [
+    "climate",
+    "change",
+    "denial"
+  ],
+  "source": "climate-change",
+  "version": "2.3",
+  "license": "CC0"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "work-package",
+  "name": "Work package",
+  "category": "Project Management",
+  "tags": [
+    "work",
+    "package"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

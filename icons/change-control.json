@@ -1,0 +1,12 @@
+{
+  "id": "change-control",
+  "name": "Change control",
+  "category": "Project Management",
+  "tags": [
+    "change",
+    "control"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

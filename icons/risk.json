@@ -1,0 +1,11 @@
+{
+  "id": "risk",
+  "name": "Risk",
+  "category": "Project Management",
+  "tags": [
+    "risk"
+  ],
+  "source": "project-management",
+  "version": "2.3",
+  "license": "CC0"
+}

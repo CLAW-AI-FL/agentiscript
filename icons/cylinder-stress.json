@@ -1,0 +1,12 @@
+{
+  "id": "cylinder-stress",
+  "name": "Cylinder stress",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "cylinder",
+    "stress"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}

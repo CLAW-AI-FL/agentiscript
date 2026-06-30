@@ -1,0 +1,13 @@
+{
+  "id": "liquid-propellant-rocket",
+  "name": "Liquid-propellant rocket",
+  "category": "Aerospace Engineering",
+  "tags": [
+    "liquid",
+    "propellant",
+    "rocket"
+  ],
+  "source": "aerospace",
+  "version": "2.3",
+  "license": "CC0"
+}
