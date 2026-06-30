@@ -1,0 +1,11 @@
+{
+  "name": "machine-learning",
+  "label": "Machine Learning",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "machine",
+    "learning"
+  ],
+  "version": "1.3"
+}

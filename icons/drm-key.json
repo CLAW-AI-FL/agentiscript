@@ -1,0 +1,11 @@
+{
+  "name": "drm-key",
+  "label": "Drm Key",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "drm",
+    "key"
+  ],
+  "version": "1.3"
+}

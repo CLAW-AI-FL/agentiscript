@@ -1,0 +1,11 @@
+{
+  "name": "home-appliance",
+  "label": "Home Appliance",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "home",
+    "appliance"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "closed-loop-controller",
+  "label": "Closed Loop Controller",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "closed",
+    "loop",
+    "controller"
+  ],
+  "version": "1.3"
+}

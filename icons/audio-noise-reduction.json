@@ -1,0 +1,12 @@
+{
+  "name": "audio-noise-reduction",
+  "label": "Audio Noise Reduction",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "audio",
+    "noise",
+    "reduction"
+  ],
+  "version": "1.3"
+}

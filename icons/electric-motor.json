@@ -1,0 +1,11 @@
+{
+  "name": "electric-motor",
+  "label": "Electric Motor",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electric",
+    "motor"
+  ],
+  "version": "1.3"
+}

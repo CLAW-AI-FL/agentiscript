@@ -1,0 +1,10 @@
+{
+  "name": "cpu",
+  "label": "Cpu",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "cpu"
+  ],
+  "version": "1.3"
+}

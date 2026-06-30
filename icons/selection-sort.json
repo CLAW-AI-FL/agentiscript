@@ -1,0 +1,11 @@
+{
+  "name": "selection-sort",
+  "label": "Selection Sort",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "selection",
+    "sort"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "laser-diode",
+  "label": "Laser Diode",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "laser",
+    "diode"
+  ],
+  "version": "1.3"
+}

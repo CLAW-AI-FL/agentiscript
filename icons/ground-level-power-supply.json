@@ -1,0 +1,13 @@
+{
+  "name": "ground-level-power-supply",
+  "label": "Ground Level Power Supply",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "ground",
+    "level",
+    "power",
+    "supply"
+  ],
+  "version": "1.3"
+}

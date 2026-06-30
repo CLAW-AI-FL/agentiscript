@@ -1,0 +1,11 @@
+{
+  "name": "bridge-rectifier",
+  "label": "Bridge Rectifier",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "bridge",
+    "rectifier"
+  ],
+  "version": "1.3"
+}

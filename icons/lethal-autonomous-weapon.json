@@ -1,0 +1,12 @@
+{
+  "name": "lethal-autonomous-weapon",
+  "label": "Lethal Autonomous Weapon",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "lethal",
+    "autonomous",
+    "weapon"
+  ],
+  "version": "1.3"
+}

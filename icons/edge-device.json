@@ -1,0 +1,11 @@
+{
+  "name": "edge-device",
+  "label": "Edge Device",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "edge",
+    "device"
+  ],
+  "version": "1.3"
+}

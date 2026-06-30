@@ -1,0 +1,12 @@
+{
+  "name": "current-to-voltage-converter",
+  "label": "Current To Voltage Converter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "current",
+    "voltage",
+    "converter"
+  ],
+  "version": "1.3"
+}

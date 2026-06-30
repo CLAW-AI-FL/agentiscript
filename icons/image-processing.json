@@ -1,0 +1,11 @@
+{
+  "name": "image-processing",
+  "label": "Image Processing",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "image",
+    "processing"
+  ],
+  "version": "1.3"
+}

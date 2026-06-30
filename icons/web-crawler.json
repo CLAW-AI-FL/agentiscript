@@ -1,0 +1,11 @@
+{
+  "name": "web-crawler",
+  "label": "Web Crawler",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "web",
+    "crawler"
+  ],
+  "version": "1.3"
+}

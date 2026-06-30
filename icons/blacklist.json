@@ -1,0 +1,10 @@
+{
+  "name": "blacklist",
+  "label": "Blacklist",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "blacklist"
+  ],
+  "version": "1.3"
+}

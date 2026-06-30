@@ -1,0 +1,11 @@
+{
+  "name": "communications-satellite",
+  "label": "Communications Satellite",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "communications",
+    "satellite"
+  ],
+  "version": "1.3"
+}

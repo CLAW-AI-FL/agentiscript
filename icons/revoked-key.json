@@ -1,0 +1,11 @@
+{
+  "name": "revoked-key",
+  "label": "Revoked Key",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "revoked",
+    "key"
+  ],
+  "version": "1.3"
+}

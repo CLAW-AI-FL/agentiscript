@@ -1,0 +1,11 @@
+{
+  "name": "continuous-deployment",
+  "label": "Continuous Deployment",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "continuous",
+    "deployment"
+  ],
+  "version": "1.3"
+}

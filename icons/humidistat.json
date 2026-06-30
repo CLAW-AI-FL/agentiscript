@@ -1,0 +1,10 @@
+{
+  "name": "humidistat",
+  "label": "Humidistat",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "humidistat"
+  ],
+  "version": "1.3"
+}

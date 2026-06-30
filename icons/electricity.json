@@ -1,0 +1,10 @@
+{
+  "name": "electricity",
+  "label": "Electricity",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electricity"
+  ],
+  "version": "1.3"
+}

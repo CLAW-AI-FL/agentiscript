@@ -1,0 +1,12 @@
+{
+  "name": "delta-wye-transformer",
+  "label": "Delta Wye Transformer",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "delta",
+    "wye",
+    "transformer"
+  ],
+  "version": "1.3"
+}

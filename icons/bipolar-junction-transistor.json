@@ -1,0 +1,12 @@
+{
+  "name": "bipolar-junction-transistor",
+  "label": "Bipolar Junction Transistor",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "bipolar",
+    "junction",
+    "transistor"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "leakage-inductance",
+  "label": "Leakage Inductance",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "leakage",
+    "inductance"
+  ],
+  "version": "1.3"
+}

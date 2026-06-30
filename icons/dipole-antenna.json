@@ -1,0 +1,11 @@
+{
+  "name": "dipole-antenna",
+  "label": "Dipole Antenna",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "dipole",
+    "antenna"
+  ],
+  "version": "1.3"
+}

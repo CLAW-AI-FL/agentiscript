@@ -1,0 +1,12 @@
+{
+  "name": "hall-effect-sensor",
+  "label": "Hall Effect Sensor",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "hall",
+    "effect",
+    "sensor"
+  ],
+  "version": "1.3"
+}

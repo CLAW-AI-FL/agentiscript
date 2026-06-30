@@ -1,0 +1,11 @@
+{
+  "name": "electrical-load",
+  "label": "Electrical Load",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electrical",
+    "load"
+  ],
+  "version": "1.3"
+}

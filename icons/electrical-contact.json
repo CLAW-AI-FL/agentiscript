@@ -1,0 +1,11 @@
+{
+  "name": "electrical-contact",
+  "label": "Electrical Contact",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electrical",
+    "contact"
+  ],
+  "version": "1.3"
+}

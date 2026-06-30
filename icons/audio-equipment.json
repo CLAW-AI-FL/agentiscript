@@ -1,0 +1,11 @@
+{
+  "name": "audio-equipment",
+  "label": "Audio Equipment",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "audio",
+    "equipment"
+  ],
+  "version": "1.3"
+}

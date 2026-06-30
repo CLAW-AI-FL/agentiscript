@@ -1,0 +1,12 @@
+{
+  "name": "arbitrary-waveform-generator",
+  "label": "Arbitrary Waveform Generator",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "arbitrary",
+    "waveform",
+    "generator"
+  ],
+  "version": "1.3"
+}

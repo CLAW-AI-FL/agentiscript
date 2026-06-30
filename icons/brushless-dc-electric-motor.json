@@ -1,0 +1,12 @@
+{
+  "name": "brushless-dc-electric-motor",
+  "label": "Brushless Dc Electric Motor",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "brushless",
+    "electric",
+    "motor"
+  ],
+  "version": "1.3"
+}

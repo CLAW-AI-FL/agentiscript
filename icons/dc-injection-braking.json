@@ -1,0 +1,11 @@
+{
+  "name": "dc-injection-braking",
+  "label": "Dc Injection Braking",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "injection",
+    "braking"
+  ],
+  "version": "1.3"
+}

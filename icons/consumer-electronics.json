@@ -1,0 +1,11 @@
+{
+  "name": "consumer-electronics",
+  "label": "Consumer Electronics",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "consumer",
+    "electronics"
+  ],
+  "version": "1.3"
+}

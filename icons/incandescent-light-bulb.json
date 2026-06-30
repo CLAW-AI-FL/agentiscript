@@ -1,0 +1,12 @@
+{
+  "name": "incandescent-light-bulb",
+  "label": "Incandescent Light Bulb",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "incandescent",
+    "light",
+    "bulb"
+  ],
+  "version": "1.3"
+}

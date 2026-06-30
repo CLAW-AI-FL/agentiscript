@@ -1,0 +1,12 @@
+{
+  "name": "large-language-model",
+  "label": "Large Language Model",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "large",
+    "language",
+    "model"
+  ],
+  "version": "1.3"
+}

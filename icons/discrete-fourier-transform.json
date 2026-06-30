@@ -1,0 +1,12 @@
+{
+  "name": "discrete-fourier-transform",
+  "label": "Discrete Fourier Transform",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "discrete",
+    "fourier",
+    "transform"
+  ],
+  "version": "1.3"
+}

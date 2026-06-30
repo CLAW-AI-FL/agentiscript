@@ -1,0 +1,12 @@
+{
+  "name": "markov-decision-process",
+  "label": "Markov Decision Process",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "markov",
+    "decision",
+    "process"
+  ],
+  "version": "1.3"
+}

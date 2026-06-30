@@ -1,0 +1,11 @@
+{
+  "name": "carrier-current",
+  "label": "Carrier Current",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "carrier",
+    "current"
+  ],
+  "version": "1.3"
+}

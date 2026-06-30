@@ -1,0 +1,11 @@
+{
+  "name": "demand-response",
+  "label": "Demand Response",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "demand",
+    "response"
+  ],
+  "version": "1.3"
+}

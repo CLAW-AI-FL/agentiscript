@@ -1,0 +1,12 @@
+{
+  "name": "circuit-breaker-panel",
+  "label": "Circuit Breaker Panel",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "circuit",
+    "breaker",
+    "panel"
+  ],
+  "version": "1.3"
+}

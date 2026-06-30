@@ -1,0 +1,11 @@
+{
+  "name": "key-encryption-key",
+  "label": "Key Encryption Key",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "key",
+    "encryption"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "transmission-security-key",
+  "label": "Transmission Security Key",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "transmission",
+    "security",
+    "key"
+  ],
+  "version": "1.3"
+}

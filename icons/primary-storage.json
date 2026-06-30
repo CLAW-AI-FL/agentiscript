@@ -1,0 +1,11 @@
+{
+  "name": "primary-storage",
+  "label": "Primary Storage",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "primary",
+    "storage"
+  ],
+  "version": "1.3"
+}

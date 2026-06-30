@@ -1,0 +1,11 @@
+{
+  "name": "relational-database",
+  "label": "Relational Database",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "relational",
+    "database"
+  ],
+  "version": "1.3"
+}

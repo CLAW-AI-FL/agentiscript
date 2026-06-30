@@ -1,0 +1,11 @@
+{
+  "name": "electrical-grid",
+  "label": "Electrical Grid",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electrical",
+    "grid"
+  ],
+  "version": "1.3"
+}

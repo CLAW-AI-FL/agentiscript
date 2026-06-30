@@ -1,0 +1,12 @@
+{
+  "name": "spiking-neural-network",
+  "label": "Spiking Neural Network",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "spiking",
+    "neural",
+    "network"
+  ],
+  "version": "1.3"
+}

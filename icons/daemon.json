@@ -1,0 +1,10 @@
+{
+  "name": "daemon",
+  "label": "Daemon",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "daemon"
+  ],
+  "version": "1.3"
+}

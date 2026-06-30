@@ -1,0 +1,11 @@
+{
+  "name": "filename-extension",
+  "label": "Filename Extension",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "filename",
+    "extension"
+  ],
+  "version": "1.3"
+}

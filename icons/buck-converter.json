@@ -1,0 +1,11 @@
+{
+  "name": "buck-converter",
+  "label": "Buck Converter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "buck",
+    "converter"
+  ],
+  "version": "1.3"
+}

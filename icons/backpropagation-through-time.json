@@ -1,0 +1,12 @@
+{
+  "name": "backpropagation-through-time",
+  "label": "Backpropagation Through Time",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "backpropagation",
+    "through",
+    "time"
+  ],
+  "version": "1.3"
+}

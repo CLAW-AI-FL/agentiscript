@@ -1,0 +1,12 @@
+{
+  "name": "extended-kalman-filter",
+  "label": "Extended Kalman Filter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "extended",
+    "kalman",
+    "filter"
+  ],
+  "version": "1.3"
+}

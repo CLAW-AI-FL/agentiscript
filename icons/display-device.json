@@ -1,0 +1,11 @@
+{
+  "name": "display-device",
+  "label": "Display Device",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "display",
+    "device"
+  ],
+  "version": "1.3"
+}

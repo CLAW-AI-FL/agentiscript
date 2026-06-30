@@ -1,0 +1,11 @@
+{
+  "name": "disk-storage",
+  "label": "Disk Storage",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "disk",
+    "storage"
+  ],
+  "version": "1.3"
+}

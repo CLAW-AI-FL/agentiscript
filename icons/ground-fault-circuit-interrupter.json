@@ -1,0 +1,13 @@
+{
+  "name": "ground-fault-circuit-interrupter",
+  "label": "Ground Fault Circuit Interrupter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "ground",
+    "fault",
+    "circuit",
+    "interrupter"
+  ],
+  "version": "1.3"
+}

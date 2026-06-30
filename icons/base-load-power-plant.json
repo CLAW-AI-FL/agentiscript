@@ -1,0 +1,13 @@
+{
+  "name": "base-load-power-plant",
+  "label": "Base Load Power Plant",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "base",
+    "load",
+    "power",
+    "plant"
+  ],
+  "version": "1.3"
+}

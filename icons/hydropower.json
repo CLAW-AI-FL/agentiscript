@@ -1,0 +1,10 @@
+{
+  "name": "hydropower",
+  "label": "Hydropower",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "hydropower"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kalman-filter",
+  "label": "Kalman Filter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "kalman",
+    "filter"
+  ],
+  "version": "1.3"
+}

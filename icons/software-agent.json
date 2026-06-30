@@ -1,0 +1,11 @@
+{
+  "name": "software-agent",
+  "label": "Software Agent",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "software",
+    "agent"
+  ],
+  "version": "1.3"
+}

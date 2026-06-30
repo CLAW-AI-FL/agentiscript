@@ -1,0 +1,11 @@
+{
+  "name": "branch-circuit",
+  "label": "Branch Circuit",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "branch",
+    "circuit"
+  ],
+  "version": "1.3"
+}

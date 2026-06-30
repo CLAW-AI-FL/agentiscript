@@ -1,0 +1,12 @@
+{
+  "name": "analog-to-digital-converter",
+  "label": "Analog To Digital Converter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "analog",
+    "digital",
+    "converter"
+  ],
+  "version": "1.3"
+}

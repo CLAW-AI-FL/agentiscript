@@ -1,0 +1,12 @@
+{
+  "name": "insulation-monitoring-device",
+  "label": "Insulation Monitoring Device",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "insulation",
+    "monitoring",
+    "device"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "actuator",
+  "label": "Actuator",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "actuator"
+  ],
+  "version": "1.3"
+}

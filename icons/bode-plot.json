@@ -1,0 +1,11 @@
+{
+  "name": "bode-plot",
+  "label": "Bode Plot",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "bode",
+    "plot"
+  ],
+  "version": "1.3"
+}

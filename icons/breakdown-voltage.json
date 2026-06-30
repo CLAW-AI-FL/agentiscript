@@ -1,0 +1,11 @@
+{
+  "name": "breakdown-voltage",
+  "label": "Breakdown Voltage",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "breakdown",
+    "voltage"
+  ],
+  "version": "1.3"
+}

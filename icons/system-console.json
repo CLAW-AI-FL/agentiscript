@@ -1,0 +1,11 @@
+{
+  "name": "system-console",
+  "label": "System Console",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "system",
+    "console"
+  ],
+  "version": "1.3"
+}

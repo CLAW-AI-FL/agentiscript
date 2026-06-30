@@ -1,0 +1,11 @@
+{
+  "name": "diode-bridge",
+  "label": "Diode Bridge",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "diode",
+    "bridge"
+  ],
+  "version": "1.3"
+}

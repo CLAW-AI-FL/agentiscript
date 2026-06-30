@@ -1,0 +1,13 @@
+{
+  "name": "gate-turn-off-thyristor",
+  "label": "Gate Turn Off Thyristor",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "gate",
+    "turn",
+    "off",
+    "thyristor"
+  ],
+  "version": "1.3"
+}

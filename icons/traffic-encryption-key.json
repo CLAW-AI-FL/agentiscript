@@ -1,0 +1,12 @@
+{
+  "name": "traffic-encryption-key",
+  "label": "Traffic Encryption Key",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "traffic",
+    "encryption",
+    "key"
+  ],
+  "version": "1.3"
+}
