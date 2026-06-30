@@ -1,0 +1,21 @@
+{
+  "id": "AS-227",
+  "slug": "agent-bytecode",
+  "concept": "Agent Bytecode",
+  "definition": "Domain-specific intermediate languages designed as substrates for AI agents, enabling portable, verifiable, and optimizable agent programs across runtimes.",
+  "aliases": [
+    "agent DSL",
+    "agent intermediate representation"
+  ],
+  "category": "agent-infrastructure",
+  "category_name": "Agent Infrastructure",
+  "sources": [],
+  "svg": "agent-bytecode.svg",
+  "tags": [
+    "bytecode",
+    "DSL",
+    "agent",
+    "language",
+    "substrate"
+  ]
+}

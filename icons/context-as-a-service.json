@@ -1,0 +1,21 @@
+{
+  "id": "AS-208",
+  "slug": "context-as-a-service",
+  "concept": "Context as a Service",
+  "definition": "An infrastructure layer that dynamically assembles, manages, and delivers contextual information to AI agents on demand at inference time.",
+  "aliases": [
+    "CaaS",
+    "context layer"
+  ],
+  "category": "agent-infrastructure",
+  "category_name": "Agent Infrastructure",
+  "sources": [],
+  "svg": "context-as-a-service.svg",
+  "tags": [
+    "context",
+    "service",
+    "infrastructure",
+    "CaaS",
+    "agent"
+  ]
+}

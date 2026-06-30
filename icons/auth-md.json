@@ -1,0 +1,21 @@
+{
+  "id": "AS-207",
+  "slug": "auth-md",
+  "concept": "Auth.md",
+  "definition": "An open agent authentication protocol using markdown-based identity documents to grant verifiable, revocable credentials to AI agents.",
+  "aliases": [
+    "agent auth",
+    "auth markdown"
+  ],
+  "category": "agent-security",
+  "category_name": "Agent Security",
+  "sources": [],
+  "svg": "auth-md.svg",
+  "tags": [
+    "authentication",
+    "protocol",
+    "agent",
+    "open",
+    "identity"
+  ]
+}

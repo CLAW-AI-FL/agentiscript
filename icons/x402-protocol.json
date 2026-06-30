@@ -1,0 +1,21 @@
+{
+  "id": "AS-204",
+  "slug": "x402-protocol",
+  "concept": "x402 Protocol",
+  "definition": "An HTTP-native payment standard enabling AI agents to pay for resources inline using HTTP 402 status codes without redirects or human intervention.",
+  "aliases": [
+    "HTTP 402",
+    "x402"
+  ],
+  "category": "agentic-commerce",
+  "category_name": "Agentic Commerce",
+  "sources": [],
+  "svg": "x402-protocol.svg",
+  "tags": [
+    "payment",
+    "http",
+    "protocol",
+    "agent",
+    "x402"
+  ]
+}

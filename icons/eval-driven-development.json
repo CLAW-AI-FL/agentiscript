@@ -1,0 +1,21 @@
+{
+  "id": "AS-226",
+  "slug": "eval-driven-development",
+  "concept": "Eval-Driven Development",
+  "definition": "A software methodology where evaluations are the primary development loop \u2014 writing evals before code and using eval results to drive all engineering decisions.",
+  "aliases": [
+    "EDD",
+    "eval-first development"
+  ],
+  "category": "ai-engineering",
+  "category_name": "AI Engineering",
+  "sources": [],
+  "svg": "eval-driven-development.svg",
+  "tags": [
+    "evals",
+    "development",
+    "methodology",
+    "testing",
+    "ai"
+  ]
+}

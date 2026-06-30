@@ -1,0 +1,21 @@
+{
+  "id": "AS-217",
+  "slug": "forward-deployed-engineering",
+  "concept": "Forward-Deployed Engineering",
+  "definition": "Embedding software engineers directly with customers to build, iterate, and deploy AI systems live in production alongside business stakeholders.",
+  "aliases": [
+    "FDE",
+    "embedded engineering"
+  ],
+  "category": "ai-engineering",
+  "category_name": "AI Engineering",
+  "sources": [],
+  "svg": "forward-deployed-engineering.svg",
+  "tags": [
+    "engineering",
+    "deployment",
+    "forward-deployed",
+    "ai",
+    "palantir"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "AS-211",
+  "slug": "lethal-trifecta",
+  "concept": "Lethal Trifecta",
+  "definition": "The dangerous security combination when an AI agent has access to private data, processes untrusted content, and can communicate externally \u2014 enabling data exfiltration.",
+  "aliases": [
+    "security trifecta",
+    "agent exfiltration"
+  ],
+  "category": "agent-security",
+  "category_name": "Agent Security",
+  "sources": [],
+  "svg": "lethal-trifecta.svg",
+  "tags": [
+    "security",
+    "trifecta",
+    "exfiltration",
+    "risk",
+    "agent"
+  ]
+}

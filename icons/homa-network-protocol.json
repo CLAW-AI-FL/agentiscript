@@ -1,0 +1,22 @@
+{
+  "id": "AS-223",
+  "slug": "homa-network-protocol",
+  "concept": "Homa Network Protocol",
+  "definition": "A low-latency datacenter transport protocol designed as an RDMA replacement to maximize inference throughput and minimize tail latency in AI clusters.",
+  "aliases": [
+    "Homa protocol",
+    "datacenter transport"
+  ],
+  "category": "ai-infrastructure",
+  "category_name": "AI Infrastructure",
+  "sources": [],
+  "svg": "homa-network-protocol.svg",
+  "tags": [
+    "network",
+    "protocol",
+    "homa",
+    "RDMA",
+    "inference",
+    "latency"
+  ]
+}

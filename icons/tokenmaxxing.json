@@ -1,0 +1,21 @@
+{
+  "id": "AS-212",
+  "slug": "tokenmaxxing",
+  "concept": "Tokenmaxxing",
+  "definition": "The practice of maximizing useful work extracted per token consumed, optimizing prompt density, context efficiency, and output quality per token cost.",
+  "aliases": [
+    "token efficiency",
+    "context optimization"
+  ],
+  "category": "llm-engineering",
+  "category_name": "LLM Engineering",
+  "sources": [],
+  "svg": "tokenmaxxing.svg",
+  "tags": [
+    "tokens",
+    "efficiency",
+    "optimization",
+    "cost",
+    "llm"
+  ]
+}

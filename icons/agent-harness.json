@@ -1,0 +1,21 @@
+{
+  "id": "AS-210",
+  "slug": "agent-harness",
+  "concept": "Agent Harness",
+  "definition": "A production control cage that constrains, monitors, and governs AI agent behavior, enforcing policy boundaries and capturing execution traces.",
+  "aliases": [
+    "control harness",
+    "agent cage"
+  ],
+  "category": "agent-ops",
+  "category_name": "Agent Ops",
+  "sources": [],
+  "svg": "agent-harness.svg",
+  "tags": [
+    "harness",
+    "control",
+    "governance",
+    "agent",
+    "production"
+  ]
+}

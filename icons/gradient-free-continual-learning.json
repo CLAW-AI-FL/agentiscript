@@ -1,0 +1,21 @@
+{
+  "id": "AS-218",
+  "slug": "gradient-free-continual-learning",
+  "concept": "Gradient-Free Continual Learning",
+  "definition": "Model adaptation techniques that update learned behavior through inference-time mechanisms rather than backpropagation, enabling deployment-time learning.",
+  "aliases": [
+    "gradient-free learning",
+    "inference-time adaptation"
+  ],
+  "category": "ml-training",
+  "category_name": "ML Training",
+  "sources": [],
+  "svg": "gradient-free-continual-learning.svg",
+  "tags": [
+    "gradient-free",
+    "continual-learning",
+    "adaptation",
+    "inference",
+    "training"
+  ]
+}

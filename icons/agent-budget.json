@@ -1,0 +1,21 @@
+{
+  "id": "AS-220",
+  "slug": "agent-budget",
+  "concept": "Agent Budget",
+  "definition": "Governance controls that define and enforce spending limits, resource caps, and authorization thresholds for autonomous AI agent transactions.",
+  "aliases": [
+    "agent spend limit",
+    "autonomous budget"
+  ],
+  "category": "agentic-commerce",
+  "category_name": "Agentic Commerce",
+  "sources": [],
+  "svg": "agent-budget.svg",
+  "tags": [
+    "budget",
+    "governance",
+    "spending",
+    "agent",
+    "control"
+  ]
+}

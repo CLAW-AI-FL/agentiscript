@@ -1,0 +1,21 @@
+{
+  "id": "AS-209",
+  "slug": "active-graph-runtime",
+  "concept": "Active Graph Runtime",
+  "definition": "An event-sourced, forkable agent runtime where state is a live graph of nodes and edges, enabling branching, replay, and parallel execution.",
+  "aliases": [
+    "graph runtime",
+    "forkable runtime"
+  ],
+  "category": "agent-infrastructure",
+  "category_name": "Agent Infrastructure",
+  "sources": [],
+  "svg": "active-graph-runtime.svg",
+  "tags": [
+    "graph",
+    "runtime",
+    "event-sourced",
+    "forkable",
+    "agent"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "AS-219",
+  "slug": "dual-surface-architecture",
+  "concept": "Dual-Surface Architecture",
+  "definition": "A system design where the same underlying tool and capability layer serves both human-facing UI surfaces and agent-facing API surfaces simultaneously.",
+  "aliases": [
+    "dual surface",
+    "human-agent shared layer"
+  ],
+  "category": "agent-architecture",
+  "category_name": "Agent Architecture",
+  "sources": [],
+  "svg": "dual-surface-architecture.svg",
+  "tags": [
+    "architecture",
+    "dual-surface",
+    "human",
+    "agent",
+    "design"
+  ]
+}
