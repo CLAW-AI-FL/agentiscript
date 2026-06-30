@@ -1,0 +1,12 @@
+name = "agentiscript-x402"
+main = "x402-worker.js"
+compatibility_date = "2024-01-01"
+workers_dev = true
+
+[vars]
+HBAR_WALLET_ADDRESS = "PLACEHOLDER"
+
+# Route binding (enable once agentiscript.com DNS is proxied through Cloudflare)
+# [[routes]]
+# pattern = "agentiscript.com/api/*"
+# zone_name = "agentiscript.com"
