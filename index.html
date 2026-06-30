@@ -118,7 +118,6 @@ footer{padding:40px 24px;text-align:center;border-top:1px solid rgba(255,255,255
     <a href="/icons/">Icons</a>
     <a href="/store/">Pro Pack</a>
     <a href="/docs/">Docs</a>
-    <a href="/submit/">Submit an Icon</a>
     <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a>
   </div>
   <p class="footer-copy">&copy; 2026 AgentiScript &mdash; CC0 Free Tier &mdash; <a href="/store/" style="color:rgba(255,255,255,0.2)">Pro License</a></p>
@@ -173,19 +172,14 @@ const QUALITY_CATEGORIES = [
 ];
 
 function isQualityIcon(icon) {
-  const cat  = (icon.category || '').toLowerCase();
-  const name = (icon.name || icon.slug || '').toLowerCase();
-  const slug = (icon.slug || '').toLowerCase();
-  // Hide known junk names
-  const junk = ['muscle','abdomen','abscess','arris','astragal','aisle','aerospace','astronomy',
-                'aaradcom','abnsotd','abductor','absolutism','absolute value','above ground'];
+  const name = (icon.slug || icon.name || '').toLowerCase();
+  // Only hide truly junk entries
+  const junk = ['muscle','abdomen','abscess','arris-rail','astragal','aisle','aaradcom','abnsotd','abductor'];
   if (junk.some(j => name.includes(j))) return false;
-  if (name.startsWith('1=') || name.startsWith('a-type')) return false;
-  // Only apply short-name junk filter if NOT in a quality category
-  const inQualityCat = QUALITY_CATEGORIES.some(q => cat.includes(q));
-  if (!inQualityCat && slug.match(/^[a-z]{2,4}$/)) return false;
-  // Must match a quality category
-  return inQualityCat;
+  if (name.startsWith('1=') || name.match(/^[a-z]{1,2}$/) || name.includes('a-physics-grounded')) return false;
+  // Hide blank icons (already in BLANK_SLUGS set)
+  if (BLANK_SLUGS.has(name)) return false;
+  return true; // show everything else
 }
 
 function cleanName(icon) {
