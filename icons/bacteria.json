@@ -1,0 +1,10 @@
+{
+  "name": "bacteria",
+  "label": "bacteria",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "bacteria"
+  ],
+  "version": "1.8"
+}

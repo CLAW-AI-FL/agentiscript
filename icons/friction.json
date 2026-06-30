@@ -1,0 +1,10 @@
+{
+  "name": "friction",
+  "label": "friction",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "friction"
+  ],
+  "version": "1.8"
+}

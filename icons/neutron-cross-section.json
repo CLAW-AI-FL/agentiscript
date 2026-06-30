@@ -1,0 +1,12 @@
+{
+  "name": "neutron-cross-section",
+  "label": "neutron Cross-section",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "neutron",
+    "cross",
+    "section"
+  ],
+  "version": "1.8"
+}

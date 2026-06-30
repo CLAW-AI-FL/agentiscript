@@ -1,0 +1,11 @@
+{
+  "name": "alpha-decay",
+  "label": "alpha Decay",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "alpha",
+    "decay"
+  ],
+  "version": "1.8"
+}

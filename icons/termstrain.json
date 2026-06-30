@@ -1,0 +1,10 @@
+{
+  "name": "termstrain",
+  "label": "term='Strain'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstrain"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "conservation-biology",
+  "label": "conservation Biology",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "conservation"
+  ],
+  "version": "1.8"
+}

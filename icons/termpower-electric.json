@@ -1,0 +1,11 @@
+{
+  "name": "termpower-electric",
+  "label": "term='Power (electric)'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termpower",
+    "electric"
+  ],
+  "version": "1.8"
+}

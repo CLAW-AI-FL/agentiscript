@@ -1,0 +1,11 @@
+{
+  "name": "parallel-circuit",
+  "label": "parallel Circuit",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "parallel",
+    "circuit"
+  ],
+  "version": "1.8"
+}

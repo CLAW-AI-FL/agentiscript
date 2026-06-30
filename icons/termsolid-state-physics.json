@@ -1,0 +1,12 @@
+{
+  "name": "termsolid-state-physics",
+  "label": "term='Solid-state Physics'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termsolid",
+    "state",
+    "physics"
+  ],
+  "version": "1.8"
+}

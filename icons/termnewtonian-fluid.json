@@ -1,0 +1,11 @@
+{
+  "name": "termnewtonian-fluid",
+  "label": "term='Newtonian Fluid'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termnewtonian",
+    "fluid"
+  ],
+  "version": "1.8"
+}

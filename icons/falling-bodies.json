@@ -1,0 +1,11 @@
+{
+  "name": "falling-bodies",
+  "label": "falling Bodies",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "falling",
+    "bodies"
+  ],
+  "version": "1.8"
+}

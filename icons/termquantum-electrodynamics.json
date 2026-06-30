@@ -1,0 +1,11 @@
+{
+  "name": "termquantum-electrodynamics",
+  "label": "term='Quantum Electrodynamics'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termquantum",
+    "electrodynamics"
+  ],
+  "version": "1.8"
+}

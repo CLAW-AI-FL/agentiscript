@@ -1,0 +1,13 @@
+{
+  "name": "x-diffvla-x-embodied-diffusion-action-heads-for-vision-language-action-models",
+  "label": "X-DiffVLA: X-embodied Diffusion Action Heads for Vision-language-action Models",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "diffvla",
+    "embodied",
+    "diffusion",
+    "action"
+  ],
+  "version": "1.8"
+}

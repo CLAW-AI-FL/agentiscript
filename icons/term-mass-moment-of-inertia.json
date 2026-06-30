@@ -1,0 +1,13 @@
+{
+  "name": "term-mass-moment-of-inertia",
+  "label": "term= 'mass Moment of Inertia'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "term",
+    "mass",
+    "moment",
+    "inertia"
+  ],
+  "version": "1.8"
+}

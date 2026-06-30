@@ -1,0 +1,12 @@
+{
+  "name": "heterogeneous-tactile-transformer",
+  "label": "Heterogeneous Tactile Transformer",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "heterogeneous",
+    "tactile",
+    "transformer"
+  ],
+  "version": "1.8"
+}

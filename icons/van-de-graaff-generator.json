@@ -1,0 +1,12 @@
+{
+  "name": "van-de-graaff-generator",
+  "label": "Van De Graaff Generator",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "van",
+    "graaff",
+    "generator"
+  ],
+  "version": "1.8"
+}

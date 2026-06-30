@@ -1,0 +1,11 @@
+{
+  "name": "termpoint-estimation",
+  "label": "term='Point Estimation'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termpoint",
+    "estimation"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "acceleration-due-to-gravity",
+  "label": "acceleration Due to Gravity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "acceleration",
+    "due",
+    "gravity"
+  ],
+  "version": "1.8"
+}

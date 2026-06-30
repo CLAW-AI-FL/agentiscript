@@ -1,0 +1,12 @@
+{
+  "name": "termvolumetric-flow-rate",
+  "label": "term='Volumetric Flow Rate'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvolumetric",
+    "flow",
+    "rate"
+  ],
+  "version": "1.8"
+}

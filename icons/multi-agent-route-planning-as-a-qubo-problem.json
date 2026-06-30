@@ -1,0 +1,13 @@
+{
+  "name": "multi-agent-route-planning-as-a-qubo-problem",
+  "label": "Multi-Agent Route Planning As a Qubo Problem",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "multi",
+    "agent",
+    "route",
+    "planning"
+  ],
+  "version": "1.8"
+}

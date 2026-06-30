@@ -1,0 +1,11 @@
+{
+  "name": "termstructural-load",
+  "label": "term='Structural Load'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstructural",
+    "load"
+  ],
+  "version": "1.8"
+}

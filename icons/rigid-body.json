@@ -1,0 +1,11 @@
+{
+  "name": "rigid-body",
+  "label": "rigid Body",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "rigid",
+    "body"
+  ],
+  "version": "1.8"
+}

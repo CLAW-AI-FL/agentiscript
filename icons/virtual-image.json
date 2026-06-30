@@ -1,0 +1,11 @@
+{
+  "name": "virtual-image",
+  "label": "virtual Image",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "virtual",
+    "image"
+  ],
+  "version": "1.8"
+}

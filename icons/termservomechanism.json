@@ -1,0 +1,10 @@
+{
+  "name": "termservomechanism",
+  "label": "term='Servomechanism'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termservomechanism"
+  ],
+  "version": "1.8"
+}

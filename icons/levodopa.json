@@ -1,0 +1,10 @@
+{
+  "name": "levodopa",
+  "label": "Levodopa",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "levodopa"
+  ],
+  "version": "1.8"
+}

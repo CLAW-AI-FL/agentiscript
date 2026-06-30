@@ -1,0 +1,11 @@
+{
+  "name": "valence-shell",
+  "label": "valence Shell",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "valence",
+    "shell"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plancks-law",
+  "label": "Planck's Law",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "plancks",
+    "law"
+  ],
+  "version": "1.8"
+}

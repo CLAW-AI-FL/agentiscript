@@ -1,0 +1,11 @@
+{
+  "name": "termstressstrain-curve",
+  "label": "term='Stress\u2013strain Curve'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstressstrain",
+    "curve"
+  ],
+  "version": "1.8"
+}

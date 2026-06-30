@@ -1,0 +1,11 @@
+{
+  "name": "postganglionic-neuron",
+  "label": "Postganglionic Neuron",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "postganglionic",
+    "neuron"
+  ],
+  "version": "1.8"
+}

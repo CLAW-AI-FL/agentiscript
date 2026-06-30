@@ -1,0 +1,10 @@
+{
+  "name": "emissivity",
+  "label": "emissivity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "emissivity"
+  ],
+  "version": "1.8"
+}

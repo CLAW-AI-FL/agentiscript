@@ -1,0 +1,11 @@
+{
+  "name": "wada-test",
+  "label": "Wada Test",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "wada",
+    "test"
+  ],
+  "version": "1.8"
+}

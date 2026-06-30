@@ -1,0 +1,11 @@
+{
+  "name": "gravitational-constant",
+  "label": "gravitational Constant",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "gravitational",
+    "constant"
+  ],
+  "version": "1.8"
+}

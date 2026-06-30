@@ -1,0 +1,11 @@
+{
+  "name": "quantum-gravity",
+  "label": "quantum Gravity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "quantum",
+    "gravity"
+  ],
+  "version": "1.8"
+}

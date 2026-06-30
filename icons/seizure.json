@@ -1,0 +1,10 @@
+{
+  "name": "seizure",
+  "label": "Seizure",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "seizure"
+  ],
+  "version": "1.8"
+}

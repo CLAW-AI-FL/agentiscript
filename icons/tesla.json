@@ -1,0 +1,10 @@
+{
+  "name": "tesla",
+  "label": "tesla",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "tesla"
+  ],
+  "version": "1.8"
+}

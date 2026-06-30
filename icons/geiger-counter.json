@@ -1,0 +1,11 @@
+{
+  "name": "geiger-counter",
+  "label": "Geiger Counter",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "geiger",
+    "counter"
+  ],
+  "version": "1.8"
+}

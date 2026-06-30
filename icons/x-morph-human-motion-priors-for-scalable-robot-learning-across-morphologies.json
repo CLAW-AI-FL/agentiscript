@@ -1,0 +1,13 @@
+{
+  "name": "x-morph-human-motion-priors-for-scalable-robot-learning-across-morphologies",
+  "label": "X-Morph: Human Motion Priors for Scalable Robot Learning Across Morphologies",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "morph",
+    "human",
+    "motion",
+    "priors"
+  ],
+  "version": "1.8"
+}

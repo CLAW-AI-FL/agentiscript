@@ -1,0 +1,10 @@
+{
+  "name": "parity",
+  "label": "parity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "parity"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "motor-unit",
+  "label": "Motor Unit",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "motor",
+    "unit"
+  ],
+  "version": "1.8"
+}

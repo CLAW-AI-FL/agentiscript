@@ -1,0 +1,10 @@
+{
+  "name": "power",
+  "label": "power",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "power"
+  ],
+  "version": "1.8"
+}

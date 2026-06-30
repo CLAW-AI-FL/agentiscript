@@ -1,0 +1,10 @@
+{
+  "name": "macronutrient",
+  "label": "macronutrient",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "macronutrient"
+  ],
+  "version": "1.8"
+}

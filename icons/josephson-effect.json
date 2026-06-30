@@ -1,0 +1,11 @@
+{
+  "name": "josephson-effect",
+  "label": "Josephson Effect",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "josephson",
+    "effect"
+  ],
+  "version": "1.8"
+}

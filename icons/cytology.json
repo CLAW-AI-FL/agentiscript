@@ -1,0 +1,10 @@
+{
+  "name": "cytology",
+  "label": "cytology",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "cytology"
+  ],
+  "version": "1.8"
+}

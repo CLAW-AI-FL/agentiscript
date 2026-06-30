@@ -1,0 +1,11 @@
+{
+  "name": "mass-flux",
+  "label": "mass Flux",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "mass",
+    "flux"
+  ],
+  "version": "1.8"
+}

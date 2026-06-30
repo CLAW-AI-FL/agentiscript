@@ -1,0 +1,11 @@
+{
+  "name": "centripetal-force",
+  "label": "centripetal Force",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "centripetal",
+    "force"
+  ],
+  "version": "1.8"
+}

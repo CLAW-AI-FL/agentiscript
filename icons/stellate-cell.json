@@ -1,0 +1,11 @@
+{
+  "name": "stellate-cell",
+  "label": "Stellate Cell",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "stellate",
+    "cell"
+  ],
+  "version": "1.8"
+}

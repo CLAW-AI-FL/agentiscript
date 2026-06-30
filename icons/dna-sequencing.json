@@ -1,0 +1,11 @@
+{
+  "name": "dna-sequencing",
+  "label": "DNA Sequencing",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "dna",
+    "sequencing"
+  ],
+  "version": "1.8"
+}

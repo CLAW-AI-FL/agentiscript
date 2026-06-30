@@ -1,0 +1,11 @@
+{
+  "name": "termpolyphase-system",
+  "label": "term='Polyphase System'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termpolyphase",
+    "system"
+  ],
+  "version": "1.8"
+}

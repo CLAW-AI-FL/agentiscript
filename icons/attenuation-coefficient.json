@@ -1,0 +1,11 @@
+{
+  "name": "attenuation-coefficient",
+  "label": "attenuation Coefficient",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "attenuation",
+    "coefficient"
+  ],
+  "version": "1.8"
+}

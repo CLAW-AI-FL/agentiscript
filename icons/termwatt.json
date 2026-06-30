@@ -1,0 +1,10 @@
+{
+  "name": "termwatt",
+  "label": "term='Watt'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termwatt"
+  ],
+  "version": "1.8"
+}

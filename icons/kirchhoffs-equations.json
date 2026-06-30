@@ -1,0 +1,11 @@
+{
+  "name": "kirchhoffs-equations",
+  "label": "Kirchhoff's Equations",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "kirchhoffs",
+    "equations"
+  ],
+  "version": "1.8"
+}

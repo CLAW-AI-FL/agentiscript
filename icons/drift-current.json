@@ -1,0 +1,11 @@
+{
+  "name": "drift-current",
+  "label": "Drift Current",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "drift",
+    "current"
+  ],
+  "version": "1.8"
+}

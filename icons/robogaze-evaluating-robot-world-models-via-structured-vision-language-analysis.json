@@ -1,0 +1,13 @@
+{
+  "name": "robogaze-evaluating-robot-world-models-via-structured-vision-language-analysis",
+  "label": "RoboGaze: Evaluating Robot World Models Via Structured Vision-language Analysis",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "robogaze",
+    "evaluating",
+    "robot",
+    "world"
+  ],
+  "version": "1.8"
+}

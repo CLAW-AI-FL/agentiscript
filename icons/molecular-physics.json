@@ -1,0 +1,10 @@
+{
+  "name": "molecular-physics",
+  "label": "molecular Physics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "molecular"
+  ],
+  "version": "1.8"
+}

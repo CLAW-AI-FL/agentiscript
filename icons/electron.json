@@ -1,0 +1,10 @@
+{
+  "name": "electron",
+  "label": "electron",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electron"
+  ],
+  "version": "1.8"
+}

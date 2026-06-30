@@ -1,0 +1,11 @@
+{
+  "name": "absorption-spectroscopy",
+  "label": "absorption Spectroscopy",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "absorption",
+    "spectroscopy"
+  ],
+  "version": "1.8"
+}

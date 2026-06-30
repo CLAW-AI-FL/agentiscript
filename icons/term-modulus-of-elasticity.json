@@ -1,0 +1,12 @@
+{
+  "name": "term-modulus-of-elasticity",
+  "label": "term= 'modulus of Elasticity'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "term",
+    "modulus",
+    "elasticity"
+  ],
+  "version": "1.8"
+}

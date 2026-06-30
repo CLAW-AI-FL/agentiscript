@@ -1,0 +1,13 @@
+{
+  "name": "a-sliding-mode-lateral-velocity-observer",
+  "label": "A Sliding Mode Lateral Velocity Observer",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "sliding",
+    "mode",
+    "lateral",
+    "velocity"
+  ],
+  "version": "1.8"
+}

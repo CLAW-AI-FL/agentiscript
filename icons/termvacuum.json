@@ -1,0 +1,10 @@
+{
+  "name": "termvacuum",
+  "label": "term='Vacuum'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvacuum"
+  ],
+  "version": "1.8"
+}

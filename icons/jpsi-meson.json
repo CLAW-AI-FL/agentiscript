@@ -1,0 +1,11 @@
+{
+  "name": "jpsi-meson",
+  "label": "J/psi Meson",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "jpsi",
+    "meson"
+  ],
+  "version": "1.8"
+}

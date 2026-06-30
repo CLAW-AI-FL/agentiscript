@@ -1,0 +1,10 @@
+{
+  "name": "baroreceptor",
+  "label": "Baroreceptor",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "baroreceptor"
+  ],
+  "version": "1.8"
+}

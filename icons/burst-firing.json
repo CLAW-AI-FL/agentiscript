@@ -1,0 +1,11 @@
+{
+  "name": "burst-firing",
+  "label": "Burst Firing",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "burst",
+    "firing"
+  ],
+  "version": "1.8"
+}

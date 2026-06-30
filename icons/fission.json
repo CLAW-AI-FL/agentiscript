@@ -1,0 +1,10 @@
+{
+  "name": "fission",
+  "label": "fission",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "fission"
+  ],
+  "version": "1.8"
+}

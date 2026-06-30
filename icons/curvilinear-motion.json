@@ -1,0 +1,11 @@
+{
+  "name": "curvilinear-motion",
+  "label": "curvilinear Motion",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "curvilinear",
+    "motion"
+  ],
+  "version": "1.8"
+}

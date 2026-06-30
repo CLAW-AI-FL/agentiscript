@@ -1,0 +1,10 @@
+{
+  "name": "hadron",
+  "label": "hadron",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "hadron"
+  ],
+  "version": "1.8"
+}

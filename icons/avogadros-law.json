@@ -1,0 +1,11 @@
+{
+  "name": "avogadros-law",
+  "label": "Avogadro's Law",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "avogadros",
+    "law"
+  ],
+  "version": "1.8"
+}

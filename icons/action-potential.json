@@ -1,0 +1,11 @@
+{
+  "name": "action-potential",
+  "label": "Action Potential",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "action",
+    "potential"
+  ],
+  "version": "1.8"
+}

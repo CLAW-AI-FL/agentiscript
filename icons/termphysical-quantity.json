@@ -1,0 +1,11 @@
+{
+  "name": "termphysical-quantity",
+  "label": "term='Physical Quantity'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termphysical",
+    "quantity"
+  ],
+  "version": "1.8"
+}

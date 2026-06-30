@@ -1,0 +1,11 @@
+{
+  "name": "ionizing-radiation",
+  "label": "ionizing Radiation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "ionizing",
+    "radiation"
+  ],
+  "version": "1.8"
+}

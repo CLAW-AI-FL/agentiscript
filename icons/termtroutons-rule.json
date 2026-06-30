@@ -1,0 +1,11 @@
+{
+  "name": "termtroutons-rule",
+  "label": "term='Trouton's Rule'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtroutons",
+    "rule"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ionization-chamber",
+  "label": "ionization Chamber",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "ionization",
+    "chamber"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ripa-sensory-vector-prompt-injection-attacks-on-llm-controlled-ros-2-robots",
+  "label": "RIPA: Sensory-vector Prompt Injection Attacks on Llm-controlled Ros 2 Robots",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "ripa",
+    "sensory",
+    "vector",
+    "prompt"
+  ],
+  "version": "1.8"
+}

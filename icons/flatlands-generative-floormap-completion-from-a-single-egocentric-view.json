@@ -1,0 +1,13 @@
+{
+  "name": "flatlands-generative-floormap-completion-from-a-single-egocentric-view",
+  "label": "FlatLands: Generative Floormap Completion From a Single Egocentric View",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "flatlands",
+    "generative",
+    "floormap",
+    "completion"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "particle-displacement",
+  "label": "particle Displacement",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "particle",
+    "displacement"
+  ],
+  "version": "1.8"
+}

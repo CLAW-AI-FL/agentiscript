@@ -1,0 +1,10 @@
+{
+  "name": "corrosion",
+  "label": "Corrosion",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "corrosion"
+  ],
+  "version": "1.8"
+}

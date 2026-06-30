@@ -1,0 +1,13 @@
+{
+  "name": "anybody-free-form-whole-body-humanoid-control-from-arbitrary-keypoint-guidance",
+  "label": "AnyBody: Free-form Whole-body Humanoid Control from Arbitrary Keypoint Guidance",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "anybody",
+    "free",
+    "form",
+    "whole"
+  ],
+  "version": "1.8"
+}

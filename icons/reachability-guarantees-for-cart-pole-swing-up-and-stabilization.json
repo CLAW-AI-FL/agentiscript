@@ -1,0 +1,13 @@
+{
+  "name": "reachability-guarantees-for-cart-pole-swing-up-and-stabilization",
+  "label": "Reachability Guarantees for Cart-pole Swing-up and Stabilization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "reachability",
+    "guarantees",
+    "for",
+    "cart"
+  ],
+  "version": "1.8"
+}

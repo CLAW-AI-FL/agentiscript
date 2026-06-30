@@ -1,0 +1,10 @@
+{
+  "name": "termstress",
+  "label": "term='Stress'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstress"
+  ],
+  "version": "1.8"
+}

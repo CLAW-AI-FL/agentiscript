@@ -1,0 +1,10 @@
+{
+  "name": "termtruss",
+  "label": "term='Truss'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtruss"
+  ],
+  "version": "1.8"
+}

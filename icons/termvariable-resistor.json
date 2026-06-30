@@ -1,0 +1,11 @@
+{
+  "name": "termvariable-resistor",
+  "label": "term='Variable Resistor'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvariable",
+    "resistor"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "termquantum-mechanics",
+  "label": "term='Quantum Mechanics'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termquantum",
+    "mechanics"
+  ],
+  "version": "1.8"
+}

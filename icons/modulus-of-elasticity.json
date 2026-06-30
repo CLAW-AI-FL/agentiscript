@@ -1,0 +1,11 @@
+{
+  "name": "modulus-of-elasticity",
+  "label": "modulus of Elasticity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "modulus",
+    "elasticity"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wave",
+  "label": "wave",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "wave"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "termunsaturated-compound",
+  "label": "term='Unsaturated Compound'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termunsaturated",
+    "compound"
+  ],
+  "version": "1.8"
+}

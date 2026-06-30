@@ -1,0 +1,11 @@
+{
+  "name": "essential-nutrient",
+  "label": "essential Nutrient",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "essential",
+    "nutrient"
+  ],
+  "version": "1.8"
+}

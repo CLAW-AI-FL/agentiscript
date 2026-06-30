@@ -1,0 +1,11 @@
+{
+  "name": "ohms-law",
+  "label": "Ohm's Law",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "ohms",
+    "law"
+  ],
+  "version": "1.8"
+}

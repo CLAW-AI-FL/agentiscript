@@ -1,0 +1,12 @@
+{
+  "name": "activated-sludge-model",
+  "label": "Activated Sludge Model",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "activated",
+    "sludge",
+    "model"
+  ],
+  "version": "1.8"
+}

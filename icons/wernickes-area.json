@@ -1,0 +1,11 @@
+{
+  "name": "wernickes-area",
+  "label": "Wernicke's Area",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "wernickes",
+    "area"
+  ],
+  "version": "1.8"
+}

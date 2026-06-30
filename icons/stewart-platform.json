@@ -1,0 +1,11 @@
+{
+  "name": "stewart-platform",
+  "label": "Stewart Platform",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "stewart",
+    "platform"
+  ],
+  "version": "1.8"
+}

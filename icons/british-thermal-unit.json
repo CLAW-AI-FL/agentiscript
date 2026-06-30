@@ -1,0 +1,12 @@
+{
+  "name": "british-thermal-unit",
+  "label": "british Thermal Unit",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "british",
+    "thermal",
+    "unit"
+  ],
+  "version": "1.8"
+}

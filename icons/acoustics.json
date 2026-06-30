@@ -1,0 +1,10 @@
+{
+  "name": "acoustics",
+  "label": "acoustics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "acoustics"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "weak-interaction",
+  "label": "weak Interaction",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "weak",
+    "interaction"
+  ],
+  "version": "1.8"
+}

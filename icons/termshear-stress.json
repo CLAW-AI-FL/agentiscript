@@ -1,0 +1,11 @@
+{
+  "name": "termshear-stress",
+  "label": "term='Shear Stress'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termshear",
+    "stress"
+  ],
+  "version": "1.8"
+}

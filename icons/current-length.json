@@ -1,0 +1,11 @@
+{
+  "name": "current-length",
+  "label": "current Length",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "current",
+    "length"
+  ],
+  "version": "1.8"
+}

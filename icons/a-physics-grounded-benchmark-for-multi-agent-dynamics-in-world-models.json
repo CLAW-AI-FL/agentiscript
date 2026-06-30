@@ -1,0 +1,13 @@
+{
+  "name": "a-physics-grounded-benchmark-for-multi-agent-dynamics-in-world-models",
+  "label": "A Physics-grounded Benchmark for Multi-agent Dynamics in World Models",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "physics",
+    "grounded",
+    "benchmark",
+    "for"
+  ],
+  "version": "1.8"
+}

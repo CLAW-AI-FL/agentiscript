@@ -1,0 +1,11 @@
+{
+  "name": "center-of-gravity",
+  "label": "center of Gravity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "center",
+    "gravity"
+  ],
+  "version": "1.8"
+}

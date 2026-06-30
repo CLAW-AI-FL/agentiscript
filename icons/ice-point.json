@@ -1,0 +1,11 @@
+{
+  "name": "ice-point",
+  "label": "ice Point",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "ice",
+    "point"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pneumatics",
+  "label": "pneumatics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "pneumatics"
+  ],
+  "version": "1.8"
+}

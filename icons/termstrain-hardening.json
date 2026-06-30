@@ -1,0 +1,11 @@
+{
+  "name": "termstrain-hardening",
+  "label": "term='Strain Hardening'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstrain",
+    "hardening"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mass-balance",
+  "label": "mass Balance",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "mass",
+    "balance"
+  ],
+  "version": "1.8"
+}

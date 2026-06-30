@@ -1,0 +1,11 @@
+{
+  "name": "termseries-circuit",
+  "label": "term='Series Circuit'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termseries",
+    "circuit"
+  ],
+  "version": "1.8"
+}

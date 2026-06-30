@@ -1,0 +1,10 @@
+{
+  "name": "ballistics",
+  "label": "ballistics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "ballistics"
+  ],
+  "version": "1.8"
+}

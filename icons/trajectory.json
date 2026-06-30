@@ -1,0 +1,10 @@
+{
+  "name": "trajectory",
+  "label": "trajectory",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "trajectory"
+  ],
+  "version": "1.8"
+}

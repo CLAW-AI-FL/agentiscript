@@ -1,0 +1,10 @@
+{
+  "name": "vacuum",
+  "label": "vacuum",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "vacuum"
+  ],
+  "version": "1.8"
+}

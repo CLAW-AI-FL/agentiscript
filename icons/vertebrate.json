@@ -1,0 +1,10 @@
+{
+  "name": "vertebrate",
+  "label": "vertebrate",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "vertebrate"
+  ],
+  "version": "1.8"
+}

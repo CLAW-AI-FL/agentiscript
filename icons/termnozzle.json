@@ -1,0 +1,10 @@
+{
+  "name": "termnozzle",
+  "label": "term='Nozzle'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termnozzle"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "moment-of-inertia",
+  "label": "moment of Inertia",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "moment",
+    "inertia"
+  ],
+  "version": "1.8"
+}

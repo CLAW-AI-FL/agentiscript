@@ -1,0 +1,10 @@
+{
+  "name": "particle-physics",
+  "label": "particle Physics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "particle"
+  ],
+  "version": "1.8"
+}

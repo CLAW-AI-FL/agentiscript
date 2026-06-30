@@ -1,0 +1,11 @@
+{
+  "name": "hamiltonian-mechanics",
+  "label": "Hamiltonian Mechanics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "hamiltonian",
+    "mechanics"
+  ],
+  "version": "1.8"
+}

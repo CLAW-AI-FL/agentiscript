@@ -1,0 +1,10 @@
+{
+  "name": "chemistry",
+  "label": "Chemistry",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "chemistry"
+  ],
+  "version": "1.8"
+}

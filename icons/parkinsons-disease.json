@@ -1,0 +1,11 @@
+{
+  "name": "parkinsons-disease",
+  "label": "Parkinson\u2019s Disease",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "parkinsons",
+    "disease"
+  ],
+  "version": "1.8"
+}

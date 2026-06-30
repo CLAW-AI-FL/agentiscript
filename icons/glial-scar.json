@@ -1,0 +1,11 @@
+{
+  "name": "glial-scar",
+  "label": "Glial Scar",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "glial",
+    "scar"
+  ],
+  "version": "1.8"
+}

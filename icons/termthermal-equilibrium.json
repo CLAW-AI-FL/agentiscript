@@ -1,0 +1,11 @@
+{
+  "name": "termthermal-equilibrium",
+  "label": "term='Thermal Equilibrium'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termthermal",
+    "equilibrium"
+  ],
+  "version": "1.8"
+}

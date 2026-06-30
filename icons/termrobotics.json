@@ -1,0 +1,10 @@
+{
+  "name": "termrobotics",
+  "label": "term='Robotics'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termrobotics"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "refractive-index",
+  "label": "refractive Index",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "refractive",
+    "index"
+  ],
+  "version": "1.8"
+}

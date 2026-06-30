@@ -1,0 +1,11 @@
+{
+  "name": "elastic-modulus",
+  "label": "elastic Modulus",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "elastic",
+    "modulus"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "structural-load",
+  "label": "structural Load",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "structural",
+    "load"
+  ],
+  "version": "1.8"
+}

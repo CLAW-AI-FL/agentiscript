@@ -1,0 +1,11 @@
+{
+  "name": "ocular-dominance",
+  "label": "Ocular Dominance",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "ocular",
+    "dominance"
+  ],
+  "version": "1.8"
+}

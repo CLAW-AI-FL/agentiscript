@@ -1,0 +1,11 @@
+{
+  "name": "membrane-potential",
+  "label": "membrane Potential",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "membrane",
+    "potential"
+  ],
+  "version": "1.8"
+}

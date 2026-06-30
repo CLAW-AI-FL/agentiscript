@@ -1,0 +1,11 @@
+{
+  "name": "monosynaptic-reflex",
+  "label": "Monosynaptic Reflex",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "monosynaptic",
+    "reflex"
+  ],
+  "version": "1.8"
+}

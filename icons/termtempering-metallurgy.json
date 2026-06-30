@@ -1,0 +1,11 @@
+{
+  "name": "termtempering-metallurgy",
+  "label": "term='Tempering (metallurgy)'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtempering",
+    "metallurgy"
+  ],
+  "version": "1.8"
+}

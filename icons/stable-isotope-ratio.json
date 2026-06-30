@@ -1,0 +1,12 @@
+{
+  "name": "stable-isotope-ratio",
+  "label": "stable Isotope Ratio",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "stable",
+    "isotope",
+    "ratio"
+  ],
+  "version": "1.8"
+}

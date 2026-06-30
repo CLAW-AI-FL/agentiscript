@@ -1,0 +1,11 @@
+{
+  "name": "electrochemical-cell",
+  "label": "electrochemical Cell",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electrochemical",
+    "cell"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "boyles-law",
+  "label": "Boyle's Law",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "boyles",
+    "law"
+  ],
+  "version": "1.8"
+}

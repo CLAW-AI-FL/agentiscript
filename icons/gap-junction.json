@@ -1,0 +1,11 @@
+{
+  "name": "gap-junction",
+  "label": "Gap Junction",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "gap",
+    "junction"
+  ],
+  "version": "1.8"
+}

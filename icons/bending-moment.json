@@ -1,0 +1,11 @@
+{
+  "name": "bending-moment",
+  "label": "bending Moment",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "bending",
+    "moment"
+  ],
+  "version": "1.8"
+}

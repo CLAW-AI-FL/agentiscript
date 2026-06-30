@@ -1,0 +1,11 @@
+{
+  "name": "charge-carrier",
+  "label": "charge Carrier",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "charge",
+    "carrier"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "atomic-line-filter",
+  "label": "atomic Line Filter",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "atomic",
+    "line",
+    "filter"
+  ],
+  "version": "1.8"
+}

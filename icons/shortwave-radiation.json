@@ -1,0 +1,11 @@
+{
+  "name": "shortwave-radiation",
+  "label": "shortwave Radiation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "shortwave",
+    "radiation"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cathode-ray",
+  "label": "cathode Ray",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "cathode",
+    "ray"
+  ],
+  "version": "1.8"
+}

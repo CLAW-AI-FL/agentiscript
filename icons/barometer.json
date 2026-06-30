@@ -1,0 +1,10 @@
+{
+  "name": "barometer",
+  "label": "barometer",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "barometer"
+  ],
+  "version": "1.8"
+}

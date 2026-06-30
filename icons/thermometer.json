@@ -1,0 +1,10 @@
+{
+  "name": "thermometer",
+  "label": "thermometer",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "thermometer"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "plasma-physics",
+  "label": "plasma Physics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "plasma"
+  ],
+  "version": "1.8"
+}

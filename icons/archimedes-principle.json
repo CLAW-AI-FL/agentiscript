@@ -1,0 +1,11 @@
+{
+  "name": "archimedes-principle",
+  "label": "Archimedes' Principle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "archimedes",
+    "principle"
+  ],
+  "version": "1.8"
+}

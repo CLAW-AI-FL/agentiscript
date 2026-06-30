@@ -1,0 +1,10 @@
+{
+  "name": "stress",
+  "label": "stress",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "stress"
+  ],
+  "version": "1.8"
+}

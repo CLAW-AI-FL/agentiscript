@@ -1,0 +1,11 @@
+{
+  "name": "termplasma-physics",
+  "label": "term='Plasma (physics)'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termplasma",
+    "physics"
+  ],
+  "version": "1.8"
+}

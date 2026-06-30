@@ -1,0 +1,10 @@
+{
+  "name": "neuroimaging",
+  "label": "Neuroimaging",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "neuroimaging"
+  ],
+  "version": "1.8"
+}

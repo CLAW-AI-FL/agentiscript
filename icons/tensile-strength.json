@@ -1,0 +1,11 @@
+{
+  "name": "tensile-strength",
+  "label": "tensile Strength",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "tensile",
+    "strength"
+  ],
+  "version": "1.8"
+}

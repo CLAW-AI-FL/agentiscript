@@ -1,0 +1,11 @@
+{
+  "name": "corticospinal-tract",
+  "label": "Corticospinal Tract",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "corticospinal",
+    "tract"
+  ],
+  "version": "1.8"
+}

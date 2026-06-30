@@ -1,0 +1,11 @@
+{
+  "name": "nuclear-reaction",
+  "label": "nuclear Reaction",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "nuclear",
+    "reaction"
+  ],
+  "version": "1.8"
+}

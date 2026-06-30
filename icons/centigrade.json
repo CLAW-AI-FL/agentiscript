@@ -1,0 +1,10 @@
+{
+  "name": "centigrade",
+  "label": "centigrade",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "centigrade"
+  ],
+  "version": "1.8"
+}

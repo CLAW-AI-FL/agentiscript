@@ -1,0 +1,11 @@
+{
+  "name": "termrigid-body",
+  "label": "term='Rigid Body'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termrigid",
+    "body"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "braggs-law",
+  "label": "Bragg's Law",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "braggs",
+    "law"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shear-stress",
+  "label": "shear Stress",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "shear",
+    "stress"
+  ],
+  "version": "1.8"
+}

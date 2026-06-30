@@ -1,0 +1,11 @@
+{
+  "name": "termtension-member",
+  "label": "term='Tension Member'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtension",
+    "member"
+  ],
+  "version": "1.8"
+}

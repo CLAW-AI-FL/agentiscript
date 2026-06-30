@@ -1,0 +1,13 @@
+{
+  "name": "kyon-semi-modular-wheel-legged-quadruped-with-agile-bimanual-capability",
+  "label": "KYON: Semi-modular Wheel-legged Quadruped With Agile Bimanual Capability",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "kyon",
+    "semi",
+    "modular",
+    "wheel"
+  ],
+  "version": "1.8"
+}

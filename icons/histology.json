@@ -1,0 +1,10 @@
+{
+  "name": "histology",
+  "label": "Histology",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "histology"
+  ],
+  "version": "1.8"
+}

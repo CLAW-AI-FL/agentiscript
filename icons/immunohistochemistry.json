@@ -1,0 +1,10 @@
+{
+  "name": "immunohistochemistry",
+  "label": "Immunohistochemistry",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "immunohistochemistry"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sleep-spindle",
+  "label": "Sleep Spindle",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "sleep",
+    "spindle"
+  ],
+  "version": "1.8"
+}

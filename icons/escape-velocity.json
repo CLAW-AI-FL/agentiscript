@@ -1,0 +1,11 @@
+{
+  "name": "escape-velocity",
+  "label": "escape Velocity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "escape",
+    "velocity"
+  ],
+  "version": "1.8"
+}

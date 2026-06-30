@@ -1,0 +1,12 @@
+{
+  "name": "black-body-radiation",
+  "label": "black-body Radiation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "black",
+    "body",
+    "radiation"
+  ],
+  "version": "1.8"
+}

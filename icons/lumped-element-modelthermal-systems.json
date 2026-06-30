@@ -1,0 +1,13 @@
+{
+  "name": "lumped-element-modelthermal-systems",
+  "label": "Lumped Element Model#thermal Systems",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "lumped",
+    "element",
+    "modelthermal",
+    "systems"
+  ],
+  "version": "1.8"
+}

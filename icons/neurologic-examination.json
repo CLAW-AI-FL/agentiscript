@@ -1,0 +1,11 @@
+{
+  "name": "neurologic-examination",
+  "label": "Neurologic Examination",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "neurologic",
+    "examination"
+  ],
+  "version": "1.8"
+}

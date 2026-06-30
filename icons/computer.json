@@ -1,0 +1,10 @@
+{
+  "name": "computer",
+  "label": "Computer",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "computer"
+  ],
+  "version": "1.8"
+}

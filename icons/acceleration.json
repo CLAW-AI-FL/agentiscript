@@ -1,0 +1,10 @@
+{
+  "name": "acceleration",
+  "label": "acceleration",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "acceleration"
+  ],
+  "version": "1.8"
+}

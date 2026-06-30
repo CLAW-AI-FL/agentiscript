@@ -1,0 +1,10 @@
+{
+  "name": "hydrostatics",
+  "label": "hydrostatics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "hydrostatics"
+  ],
+  "version": "1.8"
+}

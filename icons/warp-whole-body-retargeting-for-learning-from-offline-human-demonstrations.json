@@ -1,0 +1,13 @@
+{
+  "name": "warp-whole-body-retargeting-for-learning-from-offline-human-demonstrations",
+  "label": "WARP: Whole-body Retargeting for Learning from Offline Human Demonstrations",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "warp",
+    "whole",
+    "body",
+    "retargeting"
+  ],
+  "version": "1.8"
+}

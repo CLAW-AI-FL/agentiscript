@@ -1,0 +1,10 @@
+{
+  "name": "speed",
+  "label": "speed",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "speed"
+  ],
+  "version": "1.8"
+}

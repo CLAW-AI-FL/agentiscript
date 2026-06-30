@@ -1,0 +1,11 @@
+{
+  "name": "schwann-cell",
+  "label": "Schwann Cell",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "schwann",
+    "cell"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "genome",
+  "label": "genome",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "genome"
+  ],
+  "version": "1.8"
+}

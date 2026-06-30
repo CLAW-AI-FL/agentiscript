@@ -1,0 +1,10 @@
+{
+  "name": "dc-motor",
+  "label": "DC Motor",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "motor"
+  ],
+  "version": "1.8"
+}

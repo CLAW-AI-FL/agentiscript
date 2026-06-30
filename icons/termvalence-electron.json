@@ -1,0 +1,11 @@
+{
+  "name": "termvalence-electron",
+  "label": "term='Valence Electron'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvalence",
+    "electron"
+  ],
+  "version": "1.8"
+}

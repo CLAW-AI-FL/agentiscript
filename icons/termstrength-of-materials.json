@@ -1,0 +1,11 @@
+{
+  "name": "termstrength-of-materials",
+  "label": "term='Strength of Materials'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstrength",
+    "materials"
+  ],
+  "version": "1.8"
+}

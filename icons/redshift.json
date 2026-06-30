@@ -1,0 +1,10 @@
+{
+  "name": "redshift",
+  "label": "redshift",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "redshift"
+  ],
+  "version": "1.8"
+}

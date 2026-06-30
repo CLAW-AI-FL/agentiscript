@@ -1,0 +1,11 @@
+{
+  "name": "navierstokes-equations",
+  "label": "Navier\u2013Stokes Equations",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "navierstokes",
+    "equations"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "termnuclear-binding-energy",
+  "label": "term='Nuclear Binding Energy'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termnuclear",
+    "binding",
+    "energy"
+  ],
+  "version": "1.8"
+}

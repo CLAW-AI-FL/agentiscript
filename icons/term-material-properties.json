@@ -1,0 +1,12 @@
+{
+  "name": "term-material-properties",
+  "label": "term= 'material Properties'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "term",
+    "material",
+    "properties"
+  ],
+  "version": "1.8"
+}

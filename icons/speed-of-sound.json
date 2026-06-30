@@ -1,0 +1,11 @@
+{
+  "name": "speed-of-sound",
+  "label": "speed of Sound",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "speed",
+    "sound"
+  ],
+  "version": "1.8"
+}

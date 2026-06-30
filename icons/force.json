@@ -1,0 +1,10 @@
+{
+  "name": "force",
+  "label": "force",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "force"
+  ],
+  "version": "1.8"
+}

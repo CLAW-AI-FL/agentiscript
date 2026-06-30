@@ -1,0 +1,11 @@
+{
+  "name": "termtensile-modulus",
+  "label": "term='Tensile Modulus'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtensile",
+    "modulus"
+  ],
+  "version": "1.8"
+}

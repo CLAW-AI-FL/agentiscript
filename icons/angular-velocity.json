@@ -1,0 +1,11 @@
+{
+  "name": "angular-velocity",
+  "label": "angular Velocity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "angular",
+    "velocity"
+  ],
+  "version": "1.8"
+}

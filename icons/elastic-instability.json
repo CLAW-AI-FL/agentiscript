@@ -1,0 +1,11 @@
+{
+  "name": "elastic-instability",
+  "label": "elastic Instability",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "elastic",
+    "instability"
+  ],
+  "version": "1.8"
+}

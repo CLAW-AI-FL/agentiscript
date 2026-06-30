@@ -1,0 +1,11 @@
+{
+  "name": "newtonian-mechanics",
+  "label": "Newtonian Mechanics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "newtonian",
+    "mechanics"
+  ],
+  "version": "1.8"
+}

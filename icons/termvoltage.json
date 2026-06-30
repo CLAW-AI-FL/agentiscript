@@ -1,0 +1,10 @@
+{
+  "name": "termvoltage",
+  "label": "term='Voltage'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvoltage"
+  ],
+  "version": "1.8"
+}

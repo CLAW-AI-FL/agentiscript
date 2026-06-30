@@ -1,0 +1,10 @@
+{
+  "name": "voltage",
+  "label": "voltage",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "voltage"
+  ],
+  "version": "1.8"
+}

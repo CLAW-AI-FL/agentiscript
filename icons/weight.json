@@ -1,0 +1,10 @@
+{
+  "name": "weight",
+  "label": "weight",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "weight"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "babinski-sign",
+  "label": "Babinski Sign",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "babinski",
+    "sign"
+  ],
+  "version": "1.8"
+}

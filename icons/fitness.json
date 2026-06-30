@@ -1,0 +1,10 @@
+{
+  "name": "fitness",
+  "label": "fitness",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "fitness"
+  ],
+  "version": "1.8"
+}

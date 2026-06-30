@@ -1,0 +1,11 @@
+{
+  "name": "visible-light",
+  "label": "visible Light",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "visible",
+    "light"
+  ],
+  "version": "1.8"
+}

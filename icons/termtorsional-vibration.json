@@ -1,0 +1,11 @@
+{
+  "name": "termtorsional-vibration",
+  "label": "term='Torsional Vibration'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtorsional",
+    "vibration"
+  ],
+  "version": "1.8"
+}

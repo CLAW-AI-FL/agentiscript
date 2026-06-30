@@ -1,0 +1,10 @@
+{
+  "name": "heat",
+  "label": "heat",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "heat"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "csar-containerized-system-architecture-for-robotics",
+  "label": "CSAR: Containerized System Architecture for Robotics",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "csar",
+    "containerized",
+    "system",
+    "architecture"
+  ],
+  "version": "1.8"
+}

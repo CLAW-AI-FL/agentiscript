@@ -1,0 +1,11 @@
+{
+  "name": "termplanck-constant",
+  "label": "term='Planck Constant'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termplanck",
+    "constant"
+  ],
+  "version": "1.8"
+}

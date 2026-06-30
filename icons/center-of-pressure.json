@@ -1,0 +1,11 @@
+{
+  "name": "center-of-pressure",
+  "label": "center of Pressure",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "center",
+    "pressure"
+  ],
+  "version": "1.8"
+}

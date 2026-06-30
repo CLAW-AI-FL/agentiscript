@@ -1,0 +1,11 @@
+{
+  "name": "avogadro-constant",
+  "label": "Avogadro Constant",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "avogadro",
+    "constant"
+  ],
+  "version": "1.8"
+}

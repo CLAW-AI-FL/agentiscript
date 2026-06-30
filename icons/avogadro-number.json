@@ -1,0 +1,11 @@
+{
+  "name": "avogadro-number",
+  "label": "Avogadro Number",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "avogadro",
+    "number"
+  ],
+  "version": "1.8"
+}

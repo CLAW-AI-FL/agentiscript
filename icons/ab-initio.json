@@ -1,0 +1,10 @@
+{
+  "name": "ab-initio",
+  "label": "ab Initio",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "initio"
+  ],
+  "version": "1.8"
+}

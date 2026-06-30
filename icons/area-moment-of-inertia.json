@@ -1,0 +1,12 @@
+{
+  "name": "area-moment-of-inertia",
+  "label": "area Moment of Inertia",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "area",
+    "moment",
+    "inertia"
+  ],
+  "version": "1.8"
+}

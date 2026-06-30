@@ -1,0 +1,11 @@
+{
+  "name": "motor-neuron",
+  "label": "Motor Neuron",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "motor",
+    "neuron"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dynamics",
+  "label": "dynamics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "dynamics"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adiabatic-cooling",
+  "label": "adiabatic Cooling",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "adiabatic",
+    "cooling"
+  ],
+  "version": "1.8"
+}

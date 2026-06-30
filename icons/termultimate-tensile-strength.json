@@ -1,0 +1,12 @@
+{
+  "name": "termultimate-tensile-strength",
+  "label": "term='Ultimate Tensile Strength'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termultimate",
+    "tensile",
+    "strength"
+  ],
+  "version": "1.8"
+}

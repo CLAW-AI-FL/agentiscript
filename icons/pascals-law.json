@@ -1,0 +1,11 @@
+{
+  "name": "pascals-law",
+  "label": "Pascal's Law",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "pascals",
+    "law"
+  ],
+  "version": "1.8"
+}

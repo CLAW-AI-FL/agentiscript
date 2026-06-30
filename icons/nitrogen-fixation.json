@@ -1,0 +1,11 @@
+{
+  "name": "nitrogen-fixation",
+  "label": "nitrogen Fixation",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "nitrogen",
+    "fixation"
+  ],
+  "version": "1.8"
+}

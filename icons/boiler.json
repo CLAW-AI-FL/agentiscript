@@ -1,0 +1,10 @@
+{
+  "name": "boiler",
+  "label": "Boiler",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "boiler"
+  ],
+  "version": "1.8"
+}

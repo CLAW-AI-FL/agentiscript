@@ -1,0 +1,11 @@
+{
+  "name": "virtual-particle",
+  "label": "virtual Particle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "virtual",
+    "particle"
+  ],
+  "version": "1.8"
+}

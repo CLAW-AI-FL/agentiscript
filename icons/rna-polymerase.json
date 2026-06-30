@@ -1,0 +1,11 @@
+{
+  "name": "rna-polymerase",
+  "label": "RNA Polymerase",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "rna",
+    "polymerase"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "termphase-rule",
+  "label": "term='Phase Rule'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termphase",
+    "rule"
+  ],
+  "version": "1.8"
+}

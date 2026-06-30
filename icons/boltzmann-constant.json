@@ -1,0 +1,11 @@
+{
+  "name": "boltzmann-constant",
+  "label": "Boltzmann Constant",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "boltzmann",
+    "constant"
+  ],
+  "version": "1.8"
+}

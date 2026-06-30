@@ -1,0 +1,12 @@
+{
+  "name": "binomial-random-variable",
+  "label": "binomial Random Variable",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "binomial",
+    "random",
+    "variable"
+  ],
+  "version": "1.8"
+}

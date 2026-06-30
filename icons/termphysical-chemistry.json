@@ -1,0 +1,11 @@
+{
+  "name": "termphysical-chemistry",
+  "label": "term='Physical Chemistry'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termphysical",
+    "chemistry"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "termsafety-data-sheet",
+  "label": "term='Safety Data Sheet'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termsafety",
+    "data",
+    "sheet"
+  ],
+  "version": "1.8"
+}

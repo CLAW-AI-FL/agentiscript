@@ -1,0 +1,11 @@
+{
+  "name": "carnot-cycle",
+  "label": "Carnot Cycle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "carnot",
+    "cycle"
+  ],
+  "version": "1.8"
+}

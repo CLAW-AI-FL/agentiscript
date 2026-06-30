@@ -1,0 +1,11 @@
+{
+  "name": "background-radiation",
+  "label": "background Radiation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "background",
+    "radiation"
+  ],
+  "version": "1.8"
+}

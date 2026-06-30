@@ -1,0 +1,11 @@
+{
+  "name": "electron-acceptor",
+  "label": "electron Acceptor",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "electron",
+    "acceptor"
+  ],
+  "version": "1.8"
+}

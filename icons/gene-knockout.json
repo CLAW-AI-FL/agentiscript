@@ -1,0 +1,11 @@
+{
+  "name": "gene-knockout",
+  "label": "Gene Knockout",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "gene",
+    "knockout"
+  ],
+  "version": "1.8"
+}

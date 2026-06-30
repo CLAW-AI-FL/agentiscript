@@ -1,0 +1,13 @@
+{
+  "name": "lateral-string-stability-for-vehicle-platoons",
+  "label": "Lateral String Stability for Vehicle Platoons",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "lateral",
+    "string",
+    "stability",
+    "for"
+  ],
+  "version": "1.8"
+}

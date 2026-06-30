@@ -1,0 +1,11 @@
+{
+  "name": "messenger-rna",
+  "label": "messenger Rna",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "messenger",
+    "rna"
+  ],
+  "version": "1.8"
+}

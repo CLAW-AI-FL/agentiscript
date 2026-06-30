@@ -1,0 +1,11 @@
+{
+  "name": "postsynaptic-potential",
+  "label": "Postsynaptic Potential",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "postsynaptic",
+    "potential"
+  ],
+  "version": "1.8"
+}

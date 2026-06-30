@@ -1,0 +1,11 @@
+{
+  "name": "stable-nuclide",
+  "label": "stable Nuclide",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "stable",
+    "nuclide"
+  ],
+  "version": "1.8"
+}

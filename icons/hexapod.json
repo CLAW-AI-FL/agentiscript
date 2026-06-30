@@ -1,0 +1,10 @@
+{
+  "name": "hexapod",
+  "label": "Hexapod",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "hexapod"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "convex-lens",
+  "label": "convex Lens",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "convex",
+    "lens"
+  ],
+  "version": "1.8"
+}

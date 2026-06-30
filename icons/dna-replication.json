@@ -1,0 +1,11 @@
+{
+  "name": "dna-replication",
+  "label": "DNA Replication",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "dna",
+    "replication"
+  ],
+  "version": "1.8"
+}

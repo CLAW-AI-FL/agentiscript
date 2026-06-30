@@ -1,0 +1,11 @@
+{
+  "name": "thermal-conduction",
+  "label": "thermal Conduction",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "thermal",
+    "conduction"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nucleic-acid",
+  "label": "nucleic Acid",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "nucleic",
+    "acid"
+  ],
+  "version": "1.8"
+}

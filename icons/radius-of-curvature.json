@@ -1,0 +1,11 @@
+{
+  "name": "radius-of-curvature",
+  "label": "radius of Curvature",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "radius",
+    "curvature"
+  ],
+  "version": "1.8"
+}

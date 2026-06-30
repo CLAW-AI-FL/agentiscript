@@ -1,0 +1,11 @@
+{
+  "name": "termsteam-table",
+  "label": "term='Steam Table'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termsteam",
+    "table"
+  ],
+  "version": "1.8"
+}

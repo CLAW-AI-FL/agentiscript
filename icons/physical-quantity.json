@@ -1,0 +1,11 @@
+{
+  "name": "physical-quantity",
+  "label": "physical Quantity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "physical",
+    "quantity"
+  ],
+  "version": "1.8"
+}

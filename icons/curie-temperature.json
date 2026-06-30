@@ -1,0 +1,11 @@
+{
+  "name": "curie-temperature",
+  "label": "Curie Temperature",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "curie",
+    "temperature"
+  ],
+  "version": "1.8"
+}

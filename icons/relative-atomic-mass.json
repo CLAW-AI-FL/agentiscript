@@ -1,0 +1,12 @@
+{
+  "name": "relative-atomic-mass",
+  "label": "relative Atomic Mass",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "relative",
+    "atomic",
+    "mass"
+  ],
+  "version": "1.8"
+}

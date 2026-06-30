@@ -1,0 +1,10 @@
+{
+  "name": "glioblastoma",
+  "label": "Glioblastoma",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "glioblastoma"
+  ],
+  "version": "1.8"
+}

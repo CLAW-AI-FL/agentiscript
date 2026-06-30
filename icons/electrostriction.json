@@ -1,0 +1,10 @@
+{
+  "name": "electrostriction",
+  "label": "electrostriction",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electrostriction"
+  ],
+  "version": "1.8"
+}

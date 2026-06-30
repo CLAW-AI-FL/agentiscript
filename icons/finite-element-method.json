@@ -1,0 +1,12 @@
+{
+  "name": "finite-element-method",
+  "label": "Finite Element Method",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "finite",
+    "element",
+    "method"
+  ],
+  "version": "1.8"
+}

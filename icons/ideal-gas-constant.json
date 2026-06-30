@@ -1,0 +1,12 @@
+{
+  "name": "ideal-gas-constant",
+  "label": "Ideal Gas Constant",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "ideal",
+    "gas",
+    "constant"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "termstewart-platform",
+  "label": "term='Stewart Platform'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstewart",
+    "platform"
+  ],
+  "version": "1.8"
+}

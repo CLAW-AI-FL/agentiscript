@@ -1,0 +1,10 @@
+{
+  "name": "termresistivity",
+  "label": "term='Resistivity'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termresistivity"
+  ],
+  "version": "1.8"
+}

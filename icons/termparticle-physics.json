@@ -1,0 +1,11 @@
+{
+  "name": "termparticle-physics",
+  "label": "term='Particle Physics'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termparticle",
+    "physics"
+  ],
+  "version": "1.8"
+}

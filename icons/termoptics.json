@@ -1,0 +1,10 @@
+{
+  "name": "termoptics",
+  "label": "term='Optics'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termoptics"
+  ],
+  "version": "1.8"
+}

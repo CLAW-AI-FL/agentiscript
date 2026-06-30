@@ -1,0 +1,11 @@
+{
+  "name": "termphase-diagram",
+  "label": "term='Phase Diagram'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termphase",
+    "diagram"
+  ],
+  "version": "1.8"
+}

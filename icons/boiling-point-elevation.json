@@ -1,0 +1,12 @@
+{
+  "name": "boiling-point-elevation",
+  "label": "boiling Point Elevation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "boiling",
+    "point",
+    "elevation"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tensile-modulus",
+  "label": "tensile Modulus",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "tensile",
+    "modulus"
+  ],
+  "version": "1.8"
+}

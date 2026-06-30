@@ -1,0 +1,10 @@
+{
+  "name": "motion",
+  "label": "motion",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "motion"
+  ],
+  "version": "1.8"
+}

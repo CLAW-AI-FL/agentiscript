@@ -1,0 +1,13 @@
+{
+  "name": "sequential-planning-via-anchored-robotic-keypoints",
+  "label": "Sequential Planning Via Anchored Robotic Keypoints",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "sequential",
+    "planning",
+    "via",
+    "anchored"
+  ],
+  "version": "1.8"
+}

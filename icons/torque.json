@@ -1,0 +1,10 @@
+{
+  "name": "torque",
+  "label": "torque",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "torque"
+  ],
+  "version": "1.8"
+}

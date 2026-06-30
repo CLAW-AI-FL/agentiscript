@@ -1,0 +1,11 @@
+{
+  "name": "otolith-organs",
+  "label": "Otolith Organs",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "otolith",
+    "organs"
+  ],
+  "version": "1.8"
+}

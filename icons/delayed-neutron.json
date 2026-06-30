@@ -1,0 +1,11 @@
+{
+  "name": "delayed-neutron",
+  "label": "delayed Neutron",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "delayed",
+    "neutron"
+  ],
+  "version": "1.8"
+}

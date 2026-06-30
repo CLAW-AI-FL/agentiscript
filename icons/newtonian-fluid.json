@@ -1,0 +1,11 @@
+{
+  "name": "newtonian-fluid",
+  "label": "Newtonian Fluid",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "newtonian",
+    "fluid"
+  ],
+  "version": "1.8"
+}

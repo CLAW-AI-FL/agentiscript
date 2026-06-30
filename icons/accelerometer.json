@@ -1,0 +1,10 @@
+{
+  "name": "accelerometer",
+  "label": "accelerometer",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "accelerometer"
+  ],
+  "version": "1.8"
+}

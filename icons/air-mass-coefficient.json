@@ -1,0 +1,12 @@
+{
+  "name": "air-mass-coefficient",
+  "label": "air Mass Coefficient",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "air",
+    "mass",
+    "coefficient"
+  ],
+  "version": "1.8"
+}

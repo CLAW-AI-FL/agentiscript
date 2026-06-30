@@ -1,0 +1,11 @@
+{
+  "name": "receptor-potential",
+  "label": "Receptor Potential",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "receptor",
+    "potential"
+  ],
+  "version": "1.8"
+}

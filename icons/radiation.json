@@ -1,0 +1,10 @@
+{
+  "name": "radiation",
+  "label": "radiation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "radiation"
+  ],
+  "version": "1.8"
+}

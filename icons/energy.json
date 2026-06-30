@@ -1,0 +1,10 @@
+{
+  "name": "energy",
+  "label": "energy",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "energy"
+  ],
+  "version": "1.8"
+}

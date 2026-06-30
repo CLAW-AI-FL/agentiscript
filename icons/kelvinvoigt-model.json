@@ -1,0 +1,11 @@
+{
+  "name": "kelvinvoigt-model",
+  "label": "Kelvin\u2013Voigt Model",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "kelvinvoigt",
+    "model"
+  ],
+  "version": "1.8"
+}

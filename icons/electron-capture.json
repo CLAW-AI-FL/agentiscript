@@ -1,0 +1,11 @@
+{
+  "name": "electron-capture",
+  "label": "electron Capture",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electron",
+    "capture"
+  ],
+  "version": "1.8"
+}

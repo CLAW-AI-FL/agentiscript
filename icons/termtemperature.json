@@ -1,0 +1,10 @@
+{
+  "name": "termtemperature",
+  "label": "term='Temperature'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtemperature"
+  ],
+  "version": "1.8"
+}

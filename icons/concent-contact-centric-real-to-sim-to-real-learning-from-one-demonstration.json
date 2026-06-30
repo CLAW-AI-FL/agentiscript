@@ -1,0 +1,13 @@
+{
+  "name": "concent-contact-centric-real-to-sim-to-real-learning-from-one-demonstration",
+  "label": "ConCent: Contact-centric Real-to-sim-to-real Learning from One Demonstration",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "concent",
+    "contact",
+    "centric",
+    "real"
+  ],
+  "version": "1.8"
+}

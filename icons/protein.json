@@ -1,0 +1,10 @@
+{
+  "name": "protein",
+  "label": "protein",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "protein"
+  ],
+  "version": "1.8"
+}

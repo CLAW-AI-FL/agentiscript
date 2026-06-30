@@ -1,0 +1,11 @@
+{
+  "name": "brain-ventricles",
+  "label": "Brain Ventricles",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "brain",
+    "ventricles"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "voxel-based-morphometry",
+  "label": "Voxel-based Morphometry",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "voxel",
+    "based",
+    "morphometry"
+  ],
+  "version": "1.8"
+}

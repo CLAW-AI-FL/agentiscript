@@ -1,0 +1,11 @@
+{
+  "name": "termrotational-speed",
+  "label": "term='Rotational Speed'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termrotational",
+    "speed"
+  ],
+  "version": "1.8"
+}

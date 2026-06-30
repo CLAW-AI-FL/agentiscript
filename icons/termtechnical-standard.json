@@ -1,0 +1,11 @@
+{
+  "name": "termtechnical-standard",
+  "label": "term='Technical Standard'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtechnical",
+    "standard"
+  ],
+  "version": "1.8"
+}

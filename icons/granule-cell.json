@@ -1,0 +1,11 @@
+{
+  "name": "granule-cell",
+  "label": "Granule Cell",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "granule",
+    "cell"
+  ],
+  "version": "1.8"
+}

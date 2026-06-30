@@ -1,0 +1,11 @@
+{
+  "name": "conduction-velocity",
+  "label": "Conduction Velocity",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "conduction",
+    "velocity"
+  ],
+  "version": "1.8"
+}

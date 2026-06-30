@@ -1,0 +1,11 @@
+{
+  "name": "elastic-energy",
+  "label": "elastic Energy",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "elastic",
+    "energy"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "orientation-column",
+  "label": "Orientation Column",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "orientation",
+    "column"
+  ],
+  "version": "1.8"
+}

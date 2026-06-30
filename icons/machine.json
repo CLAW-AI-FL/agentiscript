@@ -1,0 +1,10 @@
+{
+  "name": "machine",
+  "label": "machine",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "machine"
+  ],
+  "version": "1.8"
+}

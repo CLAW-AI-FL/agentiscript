@@ -1,0 +1,10 @@
+{
+  "name": "molecular-biology",
+  "label": "molecular Biology",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "molecular"
+  ],
+  "version": "1.8"
+}

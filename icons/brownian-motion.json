@@ -1,0 +1,11 @@
+{
+  "name": "brownian-motion",
+  "label": "Brownian Motion",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "brownian",
+    "motion"
+  ],
+  "version": "1.8"
+}

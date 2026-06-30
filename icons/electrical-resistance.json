@@ -1,0 +1,11 @@
+{
+  "name": "electrical-resistance",
+  "label": "electrical Resistance",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electrical",
+    "resistance"
+  ],
+  "version": "1.8"
+}

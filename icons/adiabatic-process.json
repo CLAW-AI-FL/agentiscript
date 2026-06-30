@@ -1,0 +1,11 @@
+{
+  "name": "adiabatic-process",
+  "label": "adiabatic Process",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "adiabatic",
+    "process"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "test-particle",
+  "label": "test Particle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "test",
+    "particle"
+  ],
+  "version": "1.8"
+}

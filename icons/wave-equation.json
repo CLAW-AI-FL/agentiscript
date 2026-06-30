@@ -1,0 +1,11 @@
+{
+  "name": "wave-equation",
+  "label": "wave Equation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "wave",
+    "equation"
+  ],
+  "version": "1.8"
+}

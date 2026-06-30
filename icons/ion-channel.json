@@ -1,0 +1,11 @@
+{
+  "name": "ion-channel",
+  "label": "Ion Channel",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "ion",
+    "channel"
+  ],
+  "version": "1.8"
+}

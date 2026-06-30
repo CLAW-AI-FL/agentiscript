@@ -1,0 +1,10 @@
+{
+  "name": "lc-circuit",
+  "label": "LC Circuit",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "circuit"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "particle-accelerator",
+  "label": "particle Accelerator",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "particle",
+    "accelerator"
+  ],
+  "version": "1.8"
+}

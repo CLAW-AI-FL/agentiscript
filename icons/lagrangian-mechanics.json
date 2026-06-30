@@ -1,0 +1,11 @@
+{
+  "name": "lagrangian-mechanics",
+  "label": "Lagrangian Mechanics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "lagrangian",
+    "mechanics"
+  ],
+  "version": "1.8"
+}

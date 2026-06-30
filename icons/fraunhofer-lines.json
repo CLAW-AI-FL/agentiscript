@@ -1,0 +1,11 @@
+{
+  "name": "fraunhofer-lines",
+  "label": "Fraunhofer Lines",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "fraunhofer",
+    "lines"
+  ],
+  "version": "1.8"
+}

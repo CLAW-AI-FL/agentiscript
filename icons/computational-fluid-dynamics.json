@@ -1,0 +1,12 @@
+{
+  "name": "computational-fluid-dynamics",
+  "label": "Computational Fluid Dynamics",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "computational",
+    "fluid",
+    "dynamics"
+  ],
+  "version": "1.8"
+}

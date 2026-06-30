@@ -1,0 +1,11 @@
+{
+  "name": "thermal-equilibrium",
+  "label": "thermal Equilibrium",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "thermal",
+    "equilibrium"
+  ],
+  "version": "1.8"
+}

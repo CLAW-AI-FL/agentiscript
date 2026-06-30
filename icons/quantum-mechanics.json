@@ -1,0 +1,11 @@
+{
+  "name": "quantum-mechanics",
+  "label": "quantum Mechanics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "quantum",
+    "mechanics"
+  ],
+  "version": "1.8"
+}

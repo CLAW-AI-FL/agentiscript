@@ -1,0 +1,10 @@
+{
+  "name": "endotherm",
+  "label": "endotherm",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "endotherm"
+  ],
+  "version": "1.8"
+}

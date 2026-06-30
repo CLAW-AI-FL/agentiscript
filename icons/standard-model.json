@@ -1,0 +1,11 @@
+{
+  "name": "standard-model",
+  "label": "Standard Model",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "standard",
+    "model"
+  ],
+  "version": "1.8"
+}

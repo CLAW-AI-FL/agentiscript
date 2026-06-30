@@ -1,0 +1,11 @@
+{
+  "name": "material-properties",
+  "label": "material Properties",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "material",
+    "properties"
+  ],
+  "version": "1.8"
+}
