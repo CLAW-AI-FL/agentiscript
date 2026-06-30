@@ -1,0 +1,11 @@
+{
+  "name": "beta-particle",
+  "label": "beta Particle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "beta",
+    "particle"
+  ],
+  "version": "1.8"
+}

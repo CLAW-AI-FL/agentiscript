@@ -1,0 +1,11 @@
+{
+  "name": "quantum-chromodynamics",
+  "label": "quantum Chromodynamics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "quantum",
+    "chromodynamics"
+  ],
+  "version": "1.8"
+}

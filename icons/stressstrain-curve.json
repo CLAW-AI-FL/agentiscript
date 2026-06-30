@@ -1,0 +1,11 @@
+{
+  "name": "stressstrain-curve",
+  "label": "stress\u2013strain Curve",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "stressstrain",
+    "curve"
+  ],
+  "version": "1.8"
+}

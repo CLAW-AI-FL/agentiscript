@@ -1,0 +1,10 @@
+{
+  "name": "deflection",
+  "label": "deflection",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "deflection"
+  ],
+  "version": "1.8"
+}

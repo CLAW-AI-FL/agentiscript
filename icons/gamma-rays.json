@@ -1,0 +1,11 @@
+{
+  "name": "gamma-rays",
+  "label": "Gamma Rays",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "gamma",
+    "rays"
+  ],
+  "version": "1.8"
+}

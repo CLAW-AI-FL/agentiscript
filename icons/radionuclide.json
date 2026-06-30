@@ -1,0 +1,10 @@
+{
+  "name": "radionuclide",
+  "label": "radionuclide",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "radionuclide"
+  ],
+  "version": "1.8"
+}

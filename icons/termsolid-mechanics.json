@@ -1,0 +1,11 @@
+{
+  "name": "termsolid-mechanics",
+  "label": "term='Solid Mechanics'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termsolid",
+    "mechanics"
+  ],
+  "version": "1.8"
+}

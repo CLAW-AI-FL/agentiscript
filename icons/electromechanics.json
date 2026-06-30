@@ -1,0 +1,10 @@
+{
+  "name": "electromechanics",
+  "label": "electromechanics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electromechanics"
+  ],
+  "version": "1.8"
+}

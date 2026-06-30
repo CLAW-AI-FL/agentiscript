@@ -1,0 +1,11 @@
+{
+  "name": "binding-energy",
+  "label": "binding Energy",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "binding",
+    "energy"
+  ],
+  "version": "1.8"
+}

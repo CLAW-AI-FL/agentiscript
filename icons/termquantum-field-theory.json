@@ -1,0 +1,12 @@
+{
+  "name": "termquantum-field-theory",
+  "label": "term='Quantum Field Theory'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termquantum",
+    "field",
+    "theory"
+  ],
+  "version": "1.8"
+}

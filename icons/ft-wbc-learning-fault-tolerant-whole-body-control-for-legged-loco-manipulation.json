@@ -1,0 +1,13 @@
+{
+  "name": "ft-wbc-learning-fault-tolerant-whole-body-control-for-legged-loco-manipulation",
+  "label": "FT-WBC: Learning Fault-tolerant Whole-body Control for Legged Loco-manipulation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "wbc",
+    "learning",
+    "fault",
+    "tolerant"
+  ],
+  "version": "1.8"
+}

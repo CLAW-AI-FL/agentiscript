@@ -1,0 +1,11 @@
+{
+  "name": "tonic-receptor",
+  "label": "Tonic Receptor",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "tonic",
+    "receptor"
+  ],
+  "version": "1.8"
+}

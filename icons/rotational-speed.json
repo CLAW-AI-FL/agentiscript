@@ -1,0 +1,11 @@
+{
+  "name": "rotational-speed",
+  "label": "rotational Speed",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "rotational",
+    "speed"
+  ],
+  "version": "1.8"
+}

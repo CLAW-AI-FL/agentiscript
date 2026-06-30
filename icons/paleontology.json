@@ -1,0 +1,10 @@
+{
+  "name": "paleontology",
+  "label": "paleontology",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "paleontology"
+  ],
+  "version": "1.8"
+}

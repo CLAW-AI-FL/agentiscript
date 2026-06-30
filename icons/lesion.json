@@ -1,0 +1,10 @@
+{
+  "name": "lesion",
+  "label": "Lesion",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "lesion"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "axon-hillock",
+  "label": "Axon Hillock",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "axon",
+    "hillock"
+  ],
+  "version": "1.8"
+}

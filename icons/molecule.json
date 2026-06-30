@@ -1,0 +1,10 @@
+{
+  "name": "molecule",
+  "label": "molecule",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "molecule"
+  ],
+  "version": "1.8"
+}

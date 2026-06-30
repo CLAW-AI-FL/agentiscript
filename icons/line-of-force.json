@@ -1,0 +1,11 @@
+{
+  "name": "line-of-force",
+  "label": "line of Force",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "line",
+    "force"
+  ],
+  "version": "1.8"
+}

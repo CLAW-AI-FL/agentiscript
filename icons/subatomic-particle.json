@@ -1,0 +1,11 @@
+{
+  "name": "subatomic-particle",
+  "label": "subatomic Particle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "subatomic",
+    "particle"
+  ],
+  "version": "1.8"
+}

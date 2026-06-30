@@ -1,0 +1,11 @@
+{
+  "name": "nuclear-fission",
+  "label": "Nuclear Fission",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "nuclear",
+    "fission"
+  ],
+  "version": "1.8"
+}

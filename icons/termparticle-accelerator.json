@@ -1,0 +1,11 @@
+{
+  "name": "termparticle-accelerator",
+  "label": "term='Particle Accelerator'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termparticle",
+    "accelerator"
+  ],
+  "version": "1.8"
+}

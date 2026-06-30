@@ -1,0 +1,12 @@
+{
+  "name": "whole-genome-sequencing",
+  "label": "whole Genome Sequencing",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "whole",
+    "genome",
+    "sequencing"
+  ],
+  "version": "1.8"
+}

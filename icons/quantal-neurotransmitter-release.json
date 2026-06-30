@@ -1,0 +1,12 @@
+{
+  "name": "quantal-neurotransmitter-release",
+  "label": "Quantal Neurotransmitter Release",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "quantal",
+    "neurotransmitter",
+    "release"
+  ],
+  "version": "1.8"
+}

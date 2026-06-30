@@ -1,0 +1,12 @@
+{
+  "name": "electric-field-intensity",
+  "label": "electric Field Intensity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electric",
+    "field",
+    "intensity"
+  ],
+  "version": "1.8"
+}

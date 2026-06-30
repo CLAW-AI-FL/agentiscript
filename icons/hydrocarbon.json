@@ -1,0 +1,10 @@
+{
+  "name": "hydrocarbon",
+  "label": "Hydrocarbon",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "hydrocarbon"
+  ],
+  "version": "1.8"
+}

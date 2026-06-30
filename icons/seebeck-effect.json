@@ -1,0 +1,11 @@
+{
+  "name": "seebeck-effect",
+  "label": "Seebeck Effect",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "seebeck",
+    "effect"
+  ],
+  "version": "1.8"
+}

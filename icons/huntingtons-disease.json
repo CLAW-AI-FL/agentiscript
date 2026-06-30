@@ -1,0 +1,11 @@
+{
+  "name": "huntingtons-disease",
+  "label": "Huntington's Disease",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "huntingtons",
+    "disease"
+  ],
+  "version": "1.8"
+}

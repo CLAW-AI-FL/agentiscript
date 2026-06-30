@@ -1,0 +1,12 @@
+{
+  "name": "low-threshold-spikes",
+  "label": "Low-threshold Spikes",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "low",
+    "threshold",
+    "spikes"
+  ],
+  "version": "1.8"
+}

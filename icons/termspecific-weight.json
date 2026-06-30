@@ -1,0 +1,11 @@
+{
+  "name": "termspecific-weight",
+  "label": "term='Specific Weight'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termspecific",
+    "weight"
+  ],
+  "version": "1.8"
+}

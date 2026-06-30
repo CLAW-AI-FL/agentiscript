@@ -1,0 +1,13 @@
+{
+  "name": "asyncmde-real-time-monocular-depth-estimation-via-asynchronous-spatial-memory",
+  "label": "AsyncMDE: Real-time Monocular Depth Estimation Via Asynchronous Spatial Memory",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "asyncmde",
+    "real",
+    "time",
+    "monocular"
+  ],
+  "version": "1.8"
+}

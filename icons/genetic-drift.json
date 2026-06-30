@@ -1,0 +1,11 @@
+{
+  "name": "genetic-drift",
+  "label": "genetic Drift",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "genetic",
+    "drift"
+  ],
+  "version": "1.8"
+}

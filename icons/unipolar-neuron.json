@@ -1,0 +1,11 @@
+{
+  "name": "unipolar-neuron",
+  "label": "Unipolar Neuron",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "unipolar",
+    "neuron"
+  ],
+  "version": "1.8"
+}

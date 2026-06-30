@@ -1,0 +1,10 @@
+{
+  "name": "albedo",
+  "label": "albedo",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "albedo"
+  ],
+  "version": "1.8"
+}

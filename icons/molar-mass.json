@@ -1,0 +1,11 @@
+{
+  "name": "molar-mass",
+  "label": "molar Mass",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "molar",
+    "mass"
+  ],
+  "version": "1.8"
+}

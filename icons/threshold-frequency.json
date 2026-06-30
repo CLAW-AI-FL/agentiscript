@@ -1,0 +1,11 @@
+{
+  "name": "threshold-frequency",
+  "label": "threshold Frequency",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "threshold",
+    "frequency"
+  ],
+  "version": "1.8"
+}

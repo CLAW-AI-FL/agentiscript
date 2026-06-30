@@ -1,0 +1,11 @@
+{
+  "name": "endergonic-reaction",
+  "label": "endergonic Reaction",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "endergonic",
+    "reaction"
+  ],
+  "version": "1.8"
+}

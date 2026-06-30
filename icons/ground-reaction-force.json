@@ -1,0 +1,12 @@
+{
+  "name": "ground-reaction-force",
+  "label": "ground Reaction Force",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "ground",
+    "reaction",
+    "force"
+  ],
+  "version": "1.8"
+}

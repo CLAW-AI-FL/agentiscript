@@ -1,0 +1,13 @@
+{
+  "name": "termsafe-failure-fraction-sff",
+  "label": "term='Safe Failure Fraction (sff)'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termsafe",
+    "failure",
+    "fraction",
+    "sff"
+  ],
+  "version": "1.8"
+}

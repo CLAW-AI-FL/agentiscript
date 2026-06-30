@@ -1,0 +1,11 @@
+{
+  "name": "chromatic-aberration",
+  "label": "chromatic Aberration",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "chromatic",
+    "aberration"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "termvolt-ampere",
+  "label": "term='Volt-ampere'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvolt",
+    "ampere"
+  ],
+  "version": "1.8"
+}

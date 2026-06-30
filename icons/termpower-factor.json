@@ -1,0 +1,11 @@
+{
+  "name": "termpower-factor",
+  "label": "term='Power Factor'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termpower",
+    "factor"
+  ],
+  "version": "1.8"
+}

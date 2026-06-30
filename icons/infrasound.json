@@ -1,0 +1,10 @@
+{
+  "name": "infrasound",
+  "label": "infrasound",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "infrasound"
+  ],
+  "version": "1.8"
+}

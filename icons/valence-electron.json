@@ -1,0 +1,11 @@
+{
+  "name": "valence-electron",
+  "label": "valence Electron",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "valence",
+    "electron"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "grow2-grounding-which-and-where-for-robot-tool-use",
+  "label": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "grow2",
+    "grounding",
+    "which",
+    "and"
+  ],
+  "version": "1.8"
+}

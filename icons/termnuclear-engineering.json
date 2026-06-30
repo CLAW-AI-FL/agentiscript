@@ -1,0 +1,10 @@
+{
+  "name": "termnuclear-engineering",
+  "label": "term='Nuclear Engineering'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termnuclear"
+  ],
+  "version": "1.8"
+}

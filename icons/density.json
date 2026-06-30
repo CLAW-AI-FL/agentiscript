@@ -1,0 +1,10 @@
+{
+  "name": "density",
+  "label": "density",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "density"
+  ],
+  "version": "1.8"
+}

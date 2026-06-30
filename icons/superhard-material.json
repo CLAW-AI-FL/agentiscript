@@ -1,0 +1,11 @@
+{
+  "name": "superhard-material",
+  "label": "superhard Material",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "superhard",
+    "material"
+  ],
+  "version": "1.8"
+}

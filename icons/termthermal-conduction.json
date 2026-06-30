@@ -1,0 +1,11 @@
+{
+  "name": "termthermal-conduction",
+  "label": "term='Thermal Conduction'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termthermal",
+    "conduction"
+  ],
+  "version": "1.8"
+}

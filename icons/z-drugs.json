@@ -1,0 +1,10 @@
+{
+  "name": "z-drugs",
+  "label": "Z-drugs",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "drugs"
+  ],
+  "version": "1.8"
+}

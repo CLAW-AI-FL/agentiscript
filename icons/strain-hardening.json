@@ -1,0 +1,11 @@
+{
+  "name": "strain-hardening",
+  "label": "strain Hardening",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "strain",
+    "hardening"
+  ],
+  "version": "1.8"
+}

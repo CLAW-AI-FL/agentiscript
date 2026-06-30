@@ -1,0 +1,11 @@
+{
+  "name": "shear-strength",
+  "label": "shear Strength",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "shear",
+    "strength"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "concave-lens",
+  "label": "concave Lens",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "concave",
+    "lens"
+  ],
+  "version": "1.8"
+}

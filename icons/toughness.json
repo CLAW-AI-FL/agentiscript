@@ -1,0 +1,10 @@
+{
+  "name": "toughness",
+  "label": "toughness",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "toughness"
+  ],
+  "version": "1.8"
+}

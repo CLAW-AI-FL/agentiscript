@@ -1,0 +1,10 @@
+{
+  "name": "phenotype",
+  "label": "Phenotype",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "phenotype"
+  ],
+  "version": "1.8"
+}

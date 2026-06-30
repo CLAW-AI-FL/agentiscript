@@ -1,0 +1,10 @@
+{
+  "name": "optogenetics",
+  "label": "Optogenetics",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "optogenetics"
+  ],
+  "version": "1.8"
+}

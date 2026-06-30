@@ -1,0 +1,13 @@
+{
+  "name": "tap-vla-tactile-annotation-prompting-for-vision-language-action-models",
+  "label": "TAP-VLA: Tactile Annotation Prompting for Vision Language Action Models",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "tap",
+    "vla",
+    "tactile",
+    "annotation"
+  ],
+  "version": "1.8"
+}

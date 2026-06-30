@@ -1,0 +1,11 @@
+{
+  "name": "termspecific-heat",
+  "label": "term='Specific Heat'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termspecific",
+    "heat"
+  ],
+  "version": "1.8"
+}

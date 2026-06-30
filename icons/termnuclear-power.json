@@ -1,0 +1,11 @@
+{
+  "name": "termnuclear-power",
+  "label": "term='Nuclear Power'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termnuclear",
+    "power"
+  ],
+  "version": "1.8"
+}

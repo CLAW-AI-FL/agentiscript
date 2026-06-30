@@ -1,0 +1,11 @@
+{
+  "name": "black-body",
+  "label": "black Body",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "black",
+    "body"
+  ],
+  "version": "1.8"
+}

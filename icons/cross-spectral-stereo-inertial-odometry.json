@@ -1,0 +1,13 @@
+{
+  "name": "cross-spectral-stereo-inertial-odometry",
+  "label": "Cross-Spectral Stereo Inertial Odometry",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "cross",
+    "spectral",
+    "stereo",
+    "inertial"
+  ],
+  "version": "1.8"
+}

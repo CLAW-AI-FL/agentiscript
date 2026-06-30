@@ -1,0 +1,13 @@
+{
+  "name": "sim2swim-zero-shot-velocity-control-for-agile-auv-maneuvering-in-3-minutes",
+  "label": "Sim2Swim: Zero-shot Velocity Control for Agile Auv Maneuvering in 3 Minutes",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "sim2swim",
+    "zero",
+    "shot",
+    "velocity"
+  ],
+  "version": "1.8"
+}

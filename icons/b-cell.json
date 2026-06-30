@@ -1,0 +1,10 @@
+{
+  "name": "b-cell",
+  "label": "B Cell",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "cell"
+  ],
+  "version": "1.8"
+}

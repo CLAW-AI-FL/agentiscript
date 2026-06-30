@@ -1,0 +1,13 @@
+{
+  "name": "behavior-prompting-policy-demonstrations-as-prompts-for-manipulation",
+  "label": "Behavior Prompting Policy: Demonstrations As Prompts for Manipulation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "behavior",
+    "prompting",
+    "policy",
+    "demonstrations"
+  ],
+  "version": "1.8"
+}

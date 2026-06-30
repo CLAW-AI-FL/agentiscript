@@ -1,0 +1,10 @@
+{
+  "name": "pulse",
+  "label": "pulse",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "pulse"
+  ],
+  "version": "1.8"
+}

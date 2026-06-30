@@ -1,0 +1,11 @@
+{
+  "name": "motor-cortex",
+  "label": "Motor Cortex",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "motor",
+    "cortex"
+  ],
+  "version": "1.8"
+}

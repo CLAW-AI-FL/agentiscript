@@ -1,0 +1,11 @@
+{
+  "name": "field-potential",
+  "label": "Field Potential",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "field",
+    "potential"
+  ],
+  "version": "1.8"
+}

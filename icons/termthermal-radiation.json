@@ -1,0 +1,11 @@
+{
+  "name": "termthermal-radiation",
+  "label": "term='Thermal Radiation'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termthermal",
+    "radiation"
+  ],
+  "version": "1.8"
+}

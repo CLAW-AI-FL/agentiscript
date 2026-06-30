@@ -1,0 +1,10 @@
+{
+  "name": "synapse",
+  "label": "Synapse",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "synapse"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "presynaptic-terminal",
+  "label": "Presynaptic Terminal",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "presynaptic",
+    "terminal"
+  ],
+  "version": "1.8"
+}

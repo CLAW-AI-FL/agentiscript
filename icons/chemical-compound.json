@@ -1,0 +1,11 @@
+{
+  "name": "chemical-compound",
+  "label": "Chemical Compound",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "chemical",
+    "compound"
+  ],
+  "version": "1.8"
+}

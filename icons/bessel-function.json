@@ -1,0 +1,11 @@
+{
+  "name": "bessel-function",
+  "label": "Bessel Function",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "bessel",
+    "function"
+  ],
+  "version": "1.8"
+}

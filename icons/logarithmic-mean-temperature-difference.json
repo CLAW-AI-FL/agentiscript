@@ -1,0 +1,13 @@
+{
+  "name": "logarithmic-mean-temperature-difference",
+  "label": "Logarithmic Mean Temperature Difference",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "logarithmic",
+    "mean",
+    "temperature",
+    "difference"
+  ],
+  "version": "1.8"
+}

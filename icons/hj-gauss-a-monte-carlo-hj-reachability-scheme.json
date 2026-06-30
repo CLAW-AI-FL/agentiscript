@@ -1,0 +1,13 @@
+{
+  "name": "hj-gauss-a-monte-carlo-hj-reachability-scheme",
+  "label": "HJ-Gauss: A Monte-carlo Hj Reachability Scheme",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "gauss",
+    "monte",
+    "carlo",
+    "reachability"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "disease",
+  "label": "disease",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "disease"
+  ],
+  "version": "1.8"
+}

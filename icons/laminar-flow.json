@@ -1,0 +1,11 @@
+{
+  "name": "laminar-flow",
+  "label": "laminar Flow",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "laminar",
+    "flow"
+  ],
+  "version": "1.8"
+}

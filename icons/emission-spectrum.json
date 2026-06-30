@@ -1,0 +1,11 @@
+{
+  "name": "emission-spectrum",
+  "label": "emission Spectrum",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "emission",
+    "spectrum"
+  ],
+  "version": "1.8"
+}

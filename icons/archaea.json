@@ -1,0 +1,10 @@
+{
+  "name": "archaea",
+  "label": "Archaea",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "archaea"
+  ],
+  "version": "1.8"
+}

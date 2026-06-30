@@ -1,0 +1,10 @@
+{
+  "name": "viscosity",
+  "label": "viscosity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "viscosity"
+  ],
+  "version": "1.8"
+}

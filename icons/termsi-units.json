@@ -1,0 +1,11 @@
+{
+  "name": "termsi-units",
+  "label": "term='SI Units'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termsi",
+    "units"
+  ],
+  "version": "1.8"
+}

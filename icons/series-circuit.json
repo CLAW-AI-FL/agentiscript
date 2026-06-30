@@ -1,0 +1,11 @@
+{
+  "name": "series-circuit",
+  "label": "series Circuit",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "series",
+    "circuit"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "termtensile-strength",
+  "label": "term='Tensile Strength'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtensile",
+    "strength"
+  ],
+  "version": "1.8"
+}

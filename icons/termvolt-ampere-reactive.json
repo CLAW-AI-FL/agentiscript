@@ -1,0 +1,12 @@
+{
+  "name": "termvolt-ampere-reactive",
+  "label": "term='Volt-ampere Reactive'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvolt",
+    "ampere",
+    "reactive"
+  ],
+  "version": "1.8"
+}

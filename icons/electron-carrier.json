@@ -1,0 +1,11 @@
+{
+  "name": "electron-carrier",
+  "label": "electron Carrier",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "electron",
+    "carrier"
+  ],
+  "version": "1.8"
+}

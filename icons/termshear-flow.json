@@ -1,0 +1,11 @@
+{
+  "name": "termshear-flow",
+  "label": "term='Shear Flow'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termshear",
+    "flow"
+  ],
+  "version": "1.8"
+}

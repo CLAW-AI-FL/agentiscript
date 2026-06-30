@@ -1,0 +1,11 @@
+{
+  "name": "braket-notation",
+  "label": "Bra\u2013ket Notation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "braket",
+    "notation"
+  ],
+  "version": "1.8"
+}

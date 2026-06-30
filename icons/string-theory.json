@@ -1,0 +1,11 @@
+{
+  "name": "string-theory",
+  "label": "string Theory",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "string",
+    "theory"
+  ],
+  "version": "1.8"
+}

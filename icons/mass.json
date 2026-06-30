@@ -1,0 +1,10 @@
+{
+  "name": "mass",
+  "label": "mass",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "mass"
+  ],
+  "version": "1.8"
+}

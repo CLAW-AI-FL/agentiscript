@@ -1,0 +1,11 @@
+{
+  "name": "wilsons-disease",
+  "label": "Wilson's Disease",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "wilsons",
+    "disease"
+  ],
+  "version": "1.8"
+}

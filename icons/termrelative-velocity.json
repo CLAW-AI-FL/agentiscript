@@ -1,0 +1,11 @@
+{
+  "name": "termrelative-velocity",
+  "label": "term='Relative Velocity'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termrelative",
+    "velocity"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "car-cross-vehicle-kinodynamics-adaptation-via-mobility-representation",
+  "label": "CAR: Cross-vehicle Kinodynamics Adaptation Via Mobility Representation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "car",
+    "cross",
+    "vehicle",
+    "kinodynamics"
+  ],
+  "version": "1.8"
+}

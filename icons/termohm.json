@@ -1,0 +1,10 @@
+{
+  "name": "termohm",
+  "label": "term='Ohm'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termohm"
+  ],
+  "version": "1.8"
+}

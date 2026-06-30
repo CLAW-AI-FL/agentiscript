@@ -1,0 +1,10 @@
+{
+  "name": "bremsstrahlung",
+  "label": "bremsstrahlung",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "bremsstrahlung"
+  ],
+  "version": "1.8"
+}

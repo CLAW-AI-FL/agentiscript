@@ -1,0 +1,12 @@
+{
+  "name": "lumped-element-model",
+  "label": "Lumped Element Model",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "lumped",
+    "element",
+    "model"
+  ],
+  "version": "1.8"
+}

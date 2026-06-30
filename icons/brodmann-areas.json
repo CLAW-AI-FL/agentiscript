@@ -1,0 +1,11 @@
+{
+  "name": "brodmann-areas",
+  "label": "Brodmann Areas",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "brodmann",
+    "areas"
+  ],
+  "version": "1.8"
+}

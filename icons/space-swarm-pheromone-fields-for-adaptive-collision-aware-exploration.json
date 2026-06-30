@@ -1,0 +1,13 @@
+{
+  "name": "space-swarm-pheromone-fields-for-adaptive-collision-aware-exploration",
+  "label": "SPACE: Swarm Pheromone Fields for Adaptive Collision-aware Exploration",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "space",
+    "swarm",
+    "pheromone",
+    "fields"
+  ],
+  "version": "1.8"
+}

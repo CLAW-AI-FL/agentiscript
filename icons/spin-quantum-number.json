@@ -1,0 +1,12 @@
+{
+  "name": "spin-quantum-number",
+  "label": "spin Quantum Number",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "spin",
+    "quantum",
+    "number"
+  ],
+  "version": "1.8"
+}

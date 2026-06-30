@@ -1,0 +1,11 @@
+{
+  "name": "maxwells-equations",
+  "label": "Maxwell's Equations",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "maxwells",
+    "equations"
+  ],
+  "version": "1.8"
+}

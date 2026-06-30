@@ -1,0 +1,11 @@
+{
+  "name": "termorganic-chemistry",
+  "label": "term='Organic Chemistry'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termorganic",
+    "chemistry"
+  ],
+  "version": "1.8"
+}

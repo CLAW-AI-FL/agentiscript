@@ -1,0 +1,12 @@
+{
+  "name": "quantum-field-theory",
+  "label": "quantum Field Theory",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "quantum",
+    "field",
+    "theory"
+  ],
+  "version": "1.8"
+}

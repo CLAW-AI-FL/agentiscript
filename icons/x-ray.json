@@ -1,0 +1,10 @@
+{
+  "name": "x-ray",
+  "label": "X-ray",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "ray"
+  ],
+  "version": "1.8"
+}

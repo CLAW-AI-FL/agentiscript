@@ -1,0 +1,10 @@
+{
+  "name": "electrophysiology",
+  "label": "Electrophysiology",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "electrophysiology"
+  ],
+  "version": "1.8"
+}

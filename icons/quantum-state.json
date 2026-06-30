@@ -1,0 +1,11 @@
+{
+  "name": "quantum-state",
+  "label": "quantum State",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "quantum",
+    "state"
+  ],
+  "version": "1.8"
+}

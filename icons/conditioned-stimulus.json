@@ -1,0 +1,11 @@
+{
+  "name": "conditioned-stimulus",
+  "label": "Conditioned Stimulus",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "conditioned",
+    "stimulus"
+  ],
+  "version": "1.8"
+}

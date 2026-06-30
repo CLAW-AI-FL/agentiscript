@@ -1,0 +1,11 @@
+{
+  "name": "damped-vibration",
+  "label": "damped Vibration",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "damped",
+    "vibration"
+  ],
+  "version": "1.8"
+}

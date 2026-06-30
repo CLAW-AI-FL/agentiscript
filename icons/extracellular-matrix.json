@@ -1,0 +1,11 @@
+{
+  "name": "extracellular-matrix",
+  "label": "Extracellular Matrix",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "extracellular",
+    "matrix"
+  ],
+  "version": "1.8"
+}

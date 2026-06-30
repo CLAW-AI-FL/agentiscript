@@ -1,0 +1,11 @@
+{
+  "name": "wernickes-encephalopathy",
+  "label": "Wernicke's Encephalopathy",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "wernickes",
+    "encephalopathy"
+  ],
+  "version": "1.8"
+}

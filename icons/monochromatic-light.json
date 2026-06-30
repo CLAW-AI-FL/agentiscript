@@ -1,0 +1,11 @@
+{
+  "name": "monochromatic-light",
+  "label": "monochromatic Light",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "monochromatic",
+    "light"
+  ],
+  "version": "1.8"
+}

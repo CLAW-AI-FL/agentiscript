@@ -1,0 +1,11 @@
+{
+  "name": "mass-number",
+  "label": "mass Number",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "mass",
+    "number"
+  ],
+  "version": "1.8"
+}

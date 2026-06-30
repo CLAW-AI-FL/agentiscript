@@ -1,0 +1,11 @@
+{
+  "name": "compressive-strength",
+  "label": "Compressive Strength",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "compressive",
+    "strength"
+  ],
+  "version": "1.8"
+}

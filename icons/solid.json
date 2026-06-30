@@ -1,0 +1,10 @@
+{
+  "name": "solid",
+  "label": "solid",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "solid"
+  ],
+  "version": "1.8"
+}

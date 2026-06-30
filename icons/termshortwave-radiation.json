@@ -1,0 +1,11 @@
+{
+  "name": "termshortwave-radiation",
+  "label": "term='Shortwave Radiation'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termshortwave",
+    "radiation"
+  ],
+  "version": "1.8"
+}

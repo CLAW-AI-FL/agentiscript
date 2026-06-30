@@ -1,0 +1,11 @@
+{
+  "name": "angular-frequency",
+  "label": "angular Frequency",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "angular",
+    "frequency"
+  ],
+  "version": "1.8"
+}

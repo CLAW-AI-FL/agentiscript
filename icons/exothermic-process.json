@@ -1,0 +1,11 @@
+{
+  "name": "exothermic-process",
+  "label": "Exothermic Process",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "exothermic",
+    "process"
+  ],
+  "version": "1.8"
+}

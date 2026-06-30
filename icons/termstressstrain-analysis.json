@@ -1,0 +1,11 @@
+{
+  "name": "termstressstrain-analysis",
+  "label": "term='Stress\u2013strain Analysis'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstressstrain",
+    "analysis"
+  ],
+  "version": "1.8"
+}

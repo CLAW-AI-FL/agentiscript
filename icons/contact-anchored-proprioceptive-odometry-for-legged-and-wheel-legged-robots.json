@@ -1,0 +1,13 @@
+{
+  "name": "contact-anchored-proprioceptive-odometry-for-legged-and-wheel-legged-robots",
+  "label": "Contact-Anchored Proprioceptive Odometry for Legged and Wheel-legged Robots",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "contact",
+    "anchored",
+    "proprioceptive",
+    "odometry"
+  ],
+  "version": "1.8"
+}

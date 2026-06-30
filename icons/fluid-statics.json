@@ -1,0 +1,11 @@
+{
+  "name": "fluid-statics",
+  "label": "fluid Statics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "fluid",
+    "statics"
+  ],
+  "version": "1.8"
+}

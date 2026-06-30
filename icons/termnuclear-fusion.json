@@ -1,0 +1,11 @@
+{
+  "name": "termnuclear-fusion",
+  "label": "term='Nuclear Fusion'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termnuclear",
+    "fusion"
+  ],
+  "version": "1.8"
+}

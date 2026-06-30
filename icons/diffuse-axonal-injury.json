@@ -1,0 +1,12 @@
+{
+  "name": "diffuse-axonal-injury",
+  "label": "Diffuse Axonal Injury",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "diffuse",
+    "axonal",
+    "injury"
+  ],
+  "version": "1.8"
+}

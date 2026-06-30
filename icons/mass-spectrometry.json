@@ -1,0 +1,11 @@
+{
+  "name": "mass-spectrometry",
+  "label": "mass Spectrometry",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "mass",
+    "spectrometry"
+  ],
+  "version": "1.8"
+}

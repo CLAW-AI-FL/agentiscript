@@ -1,0 +1,11 @@
+{
+  "name": "termnavierstokes-equations",
+  "label": "term='Navier\u2013Stokes Equations'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termnavierstokes",
+    "equations"
+  ],
+  "version": "1.8"
+}

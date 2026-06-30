@@ -1,0 +1,11 @@
+{
+  "name": "calcium-channel",
+  "label": "Calcium Channel",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "calcium",
+    "channel"
+  ],
+  "version": "1.8"
+}

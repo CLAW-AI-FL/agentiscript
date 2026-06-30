@@ -1,0 +1,10 @@
+{
+  "name": "laser",
+  "label": "laser",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "laser"
+  ],
+  "version": "1.8"
+}

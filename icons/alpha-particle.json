@@ -1,0 +1,11 @@
+{
+  "name": "alpha-particle",
+  "label": "alpha Particle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "alpha",
+    "particle"
+  ],
+  "version": "1.8"
+}

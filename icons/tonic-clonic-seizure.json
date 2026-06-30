@@ -1,0 +1,12 @@
+{
+  "name": "tonic-clonic-seizure",
+  "label": "Tonic-clonic Seizure",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "tonic",
+    "clonic",
+    "seizure"
+  ],
+  "version": "1.8"
+}

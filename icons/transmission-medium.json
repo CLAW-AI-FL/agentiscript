@@ -1,0 +1,11 @@
+{
+  "name": "transmission-medium",
+  "label": "transmission Medium",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "transmission",
+    "medium"
+  ],
+  "version": "1.8"
+}

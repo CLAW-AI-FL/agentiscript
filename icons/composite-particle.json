@@ -1,0 +1,11 @@
+{
+  "name": "composite-particle",
+  "label": "composite Particle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "composite",
+    "particle"
+  ],
+  "version": "1.8"
+}

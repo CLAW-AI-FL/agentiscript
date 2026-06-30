@@ -1,0 +1,13 @@
+{
+  "name": "grasp-oriented-non-prehensile-manipulation-via-learning-a-graspability-field",
+  "label": "Grasp-Oriented Non-prehensile Manipulation Via Learning a Graspability Field",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "grasp",
+    "oriented",
+    "non",
+    "prehensile"
+  ],
+  "version": "1.8"
+}

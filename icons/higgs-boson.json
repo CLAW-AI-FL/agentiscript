@@ -1,0 +1,11 @@
+{
+  "name": "higgs-boson",
+  "label": "Higgs Boson",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "higgs",
+    "boson"
+  ],
+  "version": "1.8"
+}

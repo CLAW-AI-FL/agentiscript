@@ -1,0 +1,11 @@
+{
+  "name": "snells-law",
+  "label": "Snell's Law",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "snells",
+    "law"
+  ],
+  "version": "1.8"
+}

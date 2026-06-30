@@ -1,0 +1,11 @@
+{
+  "name": "thermal-radiation",
+  "label": "thermal Radiation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "thermal",
+    "radiation"
+  ],
+  "version": "1.8"
+}

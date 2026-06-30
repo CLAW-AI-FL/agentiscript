@@ -1,0 +1,11 @@
+{
+  "name": "angle-of-incidence",
+  "label": "angle of Incidence",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "angle",
+    "incidence"
+  ],
+  "version": "1.8"
+}

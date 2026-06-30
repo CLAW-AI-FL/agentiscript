@@ -1,0 +1,11 @@
+{
+  "name": "termscalar-physics",
+  "label": "term='Scalar (physics)'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termscalar",
+    "physics"
+  ],
+  "version": "1.8"
+}

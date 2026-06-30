@@ -1,0 +1,11 @@
+{
+  "name": "coefficient-of-friction",
+  "label": "coefficient of Friction",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "coefficient",
+    "friction"
+  ],
+  "version": "1.8"
+}

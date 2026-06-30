@@ -1,0 +1,11 @@
+{
+  "name": "integral-transform",
+  "label": "integral Transform",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "integral",
+    "transform"
+  ],
+  "version": "1.8"
+}

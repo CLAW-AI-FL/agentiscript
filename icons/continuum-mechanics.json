@@ -1,0 +1,11 @@
+{
+  "name": "continuum-mechanics",
+  "label": "continuum Mechanics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "continuum",
+    "mechanics"
+  ],
+  "version": "1.8"
+}

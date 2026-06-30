@@ -1,0 +1,11 @@
+{
+  "name": "anaerobic-digestion",
+  "label": "Anaerobic Digestion",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "anaerobic",
+    "digestion"
+  ],
+  "version": "1.8"
+}

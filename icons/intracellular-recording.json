@@ -1,0 +1,11 @@
+{
+  "name": "intracellular-recording",
+  "label": "Intracellular Recording",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "intracellular",
+    "recording"
+  ],
+  "version": "1.8"
+}

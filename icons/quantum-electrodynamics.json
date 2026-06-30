@@ -1,0 +1,11 @@
+{
+  "name": "quantum-electrodynamics",
+  "label": "quantum Electrodynamics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "quantum",
+    "electrodynamics"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "planck-units",
+  "label": "Planck Units",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "planck",
+    "units"
+  ],
+  "version": "1.8"
+}

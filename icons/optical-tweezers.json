@@ -1,0 +1,11 @@
+{
+  "name": "optical-tweezers",
+  "label": "optical Tweezers",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "optical",
+    "tweezers"
+  ],
+  "version": "1.8"
+}

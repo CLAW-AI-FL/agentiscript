@@ -1,0 +1,13 @@
+{
+  "name": "termvon-mises-yield-criterion",
+  "label": "term='von Mises Yield Criterion'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvon",
+    "mises",
+    "yield",
+    "criterion"
+  ],
+  "version": "1.8"
+}

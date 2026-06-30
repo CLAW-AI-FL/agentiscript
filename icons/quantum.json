@@ -1,0 +1,10 @@
+{
+  "name": "quantum",
+  "label": "quantum",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "quantum"
+  ],
+  "version": "1.8"
+}

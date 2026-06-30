@@ -1,0 +1,11 @@
+{
+  "name": "solid-mechanics",
+  "label": "solid Mechanics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "solid",
+    "mechanics"
+  ],
+  "version": "1.8"
+}

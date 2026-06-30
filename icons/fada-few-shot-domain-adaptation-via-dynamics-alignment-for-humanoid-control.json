@@ -1,0 +1,13 @@
+{
+  "name": "fada-few-shot-domain-adaptation-via-dynamics-alignment-for-humanoid-control",
+  "label": "FADA: Few-shot Domain Adaptation Via Dynamics Alignment for Humanoid Control",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "fada",
+    "few",
+    "shot",
+    "domain"
+  ],
+  "version": "1.8"
+}

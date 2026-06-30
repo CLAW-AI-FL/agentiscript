@@ -1,0 +1,12 @@
+{
+  "name": "term-molar-mass",
+  "label": "term= 'molar Mass'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "term",
+    "molar",
+    "mass"
+  ],
+  "version": "1.8"
+}

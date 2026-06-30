@@ -1,0 +1,11 @@
+{
+  "name": "flux-density",
+  "label": "flux Density",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "flux",
+    "density"
+  ],
+  "version": "1.8"
+}

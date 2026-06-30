@@ -1,0 +1,11 @@
+{
+  "name": "speed-of-light",
+  "label": "speed of Light",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "speed",
+    "light"
+  ],
+  "version": "1.8"
+}

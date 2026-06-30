@@ -1,0 +1,11 @@
+{
+  "name": "normal-force",
+  "label": "normal Force",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "normal",
+    "force"
+  ],
+  "version": "1.8"
+}

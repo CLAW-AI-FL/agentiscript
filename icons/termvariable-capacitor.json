@@ -1,0 +1,11 @@
+{
+  "name": "termvariable-capacitor",
+  "label": "term='Variable Capacitor'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvariable",
+    "capacitor"
+  ],
+  "version": "1.8"
+}

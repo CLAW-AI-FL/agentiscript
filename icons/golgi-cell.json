@@ -1,0 +1,11 @@
+{
+  "name": "golgi-cell",
+  "label": "Golgi Cell",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "golgi",
+    "cell"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "termresistor",
+  "label": "term='Resistor'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termresistor"
+  ],
+  "version": "1.8"
+}

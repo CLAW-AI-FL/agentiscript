@@ -1,0 +1,11 @@
+{
+  "name": "termshear-strength",
+  "label": "term='Shear Strength'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termshear",
+    "strength"
+  ],
+  "version": "1.8"
+}

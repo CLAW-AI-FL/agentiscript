@@ -1,0 +1,11 @@
+{
+  "name": "termvalence-shell",
+  "label": "term='Valence Shell'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termvalence",
+    "shell"
+  ],
+  "version": "1.8"
+}

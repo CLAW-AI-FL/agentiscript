@@ -1,0 +1,11 @@
+{
+  "name": "center-of-mass",
+  "label": "center of Mass",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "center",
+    "mass"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ltp-induction",
+  "label": "LTP Induction",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "ltp",
+    "induction"
+  ],
+  "version": "1.8"
+}

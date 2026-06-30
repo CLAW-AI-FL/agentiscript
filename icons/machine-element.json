@@ -1,0 +1,11 @@
+{
+  "name": "machine-element",
+  "label": "machine Element",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "machine",
+    "element"
+  ],
+  "version": "1.8"
+}

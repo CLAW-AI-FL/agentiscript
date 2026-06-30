@@ -1,0 +1,13 @@
+{
+  "name": "taco-a-test-and-check-framework-for-robust-pose-graph-optimization",
+  "label": "TACO: A Test and Check Framework for Robust Pose Graph Optimization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "taco",
+    "test",
+    "and",
+    "check"
+  ],
+  "version": "1.8"
+}

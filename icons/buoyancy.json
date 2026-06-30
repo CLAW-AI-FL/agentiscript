@@ -1,0 +1,10 @@
+{
+  "name": "buoyancy",
+  "label": "buoyancy",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "buoyancy"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "facultative-anaerobe",
+  "label": "facultative Anaerobe",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "facultative",
+    "anaerobe"
+  ],
+  "version": "1.8"
+}

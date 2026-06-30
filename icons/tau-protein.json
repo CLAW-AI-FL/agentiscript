@@ -1,0 +1,11 @@
+{
+  "name": "tau-protein",
+  "label": "Tau Protein",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "tau",
+    "protein"
+  ],
+  "version": "1.8"
+}

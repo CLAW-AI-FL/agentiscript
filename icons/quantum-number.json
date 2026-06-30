@@ -1,0 +1,11 @@
+{
+  "name": "quantum-number",
+  "label": "quantum Number",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "quantum",
+    "number"
+  ],
+  "version": "1.8"
+}

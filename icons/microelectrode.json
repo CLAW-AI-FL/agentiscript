@@ -1,0 +1,10 @@
+{
+  "name": "microelectrode",
+  "label": "Microelectrode",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "microelectrode"
+  ],
+  "version": "1.8"
+}

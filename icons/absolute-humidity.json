@@ -1,0 +1,11 @@
+{
+  "name": "absolute-humidity",
+  "label": "absolute Humidity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "absolute",
+    "humidity"
+  ],
+  "version": "1.8"
+}

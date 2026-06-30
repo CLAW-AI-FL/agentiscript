@@ -1,0 +1,11 @@
+{
+  "name": "planck-constant",
+  "label": "Planck Constant",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "planck",
+    "constant"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "stiffness",
+  "label": "stiffness",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "stiffness"
+  ],
+  "version": "1.8"
+}

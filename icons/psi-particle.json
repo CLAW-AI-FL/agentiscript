@@ -1,0 +1,11 @@
+{
+  "name": "psi-particle",
+  "label": "psi Particle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "psi",
+    "particle"
+  ],
+  "version": "1.8"
+}

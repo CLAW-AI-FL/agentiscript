@@ -1,0 +1,12 @@
+{
+  "name": "membrane-potentialcell-excitabilityexcitability",
+  "label": "Membrane Potential#cell Excitability|excitability",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "membrane",
+    "potentialcell",
+    "excitabilityexcitability"
+  ],
+  "version": "1.8"
+}

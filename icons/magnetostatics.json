@@ -1,0 +1,10 @@
+{
+  "name": "magnetostatics",
+  "label": "magnetostatics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "magnetostatics"
+  ],
+  "version": "1.8"
+}

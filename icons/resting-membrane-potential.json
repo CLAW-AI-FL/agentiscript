@@ -1,0 +1,12 @@
+{
+  "name": "resting-membrane-potential",
+  "label": "Resting Membrane Potential",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "resting",
+    "membrane",
+    "potential"
+  ],
+  "version": "1.8"
+}

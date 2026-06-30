@@ -1,0 +1,10 @@
+{
+  "name": "wind",
+  "label": "wind",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "wind"
+  ],
+  "version": "1.8"
+}

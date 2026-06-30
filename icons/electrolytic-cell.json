@@ -1,0 +1,11 @@
+{
+  "name": "electrolytic-cell",
+  "label": "electrolytic Cell",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electrolytic",
+    "cell"
+  ],
+  "version": "1.8"
+}

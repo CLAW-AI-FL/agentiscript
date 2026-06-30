@@ -1,0 +1,11 @@
+{
+  "name": "elementary-particle",
+  "label": "elementary Particle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "elementary",
+    "particle"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nuclide",
+  "label": "nuclide",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "nuclide"
+  ],
+  "version": "1.8"
+}

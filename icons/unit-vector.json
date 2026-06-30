@@ -1,0 +1,11 @@
+{
+  "name": "unit-vector",
+  "label": "unit Vector",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "unit",
+    "vector"
+  ],
+  "version": "1.8"
+}

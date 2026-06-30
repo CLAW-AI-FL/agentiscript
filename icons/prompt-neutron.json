@@ -1,0 +1,11 @@
+{
+  "name": "prompt-neutron",
+  "label": "prompt Neutron",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "prompt",
+    "neutron"
+  ],
+  "version": "1.8"
+}

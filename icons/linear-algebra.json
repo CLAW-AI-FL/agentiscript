@@ -1,0 +1,11 @@
+{
+  "name": "linear-algebra",
+  "label": "linear Algebra",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "linear",
+    "algebra"
+  ],
+  "version": "1.8"
+}

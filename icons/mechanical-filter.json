@@ -1,0 +1,11 @@
+{
+  "name": "mechanical-filter",
+  "label": "mechanical Filter",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "mechanical",
+    "filter"
+  ],
+  "version": "1.8"
+}

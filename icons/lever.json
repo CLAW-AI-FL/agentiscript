@@ -1,0 +1,10 @@
+{
+  "name": "lever",
+  "label": "lever",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "lever"
+  ],
+  "version": "1.8"
+}

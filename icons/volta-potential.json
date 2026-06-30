@@ -1,0 +1,11 @@
+{
+  "name": "volta-potential",
+  "label": "Volta Potential",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "volta",
+    "potential"
+  ],
+  "version": "1.8"
+}

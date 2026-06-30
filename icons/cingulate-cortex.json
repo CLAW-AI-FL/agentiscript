@@ -1,0 +1,11 @@
+{
+  "name": "cingulate-cortex",
+  "label": "Cingulate Cortex",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "cingulate",
+    "cortex"
+  ],
+  "version": "1.8"
+}

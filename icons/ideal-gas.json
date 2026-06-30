@@ -1,0 +1,11 @@
+{
+  "name": "ideal-gas",
+  "label": "Ideal Gas",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "ideal",
+    "gas"
+  ],
+  "version": "1.8"
+}

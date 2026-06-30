@@ -1,0 +1,10 @@
+{
+  "name": "g-protein",
+  "label": "G Protein",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "protein"
+  ],
+  "version": "1.8"
+}

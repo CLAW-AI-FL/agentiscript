@@ -1,0 +1,11 @@
+{
+  "name": "imaging-genetics",
+  "label": "Imaging Genetics",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "imaging",
+    "genetics"
+  ],
+  "version": "1.8"
+}

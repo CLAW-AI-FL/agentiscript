@@ -1,0 +1,11 @@
+{
+  "name": "sensory-neuron",
+  "label": "Sensory Neuron",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "sensory",
+    "neuron"
+  ],
+  "version": "1.8"
+}

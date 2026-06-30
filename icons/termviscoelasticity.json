@@ -1,0 +1,10 @@
+{
+  "name": "termviscoelasticity",
+  "label": "term='Viscoelasticity'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termviscoelasticity"
+  ],
+  "version": "1.8"
+}

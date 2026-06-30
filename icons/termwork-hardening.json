@@ -1,0 +1,11 @@
+{
+  "name": "termwork-hardening",
+  "label": "term='Work Hardening'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termwork",
+    "hardening"
+  ],
+  "version": "1.8"
+}

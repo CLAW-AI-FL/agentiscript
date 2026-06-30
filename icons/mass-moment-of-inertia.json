@@ -1,0 +1,12 @@
+{
+  "name": "mass-moment-of-inertia",
+  "label": "mass Moment of Inertia",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "mass",
+    "moment",
+    "inertia"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "implicit-memory",
+  "label": "Implicit Memory",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "implicit",
+    "memory"
+  ],
+  "version": "1.8"
+}

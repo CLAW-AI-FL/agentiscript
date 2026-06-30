@@ -1,0 +1,11 @@
+{
+  "name": "celsius-scale",
+  "label": "Celsius Scale",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "celsius",
+    "scale"
+  ],
+  "version": "1.8"
+}

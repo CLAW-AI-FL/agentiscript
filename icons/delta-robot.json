@@ -1,0 +1,11 @@
+{
+  "name": "delta-robot",
+  "label": "Delta Robot",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "delta",
+    "robot"
+  ],
+  "version": "1.8"
+}

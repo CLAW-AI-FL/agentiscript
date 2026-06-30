@@ -1,0 +1,11 @@
+{
+  "name": "faraday-constant",
+  "label": "Faraday Constant",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "faraday",
+    "constant"
+  ],
+  "version": "1.8"
+}

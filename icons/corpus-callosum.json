@@ -1,0 +1,11 @@
+{
+  "name": "corpus-callosum",
+  "label": "Corpus Callosum",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "corpus",
+    "callosum"
+  ],
+  "version": "1.8"
+}

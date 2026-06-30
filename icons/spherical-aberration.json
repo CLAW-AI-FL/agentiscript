@@ -1,0 +1,11 @@
+{
+  "name": "spherical-aberration",
+  "label": "spherical Aberration",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "spherical",
+    "aberration"
+  ],
+  "version": "1.8"
+}

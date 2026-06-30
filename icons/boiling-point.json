@@ -1,0 +1,11 @@
+{
+  "name": "boiling-point",
+  "label": "boiling Point",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "boiling",
+    "point"
+  ],
+  "version": "1.8"
+}

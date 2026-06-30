@@ -1,0 +1,11 @@
+{
+  "name": "endothermic-process",
+  "label": "Endothermic Process",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "endothermic",
+    "process"
+  ],
+  "version": "1.8"
+}

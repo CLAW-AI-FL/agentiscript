@@ -1,0 +1,11 @@
+{
+  "name": "termspecific-gravity",
+  "label": "term='Specific Gravity'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termspecific",
+    "gravity"
+  ],
+  "version": "1.8"
+}

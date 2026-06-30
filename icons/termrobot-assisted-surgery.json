@@ -1,0 +1,12 @@
+{
+  "name": "termrobot-assisted-surgery",
+  "label": "term='Robot-assisted Surgery'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termrobot",
+    "assisted",
+    "surgery"
+  ],
+  "version": "1.8"
+}

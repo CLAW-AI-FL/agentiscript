@@ -1,0 +1,11 @@
+{
+  "name": "elastic-collision",
+  "label": "elastic Collision",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "elastic",
+    "collision"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "centrifugal-force",
+  "label": "centrifugal Force",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "centrifugal",
+    "force"
+  ],
+  "version": "1.8"
+}

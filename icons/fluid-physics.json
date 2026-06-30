@@ -1,0 +1,10 @@
+{
+  "name": "fluid-physics",
+  "label": "fluid Physics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "fluid"
+  ],
+  "version": "1.8"
+}

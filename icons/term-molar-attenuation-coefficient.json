@@ -1,0 +1,13 @@
+{
+  "name": "term-molar-attenuation-coefficient",
+  "label": "term= 'molar Attenuation Coefficient'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "term",
+    "molar",
+    "attenuation",
+    "coefficient"
+  ],
+  "version": "1.8"
+}

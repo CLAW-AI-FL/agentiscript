@@ -1,0 +1,11 @@
+{
+  "name": "evoked-potential",
+  "label": "Evoked Potential",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "evoked",
+    "potential"
+  ],
+  "version": "1.8"
+}

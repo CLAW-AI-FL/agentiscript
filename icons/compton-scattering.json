@@ -1,0 +1,11 @@
+{
+  "name": "compton-scattering",
+  "label": "Compton Scattering",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "compton",
+    "scattering"
+  ],
+  "version": "1.8"
+}

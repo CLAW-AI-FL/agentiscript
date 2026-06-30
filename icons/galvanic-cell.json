@@ -1,0 +1,11 @@
+{
+  "name": "galvanic-cell",
+  "label": "Galvanic Cell",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "galvanic",
+    "cell"
+  ],
+  "version": "1.8"
+}

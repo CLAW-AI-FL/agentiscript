@@ -1,0 +1,13 @@
+{
+  "name": "repair-bench-a-benchmark-for-robot-error-perception-and-interaction-recovery",
+  "label": "REPAIR-Bench: A Benchmark for Robot Error Perception And Interaction Recovery",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "repair",
+    "bench",
+    "benchmark",
+    "for"
+  ],
+  "version": "1.8"
+}

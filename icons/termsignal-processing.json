@@ -1,0 +1,11 @@
+{
+  "name": "termsignal-processing",
+  "label": "term='Signal Processing'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termsignal",
+    "processing"
+  ],
+  "version": "1.8"
+}

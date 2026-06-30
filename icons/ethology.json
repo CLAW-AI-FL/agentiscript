@@ -1,0 +1,10 @@
+{
+  "name": "ethology",
+  "label": "ethology",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "ethology"
+  ],
+  "version": "1.8"
+}

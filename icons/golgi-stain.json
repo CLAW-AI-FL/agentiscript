@@ -1,0 +1,11 @@
+{
+  "name": "golgi-stain",
+  "label": "Golgi Stain",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "golgi",
+    "stain"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "termsaturated-compound",
+  "label": "term='Saturated Compound'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termsaturated",
+    "compound"
+  ],
+  "version": "1.8"
+}

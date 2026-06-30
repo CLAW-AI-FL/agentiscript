@@ -1,0 +1,11 @@
+{
+  "name": "magnetic-field",
+  "label": "magnetic Field",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "magnetic",
+    "field"
+  ],
+  "version": "1.8"
+}

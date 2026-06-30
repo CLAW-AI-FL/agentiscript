@@ -1,0 +1,12 @@
+{
+  "name": "cartesian-coordinate-system",
+  "label": "Cartesian Coordinate System",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "cartesian",
+    "coordinate",
+    "system"
+  ],
+  "version": "1.8"
+}

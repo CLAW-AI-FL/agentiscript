@@ -1,0 +1,10 @@
+{
+  "name": "absorbance",
+  "label": "Absorbance",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "absorbance"
+  ],
+  "version": "1.8"
+}

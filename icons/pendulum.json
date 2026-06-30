@@ -1,0 +1,10 @@
+{
+  "name": "pendulum",
+  "label": "pendulum",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "pendulum"
+  ],
+  "version": "1.8"
+}

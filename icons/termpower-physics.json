@@ -1,0 +1,11 @@
+{
+  "name": "termpower-physics",
+  "label": "term='Power (physics)'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termpower",
+    "physics"
+  ],
+  "version": "1.8"
+}

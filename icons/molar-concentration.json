@@ -1,0 +1,11 @@
+{
+  "name": "molar-concentration",
+  "label": "molar Concentration",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "molar",
+    "concentration"
+  ],
+  "version": "1.8"
+}

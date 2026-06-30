@@ -1,0 +1,10 @@
+{
+  "name": "soil-biology",
+  "label": "soil Biology",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "soil"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "termohms-law",
+  "label": "term='Ohm's Law'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termohms",
+    "law"
+  ],
+  "version": "1.8"
+}

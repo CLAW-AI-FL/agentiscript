@@ -1,0 +1,10 @@
+{
+  "name": "strain",
+  "label": "strain",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "strain"
+  ],
+  "version": "1.8"
+}

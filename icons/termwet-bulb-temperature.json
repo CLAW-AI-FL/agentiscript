@@ -1,0 +1,12 @@
+{
+  "name": "termwet-bulb-temperature",
+  "label": "term='Wet-bulb Temperature'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termwet",
+    "bulb",
+    "temperature"
+  ],
+  "version": "1.8"
+}

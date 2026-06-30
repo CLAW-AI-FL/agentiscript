@@ -1,0 +1,13 @@
+{
+  "name": "garlileo-gravity-aligned-radar-leg-inertial-enhanced-odometry",
+  "label": "GaRLILEO: Gravity-aligned Radar-leg-inertial Enhanced Odometry",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "garlileo",
+    "gravity",
+    "aligned",
+    "radar"
+  ],
+  "version": "1.8"
+}

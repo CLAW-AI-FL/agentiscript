@@ -1,0 +1,11 @@
+{
+  "name": "variable-resistor",
+  "label": "variable Resistor",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "variable",
+    "resistor"
+  ],
+  "version": "1.8"
+}

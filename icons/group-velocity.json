@@ -1,0 +1,11 @@
+{
+  "name": "group-velocity",
+  "label": "group Velocity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "group",
+    "velocity"
+  ],
+  "version": "1.8"
+}

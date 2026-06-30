@@ -1,0 +1,11 @@
+{
+  "name": "brocas-area",
+  "label": "Broca's Area",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "brocas",
+    "area"
+  ],
+  "version": "1.8"
+}

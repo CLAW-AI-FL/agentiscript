@@ -1,0 +1,12 @@
+{
+  "name": "volt-per-metre",
+  "label": "volt Per Metre",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "volt",
+    "per",
+    "metre"
+  ],
+  "version": "1.8"
+}

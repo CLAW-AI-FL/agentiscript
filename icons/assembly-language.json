@@ -1,0 +1,11 @@
+{
+  "name": "assembly-language",
+  "label": "Assembly Language",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "assembly",
+    "language"
+  ],
+  "version": "1.8"
+}

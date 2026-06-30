@@ -1,0 +1,10 @@
+{
+  "name": "biochemistry",
+  "label": "biochemistry",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "biochemistry"
+  ],
+  "version": "1.8"
+}

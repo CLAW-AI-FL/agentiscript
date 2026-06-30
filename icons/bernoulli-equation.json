@@ -1,0 +1,11 @@
+{
+  "name": "bernoulli-equation",
+  "label": "Bernoulli Equation",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "bernoulli",
+    "equation"
+  ],
+  "version": "1.8"
+}

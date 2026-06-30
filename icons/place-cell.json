@@ -1,0 +1,11 @@
+{
+  "name": "place-cell",
+  "label": "Place Cell",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "place",
+    "cell"
+  ],
+  "version": "1.8"
+}

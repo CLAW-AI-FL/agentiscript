@@ -1,0 +1,11 @@
+{
+  "name": "bipolar-disorder",
+  "label": "Bipolar Disorder",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "bipolar",
+    "disorder"
+  ],
+  "version": "1.8"
+}

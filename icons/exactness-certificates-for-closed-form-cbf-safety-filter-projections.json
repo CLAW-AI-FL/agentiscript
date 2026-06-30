@@ -1,0 +1,13 @@
+{
+  "name": "exactness-certificates-for-closed-form-cbf-safety-filter-projections",
+  "label": "Exactness Certificates for Closed-form Cbf Safety-filter Projections",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "exactness",
+    "certificates",
+    "for",
+    "closed"
+  ],
+  "version": "1.8"
+}

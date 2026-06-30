@@ -1,0 +1,10 @@
+{
+  "name": "ecology",
+  "label": "ecology",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "ecology"
+  ],
+  "version": "1.8"
+}

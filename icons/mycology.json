@@ -1,0 +1,10 @@
+{
+  "name": "mycology",
+  "label": "mycology",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "mycology"
+  ],
+  "version": "1.8"
+}

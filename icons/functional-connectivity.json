@@ -1,0 +1,11 @@
+{
+  "name": "functional-connectivity",
+  "label": "Functional Connectivity",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "functional",
+    "connectivity"
+  ],
+  "version": "1.8"
+}

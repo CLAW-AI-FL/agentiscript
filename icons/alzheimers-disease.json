@@ -1,0 +1,11 @@
+{
+  "name": "alzheimers-disease",
+  "label": "Alzheimer's Disease",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "alzheimers",
+    "disease"
+  ],
+  "version": "1.8"
+}

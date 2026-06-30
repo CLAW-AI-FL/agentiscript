@@ -1,0 +1,10 @@
+{
+  "name": "experimental-physics",
+  "label": "experimental Physics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "experimental"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "termnuclear-physics",
+  "label": "term='Nuclear Physics'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termnuclear",
+    "physics"
+  ],
+  "version": "1.8"
+}

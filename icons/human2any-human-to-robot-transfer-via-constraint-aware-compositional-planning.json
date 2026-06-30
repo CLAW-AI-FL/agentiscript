@@ -1,0 +1,13 @@
+{
+  "name": "human2any-human-to-robot-transfer-via-constraint-aware-compositional-planning",
+  "label": "Human2Any: Human-to-robot Transfer Via Constraint-aware Compositional Planning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "human2any",
+    "human",
+    "robot",
+    "transfer"
+  ],
+  "version": "1.8"
+}

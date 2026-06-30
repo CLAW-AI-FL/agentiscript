@@ -1,0 +1,11 @@
+{
+  "name": "bohr-model",
+  "label": "Bohr Model",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "bohr",
+    "model"
+  ],
+  "version": "1.8"
+}

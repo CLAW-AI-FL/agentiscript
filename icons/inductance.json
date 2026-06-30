@@ -1,0 +1,10 @@
+{
+  "name": "inductance",
+  "label": "inductance",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "inductance"
+  ],
+  "version": "1.8"
+}

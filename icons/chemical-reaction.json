@@ -1,0 +1,11 @@
+{
+  "name": "chemical-reaction",
+  "label": "Chemical Reaction",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "chemical",
+    "reaction"
+  ],
+  "version": "1.8"
+}

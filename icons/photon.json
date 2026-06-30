@@ -1,0 +1,10 @@
+{
+  "name": "photon",
+  "label": "photon",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "photon"
+  ],
+  "version": "1.8"
+}

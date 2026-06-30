@@ -1,0 +1,11 @@
+{
+  "name": "drift-velocity",
+  "label": "drift Velocity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "drift",
+    "velocity"
+  ],
+  "version": "1.8"
+}

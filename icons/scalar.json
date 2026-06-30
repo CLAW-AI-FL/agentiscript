@@ -1,0 +1,10 @@
+{
+  "name": "scalar",
+  "label": "scalar",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "scalar"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "voltmeter",
+  "label": "voltmeter",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "voltmeter"
+  ],
+  "version": "1.8"
+}

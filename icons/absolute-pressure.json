@@ -1,0 +1,11 @@
+{
+  "name": "absolute-pressure",
+  "label": "absolute Pressure",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "absolute",
+    "pressure"
+  ],
+  "version": "1.8"
+}

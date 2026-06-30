@@ -1,0 +1,12 @@
+{
+  "name": "nucleic-acid-sequence",
+  "label": "nucleic Acid Sequence",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "nucleic",
+    "acid",
+    "sequence"
+  ],
+  "version": "1.8"
+}

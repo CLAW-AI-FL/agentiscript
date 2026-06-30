@@ -1,0 +1,11 @@
+{
+  "name": "autonomous-vehicle",
+  "label": "Autonomous Vehicle",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "autonomous",
+    "vehicle"
+  ],
+  "version": "1.8"
+}

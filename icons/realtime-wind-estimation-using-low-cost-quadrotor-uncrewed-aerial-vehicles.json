@@ -1,0 +1,13 @@
+{
+  "name": "realtime-wind-estimation-using-low-cost-quadrotor-uncrewed-aerial-vehicles",
+  "label": "Realtime Wind Estimation Using Low Cost Quadrotor Uncrewed Aerial Vehicles",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "realtime",
+    "wind",
+    "estimation",
+    "using"
+  ],
+  "version": "1.8"
+}

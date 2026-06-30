@@ -1,0 +1,11 @@
+{
+  "name": "linear-actuator",
+  "label": "linear Actuator",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "linear",
+    "actuator"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fracture-toughness",
+  "label": "Fracture Toughness",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "fracture",
+    "toughness"
+  ],
+  "version": "1.8"
+}

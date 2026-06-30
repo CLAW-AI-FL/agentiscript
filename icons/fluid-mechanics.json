@@ -1,0 +1,11 @@
+{
+  "name": "fluid-mechanics",
+  "label": "fluid Mechanics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "fluid",
+    "mechanics"
+  ],
+  "version": "1.8"
+}

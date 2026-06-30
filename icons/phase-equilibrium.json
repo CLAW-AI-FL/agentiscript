@@ -1,0 +1,11 @@
+{
+  "name": "phase-equilibrium",
+  "label": "phase Equilibrium",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "phase",
+    "equilibrium"
+  ],
+  "version": "1.8"
+}

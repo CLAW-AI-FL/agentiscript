@@ -1,0 +1,12 @@
+{
+  "name": "absolute-electrode-potential",
+  "label": "absolute Electrode Potential",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "absolute",
+    "electrode",
+    "potential"
+  ],
+  "version": "1.8"
+}

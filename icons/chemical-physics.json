@@ -1,0 +1,10 @@
+{
+  "name": "chemical-physics",
+  "label": "chemical Physics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "chemical"
+  ],
+  "version": "1.8"
+}

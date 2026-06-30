@@ -1,0 +1,11 @@
+{
+  "name": "variable-capacitor",
+  "label": "variable Capacitor",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "variable",
+    "capacitor"
+  ],
+  "version": "1.8"
+}

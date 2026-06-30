@@ -1,0 +1,10 @@
+{
+  "name": "termph",
+  "label": "term='pH'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termph"
+  ],
+  "version": "1.8"
+}

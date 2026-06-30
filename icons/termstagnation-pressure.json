@@ -1,0 +1,11 @@
+{
+  "name": "termstagnation-pressure",
+  "label": "term='Stagnation Pressure'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstagnation",
+    "pressure"
+  ],
+  "version": "1.8"
+}

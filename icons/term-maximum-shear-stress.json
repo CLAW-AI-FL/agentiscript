@@ -1,0 +1,13 @@
+{
+  "name": "term-maximum-shear-stress",
+  "label": "term= 'maximum Shear Stress'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "term",
+    "maximum",
+    "shear",
+    "stress"
+  ],
+  "version": "1.8"
+}

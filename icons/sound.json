@@ -1,0 +1,10 @@
+{
+  "name": "sound",
+  "label": "sound",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "sound"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "t-cell",
+  "label": "T Cell",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "cell"
+  ],
+  "version": "1.8"
+}

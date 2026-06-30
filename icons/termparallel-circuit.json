@@ -1,0 +1,11 @@
+{
+  "name": "termparallel-circuit",
+  "label": "term='Parallel Circuit'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termparallel",
+    "circuit"
+  ],
+  "version": "1.8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "electrical-insulator",
+  "label": "electrical Insulator",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electrical",
+    "insulator"
+  ],
+  "version": "1.8"
+}

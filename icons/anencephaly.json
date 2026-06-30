@@ -1,0 +1,10 @@
+{
+  "name": "anencephaly",
+  "label": "Anencephaly",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "anencephaly"
+  ],
+  "version": "1.8"
+}

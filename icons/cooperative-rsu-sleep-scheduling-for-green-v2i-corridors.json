@@ -1,0 +1,13 @@
+{
+  "name": "cooperative-rsu-sleep-scheduling-for-green-v2i-corridors",
+  "label": "Cooperative Rsu Sleep Scheduling for Green V2i Corridors",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "cooperative",
+    "rsu",
+    "sleep",
+    "scheduling"
+  ],
+  "version": "1.8"
+}

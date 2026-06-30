@@ -1,0 +1,11 @@
+{
+  "name": "bernoullis-principle",
+  "label": "Bernoulli's Principle",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "bernoullis",
+    "principle"
+  ],
+  "version": "1.8"
+}

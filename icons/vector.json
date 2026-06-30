@@ -1,0 +1,10 @@
+{
+  "name": "vector",
+  "label": "vector",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "vector"
+  ],
+  "version": "1.8"
+}

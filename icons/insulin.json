@@ -1,0 +1,10 @@
+{
+  "name": "insulin",
+  "label": "insulin",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "insulin"
+  ],
+  "version": "1.8"
+}

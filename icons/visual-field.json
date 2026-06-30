@@ -1,0 +1,11 @@
+{
+  "name": "visual-field",
+  "label": "Visual Field",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "visual",
+    "field"
+  ],
+  "version": "1.8"
+}

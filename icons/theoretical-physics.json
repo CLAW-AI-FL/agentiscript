@@ -1,0 +1,10 @@
+{
+  "name": "theoretical-physics",
+  "label": "theoretical Physics",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "theoretical"
+  ],
+  "version": "1.8"
+}

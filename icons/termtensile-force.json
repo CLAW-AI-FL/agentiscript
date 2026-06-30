@@ -1,0 +1,11 @@
+{
+  "name": "termtensile-force",
+  "label": "term='Tensile Force'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termtensile",
+    "force"
+  ],
+  "version": "1.8"
+}

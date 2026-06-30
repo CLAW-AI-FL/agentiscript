@@ -1,0 +1,11 @@
+{
+  "name": "physical-constant",
+  "label": "physical Constant",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "physical",
+    "constant"
+  ],
+  "version": "1.8"
+}

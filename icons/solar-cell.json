@@ -1,0 +1,11 @@
+{
+  "name": "solar-cell",
+  "label": "solar Cell",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "solar",
+    "cell"
+  ],
+  "version": "1.8"
+}

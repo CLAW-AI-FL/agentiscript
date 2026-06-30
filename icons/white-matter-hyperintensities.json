@@ -1,0 +1,12 @@
+{
+  "name": "white-matter-hyperintensities",
+  "label": "White Matter Hyperintensities",
+  "category": "neuroscience",
+  "tags": [
+    "neuroscience",
+    "white",
+    "matter",
+    "hyperintensities"
+  ],
+  "version": "1.8"
+}

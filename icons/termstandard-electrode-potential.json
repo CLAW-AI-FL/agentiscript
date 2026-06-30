@@ -1,0 +1,12 @@
+{
+  "name": "termstandard-electrode-potential",
+  "label": "term='Standard Electrode Potential'",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "termstandard",
+    "electrode",
+    "potential"
+  ],
+  "version": "1.8"
+}

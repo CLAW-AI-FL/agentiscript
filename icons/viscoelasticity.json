@@ -1,0 +1,10 @@
+{
+  "name": "viscoelasticity",
+  "label": "viscoelasticity",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "viscoelasticity"
+  ],
+  "version": "1.8"
+}

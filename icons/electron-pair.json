@@ -1,0 +1,11 @@
+{
+  "name": "electron-pair",
+  "label": "electron Pair",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electron",
+    "pair"
+  ],
+  "version": "1.8"
+}

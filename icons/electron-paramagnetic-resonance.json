@@ -1,0 +1,12 @@
+{
+  "name": "electron-paramagnetic-resonance",
+  "label": "electron Paramagnetic Resonance",
+  "category": "physics",
+  "tags": [
+    "physics",
+    "electron",
+    "paramagnetic",
+    "resonance"
+  ],
+  "version": "1.8"
+}
