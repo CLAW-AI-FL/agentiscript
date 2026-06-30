@@ -1,0 +1,12 @@
+{
+  "name": "hay knife",
+  "slug": "hay-knife",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "hay knife \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

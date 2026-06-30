@@ -1,0 +1,12 @@
+{
+  "name": "Inflow (meteorology)",
+  "slug": "inflow-meteorology",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "Inflow (meteorology) \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

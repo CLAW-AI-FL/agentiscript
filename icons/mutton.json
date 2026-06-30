@@ -1,0 +1,12 @@
+{
+  "name": "mutton",
+  "slug": "mutton",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "mutton \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

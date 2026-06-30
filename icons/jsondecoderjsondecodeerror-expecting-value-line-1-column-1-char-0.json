@@ -1,0 +1,12 @@
+{
+  "name": "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "slug": "jsondecoderjsondecodeerror-expecting-value-line-1-column-1-char-0",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0) \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

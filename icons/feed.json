@@ -1,0 +1,12 @@
+{
+  "name": "feed",
+  "slug": "feed",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "feed \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "outfarm",
+  "slug": "outfarm",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "outfarm \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

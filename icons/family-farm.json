@@ -1,0 +1,12 @@
+{
+  "name": "family farm",
+  "slug": "family-farm",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "family farm \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

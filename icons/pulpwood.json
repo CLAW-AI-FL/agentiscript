@@ -1,0 +1,12 @@
+{
+  "name": "pulpwood",
+  "slug": "pulpwood",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "pulpwood \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "green chop",
+  "slug": "green-chop",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "green chop \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

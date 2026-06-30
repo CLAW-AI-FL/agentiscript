@@ -1,0 +1,12 @@
+{
+  "name": "Centigrade (temperature)",
+  "slug": "centigrade-temperature",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "Centigrade (temperature) \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

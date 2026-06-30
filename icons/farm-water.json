@@ -1,0 +1,12 @@
+{
+  "name": "farm water",
+  "slug": "farm-water",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "farm water \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

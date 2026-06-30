@@ -1,0 +1,12 @@
+{
+  "name": "farmers' market",
+  "slug": "farmers-market",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "farmers' market \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

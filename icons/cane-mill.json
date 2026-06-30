@@ -1,0 +1,12 @@
+{
+  "name": "cane mill",
+  "slug": "cane-mill",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "cane mill \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

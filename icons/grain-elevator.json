@@ -1,0 +1,12 @@
+{
+  "name": "grain elevator",
+  "slug": "grain-elevator",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "grain elevator \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

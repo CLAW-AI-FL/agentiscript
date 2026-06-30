@@ -1,0 +1,12 @@
+{
+  "name": "water wheel",
+  "slug": "water-wheel",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "water wheel \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

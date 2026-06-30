@@ -1,0 +1,12 @@
+{
+  "name": "poult",
+  "slug": "poult",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "poult \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "creep feeding",
+  "slug": "creep-feeding",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "creep feeding \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

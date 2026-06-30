@@ -1,0 +1,12 @@
+{
+  "name": "rotation crop",
+  "slug": "rotation-crop",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "rotation crop \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

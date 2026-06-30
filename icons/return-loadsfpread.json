@@ -1,0 +1,12 @@
+{
+  "name": "return loads(fp.read(),",
+  "slug": "return-loadsfpread",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "return loads(fp.read(), \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "seedbed",
+  "slug": "seedbed",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "seedbed \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

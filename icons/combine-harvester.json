@@ -1,0 +1,12 @@
+{
+  "name": "combine harvester",
+  "slug": "combine-harvester",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "combine harvester \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

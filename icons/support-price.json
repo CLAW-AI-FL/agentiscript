@@ -1,0 +1,12 @@
+{
+  "name": "support price",
+  "slug": "support-price",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "support price \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

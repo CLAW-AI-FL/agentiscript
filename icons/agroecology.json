@@ -1,0 +1,12 @@
+{
+  "name": "agroecology",
+  "slug": "agroecology",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "agroecology \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

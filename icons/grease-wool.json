@@ -1,0 +1,12 @@
+{
+  "name": "grease wool",
+  "slug": "grease-wool",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "grease wool \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

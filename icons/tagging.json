@@ -1,0 +1,12 @@
+{
+  "name": "tagging",
+  "slug": "tagging",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "tagging \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

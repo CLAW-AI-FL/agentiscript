@@ -1,0 +1,12 @@
+{
+  "name": "seed crop",
+  "slug": "seed-crop",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "seed crop \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

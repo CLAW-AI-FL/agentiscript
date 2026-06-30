@@ -1,0 +1,12 @@
+{
+  "name": "staple food",
+  "slug": "staple-food",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "staple food \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

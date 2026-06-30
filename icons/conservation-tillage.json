@@ -1,0 +1,12 @@
+{
+  "name": "conservation tillage",
+  "slug": "conservation-tillage",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "conservation tillage \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

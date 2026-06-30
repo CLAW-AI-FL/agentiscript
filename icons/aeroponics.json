@@ -1,0 +1,12 @@
+{
+  "name": "aeroponics",
+  "slug": "aeroponics",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "aeroponics \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

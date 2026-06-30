@@ -1,0 +1,12 @@
+{
+  "name": "barnyard",
+  "slug": "barnyard",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "barnyard \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

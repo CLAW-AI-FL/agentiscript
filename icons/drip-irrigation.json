@@ -1,0 +1,12 @@
+{
+  "name": "drip irrigation",
+  "slug": "drip-irrigation",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "drip irrigation \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

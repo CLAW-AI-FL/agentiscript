@@ -1,0 +1,12 @@
+{
+  "name": "geological map",
+  "slug": "geological-map",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "geological map \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

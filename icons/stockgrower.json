@@ -1,0 +1,12 @@
+{
+  "name": "stockgrower",
+  "slug": "stockgrower",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "stockgrower \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

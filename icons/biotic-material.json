@@ -1,0 +1,12 @@
+{
+  "name": "Biotic material",
+  "slug": "biotic-material",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "Biotic material \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

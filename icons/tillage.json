@@ -1,0 +1,12 @@
+{
+  "name": "tillage",
+  "slug": "tillage",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "tillage \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

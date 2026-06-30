@@ -1,0 +1,12 @@
+{
+  "name": "hay fever",
+  "slug": "hay-fever",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "hay fever \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

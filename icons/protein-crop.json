@@ -1,0 +1,12 @@
+{
+  "name": "protein crop",
+  "slug": "protein-crop",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "protein crop \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

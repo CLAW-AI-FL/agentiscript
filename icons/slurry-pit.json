@@ -1,0 +1,12 @@
+{
+  "name": "slurry pit",
+  "slug": "slurry-pit",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "slurry pit \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

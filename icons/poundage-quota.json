@@ -1,0 +1,12 @@
+{
+  "name": "poundage quota",
+  "slug": "poundage-quota",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "poundage quota \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

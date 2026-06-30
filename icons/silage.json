@@ -1,0 +1,12 @@
+{
+  "name": "silage",
+  "slug": "silage",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "silage \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

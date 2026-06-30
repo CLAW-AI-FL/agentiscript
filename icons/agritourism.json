@@ -1,0 +1,12 @@
+{
+  "name": "agritourism",
+  "slug": "agritourism",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "agritourism \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

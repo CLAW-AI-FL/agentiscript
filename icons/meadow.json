@@ -1,0 +1,12 @@
+{
+  "name": "meadow",
+  "slug": "meadow",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "meadow \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

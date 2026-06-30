@@ -1,0 +1,12 @@
+{
+  "name": "manure spreader",
+  "slug": "manure-spreader",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "manure spreader \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rhizosphere",
+  "slug": "rhizosphere",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "rhizosphere \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

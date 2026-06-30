@@ -1,0 +1,12 @@
+{
+  "name": "industrial agriculture",
+  "slug": "industrial-agriculture",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "industrial agriculture \u2014 a concept in agriculture.",
+  "version": "2.2"
+}
