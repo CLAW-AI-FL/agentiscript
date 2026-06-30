@@ -1,0 +1,13 @@
+{
+  "name": "dump-months",
+  "label": "dump months",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "dump months \u2014 a concept in cinema.",
+  "version": "2.1"
+}

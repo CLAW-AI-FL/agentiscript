@@ -1,0 +1,13 @@
+{
+  "name": "guttered",
+  "label": "Guttered",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Guttered \u2014 a concept in sports.",
+  "version": "2.1"
+}

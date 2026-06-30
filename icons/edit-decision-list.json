@@ -1,0 +1,13 @@
+{
+  "name": "edit-decision-list",
+  "label": "edit decision list",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "edit decision list \u2014 a concept in cinema.",
+  "version": "2.1"
+}

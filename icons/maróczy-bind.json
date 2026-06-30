@@ -1,0 +1,13 @@
+{
+  "name": "mar\u00f3czy-bind",
+  "label": "Mar\u00f3czy Bind",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Mar\u00f3czy Bind \u2014 a concept in chess.",
+  "version": "2.1"
+}

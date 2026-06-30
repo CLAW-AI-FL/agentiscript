@@ -1,0 +1,13 @@
+{
+  "name": "stoker",
+  "label": "stoker",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "stoker \u2014 a concept in nautical.",
+  "version": "2.1"
+}

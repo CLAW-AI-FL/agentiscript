@@ -1,0 +1,13 @@
+{
+  "name": "sofia-rules",
+  "label": "Sofia rules",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Sofia rules \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "color-gel",
+  "label": "color gel",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "color gel \u2014 a concept in cinema.",
+  "version": "2.1"
+}

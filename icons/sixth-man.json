@@ -1,0 +1,13 @@
+{
+  "name": "sixth-man",
+  "label": "sixth man",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "sixth man \u2014 a concept in sports.",
+  "version": "2.1"
+}

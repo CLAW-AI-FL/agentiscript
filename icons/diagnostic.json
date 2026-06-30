@@ -1,0 +1,13 @@
+{
+  "name": "diagnostic",
+  "label": "diagnostic",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "diagnostic \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

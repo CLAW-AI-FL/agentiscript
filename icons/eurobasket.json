@@ -1,0 +1,13 @@
+{
+  "name": "eurobasket",
+  "label": "EuroBasket",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "EuroBasket \u2014 a concept in sports.",
+  "version": "2.1"
+}

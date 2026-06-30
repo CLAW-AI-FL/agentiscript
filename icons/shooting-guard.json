@@ -1,0 +1,13 @@
+{
+  "name": "shooting-guard",
+  "label": "shooting guard",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "shooting guard \u2014 a concept in sports.",
+  "version": "2.1"
+}

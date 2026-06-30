@@ -1,0 +1,13 @@
+{
+  "name": "countdown",
+  "label": "countdown",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "countdown \u2014 a concept in sports.",
+  "version": "2.1"
+}

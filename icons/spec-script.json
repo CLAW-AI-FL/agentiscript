@@ -1,0 +1,13 @@
+{
+  "name": "spec-script",
+  "label": "spec script",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "spec script \u2014 a concept in cinema.",
+  "version": "2.1"
+}

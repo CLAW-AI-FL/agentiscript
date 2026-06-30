@@ -1,0 +1,13 @@
+{
+  "name": "en-passant",
+  "label": "en passant",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "en passant \u2014 a concept in chess.",
+  "version": "2.1"
+}

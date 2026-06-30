@@ -1,0 +1,13 @@
+{
+  "name": "antiquarian",
+  "label": "antiquarian",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "antiquarian \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

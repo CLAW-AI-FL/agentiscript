@@ -1,0 +1,13 @@
+{
+  "name": "appoggiatura-or-leaning-note",
+  "label": "appoggiatura or leaning note",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "appoggiatura or leaning note \u2014 a concept in music.",
+  "version": "2.1"
+}

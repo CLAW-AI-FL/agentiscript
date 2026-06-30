@@ -1,0 +1,13 @@
+{
+  "name": "rigid",
+  "label": "Rigid",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Rigid \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "amateur",
+  "label": "amateur",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "amateur \u2014 a concept in chess.",
+  "version": "2.1"
+}

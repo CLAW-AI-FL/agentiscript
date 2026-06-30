@@ -1,0 +1,13 @@
+{
+  "name": "piranha",
+  "label": "Piranha",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Piranha \u2014 a concept in sports.",
+  "version": "2.1"
+}

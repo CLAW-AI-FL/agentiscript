@@ -1,0 +1,13 @@
+{
+  "name": "stem-game",
+  "label": "stem game",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "stem game \u2014 a concept in chess.",
+  "version": "2.1"
+}

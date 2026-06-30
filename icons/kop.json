@@ -1,0 +1,13 @@
+{
+  "name": "kop",
+  "label": "Kop",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Kop \u2014 a concept in sports.",
+  "version": "2.1"
+}

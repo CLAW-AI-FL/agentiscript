@@ -1,0 +1,13 @@
+{
+  "name": "play-to-the-whistle",
+  "label": "Play to the whistle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Play to the whistle \u2014 a concept in sports.",
+  "version": "2.1"
+}

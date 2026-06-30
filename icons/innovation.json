@@ -1,0 +1,13 @@
+{
+  "name": "innovation",
+  "label": "innovation",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "innovation \u2014 a concept in chess.",
+  "version": "2.1"
+}

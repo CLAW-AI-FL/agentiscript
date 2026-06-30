@@ -1,0 +1,13 @@
+{
+  "name": "pawn-roller",
+  "label": "pawn roller",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "pawn roller \u2014 a concept in chess.",
+  "version": "2.1"
+}

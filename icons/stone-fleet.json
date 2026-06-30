@@ -1,0 +1,13 @@
+{
+  "name": "stone-fleet",
+  "label": "Stone Fleet",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Stone Fleet \u2014 a concept in nautical.",
+  "version": "2.1"
+}

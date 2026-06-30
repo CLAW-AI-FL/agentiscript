@@ -1,0 +1,13 @@
+{
+  "name": "active",
+  "label": "active",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "active \u2014 a concept in chess.",
+  "version": "2.1"
+}

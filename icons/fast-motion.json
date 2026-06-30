@@ -1,0 +1,13 @@
+{
+  "name": "fast-motion",
+  "label": "fast motion",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "fast motion \u2014 a concept in cinema.",
+  "version": "2.1"
+}

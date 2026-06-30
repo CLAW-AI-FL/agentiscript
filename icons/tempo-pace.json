@@ -1,0 +1,13 @@
+{
+  "name": "tempo-pace",
+  "label": "Tempo pace",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Tempo pace \u2014 a concept in sports.",
+  "version": "2.1"
+}

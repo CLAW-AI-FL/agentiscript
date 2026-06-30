@@ -1,0 +1,13 @@
+{
+  "name": "replacement",
+  "label": "Replacement",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Replacement \u2014 a concept in sports.",
+  "version": "2.1"
+}

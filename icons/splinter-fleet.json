@@ -1,0 +1,13 @@
+{
+  "name": "splinter-fleet",
+  "label": "splinter fleet",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "splinter fleet \u2014 a concept in nautical.",
+  "version": "2.1"
+}

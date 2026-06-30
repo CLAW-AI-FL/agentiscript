@@ -1,0 +1,13 @@
+{
+  "name": "eight-thousander",
+  "label": "eight-thousander",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "eight-thousander \u2014 a concept in sports.",
+  "version": "2.1"
+}

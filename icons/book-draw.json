@@ -1,0 +1,13 @@
+{
+  "name": "book-draw",
+  "label": "book draw",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "book draw \u2014 a concept in chess.",
+  "version": "2.1"
+}

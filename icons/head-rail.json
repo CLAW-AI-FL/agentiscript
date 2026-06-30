@@ -1,0 +1,13 @@
+{
+  "name": "head-rail",
+  "label": "head rail",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "head rail \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "squeeze",
+  "label": "squeeze",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "squeeze \u2014 a concept in chess.",
+  "version": "2.1"
+}

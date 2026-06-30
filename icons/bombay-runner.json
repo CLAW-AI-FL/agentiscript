@@ -1,0 +1,13 @@
+{
+  "name": "bombay-runner",
+  "label": "Bombay runner",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Bombay runner \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "extended-fianchetto",
+  "label": "extended fianchetto",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "extended fianchetto \u2014 a concept in chess.",
+  "version": "2.1"
+}

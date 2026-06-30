@@ -1,0 +1,13 @@
+{
+  "name": "deep-focus",
+  "label": "deep focus",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "deep focus \u2014 a concept in cinema.",
+  "version": "2.1"
+}

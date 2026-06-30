@@ -1,0 +1,13 @@
+{
+  "name": "beaching",
+  "label": "beaching",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "beaching \u2014 a concept in nautical.",
+  "version": "2.1"
+}

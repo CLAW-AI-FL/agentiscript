@@ -1,0 +1,13 @@
+{
+  "name": "bogey",
+  "label": "Bogey",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bogey \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "survey-vessel",
+  "label": "survey vessel",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "survey vessel \u2014 a concept in nautical.",
+  "version": "2.1"
+}

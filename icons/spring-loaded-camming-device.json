@@ -1,0 +1,13 @@
+{
+  "name": "spring-loaded-camming-device",
+  "label": "Spring-loaded camming device",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Spring-loaded camming device \u2014 a concept in sports.",
+  "version": "2.1"
+}

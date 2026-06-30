@@ -1,0 +1,13 @@
+{
+  "name": "logo-three",
+  "label": "logo three",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "logo three \u2014 a concept in sports.",
+  "version": "2.1"
+}

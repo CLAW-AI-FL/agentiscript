@@ -1,0 +1,13 @@
+{
+  "name": "etrier",
+  "label": "etrier",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "etrier \u2014 a concept in sports.",
+  "version": "2.1"
+}

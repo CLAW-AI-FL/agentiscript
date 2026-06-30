@@ -1,0 +1,13 @@
+{
+  "name": "full-ring",
+  "label": "full ring",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "full ring \u2014 a concept in sports.",
+  "version": "2.1"
+}

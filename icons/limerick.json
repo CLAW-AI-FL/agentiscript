@@ -1,0 +1,13 @@
+{
+  "name": "limerick",
+  "label": "Limerick",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Limerick \u2014 a concept in literature.",
+  "version": "2.1"
+}

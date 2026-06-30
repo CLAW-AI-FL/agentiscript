@@ -1,0 +1,13 @@
+{
+  "name": "senior",
+  "label": "Senior",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Senior \u2014 a concept in sports.",
+  "version": "2.1"
+}

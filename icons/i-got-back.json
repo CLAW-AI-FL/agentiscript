@@ -1,0 +1,13 @@
+{
+  "name": "i-got-back",
+  "label": "I got back",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "I got back \u2014 a concept in sports.",
+  "version": "2.1"
+}

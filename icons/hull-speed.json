@@ -1,0 +1,13 @@
+{
+  "name": "hull-speed",
+  "label": "hull speed",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "hull speed \u2014 a concept in nautical.",
+  "version": "2.1"
+}

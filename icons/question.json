@@ -1,0 +1,13 @@
+{
+  "name": "question",
+  "label": "question",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "question \u2014 a concept in chess.",
+  "version": "2.1"
+}

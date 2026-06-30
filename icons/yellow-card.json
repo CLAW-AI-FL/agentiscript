@@ -1,0 +1,13 @@
+{
+  "name": "yellow-card",
+  "label": "Yellow card",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Yellow card \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bike-throw",
+  "label": "Bike throw",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bike throw \u2014 a concept in sports.",
+  "version": "2.1"
+}

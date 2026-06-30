@@ -1,0 +1,13 @@
+{
+  "name": "insert",
+  "label": "Insert",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Insert \u2014 a concept in cinema.",
+  "version": "2.1"
+}

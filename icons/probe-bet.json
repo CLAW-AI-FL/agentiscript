@@ -1,0 +1,13 @@
+{
+  "name": "probe-bet",
+  "label": "probe bet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "probe bet \u2014 a concept in sports.",
+  "version": "2.1"
+}

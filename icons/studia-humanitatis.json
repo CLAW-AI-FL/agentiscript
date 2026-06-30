@@ -1,0 +1,13 @@
+{
+  "name": "studia-humanitatis",
+  "label": "Studia humanitatis",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Studia humanitatis \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

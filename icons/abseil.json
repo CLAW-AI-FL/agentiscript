@@ -1,0 +1,13 @@
+{
+  "name": "abseil",
+  "label": "abseil",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "abseil \u2014 a concept in sports.",
+  "version": "2.1"
+}

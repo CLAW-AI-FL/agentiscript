@@ -1,0 +1,13 @@
+{
+  "name": "fake-down",
+  "label": "fake down",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "fake down \u2014 a concept in nautical.",
+  "version": "2.1"
+}

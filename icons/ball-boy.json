@@ -1,0 +1,13 @@
+{
+  "name": "ball-boy",
+  "label": "Ball boy",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Ball boy \u2014 a concept in sports.",
+  "version": "2.1"
+}

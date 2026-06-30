@@ -1,0 +1,13 @@
+{
+  "name": "downclimb",
+  "label": "downclimb",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "downclimb \u2014 a concept in sports.",
+  "version": "2.1"
+}

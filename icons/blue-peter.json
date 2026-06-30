@@ -1,0 +1,13 @@
+{
+  "name": "blue-peter",
+  "label": "Blue Peter",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Blue Peter \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "climbing-rope",
+  "label": "climbing rope",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "climbing rope \u2014 a concept in sports.",
+  "version": "2.1"
+}

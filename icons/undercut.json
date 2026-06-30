@@ -1,0 +1,13 @@
+{
+  "name": "undercut",
+  "label": "undercut",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "undercut \u2014 a concept in sports.",
+  "version": "2.1"
+}

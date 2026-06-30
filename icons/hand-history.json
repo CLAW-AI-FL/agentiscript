@@ -1,0 +1,13 @@
+{
+  "name": "hand-history",
+  "label": "hand history",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "hand history \u2014 a concept in sports.",
+  "version": "2.1"
+}

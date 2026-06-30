@@ -1,0 +1,13 @@
+{
+  "name": "square-rig",
+  "label": "square rig",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "square rig \u2014 a concept in nautical.",
+  "version": "2.1"
+}

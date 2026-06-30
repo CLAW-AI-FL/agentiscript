@@ -1,0 +1,13 @@
+{
+  "name": "steam-vessel",
+  "label": "steam vessel",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "steam vessel \u2014 a concept in nautical.",
+  "version": "2.1"
+}

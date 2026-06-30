@@ -1,0 +1,13 @@
+{
+  "name": "grammatical-person",
+  "label": "Grammatical person",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Grammatical person \u2014 a concept in literature.",
+  "version": "2.1"
+}

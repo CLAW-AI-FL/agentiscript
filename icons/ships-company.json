@@ -1,0 +1,13 @@
+{
+  "name": "ships-company",
+  "label": "ship's company",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ship's company \u2014 a concept in nautical.",
+  "version": "2.1"
+}

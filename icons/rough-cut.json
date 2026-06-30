@@ -1,0 +1,13 @@
+{
+  "name": "rough-cut",
+  "label": "rough cut",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "rough cut \u2014 a concept in cinema.",
+  "version": "2.1"
+}

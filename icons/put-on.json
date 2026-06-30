@@ -1,0 +1,13 @@
+{
+  "name": "put-on",
+  "label": "put on",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "put on \u2014 a concept in sports.",
+  "version": "2.1"
+}

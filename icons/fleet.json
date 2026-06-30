@@ -1,0 +1,13 @@
+{
+  "name": "fleet",
+  "label": "fleet",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "fleet \u2014 a concept in nautical.",
+  "version": "2.1"
+}

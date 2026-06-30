@@ -1,0 +1,13 @@
+{
+  "name": "fontainebleau-grade",
+  "label": "Fontainebleau grade",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Fontainebleau grade \u2014 a concept in sports.",
+  "version": "2.1"
+}

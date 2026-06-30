@@ -1,0 +1,13 @@
+{
+  "name": "stimpmeter",
+  "label": "Stimpmeter",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Stimpmeter \u2014 a concept in sports.",
+  "version": "2.1"
+}

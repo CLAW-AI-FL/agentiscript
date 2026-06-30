@@ -1,0 +1,13 @@
+{
+  "name": "yard-name",
+  "label": "yard name",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "yard name \u2014 a concept in nautical.",
+  "version": "2.1"
+}

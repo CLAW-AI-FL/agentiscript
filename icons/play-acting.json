@@ -1,0 +1,13 @@
+{
+  "name": "play-acting",
+  "label": "Play-acting",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Play-acting \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "box-set",
+  "label": "box set",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "box set \u2014 a concept in sports.",
+  "version": "2.1"
+}

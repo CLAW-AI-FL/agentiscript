@@ -1,0 +1,13 @@
+{
+  "name": "film-producer",
+  "label": "Film producer",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Film producer \u2014 a concept in cinema.",
+  "version": "2.1"
+}

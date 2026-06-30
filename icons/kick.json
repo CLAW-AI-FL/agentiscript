@@ -1,0 +1,13 @@
+{
+  "name": "kick",
+  "label": "kick",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "kick \u2014 a concept in chess.",
+  "version": "2.1"
+}

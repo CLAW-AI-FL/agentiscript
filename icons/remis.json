@@ -1,0 +1,13 @@
+{
+  "name": "remis",
+  "label": "remis",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "remis \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "complete-hand",
+  "label": "complete hand",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "complete hand \u2014 a concept in sports.",
+  "version": "2.1"
+}

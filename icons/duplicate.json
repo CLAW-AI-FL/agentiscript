@@ -1,0 +1,13 @@
+{
+  "name": "duplicate",
+  "label": "duplicate",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "duplicate \u2014 a concept in sports.",
+  "version": "2.1"
+}

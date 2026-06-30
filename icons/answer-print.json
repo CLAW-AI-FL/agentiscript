@@ -1,0 +1,13 @@
+{
+  "name": "answer-print",
+  "label": "answer print",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "answer print \u2014 a concept in cinema.",
+  "version": "2.1"
+}

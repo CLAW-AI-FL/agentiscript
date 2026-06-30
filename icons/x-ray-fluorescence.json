@@ -1,0 +1,13 @@
+{
+  "name": "x-ray-fluorescence",
+  "label": "X-ray fluorescence",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "X-ray fluorescence \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

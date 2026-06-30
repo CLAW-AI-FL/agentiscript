@@ -1,0 +1,13 @@
+{
+  "name": "tr\u00e9buchet",
+  "label": "Tr\u00e9buchet",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Tr\u00e9buchet \u2014 a concept in chess.",
+  "version": "2.1"
+}

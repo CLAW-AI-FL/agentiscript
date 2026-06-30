@@ -1,0 +1,13 @@
+{
+  "name": "dyno",
+  "label": "dyno",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dyno \u2014 a concept in sports.",
+  "version": "2.1"
+}

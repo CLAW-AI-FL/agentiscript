@@ -1,0 +1,13 @@
+{
+  "name": "fast-cutting",
+  "label": "fast cutting",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "fast cutting \u2014 a concept in cinema.",
+  "version": "2.1"
+}

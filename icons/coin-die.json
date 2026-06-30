@@ -1,0 +1,13 @@
+{
+  "name": "coin-die",
+  "label": "coin die",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "coin die \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

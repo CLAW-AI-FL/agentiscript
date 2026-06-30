@@ -1,0 +1,13 @@
+{
+  "name": "technique",
+  "label": "technique",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "technique \u2014 a concept in chess.",
+  "version": "2.1"
+}

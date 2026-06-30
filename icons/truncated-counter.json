@@ -1,0 +1,13 @@
+{
+  "name": "truncated-counter",
+  "label": "truncated counter",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "truncated counter \u2014 a concept in nautical.",
+  "version": "2.1"
+}

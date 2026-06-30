@@ -1,0 +1,13 @@
+{
+  "name": "boot-boy",
+  "label": "Boot boy",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Boot boy \u2014 a concept in sports.",
+  "version": "2.1"
+}

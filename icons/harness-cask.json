@@ -1,0 +1,13 @@
+{
+  "name": "harness-cask",
+  "label": "harness cask",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "harness cask \u2014 a concept in nautical.",
+  "version": "2.1"
+}

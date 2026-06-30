@@ -1,0 +1,13 @@
+{
+  "name": "lead-ship",
+  "label": "lead ship",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "lead ship \u2014 a concept in nautical.",
+  "version": "2.1"
+}

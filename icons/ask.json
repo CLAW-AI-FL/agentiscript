@@ -1,0 +1,13 @@
+{
+  "name": "ask",
+  "label": "Ask",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Ask \u2014 a concept in finance.",
+  "version": "2.1"
+}

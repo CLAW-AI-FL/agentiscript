@@ -1,0 +1,13 @@
+{
+  "name": "caution",
+  "label": "Caution",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Caution \u2014 a concept in sports.",
+  "version": "2.1"
+}

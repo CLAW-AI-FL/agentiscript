@@ -1,0 +1,13 @@
+{
+  "name": "reaction-shot",
+  "label": "reaction shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "reaction shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

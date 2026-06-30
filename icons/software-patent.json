@@ -1,0 +1,13 @@
+{
+  "name": "software-patent",
+  "label": "Software patent",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Software patent \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

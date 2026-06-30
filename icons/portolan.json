@@ -1,0 +1,13 @@
+{
+  "name": "portolan",
+  "label": "portolan",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "portolan \u2014 a concept in nautical.",
+  "version": "2.1"
+}

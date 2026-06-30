@@ -1,0 +1,13 @@
+{
+  "name": "winning-position",
+  "label": "winning position",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "winning position \u2014 a concept in chess.",
+  "version": "2.1"
+}

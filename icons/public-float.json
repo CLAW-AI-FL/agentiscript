@@ -1,0 +1,13 @@
+{
+  "name": "public-float",
+  "label": "Public float",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Public float \u2014 a concept in finance.",
+  "version": "2.1"
+}

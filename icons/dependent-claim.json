@@ -1,0 +1,13 @@
+{
+  "name": "dependent-claim",
+  "label": "Dependent claim",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Dependent claim \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

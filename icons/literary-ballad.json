@@ -1,0 +1,13 @@
+{
+  "name": "literary-ballad",
+  "label": "literary ballad",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "literary ballad \u2014 a concept in literature.",
+  "version": "2.1"
+}

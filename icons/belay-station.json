@@ -1,0 +1,13 @@
+{
+  "name": "belay-station",
+  "label": "belay station",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "belay station \u2014 a concept in sports.",
+  "version": "2.1"
+}

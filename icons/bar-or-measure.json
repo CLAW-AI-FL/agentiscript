@@ -1,0 +1,13 @@
+{
+  "name": "bar-or-measure",
+  "label": "bar, or measure",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "bar, or measure \u2014 a concept in music.",
+  "version": "2.1"
+}

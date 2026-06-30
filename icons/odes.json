@@ -1,0 +1,13 @@
+{
+  "name": "odes",
+  "label": "Odes",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Odes \u2014 a concept in literature.",
+  "version": "2.1"
+}

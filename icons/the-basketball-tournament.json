@@ -1,0 +1,13 @@
+{
+  "name": "the-basketball-tournament",
+  "label": "The Basketball Tournament",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "The Basketball Tournament \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "jar-burial",
+  "label": "jar burial",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "jar burial \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

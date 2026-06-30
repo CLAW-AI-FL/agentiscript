@@ -1,0 +1,13 @@
+{
+  "name": "final-whistle",
+  "label": "Final whistle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Final whistle \u2014 a concept in sports.",
+  "version": "2.1"
+}

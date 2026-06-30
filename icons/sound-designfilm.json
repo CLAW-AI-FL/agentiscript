@@ -1,0 +1,13 @@
+{
+  "name": "sound-designfilm",
+  "label": "Sound design#Film",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Sound design#Film \u2014 a concept in cinema.",
+  "version": "2.1"
+}

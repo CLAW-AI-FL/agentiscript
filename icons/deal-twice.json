@@ -1,0 +1,13 @@
+{
+  "name": "deal-twice",
+  "label": "deal twice",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "deal twice \u2014 a concept in sports.",
+  "version": "2.1"
+}

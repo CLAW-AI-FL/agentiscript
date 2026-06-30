@@ -1,0 +1,13 @@
+{
+  "name": "circle-of-death",
+  "label": "Circle of death",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Circle of death \u2014 a concept in sports.",
+  "version": "2.1"
+}

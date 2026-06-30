@@ -1,0 +1,13 @@
+{
+  "name": "dissent",
+  "label": "Dissent",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Dissent \u2014 a concept in sports.",
+  "version": "2.1"
+}

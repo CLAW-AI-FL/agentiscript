@@ -1,0 +1,13 @@
+{
+  "name": "tricycle",
+  "label": "Tricycle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Tricycle \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stakes",
+  "label": "stakes",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "stakes \u2014 a concept in sports.",
+  "version": "2.1"
+}

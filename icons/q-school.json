@@ -1,0 +1,13 @@
+{
+  "name": "q-school",
+  "label": "Q-school",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Q-school \u2014 a concept in sports.",
+  "version": "2.1"
+}

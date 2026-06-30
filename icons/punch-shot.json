@@ -1,0 +1,13 @@
+{
+  "name": "punch-shot",
+  "label": "Punch shot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Punch shot \u2014 a concept in sports.",
+  "version": "2.1"
+}

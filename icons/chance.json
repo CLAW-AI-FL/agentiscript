@@ -1,0 +1,13 @@
+{
+  "name": "chance",
+  "label": "Chance",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Chance \u2014 a concept in sports.",
+  "version": "2.1"
+}

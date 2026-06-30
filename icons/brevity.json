@@ -1,0 +1,13 @@
+{
+  "name": "brevity",
+  "label": "brevity",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "brevity \u2014 a concept in chess.",
+  "version": "2.1"
+}

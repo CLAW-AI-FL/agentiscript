@@ -1,0 +1,13 @@
+{
+  "name": "positionless-basketball",
+  "label": "positionless basketball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "positionless basketball \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "anti-sicilian",
+  "label": "Anti-Sicilian",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Anti-Sicilian \u2014 a concept in chess.",
+  "version": "2.1"
+}

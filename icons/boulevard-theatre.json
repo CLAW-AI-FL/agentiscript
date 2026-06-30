@@ -1,0 +1,13 @@
+{
+  "name": "boulevard-theatre",
+  "label": "Boulevard theatre",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Boulevard theatre \u2014 a concept in literature.",
+  "version": "2.1"
+}

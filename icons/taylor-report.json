@@ -1,0 +1,13 @@
+{
+  "name": "taylor-report",
+  "label": "Taylor Report",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Taylor Report \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "read-through",
+  "label": "read-through",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "read-through \u2014 a concept in cinema.",
+  "version": "2.1"
+}

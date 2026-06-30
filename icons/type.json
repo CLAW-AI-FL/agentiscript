@@ -1,0 +1,13 @@
+{
+  "name": "type",
+  "label": "type",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "type \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

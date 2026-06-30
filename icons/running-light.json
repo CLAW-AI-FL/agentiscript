@@ -1,0 +1,13 @@
+{
+  "name": "running-light",
+  "label": "running light",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "running light \u2014 a concept in nautical.",
+  "version": "2.1"
+}

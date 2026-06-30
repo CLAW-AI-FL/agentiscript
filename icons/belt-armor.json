@@ -1,0 +1,13 @@
+{
+  "name": "belt-armor",
+  "label": "belt armor",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "belt armor \u2014 a concept in nautical.",
+  "version": "2.1"
+}

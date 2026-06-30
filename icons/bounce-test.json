@@ -1,0 +1,13 @@
+{
+  "name": "bounce-test",
+  "label": "bounce test",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bounce test \u2014 a concept in sports.",
+  "version": "2.1"
+}

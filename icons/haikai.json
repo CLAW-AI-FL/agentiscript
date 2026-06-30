@@ -1,0 +1,13 @@
+{
+  "name": "haikai",
+  "label": "haikai",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "haikai \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "monitor",
+  "label": "monitor",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "monitor \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "direct-start",
+  "label": "direct start",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "direct start \u2014 a concept in sports.",
+  "version": "2.1"
+}

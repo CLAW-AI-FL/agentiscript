@@ -1,0 +1,13 @@
+{
+  "name": "piton-catcher",
+  "label": "piton catcher",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "piton catcher \u2014 a concept in sports.",
+  "version": "2.1"
+}

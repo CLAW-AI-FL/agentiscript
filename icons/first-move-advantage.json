@@ -1,0 +1,13 @@
+{
+  "name": "first-move-advantage",
+  "label": "first-move advantage",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "first-move advantage \u2014 a concept in chess.",
+  "version": "2.1"
+}

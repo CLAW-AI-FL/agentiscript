@@ -1,0 +1,13 @@
+{
+  "name": "periodical-literature",
+  "label": "periodical literature",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "periodical literature \u2014 a concept in literature.",
+  "version": "2.1"
+}

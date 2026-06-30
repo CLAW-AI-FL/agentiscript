@@ -1,0 +1,13 @@
+{
+  "name": "shipwreck",
+  "label": "shipwreck",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "shipwreck \u2014 a concept in nautical.",
+  "version": "2.1"
+}

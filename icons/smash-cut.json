@@ -1,0 +1,13 @@
+{
+  "name": "smash-cut",
+  "label": "smash cut",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "smash cut \u2014 a concept in cinema.",
+  "version": "2.1"
+}

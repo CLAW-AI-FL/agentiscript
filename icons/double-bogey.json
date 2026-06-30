@@ -1,0 +1,13 @@
+{
+  "name": "double-bogey",
+  "label": "double bogey",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "double bogey \u2014 a concept in sports.",
+  "version": "2.1"
+}

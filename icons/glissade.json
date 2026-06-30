@@ -1,0 +1,13 @@
+{
+  "name": "glissade",
+  "label": "Glissade",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Glissade \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sonoro",
+  "label": "sonoro",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "sonoro \u2014 a concept in music.",
+  "version": "2.1"
+}

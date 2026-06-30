@@ -1,0 +1,13 @@
+{
+  "name": "bidon",
+  "label": "Bidon",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bidon \u2014 a concept in sports.",
+  "version": "2.1"
+}

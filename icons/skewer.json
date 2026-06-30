@@ -1,0 +1,13 @@
+{
+  "name": "skewer",
+  "label": "skewer",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "skewer \u2014 a concept in chess.",
+  "version": "2.1"
+}

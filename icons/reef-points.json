@@ -1,0 +1,13 @@
+{
+  "name": "reef-points",
+  "label": "reef-points",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "reef-points \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "updraft-kiln",
+  "label": "updraft kiln",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "updraft kiln \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

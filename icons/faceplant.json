@@ -1,0 +1,13 @@
+{
+  "name": "faceplant",
+  "label": "Faceplant",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Faceplant \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "perimeter",
+  "label": "perimeter",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "perimeter \u2014 a concept in sports.",
+  "version": "2.1"
+}

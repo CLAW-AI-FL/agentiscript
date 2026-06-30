@@ -1,0 +1,13 @@
+{
+  "name": "fide-rating",
+  "label": "FIDE rating",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "FIDE rating \u2014 a concept in chess.",
+  "version": "2.1"
+}

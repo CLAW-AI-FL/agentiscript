@@ -1,0 +1,13 @@
+{
+  "name": "in-position",
+  "label": "in position",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "in position \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "center-file",
+  "label": "center file",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "center file \u2014 a concept in chess.",
+  "version": "2.1"
+}

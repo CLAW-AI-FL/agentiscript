@@ -1,0 +1,13 @@
+{
+  "name": "ars-dictaminis",
+  "label": "Ars dictaminis",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Ars dictaminis \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

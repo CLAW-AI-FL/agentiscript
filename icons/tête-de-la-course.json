@@ -1,0 +1,13 @@
+{
+  "name": "t\u00eate-de-la-course",
+  "label": "T\u00eate de la course",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "T\u00eate de la course \u2014 a concept in sports.",
+  "version": "2.1"
+}

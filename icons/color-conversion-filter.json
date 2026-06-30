@@ -1,0 +1,13 @@
+{
+  "name": "color-conversion-filter",
+  "label": "color conversion filter",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "color conversion filter \u2014 a concept in cinema.",
+  "version": "2.1"
+}

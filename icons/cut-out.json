@@ -1,0 +1,13 @@
+{
+  "name": "cut-out",
+  "label": "cut out",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "cut out \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rope-bag",
+  "label": "rope bag",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rope bag \u2014 a concept in sports.",
+  "version": "2.1"
+}

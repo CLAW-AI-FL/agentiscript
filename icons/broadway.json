@@ -1,0 +1,13 @@
+{
+  "name": "broadway",
+  "label": "broadway",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "broadway \u2014 a concept in sports.",
+  "version": "2.1"
+}

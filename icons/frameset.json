@@ -1,0 +1,13 @@
+{
+  "name": "frameset",
+  "label": "Frameset",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Frameset \u2014 a concept in sports.",
+  "version": "2.1"
+}

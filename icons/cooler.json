@@ -1,0 +1,13 @@
+{
+  "name": "cooler",
+  "label": "cooler",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "cooler \u2014 a concept in sports.",
+  "version": "2.1"
+}

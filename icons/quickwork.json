@@ -1,0 +1,13 @@
+{
+  "name": "quickwork",
+  "label": "quickwork",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "quickwork \u2014 a concept in nautical.",
+  "version": "2.1"
+}

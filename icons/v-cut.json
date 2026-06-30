@@ -1,0 +1,13 @@
+{
+  "name": "v-cut",
+  "label": "V-cut",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "V-cut \u2014 a concept in sports.",
+  "version": "2.1"
+}

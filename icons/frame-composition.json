@@ -1,0 +1,13 @@
+{
+  "name": "frame-composition",
+  "label": "frame composition",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "frame composition \u2014 a concept in cinema.",
+  "version": "2.1"
+}

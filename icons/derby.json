@@ -1,0 +1,13 @@
+{
+  "name": "derby",
+  "label": "Derby",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Derby \u2014 a concept in sports.",
+  "version": "2.1"
+}

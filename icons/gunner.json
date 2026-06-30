@@ -1,0 +1,13 @@
+{
+  "name": "gunner",
+  "label": "gunner",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "gunner \u2014 a concept in sports.",
+  "version": "2.1"
+}

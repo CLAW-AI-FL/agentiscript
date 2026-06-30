@@ -1,0 +1,13 @@
+{
+  "name": "ore-carrier",
+  "label": "ore carrier",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ore carrier \u2014 a concept in nautical.",
+  "version": "2.1"
+}

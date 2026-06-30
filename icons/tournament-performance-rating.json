@@ -1,0 +1,13 @@
+{
+  "name": "tournament-performance-rating",
+  "label": "tournament performance rating",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "tournament performance rating \u2014 a concept in chess.",
+  "version": "2.1"
+}

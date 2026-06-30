@@ -1,0 +1,13 @@
+{
+  "name": "leg",
+  "label": "leg",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "leg \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "video-projector",
+  "label": "Video projector",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Video projector \u2014 a concept in cinema.",
+  "version": "2.1"
+}

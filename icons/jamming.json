@@ -1,0 +1,13 @@
+{
+  "name": "jamming",
+  "label": "jamming",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "jamming \u2014 a concept in sports.",
+  "version": "2.1"
+}

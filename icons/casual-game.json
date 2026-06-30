@@ -1,0 +1,13 @@
+{
+  "name": "casual-game",
+  "label": "casual game",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "casual game \u2014 a concept in chess.",
+  "version": "2.1"
+}

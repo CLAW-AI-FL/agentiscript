@@ -1,0 +1,13 @@
+{
+  "name": "draft",
+  "label": "draft",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "draft \u2014 a concept in nautical.",
+  "version": "2.1"
+}

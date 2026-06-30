@@ -1,0 +1,13 @@
+{
+  "name": "club",
+  "label": "Club",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Club \u2014 a concept in sports.",
+  "version": "2.1"
+}

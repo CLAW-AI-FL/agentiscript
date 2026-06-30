@@ -1,0 +1,13 @@
+{
+  "name": "snow-fluke",
+  "label": "snow fluke",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "snow fluke \u2014 a concept in sports.",
+  "version": "2.1"
+}

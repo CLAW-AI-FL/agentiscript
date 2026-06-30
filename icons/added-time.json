@@ -1,0 +1,13 @@
+{
+  "name": "added-time",
+  "label": "Added time",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Added time \u2014 a concept in sports.",
+  "version": "2.1"
+}

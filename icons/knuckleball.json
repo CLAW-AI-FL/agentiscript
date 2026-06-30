@@ -1,0 +1,13 @@
+{
+  "name": "knuckleball",
+  "label": "Knuckleball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Knuckleball \u2014 a concept in sports.",
+  "version": "2.1"
+}

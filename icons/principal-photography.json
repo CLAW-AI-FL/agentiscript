@@ -1,0 +1,13 @@
+{
+  "name": "principal-photography",
+  "label": "principal photography",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "principal photography \u2014 a concept in cinema.",
+  "version": "2.1"
+}

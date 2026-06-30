@@ -1,0 +1,13 @@
+{
+  "name": "maundy-money",
+  "label": "Maundy money",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "Maundy money \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "favourite",
+  "label": "Favourite",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Favourite \u2014 a concept in sports.",
+  "version": "2.1"
+}

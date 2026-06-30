@@ -1,0 +1,13 @@
+{
+  "name": "shoot-your-my-age",
+  "label": "Shoot your (my) age",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Shoot your (my) age \u2014 a concept in sports.",
+  "version": "2.1"
+}

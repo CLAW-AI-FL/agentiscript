@@ -1,0 +1,13 @@
+{
+  "name": "subscription-poker",
+  "label": "subscription poker",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "subscription poker \u2014 a concept in sports.",
+  "version": "2.1"
+}

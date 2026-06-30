@@ -1,0 +1,13 @@
+{
+  "name": "market-top",
+  "label": "Market top",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Market top \u2014 a concept in finance.",
+  "version": "2.1"
+}

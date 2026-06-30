@@ -1,0 +1,13 @@
+{
+  "name": "walk-and-talk",
+  "label": "walk and talk",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "walk and talk \u2014 a concept in cinema.",
+  "version": "2.1"
+}

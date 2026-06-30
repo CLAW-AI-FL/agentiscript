@@ -1,0 +1,13 @@
+{
+  "name": "underground-art",
+  "label": "underground art",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "underground art \u2014 a concept in literature.",
+  "version": "2.1"
+}

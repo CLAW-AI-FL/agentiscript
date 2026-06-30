@@ -1,0 +1,13 @@
+{
+  "name": "sv",
+  "label": "S/V",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "S/V \u2014 a concept in nautical.",
+  "version": "2.1"
+}

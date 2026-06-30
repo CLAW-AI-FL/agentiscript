@@ -1,0 +1,13 @@
+{
+  "name": "reverse-outside-flag",
+  "label": "reverse outside-flag",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "reverse outside-flag \u2014 a concept in sports.",
+  "version": "2.1"
+}

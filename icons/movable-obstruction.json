@@ -1,0 +1,13 @@
+{
+  "name": "movable-obstruction",
+  "label": "Movable obstruction",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Movable obstruction \u2014 a concept in sports.",
+  "version": "2.1"
+}

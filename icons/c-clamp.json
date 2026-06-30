@@ -1,0 +1,13 @@
+{
+  "name": "c-clamp",
+  "label": "C-Clamp",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "C-Clamp \u2014 a concept in cinema.",
+  "version": "2.1"
+}

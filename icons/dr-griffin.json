@@ -1,0 +1,13 @@
+{
+  "name": "dr-griffin",
+  "label": "Dr. Griffin",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Dr. Griffin \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "national-invitation-tournament",
+  "label": "National Invitation Tournament",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "National Invitation Tournament \u2014 a concept in sports.",
+  "version": "2.1"
+}

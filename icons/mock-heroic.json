@@ -1,0 +1,13 @@
+{
+  "name": "mock-heroic",
+  "label": "mock-heroic",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "mock-heroic \u2014 a concept in literature.",
+  "version": "2.1"
+}

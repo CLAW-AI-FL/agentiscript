@@ -1,0 +1,13 @@
+{
+  "name": "span",
+  "label": "span",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "span \u2014 a concept in sports.",
+  "version": "2.1"
+}

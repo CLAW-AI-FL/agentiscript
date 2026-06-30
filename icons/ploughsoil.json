@@ -1,0 +1,13 @@
+{
+  "name": "ploughsoil",
+  "label": "ploughsoil",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "ploughsoil \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "negative-cutting",
+  "label": "negative cutting",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "negative cutting \u2014 a concept in cinema.",
+  "version": "2.1"
+}

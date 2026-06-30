@@ -1,0 +1,13 @@
+{
+  "name": "color-timer",
+  "label": "color timer",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "color timer \u2014 a concept in cinema.",
+  "version": "2.1"
+}

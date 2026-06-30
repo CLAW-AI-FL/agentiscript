@@ -1,0 +1,13 @@
+{
+  "name": "four-of-a-kind",
+  "label": "four of a kind",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "four of a kind \u2014 a concept in sports.",
+  "version": "2.1"
+}

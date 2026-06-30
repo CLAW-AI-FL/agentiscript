@@ -1,0 +1,13 @@
+{
+  "name": "row-z",
+  "label": "Row Z",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Row Z \u2014 a concept in sports.",
+  "version": "2.1"
+}

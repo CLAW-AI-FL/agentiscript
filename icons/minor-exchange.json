@@ -1,0 +1,13 @@
+{
+  "name": "minor-exchange",
+  "label": "minor exchange",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "minor exchange \u2014 a concept in chess.",
+  "version": "2.1"
+}

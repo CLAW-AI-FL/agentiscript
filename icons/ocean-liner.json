@@ -1,0 +1,13 @@
+{
+  "name": "ocean-liner",
+  "label": "ocean liner",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ocean liner \u2014 a concept in nautical.",
+  "version": "2.1"
+}

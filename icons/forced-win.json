@@ -1,0 +1,13 @@
+{
+  "name": "forced-win",
+  "label": "forced win",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "forced win \u2014 a concept in chess.",
+  "version": "2.1"
+}

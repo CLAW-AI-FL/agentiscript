@@ -1,0 +1,13 @@
+{
+  "name": "climbing-wall",
+  "label": "climbing wall",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "climbing wall \u2014 a concept in sports.",
+  "version": "2.1"
+}

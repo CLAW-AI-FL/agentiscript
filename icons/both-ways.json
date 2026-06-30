@@ -1,0 +1,13 @@
+{
+  "name": "both-ways",
+  "label": "both ways",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "both ways \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "speed-climbing",
+  "label": "speed climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "speed climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

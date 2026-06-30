@@ -1,0 +1,13 @@
+{
+  "name": "via-ferrata",
+  "label": "via ferrata",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "via ferrata \u2014 a concept in sports.",
+  "version": "2.1"
+}

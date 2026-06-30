@@ -1,0 +1,13 @@
+{
+  "name": "queening",
+  "label": "queening",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "queening \u2014 a concept in chess.",
+  "version": "2.1"
+}

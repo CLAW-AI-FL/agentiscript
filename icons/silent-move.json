@@ -1,0 +1,13 @@
+{
+  "name": "silent-move",
+  "label": "silent move",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "silent move \u2014 a concept in chess.",
+  "version": "2.1"
+}

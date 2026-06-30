@@ -1,0 +1,13 @@
+{
+  "name": "mast-partner",
+  "label": "Mast partner",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Mast partner \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "albatross",
+  "label": "albatross",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "albatross \u2014 a concept in sports.",
+  "version": "2.1"
+}

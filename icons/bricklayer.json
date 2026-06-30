@@ -1,0 +1,13 @@
+{
+  "name": "bricklayer",
+  "label": "bricklayer",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bricklayer \u2014 a concept in sports.",
+  "version": "2.1"
+}

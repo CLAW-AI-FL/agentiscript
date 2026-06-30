@@ -1,0 +1,13 @@
+{
+  "name": "joinder",
+  "label": "Joinder",
+  "category": "law",
+  "tags": [
+    "law",
+    "legal",
+    "justice"
+  ],
+  "source": "law",
+  "description": "Joinder \u2014 a concept in law.",
+  "version": "2.1"
+}

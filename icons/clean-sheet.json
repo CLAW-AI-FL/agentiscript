@@ -1,0 +1,13 @@
+{
+  "name": "clean-sheet",
+  "label": "Clean sheet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Clean sheet \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "flank-opening",
+  "label": "flank opening",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "flank opening \u2014 a concept in chess.",
+  "version": "2.1"
+}

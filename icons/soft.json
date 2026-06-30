@@ -1,0 +1,13 @@
+{
+  "name": "soft",
+  "label": "Soft",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Soft \u2014 a concept in sports.",
+  "version": "2.1"
+}

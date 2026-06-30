@@ -1,0 +1,13 @@
+{
+  "name": "separation",
+  "label": "Separation",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Separation \u2014 a concept in sports.",
+  "version": "2.1"
+}

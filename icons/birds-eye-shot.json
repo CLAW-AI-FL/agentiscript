@@ -1,0 +1,13 @@
+{
+  "name": "birds-eye-shot",
+  "label": "bird's eye shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "bird's eye shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

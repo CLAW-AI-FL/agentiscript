@@ -1,0 +1,13 @@
+{
+  "name": "semi-open-file",
+  "label": "semi-open file",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "semi-open file \u2014 a concept in chess.",
+  "version": "2.1"
+}

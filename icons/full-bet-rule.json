@@ -1,0 +1,13 @@
+{
+  "name": "full-bet-rule",
+  "label": "full bet rule",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "full bet rule \u2014 a concept in sports.",
+  "version": "2.1"
+}

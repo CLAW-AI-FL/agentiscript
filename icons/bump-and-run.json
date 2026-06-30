@@ -1,0 +1,13 @@
+{
+  "name": "bump-and-run",
+  "label": "Bump and run",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bump and run \u2014 a concept in sports.",
+  "version": "2.1"
+}

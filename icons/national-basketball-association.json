@@ -1,0 +1,13 @@
+{
+  "name": "national-basketball-association",
+  "label": "National Basketball Association",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "National Basketball Association \u2014 a concept in sports.",
+  "version": "2.1"
+}

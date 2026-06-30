@@ -1,0 +1,13 @@
+{
+  "name": "wind-deflector",
+  "label": "wind deflector",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "wind deflector \u2014 a concept in nautical.",
+  "version": "2.1"
+}

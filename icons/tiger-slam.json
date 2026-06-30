@@ -1,0 +1,13 @@
+{
+  "name": "tiger-slam",
+  "label": "Tiger Slam",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Tiger Slam \u2014 a concept in sports.",
+  "version": "2.1"
+}

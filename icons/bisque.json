@@ -1,0 +1,13 @@
+{
+  "name": "bisque",
+  "label": "Bisque",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bisque \u2014 a concept in sports.",
+  "version": "2.1"
+}

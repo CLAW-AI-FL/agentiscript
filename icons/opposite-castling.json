@@ -1,0 +1,13 @@
+{
+  "name": "opposite-castling",
+  "label": "opposite castling",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "opposite castling \u2014 a concept in chess.",
+  "version": "2.1"
+}

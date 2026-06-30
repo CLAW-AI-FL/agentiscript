@@ -1,0 +1,13 @@
+{
+  "name": "big-wall-climbing",
+  "label": "big wall climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "big wall climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

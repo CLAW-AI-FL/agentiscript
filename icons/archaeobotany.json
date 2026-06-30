@@ -1,0 +1,13 @@
+{
+  "name": "archaeobotany",
+  "label": "archaeobotany",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "archaeobotany \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ice-axe",
+  "label": "ice axe",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "ice axe \u2014 a concept in sports.",
+  "version": "2.1"
+}

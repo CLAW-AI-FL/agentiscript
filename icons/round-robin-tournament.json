@@ -1,0 +1,13 @@
+{
+  "name": "round-robin-tournament",
+  "label": "round-robin tournament",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "round-robin tournament \u2014 a concept in chess.",
+  "version": "2.1"
+}

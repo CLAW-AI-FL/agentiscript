@@ -1,0 +1,13 @@
+{
+  "name": "epson-tour",
+  "label": "Epson Tour",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Epson Tour \u2014 a concept in sports.",
+  "version": "2.1"
+}

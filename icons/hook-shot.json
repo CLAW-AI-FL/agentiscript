@@ -1,0 +1,13 @@
+{
+  "name": "hook-shot",
+  "label": "hook shot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "hook shot \u2014 a concept in sports.",
+  "version": "2.1"
+}

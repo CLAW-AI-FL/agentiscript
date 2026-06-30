@@ -1,0 +1,13 @@
+{
+  "name": "swap",
+  "label": "swap",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "swap \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "keepie-uppie",
+  "label": "Keepie-uppie",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Keepie-uppie \u2014 a concept in sports.",
+  "version": "2.1"
+}

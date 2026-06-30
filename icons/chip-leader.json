@@ -1,0 +1,13 @@
+{
+  "name": "chip-leader",
+  "label": "chip leader",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "chip leader \u2014 a concept in sports.",
+  "version": "2.1"
+}

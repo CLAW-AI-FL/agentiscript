@@ -1,0 +1,13 @@
+{
+  "name": "double-dribble",
+  "label": "double dribble",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "double dribble \u2014 a concept in sports.",
+  "version": "2.1"
+}

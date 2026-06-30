@@ -1,0 +1,13 @@
+{
+  "name": "corner-kick",
+  "label": "Corner kick",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Corner kick \u2014 a concept in sports.",
+  "version": "2.1"
+}

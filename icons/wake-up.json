@@ -1,0 +1,13 @@
+{
+  "name": "wake-up",
+  "label": "wake up",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "wake up \u2014 a concept in sports.",
+  "version": "2.1"
+}

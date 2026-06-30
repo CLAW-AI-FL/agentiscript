@@ -1,0 +1,13 @@
+{
+  "name": "occupation-earth",
+  "label": "occupation earth",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "occupation earth \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

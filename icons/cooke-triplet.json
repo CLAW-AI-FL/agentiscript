@@ -1,0 +1,13 @@
+{
+  "name": "cooke-triplet",
+  "label": "Cooke triplet",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Cooke triplet \u2014 a concept in cinema.",
+  "version": "2.1"
+}

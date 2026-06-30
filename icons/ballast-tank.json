@@ -1,0 +1,13 @@
+{
+  "name": "ballast-tank",
+  "label": "ballast tank",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ballast tank \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "international-clearance",
+  "label": "International clearance",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "International clearance \u2014 a concept in sports.",
+  "version": "2.1"
+}

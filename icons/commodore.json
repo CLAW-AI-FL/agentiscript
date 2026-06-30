@@ -1,0 +1,13 @@
+{
+  "name": "commodore",
+  "label": "commodore",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "commodore \u2014 a concept in nautical.",
+  "version": "2.1"
+}

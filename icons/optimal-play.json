@@ -1,0 +1,13 @@
+{
+  "name": "optimal-play",
+  "label": "optimal play",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "optimal play \u2014 a concept in chess.",
+  "version": "2.1"
+}

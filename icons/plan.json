@@ -1,0 +1,13 @@
+{
+  "name": "plan",
+  "label": "plan",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "plan \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

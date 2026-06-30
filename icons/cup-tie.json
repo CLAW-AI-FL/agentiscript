@@ -1,0 +1,13 @@
+{
+  "name": "cup-tie",
+  "label": "Cup tie",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Cup tie \u2014 a concept in sports.",
+  "version": "2.1"
+}

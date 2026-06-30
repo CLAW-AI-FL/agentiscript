@@ -1,0 +1,13 @@
+{
+  "name": "zona-mista",
+  "label": "Zona mista",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Zona mista \u2014 a concept in sports.",
+  "version": "2.1"
+}

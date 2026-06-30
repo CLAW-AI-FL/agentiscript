@@ -1,0 +1,13 @@
+{
+  "name": "protected-passed-pawn",
+  "label": "protected passed pawn",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "protected passed pawn \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "goal-of-the-century",
+  "label": "Goal of the century",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Goal of the century \u2014 a concept in sports.",
+  "version": "2.1"
+}

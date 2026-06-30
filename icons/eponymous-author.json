@@ -1,0 +1,13 @@
+{
+  "name": "eponymous-author",
+  "label": "eponymous author",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "eponymous author \u2014 a concept in literature.",
+  "version": "2.1"
+}

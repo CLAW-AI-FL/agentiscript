@@ -1,0 +1,13 @@
+{
+  "name": "color-rendering-index",
+  "label": "color rendering index",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "color rendering index \u2014 a concept in cinema.",
+  "version": "2.1"
+}

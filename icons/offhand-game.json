@@ -1,0 +1,13 @@
+{
+  "name": "offhand-game",
+  "label": "offhand game",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "offhand game \u2014 a concept in chess.",
+  "version": "2.1"
+}

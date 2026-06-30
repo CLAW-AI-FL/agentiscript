@@ -1,0 +1,13 @@
+{
+  "name": "bulk-carrier",
+  "label": "bulk carrier",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "bulk carrier \u2014 a concept in nautical.",
+  "version": "2.1"
+}

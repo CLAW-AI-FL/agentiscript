@@ -1,0 +1,13 @@
+{
+  "name": "boat-keeper",
+  "label": "boat keeper",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "boat keeper \u2014 a concept in nautical.",
+  "version": "2.1"
+}

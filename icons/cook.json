@@ -1,0 +1,13 @@
+{
+  "name": "cook",
+  "label": "cook",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "cook \u2014 a concept in chess.",
+  "version": "2.1"
+}

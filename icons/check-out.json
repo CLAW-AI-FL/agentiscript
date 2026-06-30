@@ -1,0 +1,13 @@
+{
+  "name": "check-out",
+  "label": "check out",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "check out \u2014 a concept in sports.",
+  "version": "2.1"
+}

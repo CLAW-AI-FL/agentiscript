@@ -1,0 +1,13 @@
+{
+  "name": "condor",
+  "label": "condor",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "condor \u2014 a concept in sports.",
+  "version": "2.1"
+}

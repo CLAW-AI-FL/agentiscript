@@ -1,0 +1,13 @@
+{
+  "name": "closed-game",
+  "label": "Closed Game",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Closed Game \u2014 a concept in chess.",
+  "version": "2.1"
+}

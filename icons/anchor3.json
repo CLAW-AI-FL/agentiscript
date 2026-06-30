@@ -1,0 +1,13 @@
+{
+  "name": "anchor3",
+  "label": "{{anchor|3",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "{{anchor|3 \u2014 a concept in sports.",
+  "version": "2.1"
+}

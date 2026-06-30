@@ -1,0 +1,13 @@
+{
+  "name": "illegal-position",
+  "label": "illegal position",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "illegal position \u2014 a concept in chess.",
+  "version": "2.1"
+}

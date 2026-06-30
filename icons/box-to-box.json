@@ -1,0 +1,13 @@
+{
+  "name": "box-to-box",
+  "label": "Box-to-box",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Box-to-box \u2014 a concept in sports.",
+  "version": "2.1"
+}

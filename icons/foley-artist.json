@@ -1,0 +1,13 @@
+{
+  "name": "foley-artist",
+  "label": "Foley artist",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Foley artist \u2014 a concept in cinema.",
+  "version": "2.1"
+}

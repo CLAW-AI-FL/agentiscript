@@ -1,0 +1,13 @@
+{
+  "name": "waterline",
+  "label": "waterline",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "waterline \u2014 a concept in nautical.",
+  "version": "2.1"
+}

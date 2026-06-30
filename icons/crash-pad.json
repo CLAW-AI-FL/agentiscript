@@ -1,0 +1,13 @@
+{
+  "name": "crash-pad",
+  "label": "crash pad",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "crash pad \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "one-two",
+  "label": "One-two",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "One-two \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dead-hand",
+  "label": "dead hand",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dead hand \u2014 a concept in sports.",
+  "version": "2.1"
+}

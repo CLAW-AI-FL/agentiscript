@@ -1,0 +1,13 @@
+{
+  "name": "continuation-bet",
+  "label": "continuation bet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "continuation bet \u2014 a concept in sports.",
+  "version": "2.1"
+}

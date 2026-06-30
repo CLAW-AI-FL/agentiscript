@@ -1,0 +1,13 @@
+{
+  "name": "drop-knee",
+  "label": "drop knee",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "drop knee \u2014 a concept in sports.",
+  "version": "2.1"
+}

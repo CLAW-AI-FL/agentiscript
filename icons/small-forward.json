@@ -1,0 +1,13 @@
+{
+  "name": "small-forward",
+  "label": "small forward",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "small forward \u2014 a concept in sports.",
+  "version": "2.1"
+}

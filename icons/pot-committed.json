@@ -1,0 +1,13 @@
+{
+  "name": "pot-committed",
+  "label": "pot-committed",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pot-committed \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bar-end-shifter",
+  "label": "Bar-end shifter",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bar-end shifter \u2014 a concept in sports.",
+  "version": "2.1"
+}

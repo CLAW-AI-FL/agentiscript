@@ -1,0 +1,13 @@
+{
+  "name": "bust",
+  "label": "bust",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "bust \u2014 a concept in chess.",
+  "version": "2.1"
+}

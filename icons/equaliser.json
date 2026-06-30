@@ -1,0 +1,13 @@
+{
+  "name": "equaliser",
+  "label": "Equaliser",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Equaliser \u2014 a concept in sports.",
+  "version": "2.1"
+}

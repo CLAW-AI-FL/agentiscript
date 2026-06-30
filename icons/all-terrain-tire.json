@@ -1,0 +1,13 @@
+{
+  "name": "all-terrain-tire",
+  "label": "All terrain tire",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "All terrain tire \u2014 a concept in sports.",
+  "version": "2.1"
+}

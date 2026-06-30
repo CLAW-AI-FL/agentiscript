@@ -1,0 +1,13 @@
+{
+  "name": "snow-cave",
+  "label": "snow cave",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "snow cave \u2014 a concept in sports.",
+  "version": "2.1"
+}

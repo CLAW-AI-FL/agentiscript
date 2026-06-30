@@ -1,0 +1,13 @@
+{
+  "name": "voice-artist",
+  "label": "voice artist",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "voice artist \u2014 a concept in cinema.",
+  "version": "2.1"
+}

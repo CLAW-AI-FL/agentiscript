@@ -1,0 +1,13 @@
+{
+  "name": "bull-market",
+  "label": "Bull market",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Bull market \u2014 a concept in finance.",
+  "version": "2.1"
+}

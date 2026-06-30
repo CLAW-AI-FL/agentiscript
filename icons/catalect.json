@@ -1,0 +1,13 @@
+{
+  "name": "catalect",
+  "label": "catalect",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "catalect \u2014 a concept in literature.",
+  "version": "2.1"
+}

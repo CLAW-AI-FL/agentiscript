@@ -1,0 +1,13 @@
+{
+  "name": "ask-price",
+  "label": "Ask price",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Ask price \u2014 a concept in finance.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dormy",
+  "label": "dormy",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dormy \u2014 a concept in sports.",
+  "version": "2.1"
+}

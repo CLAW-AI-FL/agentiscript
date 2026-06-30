@@ -1,0 +1,13 @@
+{
+  "name": "torpedo",
+  "label": "torpedo",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "torpedo \u2014 a concept in nautical.",
+  "version": "2.1"
+}

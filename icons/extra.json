@@ -1,0 +1,13 @@
+{
+  "name": "extra",
+  "label": "Extra",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Extra \u2014 a concept in cinema.",
+  "version": "2.1"
+}

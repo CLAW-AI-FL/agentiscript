@@ -1,0 +1,13 @@
+{
+  "name": "grand-guignol",
+  "label": "Grand Guignol",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Grand Guignol \u2014 a concept in literature.",
+  "version": "2.1"
+}

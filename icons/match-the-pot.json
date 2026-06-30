@@ -1,0 +1,13 @@
+{
+  "name": "match-the-pot",
+  "label": "match the pot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "match the pot \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "epic-poetry",
+  "label": "epic poetry",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "epic poetry \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "consolation-goal",
+  "label": "Consolation goal",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Consolation goal \u2014 a concept in sports.",
+  "version": "2.1"
+}

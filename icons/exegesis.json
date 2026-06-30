@@ -1,0 +1,13 @@
+{
+  "name": "exegesis",
+  "label": "exegesis",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "exegesis \u2014 a concept in literature.",
+  "version": "2.1"
+}

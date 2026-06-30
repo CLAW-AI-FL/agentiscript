@@ -1,0 +1,13 @@
+{
+  "name": "indoor-football",
+  "label": "Indoor football",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Indoor football \u2014 a concept in sports.",
+  "version": "2.1"
+}

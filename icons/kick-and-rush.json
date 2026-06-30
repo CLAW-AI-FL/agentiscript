@@ -1,0 +1,13 @@
+{
+  "name": "kick-and-rush",
+  "label": "Kick and rush",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Kick and rush \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "spread",
+  "label": "spread",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "spread \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "catch-up",
+  "label": "catch up",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "catch up \u2014 a concept in sports.",
+  "version": "2.1"
+}

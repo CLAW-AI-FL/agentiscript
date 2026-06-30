@@ -1,0 +1,13 @@
+{
+  "name": "humours",
+  "label": "humours",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "humours \u2014 a concept in literature.",
+  "version": "2.1"
+}

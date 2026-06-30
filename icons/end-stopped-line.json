@@ -1,0 +1,13 @@
+{
+  "name": "end-stopped-line",
+  "label": "end-stopped line",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "end-stopped line \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gathering",
+  "label": "Gathering",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Gathering \u2014 a concept in literature.",
+  "version": "2.1"
+}

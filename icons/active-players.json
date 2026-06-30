@@ -1,0 +1,13 @@
+{
+  "name": "active-players",
+  "label": "active players",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "active players \u2014 a concept in sports.",
+  "version": "2.1"
+}

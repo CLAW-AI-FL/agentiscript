@@ -1,0 +1,13 @@
+{
+  "name": "medalist",
+  "label": "Medalist",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Medalist \u2014 a concept in sports.",
+  "version": "2.1"
+}

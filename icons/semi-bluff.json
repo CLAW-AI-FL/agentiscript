@@ -1,0 +1,13 @@
+{
+  "name": "semi-bluff",
+  "label": "semi-bluff",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "semi-bluff \u2014 a concept in sports.",
+  "version": "2.1"
+}

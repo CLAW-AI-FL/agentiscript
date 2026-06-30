@@ -1,0 +1,13 @@
+{
+  "name": "lake-freighter",
+  "label": "lake freighter",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "lake freighter \u2014 a concept in nautical.",
+  "version": "2.1"
+}

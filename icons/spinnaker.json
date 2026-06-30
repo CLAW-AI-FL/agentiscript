@@ -1,0 +1,13 @@
+{
+  "name": "spinnaker",
+  "label": "spinnaker",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "spinnaker \u2014 a concept in nautical.",
+  "version": "2.1"
+}

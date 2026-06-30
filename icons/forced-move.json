@@ -1,0 +1,13 @@
+{
+  "name": "forced-move",
+  "label": "forced move",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "forced move \u2014 a concept in chess.",
+  "version": "2.1"
+}

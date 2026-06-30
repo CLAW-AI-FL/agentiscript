@@ -1,0 +1,13 @@
+{
+  "name": "webolette",
+  "label": "webolette",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "webolette \u2014 a concept in sports.",
+  "version": "2.1"
+}

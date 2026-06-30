@@ -1,0 +1,13 @@
+{
+  "name": "geneva-rappel",
+  "label": "Geneva rappel",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Geneva rappel \u2014 a concept in sports.",
+  "version": "2.1"
+}

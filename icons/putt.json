@@ -1,0 +1,13 @@
+{
+  "name": "putt",
+  "label": "Putt",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Putt \u2014 a concept in sports.",
+  "version": "2.1"
+}

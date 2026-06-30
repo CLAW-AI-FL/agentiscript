@@ -1,0 +1,13 @@
+{
+  "name": "variety",
+  "label": "variety",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "variety \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

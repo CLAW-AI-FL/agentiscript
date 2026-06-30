@@ -1,0 +1,13 @@
+{
+  "name": "description",
+  "label": "description",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "description \u2014 a concept in literature.",
+  "version": "2.1"
+}

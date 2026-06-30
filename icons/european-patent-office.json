@@ -1,0 +1,13 @@
+{
+  "name": "european-patent-office",
+  "label": "European Patent Office",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "European Patent Office \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

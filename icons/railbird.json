@@ -1,0 +1,13 @@
+{
+  "name": "railbird",
+  "label": "railbird",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "railbird \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "street",
+  "label": "street",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "street \u2014 a concept in sports.",
+  "version": "2.1"
+}

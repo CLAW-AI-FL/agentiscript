@@ -1,0 +1,13 @@
+{
+  "name": "simul",
+  "label": "simul",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "simul \u2014 a concept in chess.",
+  "version": "2.1"
+}

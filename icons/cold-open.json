@@ -1,0 +1,13 @@
+{
+  "name": "cold-open",
+  "label": "cold open",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "cold open \u2014 a concept in cinema.",
+  "version": "2.1"
+}

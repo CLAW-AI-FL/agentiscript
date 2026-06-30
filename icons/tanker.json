@@ -1,0 +1,13 @@
+{
+  "name": "tanker",
+  "label": "tanker",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "tanker \u2014 a concept in nautical.",
+  "version": "2.1"
+}

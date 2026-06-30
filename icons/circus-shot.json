@@ -1,0 +1,13 @@
+{
+  "name": "circus-shot",
+  "label": "circus shot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "circus shot \u2014 a concept in sports.",
+  "version": "2.1"
+}

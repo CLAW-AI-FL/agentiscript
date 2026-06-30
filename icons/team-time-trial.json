@@ -1,0 +1,13 @@
+{
+  "name": "team-time-trial",
+  "label": "Team time trial",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Team time trial \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "action-axis",
+  "label": "action axis",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "action axis \u2014 a concept in cinema.",
+  "version": "2.1"
+}

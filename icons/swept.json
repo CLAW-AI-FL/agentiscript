@@ -1,0 +1,13 @@
+{
+  "name": "swept",
+  "label": "swept",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "swept \u2014 a concept in nautical.",
+  "version": "2.1"
+}

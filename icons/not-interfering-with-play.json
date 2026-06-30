@@ -1,0 +1,13 @@
+{
+  "name": "not-interfering-with-play",
+  "label": "Not interfering with play",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Not interfering with play \u2014 a concept in sports.",
+  "version": "2.1"
+}

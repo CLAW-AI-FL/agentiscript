@@ -1,0 +1,13 @@
+{
+  "name": "three-of-a-kind",
+  "label": "three of a kind",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "three of a kind \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "role-player",
+  "label": "role player",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "role player \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pilothouse",
+  "label": "pilothouse",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "pilothouse \u2014 a concept in nautical.",
+  "version": "2.1"
+}

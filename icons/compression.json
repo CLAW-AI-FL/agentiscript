@@ -1,0 +1,13 @@
+{
+  "name": "compression",
+  "label": "compression",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "compression \u2014 a concept in sports.",
+  "version": "2.1"
+}

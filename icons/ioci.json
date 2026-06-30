@@ -1,0 +1,13 @@
+{
+  "name": "ioci",
+  "label": "Ioci",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Ioci \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

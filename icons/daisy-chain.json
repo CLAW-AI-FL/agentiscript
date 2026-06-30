@@ -1,0 +1,13 @@
+{
+  "name": "daisy-chain",
+  "label": "Daisy chain",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Daisy chain \u2014 a concept in sports.",
+  "version": "2.1"
+}

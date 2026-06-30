@@ -1,0 +1,13 @@
+{
+  "name": "utility-player",
+  "label": "Utility player",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Utility player \u2014 a concept in sports.",
+  "version": "2.1"
+}

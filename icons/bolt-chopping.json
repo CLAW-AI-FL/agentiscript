@@ -1,0 +1,13 @@
+{
+  "name": "bolt-chopping",
+  "label": "bolt chopping",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bolt chopping \u2014 a concept in sports.",
+  "version": "2.1"
+}

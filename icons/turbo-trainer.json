@@ -1,0 +1,13 @@
+{
+  "name": "turbo-trainer",
+  "label": "Turbo-trainer",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Turbo-trainer \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ten",
+  "label": "ten",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "ten \u2014 a concept in music.",
+  "version": "2.1"
+}

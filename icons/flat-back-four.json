@@ -1,0 +1,13 @@
+{
+  "name": "flat-back-four",
+  "label": "Flat back four",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Flat back four \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "offensive-foul",
+  "label": "offensive foul",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "offensive foul \u2014 a concept in sports.",
+  "version": "2.1"
+}

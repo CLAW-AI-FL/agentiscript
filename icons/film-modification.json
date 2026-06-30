@@ -1,0 +1,13 @@
+{
+  "name": "film-modification",
+  "label": "film modification",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "film modification \u2014 a concept in cinema.",
+  "version": "2.1"
+}

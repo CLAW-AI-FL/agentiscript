@@ -1,0 +1,13 @@
+{
+  "name": "brilliancy-prize",
+  "label": "brilliancy prize",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "brilliancy prize \u2014 a concept in chess.",
+  "version": "2.1"
+}

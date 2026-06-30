@@ -1,0 +1,13 @@
+{
+  "name": "beach-football",
+  "label": "Beach football",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Beach football \u2014 a concept in sports.",
+  "version": "2.1"
+}

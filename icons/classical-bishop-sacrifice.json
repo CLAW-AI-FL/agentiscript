@@ -1,0 +1,13 @@
+{
+  "name": "classical-bishop-sacrifice",
+  "label": "classical bishop sacrifice",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "classical bishop sacrifice \u2014 a concept in chess.",
+  "version": "2.1"
+}

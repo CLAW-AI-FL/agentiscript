@@ -1,0 +1,13 @@
+{
+  "name": "clean-climbing",
+  "label": "clean climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "clean climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

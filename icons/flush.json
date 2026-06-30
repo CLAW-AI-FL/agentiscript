@@ -1,0 +1,13 @@
+{
+  "name": "flush",
+  "label": "flush",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "flush \u2014 a concept in sports.",
+  "version": "2.1"
+}

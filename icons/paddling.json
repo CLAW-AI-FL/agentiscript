@@ -1,0 +1,13 @@
+{
+  "name": "paddling",
+  "label": "paddling",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "paddling \u2014 a concept in sports.",
+  "version": "2.1"
+}

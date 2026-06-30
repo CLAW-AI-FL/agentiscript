@@ -1,0 +1,13 @@
+{
+  "name": "chip-dumping",
+  "label": "chip dumping",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "chip dumping \u2014 a concept in sports.",
+  "version": "2.1"
+}

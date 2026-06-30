@@ -1,0 +1,13 @@
+{
+  "name": "travelling-army",
+  "label": "Travelling army",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Travelling army \u2014 a concept in sports.",
+  "version": "2.1"
+}

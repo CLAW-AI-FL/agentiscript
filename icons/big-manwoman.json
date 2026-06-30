@@ -1,0 +1,13 @@
+{
+  "name": "big-manwoman",
+  "label": "big man/woman",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "big man/woman \u2014 a concept in sports.",
+  "version": "2.1"
+}

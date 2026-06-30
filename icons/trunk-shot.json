@@ -1,0 +1,13 @@
+{
+  "name": "trunk-shot",
+  "label": "trunk shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "trunk shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

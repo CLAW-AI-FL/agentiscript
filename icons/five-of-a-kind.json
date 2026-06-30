@@ -1,0 +1,13 @@
+{
+  "name": "five-of-a-kind",
+  "label": "five of a kind",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "five of a kind \u2014 a concept in sports.",
+  "version": "2.1"
+}

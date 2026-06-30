@@ -1,0 +1,13 @@
+{
+  "name": "defense",
+  "label": "defense",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "defense \u2014 a concept in chess.",
+  "version": "2.1"
+}

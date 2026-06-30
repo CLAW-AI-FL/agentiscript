@@ -1,0 +1,13 @@
+{
+  "name": "motion-picture",
+  "label": "motion picture",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "motion picture \u2014 a concept in cinema.",
+  "version": "2.1"
+}

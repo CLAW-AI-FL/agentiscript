@@ -1,0 +1,13 @@
+{
+  "name": "endgame-tablebase",
+  "label": "endgame tablebase",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "endgame tablebase \u2014 a concept in chess.",
+  "version": "2.1"
+}

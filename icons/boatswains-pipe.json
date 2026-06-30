@@ -1,0 +1,13 @@
+{
+  "name": "boatswains-pipe",
+  "label": "boatswain's pipe",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "boatswain's pipe \u2014 a concept in nautical.",
+  "version": "2.1"
+}

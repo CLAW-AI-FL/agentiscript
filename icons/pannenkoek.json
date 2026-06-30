@@ -1,0 +1,13 @@
+{
+  "name": "pannenkoek",
+  "label": "Pannenkoek",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pannenkoek \u2014 a concept in sports.",
+  "version": "2.1"
+}

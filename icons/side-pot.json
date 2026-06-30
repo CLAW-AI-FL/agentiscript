@@ -1,0 +1,13 @@
+{
+  "name": "side-pot",
+  "label": "side pot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "side pot \u2014 a concept in sports.",
+  "version": "2.1"
+}

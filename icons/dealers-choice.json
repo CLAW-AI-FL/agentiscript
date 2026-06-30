@@ -1,0 +1,13 @@
+{
+  "name": "dealers-choice",
+  "label": "dealer's choice",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dealer's choice \u2014 a concept in sports.",
+  "version": "2.1"
+}

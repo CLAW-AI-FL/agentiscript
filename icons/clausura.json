@@ -1,0 +1,13 @@
+{
+  "name": "clausura",
+  "label": "Clausura",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Clausura \u2014 a concept in sports.",
+  "version": "2.1"
+}

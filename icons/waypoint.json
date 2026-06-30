@@ -1,0 +1,13 @@
+{
+  "name": "waypoint",
+  "label": "waypoint",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "waypoint \u2014 a concept in nautical.",
+  "version": "2.1"
+}

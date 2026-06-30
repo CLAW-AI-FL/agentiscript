@@ -1,0 +1,13 @@
+{
+  "name": "professional-foul",
+  "label": "Professional foul",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Professional foul \u2014 a concept in sports.",
+  "version": "2.1"
+}

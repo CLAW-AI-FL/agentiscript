@@ -1,0 +1,13 @@
+{
+  "name": "sea-shanty",
+  "label": "sea shanty",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "sea shanty \u2014 a concept in literature.",
+  "version": "2.1"
+}

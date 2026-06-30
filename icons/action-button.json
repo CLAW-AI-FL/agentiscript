@@ -1,0 +1,13 @@
+{
+  "name": "action-button",
+  "label": "action button",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "action button \u2014 a concept in sports.",
+  "version": "2.1"
+}

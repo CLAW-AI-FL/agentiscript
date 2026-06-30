@@ -1,0 +1,13 @@
+{
+  "name": "redraw",
+  "label": "redraw",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "redraw \u2014 a concept in sports.",
+  "version": "2.1"
+}

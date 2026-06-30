@@ -1,0 +1,13 @@
+{
+  "name": "pass",
+  "label": "pass",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pass \u2014 a concept in sports.",
+  "version": "2.1"
+}

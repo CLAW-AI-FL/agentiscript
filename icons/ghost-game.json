@@ -1,0 +1,13 @@
+{
+  "name": "ghost-game",
+  "label": "Ghost game",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Ghost game \u2014 a concept in sports.",
+  "version": "2.1"
+}

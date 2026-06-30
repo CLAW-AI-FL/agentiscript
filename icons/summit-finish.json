@@ -1,0 +1,13 @@
+{
+  "name": "summit-finish",
+  "label": "Summit finish",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Summit finish \u2014 a concept in sports.",
+  "version": "2.1"
+}

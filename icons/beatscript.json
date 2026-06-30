@@ -1,0 +1,13 @@
+{
+  "name": "beatscript",
+  "label": "beatscript",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "beatscript \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "coaster",
+  "label": "coaster",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "coaster \u2014 a concept in nautical.",
+  "version": "2.1"
+}

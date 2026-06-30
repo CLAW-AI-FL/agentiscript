@@ -1,0 +1,13 @@
+{
+  "name": "staircase-maneuver",
+  "label": "staircase maneuver",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "staircase maneuver \u2014 a concept in chess.",
+  "version": "2.1"
+}

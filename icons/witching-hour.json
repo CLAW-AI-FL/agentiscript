@@ -1,0 +1,13 @@
+{
+  "name": "witching-hour",
+  "label": "Witching hour",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Witching hour \u2014 a concept in finance.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "folk-drama",
+  "label": "folk drama",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "folk drama \u2014 a concept in literature.",
+  "version": "2.1"
+}

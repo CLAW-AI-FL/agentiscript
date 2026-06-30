@@ -1,0 +1,13 @@
+{
+  "name": "chip-declare",
+  "label": "chip declare",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "chip declare \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "follow-shot",
+  "label": "follow shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "follow shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

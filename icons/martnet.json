@@ -1,0 +1,13 @@
+{
+  "name": "martnet",
+  "label": "martnet",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "martnet \u2014 a concept in nautical.",
+  "version": "2.1"
+}

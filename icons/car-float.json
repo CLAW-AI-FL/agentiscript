@@ -1,0 +1,13 @@
+{
+  "name": "car-float",
+  "label": "car float",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "car float \u2014 a concept in nautical.",
+  "version": "2.1"
+}

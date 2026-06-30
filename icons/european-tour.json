@@ -1,0 +1,13 @@
+{
+  "name": "european-tour",
+  "label": "European Tour",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "European Tour \u2014 a concept in sports.",
+  "version": "2.1"
+}

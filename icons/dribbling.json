@@ -1,0 +1,13 @@
+{
+  "name": "dribbling",
+  "label": "Dribbling",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Dribbling \u2014 a concept in sports.",
+  "version": "2.1"
+}

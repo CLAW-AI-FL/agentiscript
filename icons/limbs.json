@@ -1,0 +1,13 @@
+{
+  "name": "limbs",
+  "label": "Limbs",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Limbs \u2014 a concept in sports.",
+  "version": "2.1"
+}

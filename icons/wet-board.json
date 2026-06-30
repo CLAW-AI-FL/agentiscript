@@ -1,0 +1,13 @@
+{
+  "name": "wet-board",
+  "label": "wet board",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "wet board \u2014 a concept in sports.",
+  "version": "2.1"
+}

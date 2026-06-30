@@ -1,0 +1,13 @@
+{
+  "name": "swish",
+  "label": "swish",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "swish \u2014 a concept in sports.",
+  "version": "2.1"
+}

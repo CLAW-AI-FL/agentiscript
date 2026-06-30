@@ -1,0 +1,13 @@
+{
+  "name": "character-actor",
+  "label": "character actor",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "character actor \u2014 a concept in cinema.",
+  "version": "2.1"
+}

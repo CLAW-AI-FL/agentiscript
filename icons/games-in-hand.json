@@ -1,0 +1,13 @@
+{
+  "name": "games-in-hand",
+  "label": "Game(s) in hand",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Game(s) in hand \u2014 a concept in sports.",
+  "version": "2.1"
+}

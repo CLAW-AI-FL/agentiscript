@@ -1,0 +1,13 @@
+{
+  "name": "maglia-rosa",
+  "label": "Maglia Rosa",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Maglia Rosa \u2014 a concept in sports.",
+  "version": "2.1"
+}

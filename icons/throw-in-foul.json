@@ -1,0 +1,13 @@
+{
+  "name": "throw-in-foul",
+  "label": "throw-in foul",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "throw-in foul \u2014 a concept in sports.",
+  "version": "2.1"
+}

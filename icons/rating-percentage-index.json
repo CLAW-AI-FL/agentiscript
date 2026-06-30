@@ -1,0 +1,13 @@
+{
+  "name": "rating-percentage-index",
+  "label": "rating percentage index",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rating percentage index \u2014 a concept in sports.",
+  "version": "2.1"
+}

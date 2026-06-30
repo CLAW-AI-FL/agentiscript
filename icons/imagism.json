@@ -1,0 +1,13 @@
+{
+  "name": "imagism",
+  "label": "imagism",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "imagism \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "selection-invention",
+  "label": "Selection invention",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Selection invention \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stymie",
+  "label": "Stymie",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Stymie \u2014 a concept in sports.",
+  "version": "2.1"
+}

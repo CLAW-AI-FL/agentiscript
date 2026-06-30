@@ -1,0 +1,13 @@
+{
+  "name": "pump-fake",
+  "label": "pump fake",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pump fake \u2014 a concept in sports.",
+  "version": "2.1"
+}

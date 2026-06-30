@@ -1,0 +1,13 @@
+{
+  "name": "avenue",
+  "label": "avenue",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "avenue \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

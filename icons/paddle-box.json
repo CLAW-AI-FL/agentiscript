@@ -1,0 +1,13 @@
+{
+  "name": "paddle-box",
+  "label": "paddle box",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "paddle box \u2014 a concept in nautical.",
+  "version": "2.1"
+}

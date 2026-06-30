@@ -1,0 +1,13 @@
+{
+  "name": "full-rigged-ship",
+  "label": "full-rigged ship",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "full-rigged ship \u2014 a concept in nautical.",
+  "version": "2.1"
+}

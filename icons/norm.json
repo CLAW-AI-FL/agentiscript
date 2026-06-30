@@ -1,0 +1,13 @@
+{
+  "name": "norm",
+  "label": "norm",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "norm \u2014 a concept in chess.",
+  "version": "2.1"
+}

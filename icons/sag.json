@@ -1,0 +1,13 @@
+{
+  "name": "sag",
+  "label": "Sag",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sag \u2014 a concept in sports.",
+  "version": "2.1"
+}

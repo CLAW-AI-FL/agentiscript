@@ -1,0 +1,13 @@
+{
+  "name": "holding-role",
+  "label": "Holding role",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Holding role \u2014 a concept in sports.",
+  "version": "2.1"
+}

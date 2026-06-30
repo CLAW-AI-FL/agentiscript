@@ -1,0 +1,13 @@
+{
+  "name": "double-eagle",
+  "label": "Double Eagle",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "Double Eagle \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

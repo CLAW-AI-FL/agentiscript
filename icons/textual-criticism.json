@@ -1,0 +1,13 @@
+{
+  "name": "textual-criticism",
+  "label": "textual criticism",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "textual criticism \u2014 a concept in literature.",
+  "version": "2.1"
+}

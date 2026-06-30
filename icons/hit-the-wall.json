@@ -1,0 +1,13 @@
+{
+  "name": "hit-the-wall",
+  "label": "Hit the wall",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hit the wall \u2014 a concept in sports.",
+  "version": "2.1"
+}

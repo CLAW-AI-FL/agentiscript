@@ -1,0 +1,13 @@
+{
+  "name": "pocket-cards",
+  "label": "pocket cards",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pocket cards \u2014 a concept in sports.",
+  "version": "2.1"
+}

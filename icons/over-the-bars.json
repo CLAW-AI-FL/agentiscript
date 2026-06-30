@@ -1,0 +1,13 @@
+{
+  "name": "over-the-bars",
+  "label": "Over the bars",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Over the bars \u2014 a concept in sports.",
+  "version": "2.1"
+}

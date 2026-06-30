@@ -1,0 +1,13 @@
+{
+  "name": "swing",
+  "label": "swing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "swing \u2014 a concept in sports.",
+  "version": "2.1"
+}

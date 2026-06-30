@@ -1,0 +1,13 @@
+{
+  "name": "blow-up",
+  "label": "Blow up",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Blow up \u2014 a concept in sports.",
+  "version": "2.1"
+}

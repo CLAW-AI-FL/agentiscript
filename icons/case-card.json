@@ -1,0 +1,13 @@
+{
+  "name": "case-card",
+  "label": "case card",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "case card \u2014 a concept in sports.",
+  "version": "2.1"
+}

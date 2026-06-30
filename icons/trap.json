@@ -1,0 +1,13 @@
+{
+  "name": "trap",
+  "label": "trap",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "trap \u2014 a concept in chess.",
+  "version": "2.1"
+}

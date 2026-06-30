@@ -1,0 +1,13 @@
+{
+  "name": "pump-track",
+  "label": "Pump track",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pump track \u2014 a concept in sports.",
+  "version": "2.1"
+}

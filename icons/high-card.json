@@ -1,0 +1,13 @@
+{
+  "name": "high-card",
+  "label": "high card",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "high card \u2014 a concept in sports.",
+  "version": "2.1"
+}

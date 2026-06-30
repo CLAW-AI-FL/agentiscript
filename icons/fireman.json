@@ -1,0 +1,13 @@
+{
+  "name": "fireman",
+  "label": "fireman",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "fireman \u2014 a concept in nautical.",
+  "version": "2.1"
+}

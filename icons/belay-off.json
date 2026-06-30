@@ -1,0 +1,13 @@
+{
+  "name": "belay-off",
+  "label": "belay off",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "belay off \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "traditional-climbing",
+  "label": "traditional climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "traditional climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

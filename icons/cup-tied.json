@@ -1,0 +1,13 @@
+{
+  "name": "cup-tied",
+  "label": "Cup-tied",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Cup-tied \u2014 a concept in sports.",
+  "version": "2.1"
+}

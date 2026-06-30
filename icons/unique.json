@@ -1,0 +1,13 @@
+{
+  "name": "unique",
+  "label": "unique",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "unique \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

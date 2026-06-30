@@ -1,0 +1,13 @@
+{
+  "name": "elo-rating-system",
+  "label": "Elo rating system",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Elo rating system \u2014 a concept in chess.",
+  "version": "2.1"
+}

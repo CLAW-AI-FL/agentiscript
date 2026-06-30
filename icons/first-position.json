@@ -1,0 +1,13 @@
+{
+  "name": "first-position",
+  "label": "first position",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "first position \u2014 a concept in sports.",
+  "version": "2.1"
+}

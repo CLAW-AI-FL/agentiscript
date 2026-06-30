@@ -1,0 +1,13 @@
+{
+  "name": "mulligan",
+  "label": "Mulligan",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Mulligan \u2014 a concept in sports.",
+  "version": "2.1"
+}

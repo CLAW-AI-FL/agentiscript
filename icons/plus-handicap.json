@@ -1,0 +1,13 @@
+{
+  "name": "plus-handicap",
+  "label": "Plus handicap",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Plus handicap \u2014 a concept in sports.",
+  "version": "2.1"
+}

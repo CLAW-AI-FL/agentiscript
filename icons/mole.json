@@ -1,0 +1,13 @@
+{
+  "name": "mole",
+  "label": "mole",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "mole \u2014 a concept in nautical.",
+  "version": "2.1"
+}

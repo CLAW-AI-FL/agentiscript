@@ -1,0 +1,13 @@
+{
+  "name": "dreadnought",
+  "label": "dreadnought",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "dreadnought \u2014 a concept in nautical.",
+  "version": "2.1"
+}

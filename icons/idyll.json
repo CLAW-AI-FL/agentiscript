@@ -1,0 +1,13 @@
+{
+  "name": "idyll",
+  "label": "idyll",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "idyll \u2014 a concept in literature.",
+  "version": "2.1"
+}

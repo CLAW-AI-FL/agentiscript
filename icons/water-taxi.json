@@ -1,0 +1,13 @@
+{
+  "name": "water-taxi",
+  "label": "water taxi",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "water taxi \u2014 a concept in nautical.",
+  "version": "2.1"
+}

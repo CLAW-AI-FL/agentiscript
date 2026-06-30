@@ -1,0 +1,13 @@
+{
+  "name": "dirty-work",
+  "label": "Dirty work",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Dirty work \u2014 a concept in sports.",
+  "version": "2.1"
+}

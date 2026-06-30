@@ -1,0 +1,13 @@
+{
+  "name": "slam-dunk",
+  "label": "Slam dunk",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Slam dunk \u2014 a concept in sports.",
+  "version": "2.1"
+}

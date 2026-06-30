@@ -1,0 +1,13 @@
+{
+  "name": "light-screens",
+  "label": "light screens",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "light screens \u2014 a concept in nautical.",
+  "version": "2.1"
+}

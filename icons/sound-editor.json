@@ -1,0 +1,13 @@
+{
+  "name": "sound-editor",
+  "label": "sound editor",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "sound editor \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "forfeit",
+  "label": "forfeit",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "forfeit \u2014 a concept in chess.",
+  "version": "2.1"
+}

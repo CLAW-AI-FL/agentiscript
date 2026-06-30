@@ -1,0 +1,13 @@
+{
+  "name": "corvette",
+  "label": "corvette",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "corvette \u2014 a concept in nautical.",
+  "version": "2.1"
+}

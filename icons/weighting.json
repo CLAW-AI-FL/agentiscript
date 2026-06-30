@@ -1,0 +1,13 @@
+{
+  "name": "weighting",
+  "label": "weighting",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "weighting \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "three-pointer",
+  "label": "three-pointer",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "three-pointer \u2014 a concept in sports.",
+  "version": "2.1"
+}

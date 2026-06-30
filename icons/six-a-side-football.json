@@ -1,0 +1,13 @@
+{
+  "name": "six-a-side-football",
+  "label": "Six-a-side football",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Six-a-side football \u2014 a concept in sports.",
+  "version": "2.1"
+}

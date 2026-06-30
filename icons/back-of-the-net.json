@@ -1,0 +1,13 @@
+{
+  "name": "back-of-the-net",
+  "label": "Back of the net",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Back of the net \u2014 a concept in sports.",
+  "version": "2.1"
+}

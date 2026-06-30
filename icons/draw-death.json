@@ -1,0 +1,13 @@
+{
+  "name": "draw-death",
+  "label": "draw death",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "draw death \u2014 a concept in chess.",
+  "version": "2.1"
+}

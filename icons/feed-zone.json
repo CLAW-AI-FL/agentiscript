@@ -1,0 +1,13 @@
+{
+  "name": "feed-zone",
+  "label": "Feed zone",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Feed zone \u2014 a concept in sports.",
+  "version": "2.1"
+}

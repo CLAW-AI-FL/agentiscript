@@ -1,0 +1,13 @@
+{
+  "name": "multiball-system",
+  "label": "Multiball system",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Multiball system \u2014 a concept in sports.",
+  "version": "2.1"
+}

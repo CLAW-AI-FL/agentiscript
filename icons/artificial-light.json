@@ -1,0 +1,13 @@
+{
+  "name": "artificial-light",
+  "label": "artificial light",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "artificial light \u2014 a concept in cinema.",
+  "version": "2.1"
+}

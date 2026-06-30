@@ -1,0 +1,13 @@
+{
+  "name": "turret",
+  "label": "turret",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "turret \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "downcard",
+  "label": "downcard",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "downcard \u2014 a concept in sports.",
+  "version": "2.1"
+}

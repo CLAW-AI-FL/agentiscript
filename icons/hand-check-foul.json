@@ -1,0 +1,13 @@
+{
+  "name": "hand-check-foul",
+  "label": "hand-check foul",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "hand-check foul \u2014 a concept in sports.",
+  "version": "2.1"
+}

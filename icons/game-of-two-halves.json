@@ -1,0 +1,13 @@
+{
+  "name": "game-of-two-halves",
+  "label": "Game of two halves",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Game of two halves \u2014 a concept in sports.",
+  "version": "2.1"
+}

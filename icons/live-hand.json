@@ -1,0 +1,13 @@
+{
+  "name": "live-hand",
+  "label": "live hand",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "live hand \u2014 a concept in sports.",
+  "version": "2.1"
+}

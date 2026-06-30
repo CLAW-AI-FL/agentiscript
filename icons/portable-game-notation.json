@@ -1,0 +1,13 @@
+{
+  "name": "portable-game-notation",
+  "label": "Portable Game Notation",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Portable Game Notation \u2014 a concept in chess.",
+  "version": "2.1"
+}

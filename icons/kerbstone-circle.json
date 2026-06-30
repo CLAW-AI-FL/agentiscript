@@ -1,0 +1,13 @@
+{
+  "name": "kerbstone-circle",
+  "label": "kerbstone circle",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "kerbstone circle \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

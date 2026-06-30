@@ -1,0 +1,13 @@
+{
+  "name": "hull-down",
+  "label": "hull-down",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "hull-down \u2014 a concept in nautical.",
+  "version": "2.1"
+}

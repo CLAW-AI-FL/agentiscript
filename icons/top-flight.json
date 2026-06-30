@@ -1,0 +1,13 @@
+{
+  "name": "top-flight",
+  "label": "Top flight",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Top flight \u2014 a concept in sports.",
+  "version": "2.1"
+}

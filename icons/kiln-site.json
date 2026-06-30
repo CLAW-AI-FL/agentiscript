@@ -1,0 +1,13 @@
+{
+  "name": "kiln-site",
+  "label": "kiln site",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "kiln site \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

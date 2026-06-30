@@ -1,0 +1,13 @@
+{
+  "name": "going-south",
+  "label": "going south",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "going south \u2014 a concept in sports.",
+  "version": "2.1"
+}

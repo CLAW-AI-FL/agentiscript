@@ -1,0 +1,13 @@
+{
+  "name": "panache",
+  "label": "Panache",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Panache \u2014 a concept in sports.",
+  "version": "2.1"
+}

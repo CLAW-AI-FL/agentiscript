@@ -1,0 +1,13 @@
+{
+  "name": "clipless-pedals",
+  "label": "Clipless pedals",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Clipless pedals \u2014 a concept in sports.",
+  "version": "2.1"
+}

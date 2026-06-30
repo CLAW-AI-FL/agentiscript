@@ -1,0 +1,13 @@
+{
+  "name": "field-goal",
+  "label": "Field goal",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Field goal \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "threefold-repetition",
+  "label": "threefold repetition",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "threefold repetition \u2014 a concept in chess.",
+  "version": "2.1"
+}

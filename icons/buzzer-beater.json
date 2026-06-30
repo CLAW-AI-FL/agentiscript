@@ -1,0 +1,13 @@
+{
+  "name": "buzzer-beater",
+  "label": "buzzer beater",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "buzzer beater \u2014 a concept in sports.",
+  "version": "2.1"
+}

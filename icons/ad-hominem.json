@@ -1,0 +1,13 @@
+{
+  "name": "ad-hominem",
+  "label": "Ad hominem",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Ad hominem \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

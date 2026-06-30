@@ -1,0 +1,13 @@
+{
+  "name": "rack",
+  "label": "rack",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rack \u2014 a concept in sports.",
+  "version": "2.1"
+}

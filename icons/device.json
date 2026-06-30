@@ -1,0 +1,13 @@
+{
+  "name": "device",
+  "label": "device",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "device \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

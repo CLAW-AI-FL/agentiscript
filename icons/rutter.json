@@ -1,0 +1,13 @@
+{
+  "name": "rutter",
+  "label": "Rutter",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Rutter \u2014 a concept in sports.",
+  "version": "2.1"
+}

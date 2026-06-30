@@ -1,0 +1,13 @@
+{
+  "name": "middlegame",
+  "label": "middlegame",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "middlegame \u2014 a concept in chess.",
+  "version": "2.1"
+}

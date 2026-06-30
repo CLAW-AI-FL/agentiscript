@@ -1,0 +1,13 @@
+{
+  "name": "magic-sponge",
+  "label": "Magic sponge",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Magic sponge \u2014 a concept in sports.",
+  "version": "2.1"
+}

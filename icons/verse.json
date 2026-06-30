@@ -1,0 +1,13 @@
+{
+  "name": "verse",
+  "label": "Verse",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Verse \u2014 a concept in literature.",
+  "version": "2.1"
+}

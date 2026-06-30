@@ -1,0 +1,13 @@
+{
+  "name": "chicken-head",
+  "label": "chicken head",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "chicken head \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "designated-office",
+  "label": "Designated office",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Designated office \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

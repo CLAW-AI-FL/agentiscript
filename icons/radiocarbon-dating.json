@@ -1,0 +1,13 @@
+{
+  "name": "radiocarbon-dating",
+  "label": "radiocarbon dating",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "radiocarbon dating \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

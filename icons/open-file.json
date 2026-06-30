@@ -1,0 +1,13 @@
+{
+  "name": "open-file",
+  "label": "open file",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "open file \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "winter-break",
+  "label": "Winter break",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Winter break \u2014 a concept in sports.",
+  "version": "2.1"
+}

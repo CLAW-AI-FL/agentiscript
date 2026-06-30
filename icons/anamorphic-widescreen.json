@@ -1,0 +1,13 @@
+{
+  "name": "anamorphic-widescreen",
+  "label": "anamorphic widescreen",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "anamorphic widescreen \u2014 a concept in cinema.",
+  "version": "2.1"
+}

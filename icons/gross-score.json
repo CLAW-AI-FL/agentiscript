@@ -1,0 +1,13 @@
+{
+  "name": "gross-score",
+  "label": "Gross score",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Gross score \u2014 a concept in sports.",
+  "version": "2.1"
+}

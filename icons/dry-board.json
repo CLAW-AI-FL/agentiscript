@@ -1,0 +1,13 @@
+{
+  "name": "dry-board",
+  "label": "dry board",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dry board \u2014 a concept in sports.",
+  "version": "2.1"
+}

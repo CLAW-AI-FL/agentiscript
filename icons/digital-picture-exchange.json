@@ -1,0 +1,13 @@
+{
+  "name": "digital-picture-exchange",
+  "label": "Digital Picture Exchange",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Digital Picture Exchange \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "screen-direction",
+  "label": "screen direction",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "screen direction \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "match-cut",
+  "label": "match cut",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "match cut \u2014 a concept in cinema.",
+  "version": "2.1"
+}

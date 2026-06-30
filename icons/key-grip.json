@@ -1,0 +1,13 @@
+{
+  "name": "key-grip",
+  "label": "key grip",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "key grip \u2014 a concept in cinema.",
+  "version": "2.1"
+}

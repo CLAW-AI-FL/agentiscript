@@ -1,0 +1,13 @@
+{
+  "name": "monday-qualifier",
+  "label": "Monday qualifier",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Monday qualifier \u2014 a concept in sports.",
+  "version": "2.1"
+}

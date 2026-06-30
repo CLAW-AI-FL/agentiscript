@@ -1,0 +1,13 @@
+{
+  "name": "trolley",
+  "label": "Trolley",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Trolley \u2014 a concept in sports.",
+  "version": "2.1"
+}

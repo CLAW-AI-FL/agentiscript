@@ -1,0 +1,13 @@
+{
+  "name": "section",
+  "label": "section",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "section \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

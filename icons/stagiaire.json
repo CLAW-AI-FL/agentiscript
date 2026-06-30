@@ -1,0 +1,13 @@
+{
+  "name": "stagiaire",
+  "label": "Stagiaire",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Stagiaire \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "muck",
+  "label": "muck",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "muck \u2014 a concept in sports.",
+  "version": "2.1"
+}

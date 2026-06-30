@@ -1,0 +1,13 @@
+{
+  "name": "history-play",
+  "label": "history play",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "history play \u2014 a concept in literature.",
+  "version": "2.1"
+}

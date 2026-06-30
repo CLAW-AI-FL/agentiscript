@@ -1,0 +1,13 @@
+{
+  "name": "skiff",
+  "label": "skiff",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "skiff \u2014 a concept in nautical.",
+  "version": "2.1"
+}

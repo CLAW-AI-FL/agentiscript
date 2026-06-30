@@ -1,0 +1,13 @@
+{
+  "name": "film-theory",
+  "label": "film theory",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "film theory \u2014 a concept in cinema.",
+  "version": "2.1"
+}

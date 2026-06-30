@@ -1,0 +1,13 @@
+{
+  "name": "points-in-the-paint",
+  "label": "points in the paint",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "points in the paint \u2014 a concept in sports.",
+  "version": "2.1"
+}

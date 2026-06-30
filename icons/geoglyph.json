@@ -1,0 +1,13 @@
+{
+  "name": "geoglyph",
+  "label": "geoglyph",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "geoglyph \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

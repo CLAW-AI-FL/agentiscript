@@ -1,0 +1,13 @@
+{
+  "name": "long-castling",
+  "label": "long castling",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "long castling \u2014 a concept in chess.",
+  "version": "2.1"
+}

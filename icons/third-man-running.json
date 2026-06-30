@@ -1,0 +1,13 @@
+{
+  "name": "third-man-running",
+  "label": "Third man running",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Third man running \u2014 a concept in sports.",
+  "version": "2.1"
+}

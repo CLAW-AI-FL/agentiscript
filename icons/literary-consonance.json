@@ -1,0 +1,13 @@
+{
+  "name": "literary-consonance",
+  "label": "Literary consonance",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Literary consonance \u2014 a concept in literature.",
+  "version": "2.1"
+}

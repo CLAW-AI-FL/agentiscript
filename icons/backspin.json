@@ -1,0 +1,13 @@
+{
+  "name": "backspin",
+  "label": "backspin",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "backspin \u2014 a concept in sports.",
+  "version": "2.1"
+}

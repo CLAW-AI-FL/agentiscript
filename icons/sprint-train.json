@@ -1,0 +1,13 @@
+{
+  "name": "sprint-train",
+  "label": "Sprint train",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sprint train \u2014 a concept in sports.",
+  "version": "2.1"
+}

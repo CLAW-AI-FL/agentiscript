@@ -1,0 +1,13 @@
+{
+  "name": "uncontested-shot",
+  "label": "Uncontested shot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Uncontested shot \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "drawing-weapon",
+  "label": "drawing weapon",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "drawing weapon \u2014 a concept in chess.",
+  "version": "2.1"
+}

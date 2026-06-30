@@ -1,0 +1,13 @@
+{
+  "name": "air-draft",
+  "label": "air draft",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "air draft \u2014 a concept in nautical.",
+  "version": "2.1"
+}

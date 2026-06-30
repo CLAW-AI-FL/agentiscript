@@ -1,0 +1,13 @@
+{
+  "name": "eight-or-better",
+  "label": "eight or better",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "eight or better \u2014 a concept in sports.",
+  "version": "2.1"
+}

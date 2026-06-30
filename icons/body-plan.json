@@ -1,0 +1,13 @@
+{
+  "name": "body-plan",
+  "label": "body plan",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "body plan \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fixture-congestion",
+  "label": "Fixture congestion",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Fixture congestion \u2014 a concept in sports.",
+  "version": "2.1"
+}

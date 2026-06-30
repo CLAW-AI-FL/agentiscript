@@ -1,0 +1,13 @@
+{
+  "name": "spanish-bishop",
+  "label": "Spanish bishop",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Spanish bishop \u2014 a concept in chess.",
+  "version": "2.1"
+}

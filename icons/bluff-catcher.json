@@ -1,0 +1,13 @@
+{
+  "name": "bluff-catcher",
+  "label": "bluff catcher",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bluff catcher \u2014 a concept in sports.",
+  "version": "2.1"
+}

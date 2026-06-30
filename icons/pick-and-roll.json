@@ -1,0 +1,13 @@
+{
+  "name": "pick-and-roll",
+  "label": "pick and roll",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pick and roll \u2014 a concept in sports.",
+  "version": "2.1"
+}

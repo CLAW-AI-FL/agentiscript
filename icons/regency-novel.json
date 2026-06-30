@@ -1,0 +1,13 @@
+{
+  "name": "regency-novel",
+  "label": "regency novel",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "regency novel \u2014 a concept in literature.",
+  "version": "2.1"
+}

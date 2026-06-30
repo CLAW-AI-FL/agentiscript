@@ -1,0 +1,13 @@
+{
+  "name": "vultures",
+  "label": "Vultures",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Vultures \u2014 a concept in sports.",
+  "version": "2.1"
+}

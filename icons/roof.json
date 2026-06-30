@@ -1,0 +1,13 @@
+{
+  "name": "roof",
+  "label": "Roof",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Roof \u2014 a concept in sports.",
+  "version": "2.1"
+}

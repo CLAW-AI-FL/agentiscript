@@ -1,0 +1,13 @@
+{
+  "name": "stern-drive",
+  "label": "stern drive",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "stern drive \u2014 a concept in nautical.",
+  "version": "2.1"
+}

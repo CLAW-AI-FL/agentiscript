@@ -1,0 +1,13 @@
+{
+  "name": "cabeza-de-carrera",
+  "label": "Cabeza de carrera",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Cabeza de carrera \u2014 a concept in sports.",
+  "version": "2.1"
+}

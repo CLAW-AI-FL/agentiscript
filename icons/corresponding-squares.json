@@ -1,0 +1,13 @@
+{
+  "name": "corresponding-squares",
+  "label": "corresponding squares",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "corresponding squares \u2014 a concept in chess.",
+  "version": "2.1"
+}

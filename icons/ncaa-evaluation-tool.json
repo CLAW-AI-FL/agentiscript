@@ -1,0 +1,13 @@
+{
+  "name": "ncaa-evaluation-tool",
+  "label": "NCAA Evaluation Tool",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "NCAA Evaluation Tool \u2014 a concept in sports.",
+  "version": "2.1"
+}

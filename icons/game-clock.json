@@ -1,0 +1,13 @@
+{
+  "name": "game-clock",
+  "label": "game clock",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "game clock \u2014 a concept in chess.",
+  "version": "2.1"
+}

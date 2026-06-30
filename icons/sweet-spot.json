@@ -1,0 +1,13 @@
+{
+  "name": "sweet-spot",
+  "label": "Sweet-spot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sweet-spot \u2014 a concept in sports.",
+  "version": "2.1"
+}

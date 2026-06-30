@@ -1,0 +1,13 @@
+{
+  "name": "dumb-show",
+  "label": "dumb show",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "dumb show \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lead-out",
+  "label": "Lead out",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Lead out \u2014 a concept in sports.",
+  "version": "2.1"
+}

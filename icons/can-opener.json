@@ -1,0 +1,13 @@
+{
+  "name": "can-opener",
+  "label": "can opener",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "can opener \u2014 a concept in chess.",
+  "version": "2.1"
+}

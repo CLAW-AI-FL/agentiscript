@@ -1,0 +1,13 @@
+{
+  "name": "normal-route",
+  "label": "normal route",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "normal route \u2014 a concept in sports.",
+  "version": "2.1"
+}

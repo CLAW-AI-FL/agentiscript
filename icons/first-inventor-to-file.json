@@ -1,0 +1,13 @@
+{
+  "name": "first-inventor-to-file",
+  "label": "First inventor to file",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "First inventor to file \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

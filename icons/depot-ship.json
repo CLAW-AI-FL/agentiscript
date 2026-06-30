@@ -1,0 +1,13 @@
+{
+  "name": "depot-ship",
+  "label": "depot ship",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "depot ship \u2014 a concept in nautical.",
+  "version": "2.1"
+}

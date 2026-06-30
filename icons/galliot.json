@@ -1,0 +1,13 @@
+{
+  "name": "galliot",
+  "label": "galliot",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "galliot \u2014 a concept in nautical.",
+  "version": "2.1"
+}

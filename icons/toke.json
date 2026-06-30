@@ -1,0 +1,13 @@
+{
+  "name": "toke",
+  "label": "toke",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "toke \u2014 a concept in sports.",
+  "version": "2.1"
+}

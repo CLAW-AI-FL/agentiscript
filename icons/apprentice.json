@@ -1,0 +1,13 @@
+{
+  "name": "apprentice",
+  "label": "Apprentice",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Apprentice \u2014 a concept in sports.",
+  "version": "2.1"
+}

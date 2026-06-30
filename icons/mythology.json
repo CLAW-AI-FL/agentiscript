@@ -1,0 +1,13 @@
+{
+  "name": "mythology",
+  "label": "mythology",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "mythology \u2014 a concept in literature.",
+  "version": "2.1"
+}

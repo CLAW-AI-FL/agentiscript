@@ -1,0 +1,13 @@
+{
+  "name": "opening-credits",
+  "label": "opening credits",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "opening credits \u2014 a concept in cinema.",
+  "version": "2.1"
+}

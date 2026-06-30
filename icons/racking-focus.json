@@ -1,0 +1,13 @@
+{
+  "name": "racking-focus",
+  "label": "racking focus",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "racking focus \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "title-sequence",
+  "label": "title sequence",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "title sequence \u2014 a concept in cinema.",
+  "version": "2.1"
+}

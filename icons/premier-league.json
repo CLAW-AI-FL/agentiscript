@@ -1,0 +1,13 @@
+{
+  "name": "premier-league",
+  "label": "Premier League",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Premier League \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "artefact",
+  "label": "artefact",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "artefact \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "film-inventory-report",
+  "label": "film inventory report",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "film inventory report \u2014 a concept in cinema.",
+  "version": "2.1"
+}

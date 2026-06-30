@@ -1,0 +1,13 @@
+{
+  "name": "worldy",
+  "label": "Worldy",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Worldy \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cherry-picking",
+  "label": "cherry picking",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "cherry picking \u2014 a concept in sports.",
+  "version": "2.1"
+}

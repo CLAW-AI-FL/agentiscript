@@ -1,0 +1,13 @@
+{
+  "name": "wrong-bishop",
+  "label": "wrong bishop",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "wrong bishop \u2014 a concept in chess.",
+  "version": "2.1"
+}

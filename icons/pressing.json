@@ -1,0 +1,13 @@
+{
+  "name": "pressing",
+  "label": "Pressing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pressing \u2014 a concept in sports.",
+  "version": "2.1"
+}

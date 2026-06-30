@@ -1,0 +1,13 @@
+{
+  "name": "country-move",
+  "label": "country move",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "country move \u2014 a concept in chess.",
+  "version": "2.1"
+}

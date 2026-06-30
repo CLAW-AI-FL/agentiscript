@@ -1,0 +1,13 @@
+{
+  "name": "bounce-pass",
+  "label": "bounce pass",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bounce pass \u2014 a concept in sports.",
+  "version": "2.1"
+}

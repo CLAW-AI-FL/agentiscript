@@ -1,0 +1,13 @@
+{
+  "name": "king-walk",
+  "label": "king walk",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "king walk \u2014 a concept in chess.",
+  "version": "2.1"
+}

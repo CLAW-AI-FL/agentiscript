@@ -1,0 +1,13 @@
+{
+  "name": "squeaky-bum-time",
+  "label": "Squeaky-bum time",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Squeaky-bum time \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "troitzky-line",
+  "label": "Troitzky line",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Troitzky line \u2014 a concept in chess.",
+  "version": "2.1"
+}

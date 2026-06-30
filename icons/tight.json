@@ -1,0 +1,13 @@
+{
+  "name": "tight",
+  "label": "tight",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "tight \u2014 a concept in sports.",
+  "version": "2.1"
+}

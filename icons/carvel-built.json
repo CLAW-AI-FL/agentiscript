@@ -1,0 +1,13 @@
+{
+  "name": "carvel-built",
+  "label": "carvel-built",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "carvel-built \u2014 a concept in nautical.",
+  "version": "2.1"
+}

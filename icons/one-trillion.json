@@ -1,0 +1,13 @@
+{
+  "name": "one-trillion",
+  "label": "one trillion",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "one trillion \u2014 a concept in sports.",
+  "version": "2.1"
+}

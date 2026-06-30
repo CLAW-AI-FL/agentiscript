@@ -1,0 +1,13 @@
+{
+  "name": "flag",
+  "label": "flag",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "flag \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "king-hunt",
+  "label": "king hunt",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "king hunt \u2014 a concept in chess.",
+  "version": "2.1"
+}

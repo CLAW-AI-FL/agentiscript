@@ -1,0 +1,13 @@
+{
+  "name": "billing",
+  "label": "Billing",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Billing \u2014 a concept in cinema.",
+  "version": "2.1"
+}

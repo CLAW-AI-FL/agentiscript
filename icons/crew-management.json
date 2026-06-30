@@ -1,0 +1,13 @@
+{
+  "name": "crew-management",
+  "label": "crew management",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "crew management \u2014 a concept in nautical.",
+  "version": "2.1"
+}

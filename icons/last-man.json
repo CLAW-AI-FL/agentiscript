@@ -1,0 +1,13 @@
+{
+  "name": "last-man",
+  "label": "Last man",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Last man \u2014 a concept in sports.",
+  "version": "2.1"
+}

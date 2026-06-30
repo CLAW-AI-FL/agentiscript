@@ -1,0 +1,13 @@
+{
+  "name": "on-your-wheel",
+  "label": "On your wheel",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "On your wheel \u2014 a concept in sports.",
+  "version": "2.1"
+}

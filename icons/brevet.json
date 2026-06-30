@@ -1,0 +1,13 @@
+{
+  "name": "brevet",
+  "label": "Brevet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Brevet \u2014 a concept in sports.",
+  "version": "2.1"
+}

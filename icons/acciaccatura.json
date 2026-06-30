@@ -1,0 +1,13 @@
+{
+  "name": "acciaccatura",
+  "label": "acciaccatura",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "acciaccatura \u2014 a concept in music.",
+  "version": "2.1"
+}

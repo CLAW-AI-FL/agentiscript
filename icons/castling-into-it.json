@@ -1,0 +1,13 @@
+{
+  "name": "castling-into-it",
+  "label": "castling into it",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "castling into it \u2014 a concept in chess.",
+  "version": "2.1"
+}

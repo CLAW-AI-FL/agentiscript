@@ -1,0 +1,13 @@
+{
+  "name": "move-in",
+  "label": "move in",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "move in \u2014 a concept in sports.",
+  "version": "2.1"
+}

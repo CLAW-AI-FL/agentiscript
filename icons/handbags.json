@@ -1,0 +1,13 @@
+{
+  "name": "handbags",
+  "label": "Handbags",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Handbags \u2014 a concept in sports.",
+  "version": "2.1"
+}

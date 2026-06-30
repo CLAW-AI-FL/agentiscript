@@ -1,0 +1,13 @@
+{
+  "name": "head-shot",
+  "label": "head shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "head shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chain-rhyme",
+  "label": "chain rhyme",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "chain rhyme \u2014 a concept in literature.",
+  "version": "2.1"
+}

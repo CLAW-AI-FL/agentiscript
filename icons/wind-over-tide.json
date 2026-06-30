@@ -1,0 +1,13 @@
+{
+  "name": "wind-over-tide",
+  "label": "wind-over-tide",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "wind-over-tide \u2014 a concept in nautical.",
+  "version": "2.1"
+}

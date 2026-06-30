@@ -1,0 +1,13 @@
+{
+  "name": "inboard-motor",
+  "label": "inboard motor",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "inboard motor \u2014 a concept in nautical.",
+  "version": "2.1"
+}

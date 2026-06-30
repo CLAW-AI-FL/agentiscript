@@ -1,0 +1,13 @@
+{
+  "name": "sandbagging",
+  "label": "sandbagging",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "sandbagging \u2014 a concept in sports.",
+  "version": "2.1"
+}

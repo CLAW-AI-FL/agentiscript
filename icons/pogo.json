@@ -1,0 +1,13 @@
+{
+  "name": "pogo",
+  "label": "pogo",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pogo \u2014 a concept in sports.",
+  "version": "2.1"
+}

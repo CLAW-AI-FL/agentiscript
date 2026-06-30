@@ -1,0 +1,13 @@
+{
+  "name": "prusik-knot",
+  "label": "Prusik knot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Prusik knot \u2014 a concept in sports.",
+  "version": "2.1"
+}

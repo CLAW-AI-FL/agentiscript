@@ -1,0 +1,13 @@
+{
+  "name": "goal-line-clearance",
+  "label": "Goal-line clearance",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Goal-line clearance \u2014 a concept in sports.",
+  "version": "2.1"
+}

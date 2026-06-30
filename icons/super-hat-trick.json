@@ -1,0 +1,13 @@
+{
+  "name": "super-hat-trick",
+  "label": "Super Hat-trick",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Super Hat-trick \u2014 a concept in sports.",
+  "version": "2.1"
+}

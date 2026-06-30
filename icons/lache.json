@@ -1,0 +1,13 @@
+{
+  "name": "lache",
+  "label": "lache",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "lache \u2014 a concept in sports.",
+  "version": "2.1"
+}

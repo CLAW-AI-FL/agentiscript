@@ -1,0 +1,13 @@
+{
+  "name": "major-piece",
+  "label": "major piece",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "major piece \u2014 a concept in chess.",
+  "version": "2.1"
+}

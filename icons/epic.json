@@ -1,0 +1,13 @@
+{
+  "name": "epic",
+  "label": "epic",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "epic \u2014 a concept in sports.",
+  "version": "2.1"
+}

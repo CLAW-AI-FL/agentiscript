@@ -1,0 +1,13 @@
+{
+  "name": "value-bet",
+  "label": "value bet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "value bet \u2014 a concept in sports.",
+  "version": "2.1"
+}

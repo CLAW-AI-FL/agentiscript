@@ -1,0 +1,13 @@
+{
+  "name": "homiletics",
+  "label": "Homiletics",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Homiletics \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

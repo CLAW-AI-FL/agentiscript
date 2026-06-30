@@ -1,0 +1,13 @@
+{
+  "name": "tramp-steamer",
+  "label": "tramp steamer",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "tramp steamer \u2014 a concept in nautical.",
+  "version": "2.1"
+}

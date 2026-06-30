@@ -1,0 +1,13 @@
+{
+  "name": "last-minute-goal",
+  "label": "Last-minute goal",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Last-minute goal \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "evaluation",
+  "label": "evaluation",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "evaluation \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

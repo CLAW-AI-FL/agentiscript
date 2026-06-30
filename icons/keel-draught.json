@@ -1,0 +1,13 @@
+{
+  "name": "keel-draught",
+  "label": "keel draught",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "keel draught \u2014 a concept in nautical.",
+  "version": "2.1"
+}

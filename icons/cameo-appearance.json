@@ -1,0 +1,13 @@
+{
+  "name": "cameo-appearance",
+  "label": "cameo appearance",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "cameo appearance \u2014 a concept in cinema.",
+  "version": "2.1"
+}

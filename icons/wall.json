@@ -1,0 +1,13 @@
+{
+  "name": "wall",
+  "label": "Wall",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Wall \u2014 a concept in sports.",
+  "version": "2.1"
+}

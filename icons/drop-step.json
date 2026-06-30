@@ -1,0 +1,13 @@
+{
+  "name": "drop-step",
+  "label": "drop step",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "drop step \u2014 a concept in sports.",
+  "version": "2.1"
+}

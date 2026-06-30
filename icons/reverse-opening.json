@@ -1,0 +1,13 @@
+{
+  "name": "reverse-opening",
+  "label": "reverse opening",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "reverse opening \u2014 a concept in chess.",
+  "version": "2.1"
+}

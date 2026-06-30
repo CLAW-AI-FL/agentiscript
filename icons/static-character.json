@@ -1,0 +1,13 @@
+{
+  "name": "static-character",
+  "label": "static character",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "static character \u2014 a concept in literature.",
+  "version": "2.1"
+}

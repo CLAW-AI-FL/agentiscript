@@ -1,0 +1,13 @@
+{
+  "name": "isolated-pawn",
+  "label": "isolated pawn",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "isolated pawn \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "non-fiction",
+  "label": "non-fiction",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "non-fiction \u2014 a concept in literature.",
+  "version": "2.1"
+}

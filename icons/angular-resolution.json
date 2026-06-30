@@ -1,0 +1,13 @@
+{
+  "name": "angular-resolution",
+  "label": "angular resolution",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "angular resolution \u2014 a concept in cinema.",
+  "version": "2.1"
+}

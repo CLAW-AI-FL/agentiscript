@@ -1,0 +1,13 @@
+{
+  "name": "assisted-braking-device",
+  "label": "Assisted braking device",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Assisted braking device \u2014 a concept in sports.",
+  "version": "2.1"
+}

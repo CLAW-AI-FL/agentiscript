@@ -1,0 +1,13 @@
+{
+  "name": "alpine-climbing",
+  "label": "alpine climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "alpine climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

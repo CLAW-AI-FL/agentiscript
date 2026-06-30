@@ -1,0 +1,13 @@
+{
+  "name": "clear",
+  "label": "clear",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "clear \u2014 a concept in nautical.",
+  "version": "2.1"
+}

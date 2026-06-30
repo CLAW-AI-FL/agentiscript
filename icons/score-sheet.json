@@ -1,0 +1,13 @@
+{
+  "name": "score-sheet",
+  "label": "score sheet",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "score sheet \u2014 a concept in chess.",
+  "version": "2.1"
+}

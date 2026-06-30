@@ -1,0 +1,13 @@
+{
+  "name": "light-poetry",
+  "label": "light poetry",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "light poetry \u2014 a concept in literature.",
+  "version": "2.1"
+}

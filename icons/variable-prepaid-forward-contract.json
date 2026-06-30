@@ -1,0 +1,13 @@
+{
+  "name": "variable-prepaid-forward-contract",
+  "label": "Variable prepaid forward contract",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Variable prepaid forward contract \u2014 a concept in finance.",
+  "version": "2.1"
+}

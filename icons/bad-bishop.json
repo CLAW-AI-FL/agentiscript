@@ -1,0 +1,13 @@
+{
+  "name": "bad-bishop",
+  "label": "bad bishop",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "bad bishop \u2014 a concept in chess.",
+  "version": "2.1"
+}

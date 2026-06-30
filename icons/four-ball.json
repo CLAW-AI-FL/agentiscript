@@ -1,0 +1,13 @@
+{
+  "name": "four-ball",
+  "label": "Four-ball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Four-ball \u2014 a concept in sports.",
+  "version": "2.1"
+}

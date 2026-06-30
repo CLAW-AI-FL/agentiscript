@@ -1,0 +1,13 @@
+{
+  "name": "recovery",
+  "label": "Recovery",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Recovery \u2014 a concept in sports.",
+  "version": "2.1"
+}

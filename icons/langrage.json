@@ -1,0 +1,13 @@
+{
+  "name": "langrage",
+  "label": "langrage",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "langrage \u2014 a concept in nautical.",
+  "version": "2.1"
+}

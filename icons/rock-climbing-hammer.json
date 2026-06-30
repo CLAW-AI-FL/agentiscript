@@ -1,0 +1,13 @@
+{
+  "name": "rock-climbing-hammer",
+  "label": "Rock climbing hammer",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Rock climbing hammer \u2014 a concept in sports.",
+  "version": "2.1"
+}

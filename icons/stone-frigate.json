@@ -1,0 +1,13 @@
+{
+  "name": "stone-frigate",
+  "label": "stone frigate",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "stone frigate \u2014 a concept in nautical.",
+  "version": "2.1"
+}

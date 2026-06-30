@@ -1,0 +1,13 @@
+{
+  "name": "heavy-piece",
+  "label": "heavy piece",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "heavy piece \u2014 a concept in chess.",
+  "version": "2.1"
+}

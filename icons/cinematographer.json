@@ -1,0 +1,13 @@
+{
+  "name": "cinematographer",
+  "label": "cinematographer",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "cinematographer \u2014 a concept in cinema.",
+  "version": "2.1"
+}

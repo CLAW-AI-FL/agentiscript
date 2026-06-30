@@ -1,0 +1,13 @@
+{
+  "name": "slow-play",
+  "label": "slow play",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "slow play \u2014 a concept in sports.",
+  "version": "2.1"
+}

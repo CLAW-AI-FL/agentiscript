@@ -1,0 +1,13 @@
+{
+  "name": "lie",
+  "label": "Lie",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Lie \u2014 a concept in sports.",
+  "version": "2.1"
+}

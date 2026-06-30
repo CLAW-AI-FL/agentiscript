@@ -1,0 +1,13 @@
+{
+  "name": "fast-supply-vessel",
+  "label": "fast supply vessel",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "fast supply vessel \u2014 a concept in nautical.",
+  "version": "2.1"
+}

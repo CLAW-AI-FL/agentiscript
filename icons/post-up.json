@@ -1,0 +1,13 @@
+{
+  "name": "post-up",
+  "label": "post up",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "post up \u2014 a concept in sports.",
+  "version": "2.1"
+}

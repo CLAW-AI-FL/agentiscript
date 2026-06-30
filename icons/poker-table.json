@@ -1,0 +1,13 @@
+{
+  "name": "poker-table",
+  "label": "poker table",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "poker table \u2014 a concept in sports.",
+  "version": "2.1"
+}

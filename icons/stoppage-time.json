@@ -1,0 +1,13 @@
+{
+  "name": "stoppage-time",
+  "label": "Stoppage-time",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Stoppage-time \u2014 a concept in sports.",
+  "version": "2.1"
+}

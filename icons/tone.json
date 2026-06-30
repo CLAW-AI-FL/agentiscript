@@ -1,0 +1,13 @@
+{
+  "name": "tone",
+  "label": "Tone",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Tone \u2014 a concept in literature.",
+  "version": "2.1"
+}

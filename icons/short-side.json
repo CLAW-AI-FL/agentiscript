@@ -1,0 +1,13 @@
+{
+  "name": "short-side",
+  "label": "Short side",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Short side \u2014 a concept in sports.",
+  "version": "2.1"
+}

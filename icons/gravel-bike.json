@@ -1,0 +1,13 @@
+{
+  "name": "gravel-bike",
+  "label": "Gravel bike",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Gravel bike \u2014 a concept in sports.",
+  "version": "2.1"
+}

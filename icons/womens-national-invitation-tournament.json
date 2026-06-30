@@ -1,0 +1,13 @@
+{
+  "name": "womens-national-invitation-tournament",
+  "label": "Women's National Invitation Tournament",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Women's National Invitation Tournament \u2014 a concept in sports.",
+  "version": "2.1"
+}

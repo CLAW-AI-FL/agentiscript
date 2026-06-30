@@ -1,0 +1,13 @@
+{
+  "name": "digital-film",
+  "label": "digital film",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "digital film \u2014 a concept in cinema.",
+  "version": "2.1"
+}

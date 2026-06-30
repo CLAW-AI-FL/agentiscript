@@ -1,0 +1,13 @@
+{
+  "name": "institutio-oratoria",
+  "label": "Institutio Oratoria",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Institutio Oratoria \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

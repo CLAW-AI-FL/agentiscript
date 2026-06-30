@@ -1,0 +1,13 @@
+{
+  "name": "endurance-bicycle",
+  "label": "Endurance bicycle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Endurance bicycle \u2014 a concept in sports.",
+  "version": "2.1"
+}

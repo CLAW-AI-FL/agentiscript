@@ -1,0 +1,13 @@
+{
+  "name": "x-patent",
+  "label": "X-Patent",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "X-Patent \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

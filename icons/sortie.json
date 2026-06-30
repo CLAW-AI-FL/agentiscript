@@ -1,0 +1,13 @@
+{
+  "name": "sortie",
+  "label": "sortie",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "sortie \u2014 a concept in chess.",
+  "version": "2.1"
+}

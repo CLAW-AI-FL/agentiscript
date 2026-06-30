@@ -1,0 +1,13 @@
+{
+  "name": "daily-progress-report",
+  "label": "daily progress report",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "daily progress report \u2014 a concept in cinema.",
+  "version": "2.1"
+}

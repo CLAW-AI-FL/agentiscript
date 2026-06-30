@@ -1,0 +1,13 @@
+{
+  "name": "back-pass-rule",
+  "label": "Back-pass rule",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Back-pass rule \u2014 a concept in sports.",
+  "version": "2.1"
+}

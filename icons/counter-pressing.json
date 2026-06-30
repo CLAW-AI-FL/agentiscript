@@ -1,0 +1,13 @@
+{
+  "name": "counter-pressing",
+  "label": "Counter-pressing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Counter-pressing \u2014 a concept in sports.",
+  "version": "2.1"
+}

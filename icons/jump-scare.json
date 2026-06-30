@@ -1,0 +1,13 @@
+{
+  "name": "jump-scare",
+  "label": "jump scare",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "jump scare \u2014 a concept in cinema.",
+  "version": "2.1"
+}

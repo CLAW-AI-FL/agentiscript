@@ -1,0 +1,13 @@
+{
+  "name": "fivefold-repetition",
+  "label": "fivefold repetition",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "fivefold repetition \u2014 a concept in chess.",
+  "version": "2.1"
+}

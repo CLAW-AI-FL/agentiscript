@@ -1,0 +1,13 @@
+{
+  "name": "decoy",
+  "label": "decoy",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "decoy \u2014 a concept in chess.",
+  "version": "2.1"
+}

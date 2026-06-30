@@ -1,0 +1,13 @@
+{
+  "name": "chessboard",
+  "label": "chessboard",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "chessboard \u2014 a concept in chess.",
+  "version": "2.1"
+}

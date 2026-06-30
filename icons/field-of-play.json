@@ -1,0 +1,13 @@
+{
+  "name": "field-of-play",
+  "label": "Field of play",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Field of play \u2014 a concept in sports.",
+  "version": "2.1"
+}

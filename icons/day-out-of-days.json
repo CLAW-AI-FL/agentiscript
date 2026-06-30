@@ -1,0 +1,13 @@
+{
+  "name": "day-out-of-days",
+  "label": "Day out of days",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Day out of days \u2014 a concept in cinema.",
+  "version": "2.1"
+}

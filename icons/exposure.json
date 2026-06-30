@@ -1,0 +1,13 @@
+{
+  "name": "exposure",
+  "label": "Exposure",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Exposure \u2014 a concept in sports.",
+  "version": "2.1"
+}

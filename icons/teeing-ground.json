@@ -1,0 +1,13 @@
+{
+  "name": "teeing-ground",
+  "label": "Teeing ground",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Teeing ground \u2014 a concept in sports.",
+  "version": "2.1"
+}

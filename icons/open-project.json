@@ -1,0 +1,13 @@
+{
+  "name": "open-project",
+  "label": "open project",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "open project \u2014 a concept in sports.",
+  "version": "2.1"
+}

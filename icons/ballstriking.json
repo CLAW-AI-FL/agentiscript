@@ -1,0 +1,13 @@
+{
+  "name": "ballstriking",
+  "label": "Ballstriking",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Ballstriking \u2014 a concept in sports.",
+  "version": "2.1"
+}

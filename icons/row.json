@@ -1,0 +1,13 @@
+{
+  "name": "row",
+  "label": "row",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "row \u2014 a concept in nautical.",
+  "version": "2.1"
+}

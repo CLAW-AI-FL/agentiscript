@@ -1,0 +1,13 @@
+{
+  "name": "final-table",
+  "label": "final table",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "final table \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "intuitive-description",
+  "label": "intuitive description",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "intuitive description \u2014 a concept in literature.",
+  "version": "2.1"
+}

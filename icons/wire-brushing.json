@@ -1,0 +1,13 @@
+{
+  "name": "wire-brushing",
+  "label": "wire brushing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "wire brushing \u2014 a concept in sports.",
+  "version": "2.1"
+}

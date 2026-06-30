@@ -1,0 +1,13 @@
+{
+  "name": "seaboat",
+  "label": "seaboat",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "seaboat \u2014 a concept in nautical.",
+  "version": "2.1"
+}

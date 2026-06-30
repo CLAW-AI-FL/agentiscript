@@ -1,0 +1,13 @@
+{
+  "name": "tiller",
+  "label": "tiller",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "tiller \u2014 a concept in nautical.",
+  "version": "2.1"
+}

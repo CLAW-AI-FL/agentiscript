@@ -1,0 +1,13 @@
+{
+  "name": "brouwer-route",
+  "label": "Brouwer Route",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Brouwer Route \u2014 a concept in nautical.",
+  "version": "2.1"
+}

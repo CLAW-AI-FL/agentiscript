@@ -1,0 +1,13 @@
+{
+  "name": "fat",
+  "label": "fat",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "fat \u2014 a concept in sports.",
+  "version": "2.1"
+}

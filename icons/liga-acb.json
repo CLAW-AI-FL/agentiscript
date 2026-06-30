@@ -1,0 +1,13 @@
+{
+  "name": "liga-acb",
+  "label": "Liga ACB",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Liga ACB \u2014 a concept in sports.",
+  "version": "2.1"
+}

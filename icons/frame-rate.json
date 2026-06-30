@@ -1,0 +1,13 @@
+{
+  "name": "frame-rate",
+  "label": "frame rate",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "frame rate \u2014 a concept in cinema.",
+  "version": "2.1"
+}

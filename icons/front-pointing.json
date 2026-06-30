@@ -1,0 +1,13 @@
+{
+  "name": "front-pointing",
+  "label": "front pointing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "front pointing \u2014 a concept in sports.",
+  "version": "2.1"
+}

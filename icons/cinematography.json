@@ -1,0 +1,13 @@
+{
+  "name": "cinematography",
+  "label": "cinematography",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "cinematography \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "claim-chart",
+  "label": "Claim chart",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Claim chart \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

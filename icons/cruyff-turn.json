@@ -1,0 +1,13 @@
+{
+  "name": "cruyff-turn",
+  "label": "Cruyff turn",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Cruyff turn \u2014 a concept in sports.",
+  "version": "2.1"
+}

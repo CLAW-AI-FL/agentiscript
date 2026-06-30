@@ -1,0 +1,13 @@
+{
+  "name": "bivouac-shelter",
+  "label": "bivouac shelter",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bivouac shelter \u2014 a concept in sports.",
+  "version": "2.1"
+}

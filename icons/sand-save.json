@@ -1,0 +1,13 @@
+{
+  "name": "sand-save",
+  "label": "Sand save",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sand save \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "italian-bishop",
+  "label": "Italian bishop",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Italian bishop \u2014 a concept in chess.",
+  "version": "2.1"
+}

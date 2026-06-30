@@ -1,0 +1,13 @@
+{
+  "name": "false-nine",
+  "label": "False nine",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "False nine \u2014 a concept in sports.",
+  "version": "2.1"
+}

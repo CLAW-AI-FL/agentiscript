@@ -1,0 +1,13 @@
+{
+  "name": "light-square-bishop",
+  "label": "light-square bishop",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "light-square bishop \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "runner-runner",
+  "label": "runner-runner",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "runner-runner \u2014 a concept in sports.",
+  "version": "2.1"
+}

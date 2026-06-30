@@ -1,0 +1,13 @@
+{
+  "name": "rush",
+  "label": "rush",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rush \u2014 a concept in sports.",
+  "version": "2.1"
+}

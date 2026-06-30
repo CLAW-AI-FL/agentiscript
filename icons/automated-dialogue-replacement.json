@@ -1,0 +1,13 @@
+{
+  "name": "automated-dialogue-replacement",
+  "label": "automated dialogue replacement",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "automated dialogue replacement \u2014 a concept in cinema.",
+  "version": "2.1"
+}

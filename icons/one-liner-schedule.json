@@ -1,0 +1,13 @@
+{
+  "name": "one-liner-schedule",
+  "label": "one liner schedule",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "one liner schedule \u2014 a concept in cinema.",
+  "version": "2.1"
+}

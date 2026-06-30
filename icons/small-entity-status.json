@@ -1,0 +1,13 @@
+{
+  "name": "small-entity-status",
+  "label": "Small entity status",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Small entity status \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

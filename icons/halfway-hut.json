@@ -1,0 +1,13 @@
+{
+  "name": "halfway-hut",
+  "label": "halfway hut",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "halfway hut \u2014 a concept in sports.",
+  "version": "2.1"
+}

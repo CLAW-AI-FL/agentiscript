@@ -1,0 +1,13 @@
+{
+  "name": "bookrunner",
+  "label": "Bookrunner",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Bookrunner \u2014 a concept in finance.",
+  "version": "2.1"
+}

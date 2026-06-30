@@ -1,0 +1,13 @@
+{
+  "name": "lock-up",
+  "label": "lock up",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "lock up \u2014 a concept in sports.",
+  "version": "2.1"
+}

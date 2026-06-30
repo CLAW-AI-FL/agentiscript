@@ -1,0 +1,13 @@
+{
+  "name": "pannier",
+  "label": "Pannier",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pannier \u2014 a concept in sports.",
+  "version": "2.1"
+}

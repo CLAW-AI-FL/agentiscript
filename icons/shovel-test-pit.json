@@ -1,0 +1,13 @@
+{
+  "name": "shovel-test-pit",
+  "label": "shovel test pit",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "shovel test pit \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

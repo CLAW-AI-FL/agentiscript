@@ -1,0 +1,13 @@
+{
+  "name": "triple-barrel",
+  "label": "triple barrel",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "triple barrel \u2014 a concept in sports.",
+  "version": "2.1"
+}

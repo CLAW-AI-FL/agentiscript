@@ -1,0 +1,13 @@
+{
+  "name": "dirty-flag",
+  "label": "dirty flag",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "dirty flag \u2014 a concept in chess.",
+  "version": "2.1"
+}

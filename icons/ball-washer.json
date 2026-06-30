@@ -1,0 +1,13 @@
+{
+  "name": "ball-washer",
+  "label": "Ball washer",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Ball washer \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "multi-way-pot",
+  "label": "multi-way pot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "multi-way pot \u2014 a concept in sports.",
+  "version": "2.1"
+}

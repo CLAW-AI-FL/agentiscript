@@ -1,0 +1,13 @@
+{
+  "name": "hors-d\u00e9lai",
+  "label": "Hors d\u00e9lai",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hors d\u00e9lai \u2014 a concept in sports.",
+  "version": "2.1"
+}

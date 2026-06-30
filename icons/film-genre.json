@@ -1,0 +1,13 @@
+{
+  "name": "film-genre",
+  "label": "film genre",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "film genre \u2014 a concept in cinema.",
+  "version": "2.1"
+}

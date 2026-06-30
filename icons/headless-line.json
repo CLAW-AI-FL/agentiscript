@@ -1,0 +1,13 @@
+{
+  "name": "headless-line",
+  "label": "headless line",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "headless line \u2014 a concept in literature.",
+  "version": "2.1"
+}

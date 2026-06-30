@@ -1,0 +1,13 @@
+{
+  "name": "comp",
+  "label": "comp",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "comp \u2014 a concept in music.",
+  "version": "2.1"
+}

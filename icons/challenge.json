@@ -1,0 +1,13 @@
+{
+  "name": "challenge",
+  "label": "Challenge",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Challenge \u2014 a concept in sports.",
+  "version": "2.1"
+}

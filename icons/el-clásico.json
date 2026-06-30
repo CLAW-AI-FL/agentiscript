@@ -1,0 +1,13 @@
+{
+  "name": "el-cl\u00e1sico",
+  "label": "El Cl\u00e1sico",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "El Cl\u00e1sico \u2014 a concept in sports.",
+  "version": "2.1"
+}

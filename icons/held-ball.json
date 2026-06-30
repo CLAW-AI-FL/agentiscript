@@ -1,0 +1,13 @@
+{
+  "name": "held-ball",
+  "label": "held ball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "held ball \u2014 a concept in sports.",
+  "version": "2.1"
+}

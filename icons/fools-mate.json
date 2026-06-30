@@ -1,0 +1,13 @@
+{
+  "name": "fools-mate",
+  "label": "Fool's mate",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Fool's mate \u2014 a concept in chess.",
+  "version": "2.1"
+}

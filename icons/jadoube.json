@@ -1,0 +1,13 @@
+{
+  "name": "jadoube",
+  "label": "j'adoube",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "j'adoube \u2014 a concept in chess.",
+  "version": "2.1"
+}

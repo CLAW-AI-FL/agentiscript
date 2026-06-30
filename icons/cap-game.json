@@ -1,0 +1,13 @@
+{
+  "name": "cap-game",
+  "label": "cap game",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "cap game \u2014 a concept in sports.",
+  "version": "2.1"
+}

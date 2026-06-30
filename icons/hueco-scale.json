@@ -1,0 +1,13 @@
+{
+  "name": "hueco-scale",
+  "label": "Hueco scale",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hueco scale \u2014 a concept in sports.",
+  "version": "2.1"
+}

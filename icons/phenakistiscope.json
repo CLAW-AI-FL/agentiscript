@@ -1,0 +1,13 @@
+{
+  "name": "phenakistiscope",
+  "label": "phenakistiscope",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "phenakistiscope \u2014 a concept in cinema.",
+  "version": "2.1"
+}

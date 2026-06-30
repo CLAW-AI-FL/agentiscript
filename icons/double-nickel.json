@@ -1,0 +1,13 @@
+{
+  "name": "double-nickel",
+  "label": "double nickel",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "double nickel \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "camalot",
+  "label": "camalot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "camalot \u2014 a concept in sports.",
+  "version": "2.1"
+}

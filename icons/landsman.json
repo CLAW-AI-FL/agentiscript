@@ -1,0 +1,13 @@
+{
+  "name": "landsman",
+  "label": "landsman",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "landsman \u2014 a concept in nautical.",
+  "version": "2.1"
+}

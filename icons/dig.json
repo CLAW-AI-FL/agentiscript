@@ -1,0 +1,13 @@
+{
+  "name": "dig",
+  "label": "dig",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "dig \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

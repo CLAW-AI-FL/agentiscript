@@ -1,0 +1,13 @@
+{
+  "name": "unorthodox-opening",
+  "label": "unorthodox opening",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "unorthodox opening \u2014 a concept in chess.",
+  "version": "2.1"
+}

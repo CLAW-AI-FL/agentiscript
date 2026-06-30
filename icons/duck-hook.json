@@ -1,0 +1,13 @@
+{
+  "name": "duck-hook",
+  "label": "duck-hook",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "duck-hook \u2014 a concept in sports.",
+  "version": "2.1"
+}

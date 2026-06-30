@@ -1,0 +1,13 @@
+{
+  "name": "utility-patent",
+  "label": "Utility patent",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Utility patent \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

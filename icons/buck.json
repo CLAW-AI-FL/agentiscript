@@ -1,0 +1,13 @@
+{
+  "name": "buck",
+  "label": "buck",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "buck \u2014 a concept in sports.",
+  "version": "2.1"
+}

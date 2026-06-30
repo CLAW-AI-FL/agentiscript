@@ -1,0 +1,13 @@
+{
+  "name": "fixed-limit-flat-limit",
+  "label": "fixed limit, flat limit",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "fixed limit, flat limit \u2014 a concept in sports.",
+  "version": "2.1"
+}

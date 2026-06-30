@@ -1,0 +1,13 @@
+{
+  "name": "drop-ball",
+  "label": "Drop ball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Drop ball \u2014 a concept in sports.",
+  "version": "2.1"
+}

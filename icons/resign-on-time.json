@@ -1,0 +1,13 @@
+{
+  "name": "resign-on-time",
+  "label": "resign on time",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "resign on time \u2014 a concept in chess.",
+  "version": "2.1"
+}

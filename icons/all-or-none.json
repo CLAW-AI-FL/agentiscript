@@ -1,0 +1,13 @@
+{
+  "name": "all-or-none",
+  "label": "All or none",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "All or none \u2014 a concept in finance.",
+  "version": "2.1"
+}

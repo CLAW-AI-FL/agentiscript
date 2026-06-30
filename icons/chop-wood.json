@@ -1,0 +1,13 @@
+{
+  "name": "chop-wood",
+  "label": "chop wood",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "chop wood \u2014 a concept in chess.",
+  "version": "2.1"
+}

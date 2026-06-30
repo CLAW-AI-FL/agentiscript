@@ -1,0 +1,13 @@
+{
+  "name": "international-break",
+  "label": "International break",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "International break \u2014 a concept in sports.",
+  "version": "2.1"
+}

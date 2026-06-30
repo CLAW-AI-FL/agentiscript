@@ -1,0 +1,13 @@
+{
+  "name": "balance-rudder",
+  "label": "balance rudder",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "balance rudder \u2014 a concept in nautical.",
+  "version": "2.1"
+}

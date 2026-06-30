@@ -1,0 +1,13 @@
+{
+  "name": "futsal",
+  "label": "Futsal",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Futsal \u2014 a concept in sports.",
+  "version": "2.1"
+}

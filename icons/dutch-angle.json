@@ -1,0 +1,13 @@
+{
+  "name": "dutch-angle",
+  "label": "Dutch angle",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Dutch angle \u2014 a concept in cinema.",
+  "version": "2.1"
+}

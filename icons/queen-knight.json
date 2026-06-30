@@ -1,0 +1,13 @@
+{
+  "name": "queen-knight",
+  "label": "queen knight",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "queen knight \u2014 a concept in chess.",
+  "version": "2.1"
+}

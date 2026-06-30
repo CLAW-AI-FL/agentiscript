@@ -1,0 +1,13 @@
+{
+  "name": "top-two",
+  "label": "top two",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "top two \u2014 a concept in sports.",
+  "version": "2.1"
+}

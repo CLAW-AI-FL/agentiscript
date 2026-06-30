@@ -1,0 +1,13 @@
+{
+  "name": "all-in",
+  "label": "all-in",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "all-in \u2014 a concept in sports.",
+  "version": "2.1"
+}

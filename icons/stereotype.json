@@ -1,0 +1,13 @@
+{
+  "name": "stereotype",
+  "label": "stereotype",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "stereotype \u2014 a concept in literature.",
+  "version": "2.1"
+}

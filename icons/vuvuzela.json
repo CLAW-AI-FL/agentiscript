@@ -1,0 +1,13 @@
+{
+  "name": "vuvuzela",
+  "label": "Vuvuzela",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Vuvuzela \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hero",
+  "label": "hero",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "hero \u2014 a concept in sports.",
+  "version": "2.1"
+}

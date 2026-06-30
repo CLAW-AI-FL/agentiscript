@@ -1,0 +1,13 @@
+{
+  "name": "strokes-gained",
+  "label": "Strokes gained",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Strokes gained \u2014 a concept in sports.",
+  "version": "2.1"
+}

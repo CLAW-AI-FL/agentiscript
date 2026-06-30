@@ -1,0 +1,13 @@
+{
+  "name": "expanded-center",
+  "label": "expanded center",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "expanded center \u2014 a concept in chess.",
+  "version": "2.1"
+}

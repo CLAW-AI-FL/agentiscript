@@ -1,0 +1,13 @@
+{
+  "name": "stroke-play",
+  "label": "Stroke play",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Stroke play \u2014 a concept in sports.",
+  "version": "2.1"
+}

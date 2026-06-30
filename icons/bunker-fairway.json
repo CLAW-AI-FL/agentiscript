@@ -1,0 +1,13 @@
+{
+  "name": "bunker-fairway",
+  "label": "Bunker, Fairway",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bunker, Fairway \u2014 a concept in sports.",
+  "version": "2.1"
+}

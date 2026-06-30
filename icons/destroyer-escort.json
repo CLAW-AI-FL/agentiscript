@@ -1,0 +1,13 @@
+{
+  "name": "destroyer-escort",
+  "label": "destroyer escort",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "destroyer escort \u2014 a concept in nautical.",
+  "version": "2.1"
+}

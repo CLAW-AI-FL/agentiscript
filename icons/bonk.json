@@ -1,0 +1,13 @@
+{
+  "name": "bonk",
+  "label": "Bonk",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bonk \u2014 a concept in sports.",
+  "version": "2.1"
+}

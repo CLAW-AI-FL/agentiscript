@@ -1,0 +1,13 @@
+{
+  "name": "bolt-ladder",
+  "label": "bolt ladder",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bolt ladder \u2014 a concept in sports.",
+  "version": "2.1"
+}

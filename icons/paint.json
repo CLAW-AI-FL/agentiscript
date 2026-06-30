@@ -1,0 +1,13 @@
+{
+  "name": "paint",
+  "label": "paint",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "paint \u2014 a concept in sports.",
+  "version": "2.1"
+}

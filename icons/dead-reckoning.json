@@ -1,0 +1,13 @@
+{
+  "name": "dead-reckoning",
+  "label": "dead reckoning",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "dead reckoning \u2014 a concept in nautical.",
+  "version": "2.1"
+}

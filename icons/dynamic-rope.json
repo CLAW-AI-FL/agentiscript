@@ -1,0 +1,13 @@
+{
+  "name": "dynamic-rope",
+  "label": "dynamic rope",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dynamic rope \u2014 a concept in sports.",
+  "version": "2.1"
+}

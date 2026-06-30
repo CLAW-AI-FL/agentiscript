@@ -1,0 +1,13 @@
+{
+  "name": "steersman",
+  "label": "steersman",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "steersman \u2014 a concept in nautical.",
+  "version": "2.1"
+}

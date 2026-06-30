@@ -1,0 +1,13 @@
+{
+  "name": "preparation",
+  "label": "preparation",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "preparation \u2014 a concept in chess.",
+  "version": "2.1"
+}

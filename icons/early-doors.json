@@ -1,0 +1,13 @@
+{
+  "name": "early-doors",
+  "label": "Early doors",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Early doors \u2014 a concept in sports.",
+  "version": "2.1"
+}

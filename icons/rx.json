@@ -1,0 +1,13 @@
+{
+  "name": "rx",
+  "label": "R/X",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "R/X \u2014 a concept in sports.",
+  "version": "2.1"
+}

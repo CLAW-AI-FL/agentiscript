@@ -1,0 +1,13 @@
+{
+  "name": "secondary-break",
+  "label": "secondary break",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "secondary break \u2014 a concept in sports.",
+  "version": "2.1"
+}

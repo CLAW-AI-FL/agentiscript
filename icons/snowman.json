@@ -1,0 +1,13 @@
+{
+  "name": "snowman",
+  "label": "snowman",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "snowman \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "camera-boom",
+  "label": "camera boom",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "camera boom \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kabuki",
+  "label": "kabuki",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "kabuki \u2014 a concept in literature.",
+  "version": "2.1"
+}

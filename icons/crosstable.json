@@ -1,0 +1,13 @@
+{
+  "name": "crosstable",
+  "label": "crosstable",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "crosstable \u2014 a concept in chess.",
+  "version": "2.1"
+}

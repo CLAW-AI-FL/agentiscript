@@ -1,0 +1,13 @@
+{
+  "name": "rough",
+  "label": "Rough",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Rough \u2014 a concept in sports.",
+  "version": "2.1"
+}

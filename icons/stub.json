@@ -1,0 +1,13 @@
+{
+  "name": "stub",
+  "label": "Stub",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Stub \u2014 a concept in finance.",
+  "version": "2.1"
+}

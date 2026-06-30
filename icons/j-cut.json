@@ -1,0 +1,13 @@
+{
+  "name": "j-cut",
+  "label": "J cut",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "J cut \u2014 a concept in cinema.",
+  "version": "2.1"
+}

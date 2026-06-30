@@ -1,0 +1,13 @@
+{
+  "name": "collaborative-poetry",
+  "label": "collaborative poetry",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "collaborative poetry \u2014 a concept in literature.",
+  "version": "2.1"
+}

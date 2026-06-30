@@ -1,0 +1,13 @@
+{
+  "name": "reef-bands",
+  "label": "reef-bands",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "reef-bands \u2014 a concept in nautical.",
+  "version": "2.1"
+}

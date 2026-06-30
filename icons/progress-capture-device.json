@@ -1,0 +1,13 @@
+{
+  "name": "progress-capture-device",
+  "label": "progress capture device",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "progress capture device \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "keirin",
+  "label": "Keirin",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Keirin \u2014 a concept in sports.",
+  "version": "2.1"
+}

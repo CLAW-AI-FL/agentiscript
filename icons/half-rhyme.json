@@ -1,0 +1,13 @@
+{
+  "name": "half-rhyme",
+  "label": "Half rhyme",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Half rhyme \u2014 a concept in literature.",
+  "version": "2.1"
+}

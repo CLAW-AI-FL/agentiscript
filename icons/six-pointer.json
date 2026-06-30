@@ -1,0 +1,13 @@
+{
+  "name": "six-pointer",
+  "label": "Six-pointer",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Six-pointer \u2014 a concept in sports.",
+  "version": "2.1"
+}

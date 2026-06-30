@@ -1,0 +1,13 @@
+{
+  "name": "plaisir-grade",
+  "label": "Plaisir grade",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Plaisir grade \u2014 a concept in sports.",
+  "version": "2.1"
+}

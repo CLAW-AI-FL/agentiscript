@@ -1,0 +1,13 @@
+{
+  "name": "acrostic",
+  "label": "acrostic",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "acrostic \u2014 a concept in literature.",
+  "version": "2.1"
+}

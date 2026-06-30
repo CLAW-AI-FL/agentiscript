@@ -1,0 +1,13 @@
+{
+  "name": "creature-suit",
+  "label": "creature suit",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "creature suit \u2014 a concept in cinema.",
+  "version": "2.1"
+}

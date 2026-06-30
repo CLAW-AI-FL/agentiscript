@@ -1,0 +1,13 @@
+{
+  "name": "hymnal-stanza",
+  "label": "hymnal stanza",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "hymnal stanza \u2014 a concept in literature.",
+  "version": "2.1"
+}

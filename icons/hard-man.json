@@ -1,0 +1,13 @@
+{
+  "name": "hard-man",
+  "label": "Hard man",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hard man \u2014 a concept in sports.",
+  "version": "2.1"
+}

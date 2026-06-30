@@ -1,0 +1,13 @@
+{
+  "name": "blocked-position",
+  "label": "blocked position",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "blocked position \u2014 a concept in chess.",
+  "version": "2.1"
+}

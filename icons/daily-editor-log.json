@@ -1,0 +1,13 @@
+{
+  "name": "daily-editor-log",
+  "label": "daily editor log",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "daily editor log \u2014 a concept in cinema.",
+  "version": "2.1"
+}

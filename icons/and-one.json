@@ -1,0 +1,13 @@
+{
+  "name": "and-one",
+  "label": "and-one",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "and-one \u2014 a concept in sports.",
+  "version": "2.1"
+}

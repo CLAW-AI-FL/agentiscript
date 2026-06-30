@@ -1,0 +1,13 @@
+{
+  "name": "steam",
+  "label": "steam",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "steam \u2014 a concept in sports.",
+  "version": "2.1"
+}

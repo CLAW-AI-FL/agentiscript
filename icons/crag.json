@@ -1,0 +1,13 @@
+{
+  "name": "crag",
+  "label": "crag",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "crag \u2014 a concept in sports.",
+  "version": "2.1"
+}

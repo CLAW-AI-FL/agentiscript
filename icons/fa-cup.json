@@ -1,0 +1,13 @@
+{
+  "name": "fa-cup",
+  "label": "FA Cup",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "FA Cup \u2014 a concept in sports.",
+  "version": "2.1"
+}

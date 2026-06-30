@@ -1,0 +1,13 @@
+{
+  "name": "die-variety",
+  "label": "die variety",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "die variety \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "opening-repertoire",
+  "label": "opening repertoire",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "opening repertoire \u2014 a concept in chess.",
+  "version": "2.1"
+}

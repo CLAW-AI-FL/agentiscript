@@ -1,0 +1,13 @@
+{
+  "name": "double-attack",
+  "label": "double attack",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "double attack \u2014 a concept in chess.",
+  "version": "2.1"
+}

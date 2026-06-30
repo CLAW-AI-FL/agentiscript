@@ -1,0 +1,13 @@
+{
+  "name": "beyond-category",
+  "label": "Beyond category",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Beyond category \u2014 a concept in sports.",
+  "version": "2.1"
+}

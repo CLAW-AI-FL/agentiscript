@@ -1,0 +1,13 @@
+{
+  "name": "squad-rotation-system",
+  "label": "Squad rotation system",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Squad rotation system \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rabbit-hunt",
+  "label": "rabbit hunt",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rabbit hunt \u2014 a concept in sports.",
+  "version": "2.1"
+}

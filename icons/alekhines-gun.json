@@ -1,0 +1,13 @@
+{
+  "name": "alekhines-gun",
+  "label": "Alekhine's gun",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Alekhine's gun \u2014 a concept in chess.",
+  "version": "2.1"
+}

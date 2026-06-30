@@ -1,0 +1,13 @@
+{
+  "name": "swiss-tournament",
+  "label": "Swiss tournament",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Swiss tournament \u2014 a concept in chess.",
+  "version": "2.1"
+}

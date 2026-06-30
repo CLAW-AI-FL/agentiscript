@@ -1,0 +1,13 @@
+{
+  "name": "cross-bike",
+  "label": "Cross bike",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Cross bike \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "single-banked",
+  "label": "single-banked",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "single-banked \u2014 a concept in nautical.",
+  "version": "2.1"
+}

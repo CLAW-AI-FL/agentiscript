@@ -1,0 +1,13 @@
+{
+  "name": "dutch-barge",
+  "label": "Dutch barge",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Dutch barge \u2014 a concept in nautical.",
+  "version": "2.1"
+}

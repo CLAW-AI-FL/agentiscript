@@ -1,0 +1,13 @@
+{
+  "name": "lifeboat",
+  "label": "lifeboat",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "lifeboat \u2014 a concept in nautical.",
+  "version": "2.1"
+}

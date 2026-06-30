@@ -1,0 +1,13 @@
+{
+  "name": "end-to-end-stuff",
+  "label": "End-to-end stuff",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "End-to-end stuff \u2014 a concept in sports.",
+  "version": "2.1"
+}

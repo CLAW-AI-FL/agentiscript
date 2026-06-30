@@ -1,0 +1,13 @@
+{
+  "name": "pass-and-chase",
+  "label": "pass and chase",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pass and chase \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "team",
+  "label": "Team",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Team \u2014 a concept in sports.",
+  "version": "2.1"
+}

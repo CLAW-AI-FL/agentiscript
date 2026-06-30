@@ -1,0 +1,13 @@
+{
+  "name": "blind-defense",
+  "label": "blind defense",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "blind defense \u2014 a concept in sports.",
+  "version": "2.1"
+}

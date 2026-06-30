@@ -1,0 +1,13 @@
+{
+  "name": "dynamic-composition",
+  "label": "dynamic composition",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "dynamic composition \u2014 a concept in cinema.",
+  "version": "2.1"
+}

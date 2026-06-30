@@ -1,0 +1,13 @@
+{
+  "name": "double-suited",
+  "label": "double suited",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "double suited \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "friendly-game",
+  "label": "friendly game",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "friendly game \u2014 a concept in chess.",
+  "version": "2.1"
+}

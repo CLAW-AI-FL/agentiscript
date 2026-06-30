@@ -1,0 +1,13 @@
+{
+  "name": "bermudan-rig",
+  "label": "Bermudan rig",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Bermudan rig \u2014 a concept in nautical.",
+  "version": "2.1"
+}

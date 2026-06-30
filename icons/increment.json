@@ -1,0 +1,13 @@
+{
+  "name": "increment",
+  "label": "increment",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "increment \u2014 a concept in chess.",
+  "version": "2.1"
+}

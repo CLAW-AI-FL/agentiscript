@@ -1,0 +1,13 @@
+{
+  "name": "time-delay",
+  "label": "time delay",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "time delay \u2014 a concept in chess.",
+  "version": "2.1"
+}

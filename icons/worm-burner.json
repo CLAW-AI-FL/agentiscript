@@ -1,0 +1,13 @@
+{
+  "name": "worm-burner",
+  "label": "worm burner",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "worm burner \u2014 a concept in sports.",
+  "version": "2.1"
+}

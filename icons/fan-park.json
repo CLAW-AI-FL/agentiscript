@@ -1,0 +1,13 @@
+{
+  "name": "fan-park",
+  "label": "Fan park",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Fan park \u2014 a concept in sports.",
+  "version": "2.1"
+}

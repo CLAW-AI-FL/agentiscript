@@ -1,0 +1,13 @@
+{
+  "name": "boots",
+  "label": "Boots",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Boots \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "anthology",
+  "label": "anthology",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "anthology \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "smothered-mate",
+  "label": "smothered mate",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "smothered mate \u2014 a concept in chess.",
+  "version": "2.1"
+}

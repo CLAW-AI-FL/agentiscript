@@ -1,0 +1,13 @@
+{
+  "name": "digital-audio",
+  "label": "digital audio",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "digital audio \u2014 a concept in cinema.",
+  "version": "2.1"
+}

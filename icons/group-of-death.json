@@ -1,0 +1,13 @@
+{
+  "name": "group-of-death",
+  "label": "Group of death",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Group of death \u2014 a concept in sports.",
+  "version": "2.1"
+}

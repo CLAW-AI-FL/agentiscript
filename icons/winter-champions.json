@@ -1,0 +1,13 @@
+{
+  "name": "winter-champions",
+  "label": "Winter champions",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Winter champions \u2014 a concept in sports.",
+  "version": "2.1"
+}

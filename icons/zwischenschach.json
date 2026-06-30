@@ -1,0 +1,13 @@
+{
+  "name": "zwischenschach",
+  "label": "zwischenschach",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "zwischenschach \u2014 a concept in chess.",
+  "version": "2.1"
+}

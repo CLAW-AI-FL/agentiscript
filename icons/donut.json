@@ -1,0 +1,13 @@
+{
+  "name": "donut",
+  "label": "donut",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "donut \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pull",
+  "label": "Pull",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pull \u2014 a concept in sports.",
+  "version": "2.1"
+}

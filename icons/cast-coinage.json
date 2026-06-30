@@ -1,0 +1,13 @@
+{
+  "name": "cast-coinage",
+  "label": "Cast coinage",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "Cast coinage \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

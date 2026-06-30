@@ -1,0 +1,13 @@
+{
+  "name": "three-seconds-rule",
+  "label": "three seconds rule",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "three seconds rule \u2014 a concept in sports.",
+  "version": "2.1"
+}

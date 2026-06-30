@@ -1,0 +1,13 @@
+{
+  "name": "seal-dribble",
+  "label": "Seal dribble",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Seal dribble \u2014 a concept in sports.",
+  "version": "2.1"
+}

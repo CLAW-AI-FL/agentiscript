@@ -1,0 +1,13 @@
+{
+  "name": "prop-proposition-player",
+  "label": "prop, proposition player",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "prop, proposition player \u2014 a concept in sports.",
+  "version": "2.1"
+}

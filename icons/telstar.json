@@ -1,0 +1,13 @@
+{
+  "name": "telstar",
+  "label": "Telstar",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Telstar \u2014 a concept in sports.",
+  "version": "2.1"
+}

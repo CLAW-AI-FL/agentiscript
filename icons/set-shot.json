@@ -1,0 +1,13 @@
+{
+  "name": "set-shot",
+  "label": "set shot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "set shot \u2014 a concept in sports.",
+  "version": "2.1"
+}

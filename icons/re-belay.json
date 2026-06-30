@@ -1,0 +1,13 @@
+{
+  "name": "re-belay",
+  "label": "re-belay",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "re-belay \u2014 a concept in sports.",
+  "version": "2.1"
+}

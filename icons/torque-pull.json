@@ -1,0 +1,13 @@
+{
+  "name": "torque-pull",
+  "label": "torque pull",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "torque pull \u2014 a concept in sports.",
+  "version": "2.1"
+}

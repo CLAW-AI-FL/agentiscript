@@ -1,0 +1,13 @@
+{
+  "name": "medal-play",
+  "label": "Medal play",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Medal play \u2014 a concept in sports.",
+  "version": "2.1"
+}

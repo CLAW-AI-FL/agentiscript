@@ -1,0 +1,13 @@
+{
+  "name": "first-touch",
+  "label": "First touch",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "First touch \u2014 a concept in sports.",
+  "version": "2.1"
+}

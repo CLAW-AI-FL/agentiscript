@@ -1,0 +1,13 @@
+{
+  "name": "thematic",
+  "label": "thematic",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "thematic \u2014 a concept in chess.",
+  "version": "2.1"
+}

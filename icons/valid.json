@@ -1,0 +1,13 @@
+{
+  "name": "valid",
+  "label": "Valid",
+  "category": "law",
+  "tags": [
+    "law",
+    "legal",
+    "justice"
+  ],
+  "source": "law",
+  "description": "Valid \u2014 a concept in law.",
+  "version": "2.1"
+}

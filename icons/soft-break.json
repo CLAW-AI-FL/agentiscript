@@ -1,0 +1,13 @@
+{
+  "name": "soft-break",
+  "label": "soft break",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "soft break \u2014 a concept in sports.",
+  "version": "2.1"
+}

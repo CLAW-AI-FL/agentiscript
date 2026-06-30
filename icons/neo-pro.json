@@ -1,0 +1,13 @@
+{
+  "name": "neo-pro",
+  "label": "Neo-pro",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Neo-pro \u2014 a concept in sports.",
+  "version": "2.1"
+}

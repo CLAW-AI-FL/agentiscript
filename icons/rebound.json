@@ -1,0 +1,13 @@
+{
+  "name": "rebound",
+  "label": "Rebound",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Rebound \u2014 a concept in sports.",
+  "version": "2.1"
+}

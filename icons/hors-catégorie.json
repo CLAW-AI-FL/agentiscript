@@ -1,0 +1,13 @@
+{
+  "name": "hors-cat\u00e9gorie",
+  "label": "Hors cat\u00e9gorie",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hors cat\u00e9gorie \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "digital-compositing",
+  "label": "digital compositing",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "digital compositing \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pelagic",
+  "label": "pelagic",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "pelagic \u2014 a concept in nautical.",
+  "version": "2.1"
+}

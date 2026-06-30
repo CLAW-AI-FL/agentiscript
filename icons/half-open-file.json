@@ -1,0 +1,13 @@
+{
+  "name": "half-open-file",
+  "label": "half-open file",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "half-open file \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "family-pot",
+  "label": "family pot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "family pot \u2014 a concept in sports.",
+  "version": "2.1"
+}

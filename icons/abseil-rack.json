@@ -1,0 +1,13 @@
+{
+  "name": "abseil-rack",
+  "label": "abseil rack",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "abseil rack \u2014 a concept in sports.",
+  "version": "2.1"
+}

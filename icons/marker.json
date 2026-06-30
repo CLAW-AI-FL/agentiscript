@@ -1,0 +1,13 @@
+{
+  "name": "marker",
+  "label": "marker",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "marker \u2014 a concept in sports.",
+  "version": "2.1"
+}

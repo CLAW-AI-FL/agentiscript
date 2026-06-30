@@ -1,0 +1,13 @@
+{
+  "name": "manager",
+  "label": "Manager",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Manager \u2014 a concept in sports.",
+  "version": "2.1"
+}

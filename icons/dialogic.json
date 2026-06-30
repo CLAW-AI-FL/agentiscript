@@ -1,0 +1,13 @@
+{
+  "name": "dialogic",
+  "label": "dialogic",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "dialogic \u2014 a concept in literature.",
+  "version": "2.1"
+}

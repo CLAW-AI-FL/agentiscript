@@ -1,0 +1,13 @@
+{
+  "name": "arabian-mate",
+  "label": "Arabian mate",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Arabian mate \u2014 a concept in chess.",
+  "version": "2.1"
+}

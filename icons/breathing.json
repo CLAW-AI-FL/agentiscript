@@ -1,0 +1,13 @@
+{
+  "name": "breathing",
+  "label": "Breathing",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Breathing \u2014 a concept in cinema.",
+  "version": "2.1"
+}

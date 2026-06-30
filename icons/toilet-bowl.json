@@ -1,0 +1,13 @@
+{
+  "name": "toilet-bowl",
+  "label": "toilet bowl",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "toilet bowl \u2014 a concept in sports.",
+  "version": "2.1"
+}

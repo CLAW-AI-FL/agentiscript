@@ -1,0 +1,13 @@
+{
+  "name": "seventy-five-move-rule",
+  "label": "seventy-five-move rule",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "seventy-five-move rule \u2014 a concept in chess.",
+  "version": "2.1"
+}

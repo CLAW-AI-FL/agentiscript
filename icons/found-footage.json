@@ -1,0 +1,13 @@
+{
+  "name": "found-footage",
+  "label": "found footage",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "found footage \u2014 a concept in cinema.",
+  "version": "2.1"
+}

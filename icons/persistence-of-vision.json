@@ -1,0 +1,13 @@
+{
+  "name": "persistence-of-vision",
+  "label": "persistence of vision",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "persistence of vision \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "starting-hand",
+  "label": "starting hand",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "starting hand \u2014 a concept in sports.",
+  "version": "2.1"
+}

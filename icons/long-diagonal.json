@@ -1,0 +1,13 @@
+{
+  "name": "long-diagonal",
+  "label": "long diagonal",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "long diagonal \u2014 a concept in chess.",
+  "version": "2.1"
+}

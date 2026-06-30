@@ -1,0 +1,13 @@
+{
+  "name": "computer-move",
+  "label": "computer move",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "computer move \u2014 a concept in chess.",
+  "version": "2.1"
+}

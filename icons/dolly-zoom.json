@@ -1,0 +1,13 @@
+{
+  "name": "dolly-zoom",
+  "label": "dolly zoom",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "dolly zoom \u2014 a concept in cinema.",
+  "version": "2.1"
+}
