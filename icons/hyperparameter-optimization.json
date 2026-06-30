@@ -1,0 +1,11 @@
+{
+  "name": "hyperparameter-optimization",
+  "label": "Hyperparameter Optimization",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "hyperparameter",
+    "optimization"
+  ],
+  "version": "1.3"
+}

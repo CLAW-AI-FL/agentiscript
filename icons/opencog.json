@@ -1,0 +1,10 @@
+{
+  "name": "opencog",
+  "label": "Opencog",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "opencog"
+  ],
+  "version": "1.3"
+}

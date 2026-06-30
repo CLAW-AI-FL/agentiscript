@@ -1,0 +1,10 @@
+{
+  "name": "satisfiability",
+  "label": "Satisfiability",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "satisfiability"
+  ],
+  "version": "1.3"
+}

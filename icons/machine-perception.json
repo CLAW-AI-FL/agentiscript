@@ -1,0 +1,11 @@
+{
+  "name": "machine-perception",
+  "label": "Machine Perception",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "machine",
+    "perception"
+  ],
+  "version": "1.3"
+}

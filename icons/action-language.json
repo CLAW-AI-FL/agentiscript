@@ -1,0 +1,11 @@
+{
+  "name": "action-language",
+  "label": "Action Language",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "action",
+    "language"
+  ],
+  "version": "1.3"
+}

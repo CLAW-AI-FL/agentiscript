@@ -1,0 +1,11 @@
+{
+  "name": "cluster-analysis",
+  "label": "Cluster Analysis",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "cluster",
+    "analysis"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "address",
+  "label": "Address",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "address"
+  ],
+  "version": "1.3"
+}

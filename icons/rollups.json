@@ -1,0 +1,10 @@
+{
+  "name": "rollups",
+  "label": "Rollups",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "rollups"
+  ],
+  "version": "1.3"
+}

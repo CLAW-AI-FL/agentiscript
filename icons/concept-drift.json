@@ -1,0 +1,11 @@
+{
+  "name": "concept-drift",
+  "label": "Concept Drift",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "concept",
+    "drift"
+  ],
+  "version": "1.3"
+}

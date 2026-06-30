@@ -1,0 +1,11 @@
+{
+  "name": "network-motif",
+  "label": "Network Motif",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "network",
+    "motif"
+  ],
+  "version": "1.3"
+}

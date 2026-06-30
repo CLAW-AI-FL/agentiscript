@@ -1,0 +1,11 @@
+{
+  "name": "reasoning-model",
+  "label": "Reasoning Model",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "reasoning",
+    "model"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "consensus",
+  "label": "Consensus",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "consensus"
+  ],
+  "version": "1.3"
+}

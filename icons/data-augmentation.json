@@ -1,0 +1,11 @@
+{
+  "name": "data-augmentation",
+  "label": "Data Augmentation",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "data",
+    "augmentation"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stateactionrewardstateaction-sarsa",
+  "label": "Stateactionrewardstateaction Sarsa",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "stateactionrewardstateaction",
+    "sarsa"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vyper",
+  "label": "Vyper",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "vyper"
+  ],
+  "version": "1.3"
+}

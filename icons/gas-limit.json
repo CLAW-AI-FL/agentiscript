@@ -1,0 +1,11 @@
+{
+  "name": "gas-limit",
+  "label": "Gas Limit",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "gas",
+    "limit"
+  ],
+  "version": "1.3"
+}

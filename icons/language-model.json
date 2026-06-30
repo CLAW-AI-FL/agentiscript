@@ -1,0 +1,11 @@
+{
+  "name": "language-model",
+  "label": "Language Model",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "language",
+    "model"
+  ],
+  "version": "1.3"
+}

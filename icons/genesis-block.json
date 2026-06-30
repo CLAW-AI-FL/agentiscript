@@ -1,0 +1,11 @@
+{
+  "name": "genesis-block",
+  "label": "Genesis Block",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "genesis",
+    "block"
+  ],
+  "version": "1.3"
+}

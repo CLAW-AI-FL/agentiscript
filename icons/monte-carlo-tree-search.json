@@ -1,0 +1,13 @@
+{
+  "name": "monte-carlo-tree-search",
+  "label": "Monte Carlo Tree Search",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "monte",
+    "carlo",
+    "tree",
+    "search"
+  ],
+  "version": "1.3"
+}

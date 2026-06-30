@@ -1,0 +1,10 @@
+{
+  "name": "shard",
+  "label": "Shard",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "shard"
+  ],
+  "version": "1.3"
+}

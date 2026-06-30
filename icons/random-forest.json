@@ -1,0 +1,11 @@
+{
+  "name": "random-forest",
+  "label": "Random Forest",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "random",
+    "forest"
+  ],
+  "version": "1.3"
+}

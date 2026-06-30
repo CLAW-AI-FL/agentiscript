@@ -1,0 +1,11 @@
+{
+  "name": "named-graph",
+  "label": "Named Graph",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "named",
+    "graph"
+  ],
+  "version": "1.3"
+}

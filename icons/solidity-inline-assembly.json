@@ -1,0 +1,12 @@
+{
+  "name": "solidity-inline-assembly",
+  "label": "Solidity Inline Assembly",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "solidity",
+    "inline",
+    "assembly"
+  ],
+  "version": "1.3"
+}

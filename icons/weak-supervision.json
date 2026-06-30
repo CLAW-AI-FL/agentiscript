@@ -1,0 +1,11 @@
+{
+  "name": "weak-supervision",
+  "label": "Weak Supervision",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "weak",
+    "supervision"
+  ],
+  "version": "1.3"
+}

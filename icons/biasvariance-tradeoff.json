@@ -1,0 +1,11 @@
+{
+  "name": "biasvariance-tradeoff",
+  "label": "Biasvariance Tradeoff",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "biasvariance",
+    "tradeoff"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tensor-network-theory",
+  "label": "Tensor Network Theory",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "tensor",
+    "network",
+    "theory"
+  ],
+  "version": "1.3"
+}

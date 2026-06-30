@@ -1,0 +1,10 @@
+{
+  "name": "validator",
+  "label": "Validator",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "validator"
+  ],
+  "version": "1.3"
+}

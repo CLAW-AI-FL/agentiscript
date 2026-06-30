@@ -1,0 +1,11 @@
+{
+  "name": "merkle-root",
+  "label": "Merkle Root",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "merkle",
+    "root"
+  ],
+  "version": "1.3"
+}

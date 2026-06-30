@@ -1,0 +1,11 @@
+{
+  "name": "action-selection",
+  "label": "Action Selection",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "action",
+    "selection"
+  ],
+  "version": "1.3"
+}

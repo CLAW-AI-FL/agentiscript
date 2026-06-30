@@ -1,0 +1,10 @@
+{
+  "name": "erc-20",
+  "label": "Erc 20",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "erc"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dapp",
+  "label": "Dapp",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "dapp"
+  ],
+  "version": "1.3"
+}

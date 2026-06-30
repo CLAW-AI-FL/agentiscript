@@ -1,0 +1,10 @@
+{
+  "name": "ide",
+  "label": "Ide",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "ide"
+  ],
+  "version": "1.3"
+}

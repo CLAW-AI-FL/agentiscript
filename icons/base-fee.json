@@ -1,0 +1,11 @@
+{
+  "name": "base-fee",
+  "label": "Base Fee",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "base",
+    "fee"
+  ],
+  "version": "1.3"
+}

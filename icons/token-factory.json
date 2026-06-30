@@ -1,0 +1,11 @@
+{
+  "name": "token-factory",
+  "label": "Token Factory",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "token",
+    "factory"
+  ],
+  "version": "1.3"
+}

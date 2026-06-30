@@ -1,0 +1,11 @@
+{
+  "name": "autonomous-car",
+  "label": "Autonomous Car",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "autonomous",
+    "car"
+  ],
+  "version": "1.3"
+}

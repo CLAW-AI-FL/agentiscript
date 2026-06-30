@@ -1,0 +1,11 @@
+{
+  "name": "commonsense-knowledge",
+  "label": "Commonsense Knowledge",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "commonsense",
+    "knowledge"
+  ],
+  "version": "1.3"
+}

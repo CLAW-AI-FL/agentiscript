@@ -1,0 +1,12 @@
+{
+  "name": "constraint-logic-programming",
+  "label": "Constraint Logic Programming",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "constraint",
+    "logic",
+    "programming"
+  ],
+  "version": "1.3"
+}

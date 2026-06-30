@@ -1,0 +1,10 @@
+{
+  "name": "tensorflow",
+  "label": "Tensorflow",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "tensorflow"
+  ],
+  "version": "1.3"
+}

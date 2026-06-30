@@ -1,0 +1,11 @@
+{
+  "name": "supervised-learning",
+  "label": "Supervised Learning",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "supervised",
+    "learning"
+  ],
+  "version": "1.3"
+}

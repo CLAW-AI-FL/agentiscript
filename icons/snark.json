@@ -1,0 +1,10 @@
+{
+  "name": "snark",
+  "label": "Snark",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "snark"
+  ],
+  "version": "1.3"
+}

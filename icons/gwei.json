@@ -1,0 +1,10 @@
+{
+  "name": "gwei",
+  "label": "Gwei",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "gwei"
+  ],
+  "version": "1.3"
+}

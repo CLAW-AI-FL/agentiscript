@@ -1,0 +1,10 @@
+{
+  "name": "sha",
+  "label": "Sha",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "sha"
+  ],
+  "version": "1.3"
+}

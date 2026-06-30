@@ -1,0 +1,11 @@
+{
+  "name": "block-status",
+  "label": "Block Status",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "block",
+    "status"
+  ],
+  "version": "1.3"
+}

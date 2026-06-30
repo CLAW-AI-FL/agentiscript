@@ -1,0 +1,13 @@
+{
+  "name": "vision-processing-unit-vpu",
+  "label": "Vision Processing Unit Vpu",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "vision",
+    "processing",
+    "unit",
+    "vpu"
+  ],
+  "version": "1.3"
+}

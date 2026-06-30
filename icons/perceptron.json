@@ -1,0 +1,10 @@
+{
+  "name": "perceptron",
+  "label": "Perceptron",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "perceptron"
+  ],
+  "version": "1.3"
+}

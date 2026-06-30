@@ -1,0 +1,11 @@
+{
+  "name": "internal-transaction",
+  "label": "Internal Transaction",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "internal",
+    "transaction"
+  ],
+  "version": "1.3"
+}

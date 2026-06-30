@@ -1,0 +1,13 @@
+{
+  "name": "resource-description-framework-rdf",
+  "label": "Resource Description Framework Rdf",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "resource",
+    "description",
+    "framework",
+    "rdf"
+  ],
+  "version": "1.3"
+}

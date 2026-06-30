@@ -1,0 +1,10 @@
+{
+  "name": "signing",
+  "label": "Signing",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "signing"
+  ],
+  "version": "1.3"
+}

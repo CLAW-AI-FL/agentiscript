@@ -1,0 +1,11 @@
+{
+  "name": "dialogue-system",
+  "label": "Dialogue System",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "dialogue",
+    "system"
+  ],
+  "version": "1.3"
+}

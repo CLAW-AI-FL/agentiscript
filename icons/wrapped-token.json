@@ -1,0 +1,11 @@
+{
+  "name": "wrapped-token",
+  "label": "Wrapped Token",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "wrapped",
+    "token"
+  ],
+  "version": "1.3"
+}

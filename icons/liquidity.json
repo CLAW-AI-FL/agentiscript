@@ -1,0 +1,10 @@
+{
+  "name": "liquidity",
+  "label": "Liquidity",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "liquidity"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fork-choice-algorithm",
+  "label": "Fork Choice Algorithm",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "fork",
+    "choice",
+    "algorithm"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "stablecoin",
+  "label": "Stablecoin",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "stablecoin"
+  ],
+  "version": "1.3"
+}

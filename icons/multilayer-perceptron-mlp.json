@@ -1,0 +1,12 @@
+{
+  "name": "multilayer-perceptron-mlp",
+  "label": "Multilayer Perceptron Mlp",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "multilayer",
+    "perceptron",
+    "mlp"
+  ],
+  "version": "1.3"
+}

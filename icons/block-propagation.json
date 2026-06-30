@@ -1,0 +1,11 @@
+{
+  "name": "block-propagation",
+  "label": "Block Propagation",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "block",
+    "propagation"
+  ],
+  "version": "1.3"
+}

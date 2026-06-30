@@ -1,0 +1,12 @@
+{
+  "name": "brute-force-search",
+  "label": "Brute Force Search",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "brute",
+    "force",
+    "search"
+  ],
+  "version": "1.3"
+}

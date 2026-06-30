@@ -1,0 +1,11 @@
+{
+  "name": "re-entrancy-attack",
+  "label": "Re Entrancy Attack",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "entrancy",
+    "attack"
+  ],
+  "version": "1.3"
+}

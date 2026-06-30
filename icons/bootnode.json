@@ -1,0 +1,10 @@
+{
+  "name": "bootnode",
+  "label": "Bootnode",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "bootnode"
+  ],
+  "version": "1.3"
+}

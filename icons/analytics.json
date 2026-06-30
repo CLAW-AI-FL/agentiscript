@@ -1,0 +1,10 @@
+{
+  "name": "analytics",
+  "label": "Analytics",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "analytics"
+  ],
+  "version": "1.3"
+}

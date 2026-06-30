@@ -1,0 +1,11 @@
+{
+  "name": "production-system",
+  "label": "Production System",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "production",
+    "system"
+  ],
+  "version": "1.3"
+}

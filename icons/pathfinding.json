@@ -1,0 +1,10 @@
+{
+  "name": "pathfinding",
+  "label": "Pathfinding",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "pathfinding"
+  ],
+  "version": "1.3"
+}

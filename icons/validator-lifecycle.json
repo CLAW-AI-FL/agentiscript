@@ -1,0 +1,11 @@
+{
+  "name": "validator-lifecycle",
+  "label": "Validator Lifecycle",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "validator",
+    "lifecycle"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "automata-theory",
+  "label": "Automata Theory",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "automata",
+    "theory"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "model-checking",
+  "label": "Model Checking",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "model",
+    "checking"
+  ],
+  "version": "1.3"
+}

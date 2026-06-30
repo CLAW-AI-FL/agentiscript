@@ -1,0 +1,11 @@
+{
+  "name": "rete-algorithm",
+  "label": "Rete Algorithm",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "rete",
+    "algorithm"
+  ],
+  "version": "1.3"
+}

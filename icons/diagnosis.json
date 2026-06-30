@@ -1,0 +1,10 @@
+{
+  "name": "diagnosis",
+  "label": "Diagnosis",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "diagnosis"
+  ],
+  "version": "1.3"
+}

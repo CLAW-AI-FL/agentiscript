@@ -1,0 +1,10 @@
+{
+  "name": "np-completeness",
+  "label": "Np Completeness",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "completeness"
+  ],
+  "version": "1.3"
+}

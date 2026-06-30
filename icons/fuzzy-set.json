@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-set",
+  "label": "Fuzzy Set",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "fuzzy",
+    "set"
+  ],
+  "version": "1.3"
+}

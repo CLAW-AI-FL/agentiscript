@@ -1,0 +1,13 @@
+{
+  "name": "max-fee-per-gas",
+  "label": "Max Fee Per Gas",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "max",
+    "fee",
+    "per",
+    "gas"
+  ],
+  "version": "1.3"
+}

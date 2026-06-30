@@ -1,0 +1,11 @@
+{
+  "name": "word-embedding",
+  "label": "Word Embedding",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "word",
+    "embedding"
+  ],
+  "version": "1.3"
+}

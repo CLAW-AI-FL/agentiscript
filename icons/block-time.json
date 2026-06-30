@@ -1,0 +1,11 @@
+{
+  "name": "block-time",
+  "label": "Block Time",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "block",
+    "time"
+  ],
+  "version": "1.3"
+}

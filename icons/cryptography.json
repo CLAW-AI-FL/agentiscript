@@ -1,0 +1,10 @@
+{
+  "name": "cryptography",
+  "label": "Cryptography",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "cryptography"
+  ],
+  "version": "1.3"
+}

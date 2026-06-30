@@ -1,0 +1,10 @@
+{
+  "name": "xgboost",
+  "label": "Xgboost",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "xgboost"
+  ],
+  "version": "1.3"
+}

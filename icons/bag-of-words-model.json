@@ -1,0 +1,12 @@
+{
+  "name": "bag-of-words-model",
+  "label": "Bag Of Words Model",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "bag",
+    "words",
+    "model"
+  ],
+  "version": "1.3"
+}

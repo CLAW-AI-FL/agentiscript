@@ -1,0 +1,11 @@
+{
+  "name": "gradient-boosting",
+  "label": "Gradient Boosting",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "gradient",
+    "boosting"
+  ],
+  "version": "1.3"
+}

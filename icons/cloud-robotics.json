@@ -1,0 +1,11 @@
+{
+  "name": "cloud-robotics",
+  "label": "Cloud Robotics",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "cloud",
+    "robotics"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "blackboard-system",
+  "label": "Blackboard System",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "blackboard",
+    "system"
+  ],
+  "version": "1.3"
+}

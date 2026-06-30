@@ -1,0 +1,13 @@
+{
+  "name": "proximal-policy-optimization-ppo",
+  "label": "Proximal Policy Optimization Ppo",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "proximal",
+    "policy",
+    "optimization",
+    "ppo"
+  ],
+  "version": "1.3"
+}

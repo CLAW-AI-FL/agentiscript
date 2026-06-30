@@ -1,0 +1,11 @@
+{
+  "name": "light-client",
+  "label": "Light Client",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "light",
+    "client"
+  ],
+  "version": "1.3"
+}

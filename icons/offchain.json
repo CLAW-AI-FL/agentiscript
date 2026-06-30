@@ -1,0 +1,10 @@
+{
+  "name": "offchain",
+  "label": "Offchain",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "offchain"
+  ],
+  "version": "1.3"
+}

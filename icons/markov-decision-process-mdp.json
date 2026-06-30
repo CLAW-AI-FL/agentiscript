@@ -1,0 +1,13 @@
+{
+  "name": "markov-decision-process-mdp",
+  "label": "Markov Decision Process Mdp",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "markov",
+    "decision",
+    "process",
+    "mdp"
+  ],
+  "version": "1.3"
+}

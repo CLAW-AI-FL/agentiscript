@@ -1,0 +1,11 @@
+{
+  "name": "dijkstras-algorithm",
+  "label": "Dijkstras Algorithm",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "dijkstras",
+    "algorithm"
+  ],
+  "version": "1.3"
+}

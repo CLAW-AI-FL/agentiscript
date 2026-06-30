@@ -1,0 +1,10 @@
+{
+  "name": "receipt",
+  "label": "Receipt",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "receipt"
+  ],
+  "version": "1.3"
+}

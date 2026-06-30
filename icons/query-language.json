@@ -1,0 +1,11 @@
+{
+  "name": "query-language",
+  "label": "Query Language",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "query",
+    "language"
+  ],
+  "version": "1.3"
+}

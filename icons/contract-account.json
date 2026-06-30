@@ -1,0 +1,11 @@
+{
+  "name": "contract-account",
+  "label": "Contract Account",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "contract",
+    "account"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "committee-machine",
+  "label": "Committee Machine",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "committee",
+    "machine"
+  ],
+  "version": "1.3"
+}

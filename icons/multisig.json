@@ -1,0 +1,10 @@
+{
+  "name": "multisig",
+  "label": "Multisig",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "multisig"
+  ],
+  "version": "1.3"
+}

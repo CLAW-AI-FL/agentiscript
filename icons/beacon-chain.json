@@ -1,0 +1,11 @@
+{
+  "name": "beacon-chain",
+  "label": "Beacon Chain",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "beacon",
+    "chain"
+  ],
+  "version": "1.3"
+}

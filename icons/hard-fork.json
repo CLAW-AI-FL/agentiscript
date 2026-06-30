@@ -1,0 +1,11 @@
+{
+  "name": "hard-fork",
+  "label": "Hard Fork",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "hard",
+    "fork"
+  ],
+  "version": "1.3"
+}

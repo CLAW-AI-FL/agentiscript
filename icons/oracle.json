@@ -1,0 +1,10 @@
+{
+  "name": "oracle",
+  "label": "Oracle",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "oracle"
+  ],
+  "version": "1.3"
+}

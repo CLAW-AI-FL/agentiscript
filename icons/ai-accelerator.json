@@ -1,0 +1,10 @@
+{
+  "name": "ai-accelerator",
+  "label": "Ai Accelerator",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "accelerator"
+  ],
+  "version": "1.3"
+}

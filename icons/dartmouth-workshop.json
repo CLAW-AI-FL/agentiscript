@@ -1,0 +1,11 @@
+{
+  "name": "dartmouth-workshop",
+  "label": "Dartmouth Workshop",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "dartmouth",
+    "workshop"
+  ],
+  "version": "1.3"
+}

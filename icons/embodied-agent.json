@@ -1,0 +1,11 @@
+{
+  "name": "embodied-agent",
+  "label": "Embodied Agent",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "embodied",
+    "agent"
+  ],
+  "version": "1.3"
+}

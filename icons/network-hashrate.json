@@ -1,0 +1,11 @@
+{
+  "name": "network-hashrate",
+  "label": "Network Hashrate",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "network",
+    "hashrate"
+  ],
+  "version": "1.3"
+}

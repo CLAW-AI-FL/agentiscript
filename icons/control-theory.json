@@ -1,0 +1,11 @@
+{
+  "name": "control-theory",
+  "label": "Control Theory",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "control",
+    "theory"
+  ],
+  "version": "1.3"
+}

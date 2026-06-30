@@ -1,0 +1,11 @@
+{
+  "name": "constraint-programming",
+  "label": "Constraint Programming",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "constraint",
+    "programming"
+  ],
+  "version": "1.3"
+}

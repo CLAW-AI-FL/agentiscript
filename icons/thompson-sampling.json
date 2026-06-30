@@ -1,0 +1,11 @@
+{
+  "name": "thompson-sampling",
+  "label": "Thompson Sampling",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "thompson",
+    "sampling"
+  ],
+  "version": "1.3"
+}

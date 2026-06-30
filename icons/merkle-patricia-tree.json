@@ -1,0 +1,12 @@
+{
+  "name": "merkle-patricia-tree",
+  "label": "Merkle Patricia Tree",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "merkle",
+    "patricia",
+    "tree"
+  ],
+  "version": "1.3"
+}

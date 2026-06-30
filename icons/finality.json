@@ -1,0 +1,10 @@
+{
+  "name": "finality",
+  "label": "Finality",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "finality"
+  ],
+  "version": "1.3"
+}

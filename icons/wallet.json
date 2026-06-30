@@ -1,0 +1,10 @@
+{
+  "name": "wallet",
+  "label": "Wallet",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "wallet"
+  ],
+  "version": "1.3"
+}

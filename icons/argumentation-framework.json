@@ -1,0 +1,11 @@
+{
+  "name": "argumentation-framework",
+  "label": "Argumentation Framework",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "argumentation",
+    "framework"
+  ],
+  "version": "1.3"
+}

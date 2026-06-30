@@ -1,0 +1,10 @@
+{
+  "name": "eth2",
+  "label": "Eth2",
+  "category": "blockchain",
+  "tags": [
+    "blockchain",
+    "eth2"
+  ],
+  "version": "1.3"
+}
