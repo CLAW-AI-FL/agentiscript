@@ -1,0 +1,11 @@
+{
+  "name": "rollup",
+  "label": "Rollup",
+  "category": "blockchain",
+  "tags": [
+    "rollup",
+    "L2",
+    "scaling"
+  ],
+  "version": "1.3"
+}

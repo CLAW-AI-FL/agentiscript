@@ -1,0 +1,11 @@
+{
+  "name": "fee-switch",
+  "label": "Fee Switch",
+  "category": "finance",
+  "tags": [
+    "fee switch",
+    "governance",
+    "revenue"
+  ],
+  "version": "1.3"
+}

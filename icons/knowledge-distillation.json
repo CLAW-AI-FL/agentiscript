@@ -1,0 +1,11 @@
+{
+  "name": "knowledge-distillation",
+  "label": "Knowledge Distillation",
+  "category": "ai",
+  "tags": [
+    "distillation",
+    "compression",
+    "student-teacher"
+  ],
+  "version": "1.3"
+}

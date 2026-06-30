@@ -1,0 +1,11 @@
+{
+  "name": "agent-context-limit",
+  "label": "Agent Context Limit",
+  "category": "agentic",
+  "tags": [
+    "context limit",
+    "window",
+    "tokens"
+  ],
+  "version": "1.3"
+}

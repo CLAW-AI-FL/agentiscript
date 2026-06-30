@@ -1,0 +1,11 @@
+{
+  "name": "surface-code",
+  "label": "Surface Code",
+  "category": "quantum",
+  "tags": [
+    "surface code",
+    "QEC",
+    "topological"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-policy",
+  "label": "Agent Policy",
+  "category": "agentic",
+  "tags": [
+    "policy",
+    "rules",
+    "decision"
+  ],
+  "version": "1.3"
+}

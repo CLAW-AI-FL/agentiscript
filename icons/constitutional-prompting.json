@@ -1,0 +1,11 @@
+{
+  "name": "constitutional-prompting",
+  "label": "Constitutional Prompting",
+  "category": "ai",
+  "tags": [
+    "constitutional AI",
+    "RLHF",
+    "alignment"
+  ],
+  "version": "1.3"
+}

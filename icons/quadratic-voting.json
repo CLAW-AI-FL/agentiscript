@@ -1,0 +1,11 @@
+{
+  "name": "quadratic-voting",
+  "label": "Quadratic Voting",
+  "category": "blockchain",
+  "tags": [
+    "quadratic voting",
+    "governance",
+    "fairness"
+  ],
+  "version": "1.3"
+}

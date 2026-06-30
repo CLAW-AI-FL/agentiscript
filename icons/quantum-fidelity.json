@@ -1,0 +1,11 @@
+{
+  "name": "quantum-fidelity",
+  "label": "Quantum Fidelity",
+  "category": "quantum",
+  "tags": [
+    "fidelity",
+    "overlap",
+    "quantum state"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neural-odes",
+  "label": "Neural ODEs",
+  "category": "ai",
+  "tags": [
+    "Neural ODEs",
+    "continuous",
+    "dynamics"
+  ],
+  "version": "1.3"
+}

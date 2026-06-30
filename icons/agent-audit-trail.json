@@ -1,0 +1,11 @@
+{
+  "name": "agent-audit-trail",
+  "label": "Agent Audit Trail",
+  "category": "agentic",
+  "tags": [
+    "audit",
+    "log",
+    "compliance"
+  ],
+  "version": "1.3"
+}

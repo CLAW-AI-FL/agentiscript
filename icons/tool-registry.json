@@ -1,0 +1,11 @@
+{
+  "name": "tool-registry",
+  "label": "Tool Registry",
+  "category": "agentic",
+  "tags": [
+    "tools",
+    "registry",
+    "catalog"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quantum-noise",
+  "label": "Quantum Noise",
+  "category": "quantum",
+  "tags": [
+    "noise",
+    "decoherence",
+    "NISQ"
+  ],
+  "version": "1.3"
+}

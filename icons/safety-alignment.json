@@ -1,0 +1,11 @@
+{
+  "name": "safety-alignment",
+  "label": "Safety Alignment",
+  "category": "ai",
+  "tags": [
+    "safety",
+    "alignment",
+    "RLHF"
+  ],
+  "version": "1.3"
+}

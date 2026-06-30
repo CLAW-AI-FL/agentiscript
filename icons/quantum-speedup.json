@@ -1,0 +1,11 @@
+{
+  "name": "quantum-speedup",
+  "label": "Quantum Speedup",
+  "category": "quantum",
+  "tags": [
+    "speedup",
+    "exponential",
+    "quantum advantage"
+  ],
+  "version": "1.3"
+}

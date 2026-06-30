@@ -1,0 +1,11 @@
+{
+  "name": "superconducting-qubit",
+  "label": "Superconducting Qubit",
+  "category": "quantum",
+  "tags": [
+    "superconducting",
+    "qubit",
+    "Josephson junction"
+  ],
+  "version": "1.3"
+}

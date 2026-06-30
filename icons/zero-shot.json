@@ -1,0 +1,11 @@
+{
+  "name": "zero-shot",
+  "label": "Zero-Shot",
+  "category": "ai",
+  "tags": [
+    "zero-shot",
+    "generalization",
+    "prompting"
+  ],
+  "version": "1.3"
+}

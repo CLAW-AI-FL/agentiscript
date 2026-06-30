@@ -1,0 +1,11 @@
+{
+  "name": "quantum-decoherence",
+  "label": "Quantum Decoherence",
+  "category": "quantum",
+  "tags": [
+    "decoherence",
+    "noise",
+    "quantum error"
+  ],
+  "version": "1.3"
+}

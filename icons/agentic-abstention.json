@@ -1,0 +1,11 @@
+{
+  "name": "agentic-abstention",
+  "label": "Agentic Abstention",
+  "category": "agentic",
+  "tags": [
+    "abstention",
+    "stop",
+    "agent halt"
+  ],
+  "version": "1.3"
+}

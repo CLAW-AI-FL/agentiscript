@@ -1,0 +1,11 @@
+{
+  "name": "dropout",
+  "label": "Dropout",
+  "category": "ai",
+  "tags": [
+    "dropout",
+    "regularization",
+    "training"
+  ],
+  "version": "1.3"
+}

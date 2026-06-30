@@ -1,0 +1,11 @@
+{
+  "name": "autoregressive-model",
+  "label": "Autoregressive Model",
+  "category": "ai",
+  "tags": [
+    "autoregressive",
+    "GPT",
+    "generation"
+  ],
+  "version": "1.3"
+}

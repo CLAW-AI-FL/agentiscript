@@ -1,0 +1,11 @@
+{
+  "name": "agent-streaming",
+  "label": "Agent Streaming",
+  "category": "agentic",
+  "tags": [
+    "streaming",
+    "real-time",
+    "SSE"
+  ],
+  "version": "1.3"
+}

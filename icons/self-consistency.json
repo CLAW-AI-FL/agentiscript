@@ -1,0 +1,11 @@
+{
+  "name": "self-consistency",
+  "label": "Self-Consistency",
+  "category": "ai",
+  "tags": [
+    "self-consistency",
+    "majority vote",
+    "prompting"
+  ],
+  "version": "1.3"
+}

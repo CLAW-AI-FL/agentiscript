@@ -1,0 +1,11 @@
+{
+  "name": "intent-based-transaction",
+  "label": "Intent-Based Transaction",
+  "category": "blockchain",
+  "tags": [
+    "intent",
+    "solver",
+    "UX"
+  ],
+  "version": "1.3"
+}

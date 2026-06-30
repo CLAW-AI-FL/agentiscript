@@ -1,0 +1,11 @@
+{
+  "name": "belief-state",
+  "label": "Belief State",
+  "category": "agentic",
+  "tags": [
+    "belief",
+    "probability",
+    "state estimation"
+  ],
+  "version": "1.3"
+}

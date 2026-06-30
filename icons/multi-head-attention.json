@@ -1,0 +1,11 @@
+{
+  "name": "multi-head-attention",
+  "label": "Multi-Head Attention",
+  "category": "ai",
+  "tags": [
+    "multi-head",
+    "transformer",
+    "attention"
+  ],
+  "version": "1.3"
+}

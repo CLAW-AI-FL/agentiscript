@@ -1,0 +1,11 @@
+{
+  "name": "agent-interrupt",
+  "label": "Agent Interrupt",
+  "category": "agentic",
+  "tags": [
+    "interrupt",
+    "pause",
+    "signal"
+  ],
+  "version": "1.3"
+}

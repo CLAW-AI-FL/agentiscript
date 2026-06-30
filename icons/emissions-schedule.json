@@ -1,0 +1,11 @@
+{
+  "name": "emissions-schedule",
+  "label": "Emissions Schedule",
+  "category": "finance",
+  "tags": [
+    "emissions",
+    "inflation",
+    "tokenomics"
+  ],
+  "version": "1.3"
+}

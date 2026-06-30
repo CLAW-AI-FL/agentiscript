@@ -1,0 +1,11 @@
+{
+  "name": "cross-venue-arbitrage",
+  "label": "Cross-Venue Arbitrage",
+  "category": "finance",
+  "tags": [
+    "arbitrage",
+    "cross-venue",
+    "trading"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "benchmark-eval",
+  "label": "Benchmark Eval",
+  "category": "ai",
+  "tags": [
+    "benchmark",
+    "evaluation",
+    "leaderboard"
+  ],
+  "version": "1.3"
+}

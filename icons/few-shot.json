@@ -1,0 +1,11 @@
+{
+  "name": "few-shot",
+  "label": "Few-Shot",
+  "category": "ai",
+  "tags": [
+    "few-shot",
+    "in-context learning",
+    "prompting"
+  ],
+  "version": "1.3"
+}

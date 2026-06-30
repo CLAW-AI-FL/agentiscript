@@ -1,0 +1,11 @@
+{
+  "name": "agent-retry",
+  "label": "Agent Retry",
+  "category": "agentic",
+  "tags": [
+    "retry",
+    "restart",
+    "recovery"
+  ],
+  "version": "1.3"
+}

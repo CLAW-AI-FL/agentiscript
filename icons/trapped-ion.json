@@ -1,0 +1,11 @@
+{
+  "name": "trapped-ion",
+  "label": "Trapped Ion",
+  "category": "quantum",
+  "tags": [
+    "trapped ion",
+    "qubit",
+    "quantum computer"
+  ],
+  "version": "1.3"
+}

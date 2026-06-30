@@ -1,0 +1,11 @@
+{
+  "name": "background-agent",
+  "label": "Background Agent",
+  "category": "agentic",
+  "tags": [
+    "background",
+    "daemon",
+    "async"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gradient-descent",
+  "label": "Gradient Descent",
+  "category": "ai",
+  "tags": [
+    "gradient descent",
+    "optimization",
+    "SGD"
+  ],
+  "version": "1.3"
+}

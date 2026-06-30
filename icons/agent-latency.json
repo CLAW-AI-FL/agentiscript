@@ -1,0 +1,11 @@
+{
+  "name": "agent-latency",
+  "label": "Agent Latency",
+  "category": "agentic",
+  "tags": [
+    "latency",
+    "response time",
+    "speed"
+  ],
+  "version": "1.3"
+}

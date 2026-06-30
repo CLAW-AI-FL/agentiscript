@@ -1,0 +1,11 @@
+{
+  "name": "agent-self-correction",
+  "label": "Agent Self-Correction",
+  "category": "agentic",
+  "tags": [
+    "self-correction",
+    "error fixing",
+    "adaptation"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chain-of-thought-prompting",
+  "label": "Chain of Thought Prompting",
+  "category": "ai",
+  "tags": [
+    "CoT",
+    "reasoning",
+    "prompting"
+  ],
+  "version": "1.3"
+}

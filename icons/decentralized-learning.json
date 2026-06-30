@@ -1,0 +1,11 @@
+{
+  "name": "decentralized-learning",
+  "label": "Decentralized Learning",
+  "category": "ai",
+  "tags": [
+    "federated learning",
+    "decentralized",
+    "privacy"
+  ],
+  "version": "1.3"
+}

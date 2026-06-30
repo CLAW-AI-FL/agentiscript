@@ -1,0 +1,11 @@
+{
+  "name": "sidechain",
+  "label": "Sidechain",
+  "category": "blockchain",
+  "tags": [
+    "sidechain",
+    "parallel chain",
+    "bridge"
+  ],
+  "version": "1.3"
+}

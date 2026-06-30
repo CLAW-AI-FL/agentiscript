@@ -1,0 +1,11 @@
+{
+  "name": "research-agents",
+  "label": "Research Agents",
+  "category": "agentic",
+  "tags": [
+    "research",
+    "autonomous",
+    "scientific agent"
+  ],
+  "version": "1.3"
+}

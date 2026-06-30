@@ -1,0 +1,11 @@
+{
+  "name": "graph-embeddings",
+  "label": "Graph Embeddings",
+  "category": "ai",
+  "tags": [
+    "graph",
+    "embeddings",
+    "GNN"
+  ],
+  "version": "1.3"
+}

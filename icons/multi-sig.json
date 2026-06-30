@@ -1,0 +1,11 @@
+{
+  "name": "multi-sig",
+  "label": "Multi-Sig",
+  "category": "blockchain",
+  "tags": [
+    "multisig",
+    "2-of-3",
+    "wallet"
+  ],
+  "version": "1.3"
+}

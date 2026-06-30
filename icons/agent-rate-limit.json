@@ -1,0 +1,11 @@
+{
+  "name": "agent-rate-limit",
+  "label": "Agent Rate Limit",
+  "category": "agentic",
+  "tags": [
+    "rate limit",
+    "throttle",
+    "quota"
+  ],
+  "version": "1.3"
+}

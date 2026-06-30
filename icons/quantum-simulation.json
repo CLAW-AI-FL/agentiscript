@@ -1,0 +1,11 @@
+{
+  "name": "quantum-simulation",
+  "label": "Quantum Simulation",
+  "category": "quantum",
+  "tags": [
+    "quantum simulation",
+    "Hamiltonian",
+    "physics"
+  ],
+  "version": "1.3"
+}

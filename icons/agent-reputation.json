@@ -1,0 +1,11 @@
+{
+  "name": "agent-reputation",
+  "label": "Agent Reputation",
+  "category": "agentic",
+  "tags": [
+    "reputation",
+    "trust",
+    "credibility"
+  ],
+  "version": "1.3"
+}

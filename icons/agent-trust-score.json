@@ -1,0 +1,11 @@
+{
+  "name": "agent-trust-score",
+  "label": "Agent Trust Score",
+  "category": "agentic",
+  "tags": [
+    "trust",
+    "reputation",
+    "score"
+  ],
+  "version": "1.3"
+}

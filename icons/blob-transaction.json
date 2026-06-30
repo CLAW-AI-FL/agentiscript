@@ -1,0 +1,11 @@
+{
+  "name": "blob-transaction",
+  "label": "Blob Transaction",
+  "category": "blockchain",
+  "tags": [
+    "blob",
+    "EIP-4844",
+    "data"
+  ],
+  "version": "1.3"
+}

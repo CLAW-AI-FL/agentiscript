@@ -1,0 +1,11 @@
+{
+  "name": "jailbreak",
+  "label": "Jailbreak",
+  "category": "ai",
+  "tags": [
+    "jailbreak",
+    "adversarial",
+    "safety"
+  ],
+  "version": "1.3"
+}

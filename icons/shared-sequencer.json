@@ -1,0 +1,11 @@
+{
+  "name": "shared-sequencer",
+  "label": "Shared Sequencer",
+  "category": "blockchain",
+  "tags": [
+    "sequencer",
+    "rollup",
+    "ordering"
+  ],
+  "version": "1.3"
+}

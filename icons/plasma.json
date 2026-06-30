@@ -1,0 +1,11 @@
+{
+  "name": "plasma",
+  "label": "Plasma",
+  "category": "blockchain",
+  "tags": [
+    "plasma",
+    "L2",
+    "child chain"
+  ],
+  "version": "1.3"
+}

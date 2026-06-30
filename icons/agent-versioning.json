@@ -1,0 +1,11 @@
+{
+  "name": "agent-versioning",
+  "label": "Agent Versioning",
+  "category": "agentic",
+  "tags": [
+    "versioning",
+    "version control",
+    "history"
+  ],
+  "version": "1.3"
+}

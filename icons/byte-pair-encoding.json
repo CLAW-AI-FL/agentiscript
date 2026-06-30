@@ -1,0 +1,11 @@
+{
+  "name": "byte-pair-encoding",
+  "label": "Byte-Pair Encoding",
+  "category": "ai",
+  "tags": [
+    "BPE",
+    "tokenization",
+    "compression"
+  ],
+  "version": "1.3"
+}

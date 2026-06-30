@@ -1,0 +1,11 @@
+{
+  "name": "batch-normalization",
+  "label": "Batch Normalization",
+  "category": "ai",
+  "tags": [
+    "batch norm",
+    "normalization",
+    "training"
+  ],
+  "version": "1.3"
+}

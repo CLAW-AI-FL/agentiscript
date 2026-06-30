@@ -1,0 +1,11 @@
+{
+  "name": "multi-agent",
+  "label": "Multi-Agent",
+  "category": "agentic",
+  "tags": [
+    "multi-agent",
+    "MAS",
+    "coordination"
+  ],
+  "version": "1.3"
+}

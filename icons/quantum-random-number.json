@@ -1,0 +1,11 @@
+{
+  "name": "quantum-random-number",
+  "label": "Quantum Random Number",
+  "category": "quantum",
+  "tags": [
+    "QRNG",
+    "randomness",
+    "entropy"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-sandboxing",
+  "label": "Agent Sandboxing",
+  "category": "agentic",
+  "tags": [
+    "sandbox",
+    "isolation",
+    "security"
+  ],
+  "version": "1.3"
+}

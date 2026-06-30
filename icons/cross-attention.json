@@ -1,0 +1,11 @@
+{
+  "name": "cross-attention",
+  "label": "Cross-Attention",
+  "category": "ai",
+  "tags": [
+    "cross-attention",
+    "encoder-decoder",
+    "transformer"
+  ],
+  "version": "1.3"
+}

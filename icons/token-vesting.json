@@ -1,0 +1,11 @@
+{
+  "name": "token-vesting",
+  "label": "Token Vesting",
+  "category": "finance",
+  "tags": [
+    "vesting",
+    "unlock",
+    "tokenomics"
+  ],
+  "version": "1.3"
+}

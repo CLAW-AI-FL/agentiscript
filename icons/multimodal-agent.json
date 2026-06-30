@@ -1,0 +1,11 @@
+{
+  "name": "multimodal-agent",
+  "label": "Multimodal Agent",
+  "category": "agentic",
+  "tags": [
+    "multimodal",
+    "vision",
+    "agent"
+  ],
+  "version": "1.3"
+}

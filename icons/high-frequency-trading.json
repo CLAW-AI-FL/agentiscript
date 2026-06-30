@@ -1,0 +1,11 @@
+{
+  "name": "high-frequency-trading",
+  "label": "High-Frequency Trading",
+  "category": "finance",
+  "tags": [
+    "HFT",
+    "algo trading",
+    "latency"
+  ],
+  "version": "1.3"
+}

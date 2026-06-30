@@ -1,0 +1,11 @@
+{
+  "name": "spatiotemporal-reasoning",
+  "label": "Spatiotemporal Reasoning",
+  "category": "ai",
+  "tags": [
+    "spatiotemporal",
+    "video",
+    "reasoning"
+  ],
+  "version": "1.3"
+}

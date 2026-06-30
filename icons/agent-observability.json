@@ -1,0 +1,11 @@
+{
+  "name": "agent-observability",
+  "label": "Agent Observability",
+  "category": "agentic",
+  "tags": [
+    "observability",
+    "monitoring",
+    "tracing"
+  ],
+  "version": "1.3"
+}

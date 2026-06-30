@@ -1,0 +1,11 @@
+{
+  "name": "proto-danksharding",
+  "label": "Proto-Danksharding",
+  "category": "blockchain",
+  "tags": [
+    "EIP-4844",
+    "blobs",
+    "Ethereum"
+  ],
+  "version": "1.3"
+}

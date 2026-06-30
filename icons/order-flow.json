@@ -1,0 +1,11 @@
+{
+  "name": "order-flow",
+  "label": "Order Flow",
+  "category": "finance",
+  "tags": [
+    "order flow",
+    "trading",
+    "market"
+  ],
+  "version": "1.3"
+}

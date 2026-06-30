@@ -1,0 +1,11 @@
+{
+  "name": "execution-layer",
+  "label": "Execution Layer",
+  "category": "blockchain",
+  "tags": [
+    "execution",
+    "EVM",
+    "smart contracts"
+  ],
+  "version": "1.3"
+}

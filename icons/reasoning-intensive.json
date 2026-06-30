@@ -1,0 +1,11 @@
+{
+  "name": "reasoning-intensive",
+  "label": "Reasoning-Intensive",
+  "category": "ai",
+  "tags": [
+    "reasoning",
+    "hard problems",
+    "compute"
+  ],
+  "version": "1.3"
+}

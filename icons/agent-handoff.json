@@ -1,0 +1,11 @@
+{
+  "name": "agent-handoff",
+  "label": "Agent Handoff",
+  "category": "agentic",
+  "tags": [
+    "handoff",
+    "transfer",
+    "delegation"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-cost-tracking",
+  "label": "Agent Cost Tracking",
+  "category": "agentic",
+  "tags": [
+    "cost",
+    "billing",
+    "tokens"
+  ],
+  "version": "1.3"
+}

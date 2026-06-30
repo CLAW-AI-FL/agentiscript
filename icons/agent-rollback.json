@@ -1,0 +1,11 @@
+{
+  "name": "agent-rollback",
+  "label": "Agent Rollback",
+  "category": "agentic",
+  "tags": [
+    "rollback",
+    "undo",
+    "revert"
+  ],
+  "version": "1.3"
+}

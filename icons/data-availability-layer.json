@@ -1,0 +1,11 @@
+{
+  "name": "data-availability-layer",
+  "label": "Data Availability Layer",
+  "category": "blockchain",
+  "tags": [
+    "data availability",
+    "DA",
+    "Celestia"
+  ],
+  "version": "1.3"
+}

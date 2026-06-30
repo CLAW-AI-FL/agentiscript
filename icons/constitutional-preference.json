@@ -1,0 +1,11 @@
+{
+  "name": "constitutional-preference",
+  "label": "Constitutional Preference",
+  "category": "ai",
+  "tags": [
+    "constitutional",
+    "preference",
+    "alignment"
+  ],
+  "version": "1.3"
+}

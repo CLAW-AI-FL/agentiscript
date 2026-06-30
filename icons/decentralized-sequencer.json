@@ -1,0 +1,11 @@
+{
+  "name": "decentralized-sequencer",
+  "label": "Decentralized Sequencer",
+  "category": "blockchain",
+  "tags": [
+    "sequencer",
+    "decentralized",
+    "ordering"
+  ],
+  "version": "1.3"
+}

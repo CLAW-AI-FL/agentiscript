@@ -1,0 +1,11 @@
+{
+  "name": "validium",
+  "label": "Validium",
+  "category": "blockchain",
+  "tags": [
+    "validium",
+    "off-chain data",
+    "ZK"
+  ],
+  "version": "1.3"
+}

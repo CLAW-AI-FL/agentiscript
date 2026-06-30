@@ -1,0 +1,11 @@
+{
+  "name": "llm-trajectories",
+  "label": "LLM Trajectories",
+  "category": "ai",
+  "tags": [
+    "trajectories",
+    "reasoning path",
+    "LLM"
+  ],
+  "version": "1.3"
+}

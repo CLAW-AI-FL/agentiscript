@@ -1,0 +1,11 @@
+{
+  "name": "quantum-error-correction",
+  "label": "Quantum Error Correction",
+  "category": "quantum",
+  "tags": [
+    "QEC",
+    "error correction",
+    "stabilizer"
+  ],
+  "version": "1.3"
+}

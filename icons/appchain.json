@@ -1,0 +1,11 @@
+{
+  "name": "appchain",
+  "label": "Appchain",
+  "category": "blockchain",
+  "tags": [
+    "appchain",
+    "application chain",
+    "sovereign"
+  ],
+  "version": "1.3"
+}

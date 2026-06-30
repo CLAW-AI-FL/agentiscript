@@ -1,0 +1,11 @@
+{
+  "name": "agentic-workflows",
+  "label": "Agentic Workflows",
+  "category": "agentic",
+  "tags": [
+    "workflow",
+    "pipeline",
+    "automation"
+  ],
+  "version": "1.3"
+}

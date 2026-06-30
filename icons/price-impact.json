@@ -1,0 +1,11 @@
+{
+  "name": "price-impact",
+  "label": "Price Impact",
+  "category": "finance",
+  "tags": [
+    "price impact",
+    "slippage",
+    "liquidity"
+  ],
+  "version": "1.3"
+}

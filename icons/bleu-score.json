@@ -1,0 +1,11 @@
+{
+  "name": "bleu-score",
+  "label": "BLEU Score",
+  "category": "ai",
+  "tags": [
+    "BLEU",
+    "evaluation",
+    "translation"
+  ],
+  "version": "1.3"
+}

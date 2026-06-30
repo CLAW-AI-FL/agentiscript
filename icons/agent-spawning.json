@@ -1,0 +1,11 @@
+{
+  "name": "agent-spawning",
+  "label": "Agent Spawning",
+  "category": "agentic",
+  "tags": [
+    "spawn",
+    "fork",
+    "subagent creation"
+  ],
+  "version": "1.3"
+}

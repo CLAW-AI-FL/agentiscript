@@ -1,0 +1,11 @@
+{
+  "name": "reward-model",
+  "label": "Reward Model",
+  "category": "agentic",
+  "tags": [
+    "reward",
+    "RL",
+    "training signal"
+  ],
+  "version": "1.3"
+}

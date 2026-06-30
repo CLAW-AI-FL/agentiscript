@@ -1,0 +1,11 @@
+{
+  "name": "multimodal-llms",
+  "label": "Multimodal LLMs",
+  "category": "ai",
+  "tags": [
+    "multimodal",
+    "vision-language",
+    "LLM"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "optimistic-rollup",
+  "label": "Optimistic Rollup",
+  "category": "blockchain",
+  "tags": [
+    "optimistic rollup",
+    "fraud proof",
+    "L2"
+  ],
+  "version": "1.3"
+}

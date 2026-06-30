@@ -1,0 +1,11 @@
+{
+  "name": "session-key",
+  "label": "Session Key",
+  "category": "blockchain",
+  "tags": [
+    "session key",
+    "permissions",
+    "wallet"
+  ],
+  "version": "1.3"
+}

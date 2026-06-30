@@ -1,0 +1,11 @@
+{
+  "name": "llm-reasoning",
+  "label": "LLM Reasoning",
+  "category": "ai",
+  "tags": [
+    "LLM",
+    "reasoning",
+    "chain of thought"
+  ],
+  "version": "1.3"
+}

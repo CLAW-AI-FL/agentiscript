@@ -1,0 +1,11 @@
+{
+  "name": "agent-throughput",
+  "label": "Agent Throughput",
+  "category": "agentic",
+  "tags": [
+    "throughput",
+    "bandwidth",
+    "rate"
+  ],
+  "version": "1.3"
+}

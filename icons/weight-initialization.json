@@ -1,0 +1,11 @@
+{
+  "name": "weight-initialization",
+  "label": "Weight Initialization",
+  "category": "ai",
+  "tags": [
+    "initialization",
+    "Xavier",
+    "Kaiming"
+  ],
+  "version": "1.3"
+}

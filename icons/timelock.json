@@ -1,0 +1,11 @@
+{
+  "name": "timelock",
+  "label": "Timelock",
+  "category": "blockchain",
+  "tags": [
+    "timelock",
+    "delay",
+    "governance"
+  ],
+  "version": "1.3"
+}

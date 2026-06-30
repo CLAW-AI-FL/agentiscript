@@ -1,0 +1,11 @@
+{
+  "name": "domain-adaptation",
+  "label": "Domain Adaptation",
+  "category": "ai",
+  "tags": [
+    "domain adaptation",
+    "transfer learning",
+    "fine-tuning"
+  ],
+  "version": "1.3"
+}

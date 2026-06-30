@@ -1,0 +1,11 @@
+{
+  "name": "agent-task-decomposition",
+  "label": "Agent Task Decomposition",
+  "category": "agentic",
+  "tags": [
+    "decomposition",
+    "subtask",
+    "planning"
+  ],
+  "version": "1.3"
+}

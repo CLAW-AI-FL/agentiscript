@@ -1,0 +1,11 @@
+{
+  "name": "backpropagation",
+  "label": "Backpropagation",
+  "category": "ai",
+  "tags": [
+    "backprop",
+    "gradient",
+    "training"
+  ],
+  "version": "1.3"
+}

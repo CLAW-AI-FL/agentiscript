@@ -1,0 +1,11 @@
+{
+  "name": "react-prompting",
+  "label": "ReAct Prompting",
+  "category": "ai",
+  "tags": [
+    "ReAct",
+    "reasoning",
+    "action"
+  ],
+  "version": "1.3"
+}

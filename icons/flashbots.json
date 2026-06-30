@@ -1,0 +1,11 @@
+{
+  "name": "flashbots",
+  "label": "Flashbots",
+  "category": "blockchain",
+  "tags": [
+    "flashbots",
+    "MEV",
+    "bundles"
+  ],
+  "version": "1.3"
+}

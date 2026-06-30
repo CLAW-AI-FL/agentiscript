@@ -1,0 +1,11 @@
+{
+  "name": "maximum-extractable-value",
+  "label": "Maximum Extractable Value",
+  "category": "blockchain",
+  "tags": [
+    "MEV",
+    "sandwich",
+    "frontrunning"
+  ],
+  "version": "1.3"
+}

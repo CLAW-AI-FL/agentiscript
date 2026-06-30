@@ -1,0 +1,11 @@
+{
+  "name": "dark-pool-trading",
+  "label": "Dark Pool Trading",
+  "category": "finance",
+  "tags": [
+    "dark pool",
+    "ATS",
+    "private trading"
+  ],
+  "version": "1.3"
+}

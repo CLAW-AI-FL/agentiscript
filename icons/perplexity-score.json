@@ -1,0 +1,11 @@
+{
+  "name": "perplexity-score",
+  "label": "Perplexity Score",
+  "category": "ai",
+  "tags": [
+    "perplexity",
+    "evaluation",
+    "LM"
+  ],
+  "version": "1.3"
+}

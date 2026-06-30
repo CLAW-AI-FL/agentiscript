@@ -1,0 +1,11 @@
+{
+  "name": "latent-space",
+  "label": "Latent Space",
+  "category": "ai",
+  "tags": [
+    "latent space",
+    "embedding",
+    "manifold"
+  ],
+  "version": "1.3"
+}

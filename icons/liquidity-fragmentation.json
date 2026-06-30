@@ -1,0 +1,11 @@
+{
+  "name": "liquidity-fragmentation",
+  "label": "Liquidity Fragmentation",
+  "category": "finance",
+  "tags": [
+    "liquidity",
+    "fragmentation",
+    "DEX"
+  ],
+  "version": "1.3"
+}

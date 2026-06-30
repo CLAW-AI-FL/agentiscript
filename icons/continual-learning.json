@@ -1,0 +1,11 @@
+{
+  "name": "continual-learning",
+  "label": "Continual Learning",
+  "category": "ai",
+  "tags": [
+    "continual learning",
+    "lifelong learning",
+    "plasticity"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-planning",
+  "label": "Agent Planning",
+  "category": "agentic",
+  "tags": [
+    "planning",
+    "strategy",
+    "roadmap"
+  ],
+  "version": "1.3"
+}

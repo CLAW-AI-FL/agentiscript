@@ -1,0 +1,11 @@
+{
+  "name": "agent-ambiguity",
+  "label": "Agent Ambiguity",
+  "category": "agentic",
+  "tags": [
+    "ambiguity",
+    "clarification",
+    "agent"
+  ],
+  "version": "1.3"
+}

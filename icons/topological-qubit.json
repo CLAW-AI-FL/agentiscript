@@ -1,0 +1,11 @@
+{
+  "name": "topological-qubit",
+  "label": "Topological Qubit",
+  "category": "quantum",
+  "tags": [
+    "topological qubit",
+    "Majorana",
+    "fault-tolerant"
+  ],
+  "version": "1.3"
+}

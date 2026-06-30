@@ -1,0 +1,11 @@
+{
+  "name": "gui-agent",
+  "label": "GUI Agent",
+  "category": "agentic",
+  "tags": [
+    "GUI",
+    "computer use",
+    "agent"
+  ],
+  "version": "1.3"
+}

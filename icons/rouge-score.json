@@ -1,0 +1,11 @@
+{
+  "name": "rouge-score",
+  "label": "ROUGE Score",
+  "category": "ai",
+  "tags": [
+    "ROUGE",
+    "summarization",
+    "evaluation"
+  ],
+  "version": "1.3"
+}

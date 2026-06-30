@@ -1,0 +1,11 @@
+{
+  "name": "verifiable-rewards",
+  "label": "Verifiable Rewards",
+  "category": "ai",
+  "tags": [
+    "verifiable rewards",
+    "RL",
+    "RLVR"
+  ],
+  "version": "1.3"
+}

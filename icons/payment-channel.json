@@ -1,0 +1,11 @@
+{
+  "name": "payment-channel",
+  "label": "Payment Channel",
+  "category": "blockchain",
+  "tags": [
+    "payment channel",
+    "Lightning",
+    "micropayment"
+  ],
+  "version": "1.3"
+}

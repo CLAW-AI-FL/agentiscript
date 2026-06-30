@@ -1,0 +1,11 @@
+{
+  "name": "shor-algorithm",
+  "label": "Shor's Algorithm",
+  "category": "quantum",
+  "tags": [
+    "Shor",
+    "factoring",
+    "cryptography"
+  ],
+  "version": "1.3"
+}

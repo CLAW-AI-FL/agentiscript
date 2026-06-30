@@ -1,0 +1,11 @@
+{
+  "name": "bundler",
+  "label": "Bundler",
+  "category": "blockchain",
+  "tags": [
+    "bundler",
+    "ERC-4337",
+    "UserOp"
+  ],
+  "version": "1.3"
+}
