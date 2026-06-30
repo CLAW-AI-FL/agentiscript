@@ -1,0 +1,18 @@
+{
+  "id": "AS-198",
+  "slug": "cryptographic-agility",
+  "concept": "Cryptographic Agility",
+  "definition": "Designing systems to swap cryptographic algorithms quickly \u2014 critical for post-quantum migration per NIST PQC standards.",
+  "aliases": [],
+  "category": "security",
+  "category_name": "Security",
+  "sources": [],
+  "svg": "cryptographic-agility.svg",
+  "tags": [
+    "cryptography",
+    "NIST",
+    "post-quantum",
+    "PQC",
+    "agility"
+  ]
+}

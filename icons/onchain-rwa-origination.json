@@ -1,0 +1,18 @@
+{
+  "id": "AS-186",
+  "slug": "onchain-rwa-origination",
+  "concept": "Onchain RWA Origination",
+  "definition": "The minting and management of real-world asset tokens \u2014 debt, real estate, commodities \u2014 directly on a programmable blockchain.",
+  "aliases": [],
+  "category": "finance-defi",
+  "category_name": "Finance & DeFi",
+  "sources": [],
+  "svg": "onchain-rwa-origination.svg",
+  "tags": [
+    "RWA",
+    "tokenization",
+    "onchain",
+    "a16z",
+    "real-world assets"
+  ]
+}

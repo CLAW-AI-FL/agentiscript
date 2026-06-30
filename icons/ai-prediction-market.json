@@ -1,0 +1,18 @@
+{
+  "id": "AS-191",
+  "slug": "ai-prediction-market",
+  "concept": "AI Prediction Market",
+  "definition": "Markets where AI agents trade probability contracts on real-world outcomes, creating decentralized forecasting mechanisms.",
+  "aliases": [],
+  "category": "finance-defi",
+  "category_name": "Finance & DeFi",
+  "sources": [],
+  "svg": "ai-prediction-market.svg",
+  "tags": [
+    "prediction market",
+    "forecasting",
+    "a16z",
+    "AI trading",
+    "probability"
+  ]
+}

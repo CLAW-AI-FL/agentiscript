@@ -1,0 +1,18 @@
+{
+  "id": "AS-201",
+  "slug": "critical-infrastructure",
+  "concept": "Critical Infrastructure",
+  "definition": "The 16 CISA-designated sectors \u2014 energy, water, finance, communications \u2014 whose disruption would have severe national security consequences.",
+  "aliases": [],
+  "category": "governance",
+  "category_name": "Governance",
+  "sources": [],
+  "svg": "critical-infrastructure.svg",
+  "tags": [
+    "critical infrastructure",
+    "CISA",
+    "national security",
+    "government",
+    "resilience"
+  ]
+}

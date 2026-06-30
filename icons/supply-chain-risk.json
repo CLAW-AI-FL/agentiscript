@@ -1,0 +1,18 @@
+{
+  "id": "AS-197",
+  "slug": "supply-chain-risk",
+  "concept": "Supply Chain Risk",
+  "definition": "Threats introduced through third-party software, hardware, or service dependencies \u2014 a top NIST and CISA concern in federal security frameworks.",
+  "aliases": [],
+  "category": "security",
+  "category_name": "Security",
+  "sources": [],
+  "svg": "supply-chain-risk.svg",
+  "tags": [
+    "supply chain",
+    "NIST",
+    "SBOM",
+    "third-party risk",
+    "CISA"
+  ]
+}

@@ -1,23 +1,18 @@
 {
-  "id": "AS-060",
+  "id": "AS-195",
   "slug": "digital-identity",
   "concept": "Digital Identity",
-  "definition": "A digital representation of an entity's attributes and credentials in verifiable form",
-  "aliases": [
-    "digital ID",
-    "online identity",
-    "self-sovereign identity"
-  ],
-  "category": "blockchain",
-  "category_name": "Blockchain / Web3",
-  "sources": [
-    "https://arxiv.org/abs/2012.05666"
-  ],
+  "definition": "A verifiable, portable representation of an individual or entity's attributes in digital systems, governed by standards like NIST SP 800-63.",
+  "aliases": [],
+  "category": "security",
+  "category_name": "Security",
+  "sources": [],
   "svg": "digital-identity.svg",
   "tags": [
-    "identity",
-    "digital",
+    "digital identity",
+    "NIST",
+    "IAM",
     "credentials",
-    "verification"
+    "SSI"
   ]
 }

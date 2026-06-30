@@ -1,0 +1,18 @@
+{
+  "id": "AS-199",
+  "slug": "sovereign-data",
+  "concept": "Sovereign Data",
+  "definition": "The principle that data is subject to the laws and governance of the nation or entity where it originates, resists foreign extraction.",
+  "aliases": [],
+  "category": "governance",
+  "category_name": "Governance",
+  "sources": [],
+  "svg": "sovereign-data.svg",
+  "tags": [
+    "data sovereignty",
+    "government",
+    "GDPR",
+    "jurisdiction",
+    "data governance"
+  ]
+}

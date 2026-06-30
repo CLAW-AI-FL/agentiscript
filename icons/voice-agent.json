@@ -1,0 +1,18 @@
+{
+  "id": "AS-185",
+  "slug": "voice-agent",
+  "concept": "Voice Agent",
+  "definition": "An AI agent that perceives, processes, and responds through spoken language, enabling hands-free agentic interaction.",
+  "aliases": [],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "voice-agent.svg",
+  "tags": [
+    "voice",
+    "speech",
+    "audio",
+    "a16z",
+    "conversational AI"
+  ]
+}

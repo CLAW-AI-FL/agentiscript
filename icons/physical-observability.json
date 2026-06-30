@@ -1,0 +1,18 @@
+{
+  "id": "AS-189",
+  "slug": "physical-observability",
+  "concept": "Physical Observability",
+  "definition": "Equipping AI systems with real-time sensor data from the physical world \u2014 cameras, LIDAR, IoT \u2014 to ground decisions in material reality.",
+  "aliases": [],
+  "category": "infrastructure",
+  "category_name": "Infrastructure",
+  "sources": [],
+  "svg": "physical-observability.svg",
+  "tags": [
+    "observability",
+    "sensors",
+    "IoT",
+    "a16z",
+    "physical AI"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "AS-192",
+  "slug": "vertical-ai",
+  "concept": "Vertical AI",
+  "definition": "AI systems purpose-built for a single industry domain \u2014 legal, healthcare, finance \u2014 with domain-specific data, models, and workflows.",
+  "aliases": [],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "vertical-ai.svg",
+  "tags": [
+    "vertical AI",
+    "industry AI",
+    "a16z",
+    "domain-specific",
+    "enterprise"
+  ]
+}

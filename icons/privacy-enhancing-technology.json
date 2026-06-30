@@ -1,0 +1,18 @@
+{
+  "id": "AS-202",
+  "slug": "privacy-enhancing-technology",
+  "concept": "Privacy-Enhancing Technology",
+  "definition": "Tools like differential privacy, homomorphic encryption, and secure multi-party computation that process data without exposing raw personal information.",
+  "aliases": [],
+  "category": "security",
+  "category_name": "Security",
+  "sources": [],
+  "svg": "privacy-enhancing-technology.svg",
+  "tags": [
+    "PET",
+    "privacy",
+    "NIST",
+    "differential privacy",
+    "homomorphic encryption"
+  ]
+}

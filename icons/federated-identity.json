@@ -1,0 +1,18 @@
+{
+  "id": "AS-200",
+  "slug": "federated-identity",
+  "concept": "Federated Identity",
+  "definition": "An arrangement allowing users to authenticate once across multiple independent systems using shared identity standards like SAML, OIDC, or FIDO2.",
+  "aliases": [],
+  "category": "security",
+  "category_name": "Security",
+  "sources": [],
+  "svg": "federated-identity.svg",
+  "tags": [
+    "federation",
+    "NIST",
+    "SSO",
+    "OIDC",
+    "identity management"
+  ]
+}

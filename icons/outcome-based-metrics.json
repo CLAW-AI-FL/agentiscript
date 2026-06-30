@@ -1,0 +1,18 @@
+{
+  "id": "AS-184",
+  "slug": "outcome-based-metrics",
+  "concept": "Outcome-Based Metrics",
+  "definition": "Measuring AI agent performance by real-world results delivered rather than activity proxies like tokens generated or tasks initiated.",
+  "aliases": [],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "outcome-based-metrics.svg",
+  "tags": [
+    "metrics",
+    "KPI",
+    "outcomes",
+    "a16z",
+    "evaluation"
+  ]
+}

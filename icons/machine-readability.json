@@ -1,0 +1,18 @@
+{
+  "id": "AS-179",
+  "slug": "machine-readability",
+  "concept": "Machine Readability",
+  "definition": "Structuring data and documents so AI agents can parse, interpret, and act on them without human intermediation.",
+  "aliases": [],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "machine-readability.svg",
+  "tags": [
+    "machine-readable",
+    "structured data",
+    "parsing",
+    "a16z",
+    "agent input"
+  ]
+}
