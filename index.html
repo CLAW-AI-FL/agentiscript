@@ -127,15 +127,54 @@ document.getElementById('captureForm').addEventListener('submit',function(e){
 // ── Dynamic icon loading ──────────────────────────────────
 let allIcons = [];      // full manifest (all icons, used for search)
 let commercialIcons = []; // commercial-value subset shown to humans
-const FEATURED = 24;
+const FEATURED = 48;
 
+// Curated flagship icons — actual slugs from manifest, quality-vetted
 const FLAGSHIP_SLUGS = [
-  'x402-protocol','agentic-loop','smart-contract','mcp','llm','rag',
-  'dao','defi','zero-knowledge-proof','consensus','validator','staking',
-  'transformer','embedding','fine-tuning','inference','agent-wallet',
-  'machine-to-machine-commerce','context-window','multi-agent',
-  'orchestrator','tokenization','blockchain','quantum-computing'
+  // Core agentic/commerce
+  'x402-protocol','agent-wallet','machine-to-machine-commerce','mcp-apps',
+  'agentic-commerce-stack','agent-budget','agentic-economy','attention-mechanism',
+  // Multi-agent & orchestration
+  'multi-agent-orchestration','computer-use-2','autoresearch','self-improving-software-factory',
+  'two-tier-agent','vertical-ai','voice-agent','prompt-free-ai',
+  // Blockchain & DeFi
+  'node','liquid-staking','validator-node','layer-2',
+  'gas-fee','liquidity-pool','amm','bridge-cross-chain',
+  'merkle-tree','wallet-crypto','oracle-problem','multichain-dao',
+  // Flare/Near ecosystem
+  'attestation','enshrined-oracle','verifiable-compute','chain-signatures',
+  // Security & identity
+  'zero-trust','verifiable-credential','did','cryptographic-agility',
+  // AI/ML fundamentals
+  'foundation-model','frontier-model','constitutional-ai','few-shot-learning',
+  'zero-shot-learning','fleet-learning','frequentist-inference','stablecoin-onramp',
+  // Near ecosystem
+  'near-intents','sharding','access-keys','agent-marketplace'
 ];
+
+const QUALITY_CATEGORIES = [
+  'agentic','blockchain','ai','quantum','security','llm','mcp','defi','web3','near','flare',
+  'crypto','finance','economics','agent-architecture','agent-infrastructure','agent-ops',
+  'agent-security','agentic-commerce','agentic-economy','agents','ai-agents','ai-engineering',
+  'ai-infrastructure','alignment','cryptography','embeddings','finance-defi','flare',
+  'governance','llm-engineering','llm-inference','multi-agent','rag','rl','security'
+];
+
+function isQualityIcon(icon) {
+  const cat  = (icon.category || '').toLowerCase();
+  const name = (icon.name || icon.slug || '').toLowerCase();
+  const slug = (icon.slug || '').toLowerCase();
+  // Hide known junk names
+  const junk = ['muscle','abdomen','abscess','arris','astragal','aisle','aerospace','astronomy',
+                'aaradcom','abnsotd','abductor','absolutism','absolute value','above ground'];
+  if (junk.some(j => name.includes(j))) return false;
+  if (name.startsWith('1=') || name.startsWith('a-type')) return false;
+  // Only apply short-name junk filter if NOT in a quality category
+  const inQualityCat = QUALITY_CATEGORIES.some(q => cat.includes(q));
+  if (!inQualityCat && slug.match(/^[a-z]{2,4}$/)) return false;
+  // Must match a quality category
+  return inQualityCat;
+}
 
 function cleanName(icon) {
   const raw = icon.name || icon.slug || icon.id || '';
@@ -232,8 +271,8 @@ async function loadIcons() {
     const data = await res.json();
     allIcons   = data.icons || [];
 
-    // Filter to commercial-value icons for human display
-    commercialIcons = allIcons.filter(isCommercialIcon);
+    // Filter to quality icons for human display
+    commercialIcons = allIcons.filter(isQualityIcon);
 
     // Stat counter shows commercial count; full catalog stays in manifest for bots
     document.getElementById('icon-count').textContent = commercialIcons.length.toLocaleString();
@@ -242,11 +281,12 @@ async function loadIcons() {
     const cats = new Set(commercialIcons.map(i => i.category).filter(Boolean));
     document.getElementById('cat-count').textContent = cats.size || '—';
 
-    // Build featured set: flagship icons first, then the rest
+    // Build featured set: flagship icons first (exact slug match), then quality rest
     const flagship = FLAGSHIP_SLUGS
-      .map(slug => commercialIcons.find(i => (i.slug||i.name||i.id||'').toLowerCase() === slug))
+      .map(slug => commercialIcons.find(i => (i.slug || '') === slug))
       .filter(Boolean);
-    const rest = commercialIcons.filter(i => !FLAGSHIP_SLUGS.includes((i.slug||i.name||i.id||'').toLowerCase()));
+    const flagshipSlugs = new Set(flagship.map(i => i.slug || ''));
+    const rest = commercialIcons.filter(i => !flagshipSlugs.has(i.slug || ''));
     const featured = [...flagship, ...rest].slice(0, FEATURED);
 
     // Render featured commercial icons
