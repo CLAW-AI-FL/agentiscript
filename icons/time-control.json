@@ -1,0 +1,13 @@
+{
+  "name": "time-control",
+  "label": "time control",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "time control \u2014 a concept in chess.",
+  "version": "2.1"
+}

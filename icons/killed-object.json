@@ -1,0 +1,13 @@
+{
+  "name": "killed-object",
+  "label": "killed object",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "killed object \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

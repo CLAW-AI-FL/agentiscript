@@ -1,0 +1,13 @@
+{
+  "name": "communion-tokens",
+  "label": "Communion tokens",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "Communion tokens \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

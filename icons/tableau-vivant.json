@@ -1,0 +1,13 @@
+{
+  "name": "tableau-vivant",
+  "label": "Tableau vivant",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Tableau vivant \u2014 a concept in literature.",
+  "version": "2.1"
+}

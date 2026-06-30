@@ -1,0 +1,13 @@
+{
+  "name": "snag",
+  "label": "snag",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "snag \u2014 a concept in nautical.",
+  "version": "2.1"
+}

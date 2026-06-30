@@ -1,0 +1,13 @@
+{
+  "name": "live-rope",
+  "label": "live rope",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "live rope \u2014 a concept in sports.",
+  "version": "2.1"
+}

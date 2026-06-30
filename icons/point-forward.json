@@ -1,0 +1,13 @@
+{
+  "name": "point-forward",
+  "label": "point forward",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "point forward \u2014 a concept in sports.",
+  "version": "2.1"
+}

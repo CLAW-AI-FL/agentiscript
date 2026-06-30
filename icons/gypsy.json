@@ -1,0 +1,13 @@
+{
+  "name": "gypsy",
+  "label": "gypsy",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "gypsy \u2014 a concept in sports.",
+  "version": "2.1"
+}

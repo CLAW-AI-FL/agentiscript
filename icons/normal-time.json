@@ -1,0 +1,13 @@
+{
+  "name": "normal-time",
+  "label": "Normal time",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Normal time \u2014 a concept in sports.",
+  "version": "2.1"
+}

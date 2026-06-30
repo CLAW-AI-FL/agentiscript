@@ -1,0 +1,13 @@
+{
+  "name": "belay-device",
+  "label": "belay device",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "belay device \u2014 a concept in sports.",
+  "version": "2.1"
+}

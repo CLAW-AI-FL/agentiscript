@@ -1,0 +1,13 @@
+{
+  "name": "recitativo",
+  "label": "recitativo",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "recitativo \u2014 a concept in music.",
+  "version": "2.1"
+}

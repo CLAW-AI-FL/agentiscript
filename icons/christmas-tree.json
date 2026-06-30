@@ -1,0 +1,13 @@
+{
+  "name": "christmas-tree",
+  "label": "Christmas tree",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Christmas tree \u2014 a concept in sports.",
+  "version": "2.1"
+}

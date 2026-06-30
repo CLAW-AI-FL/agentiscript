@@ -1,0 +1,13 @@
+{
+  "name": "tasto-solo",
+  "label": "tasto solo",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "tasto solo \u2014 a concept in music.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "football-programme",
+  "label": "Football programme",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Football programme \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pawn-race",
+  "label": "pawn race",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "pawn race \u2014 a concept in chess.",
+  "version": "2.1"
+}

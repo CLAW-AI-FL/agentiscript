@@ -1,0 +1,13 @@
+{
+  "name": "step-over",
+  "label": "Step over",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Step over \u2014 a concept in sports.",
+  "version": "2.1"
+}

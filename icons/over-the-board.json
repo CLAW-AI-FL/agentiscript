@@ -1,0 +1,13 @@
+{
+  "name": "over-the-board",
+  "label": "over the board",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "over the board \u2014 a concept in chess.",
+  "version": "2.1"
+}

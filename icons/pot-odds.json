@@ -1,0 +1,13 @@
+{
+  "name": "pot-odds",
+  "label": "pot odds",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pot odds \u2014 a concept in sports.",
+  "version": "2.1"
+}

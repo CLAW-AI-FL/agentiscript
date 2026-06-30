@@ -1,0 +1,13 @@
+{
+  "name": "watersail",
+  "label": "watersail",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "watersail \u2014 a concept in nautical.",
+  "version": "2.1"
+}

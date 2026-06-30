@@ -1,0 +1,13 @@
+{
+  "name": "laureate",
+  "label": "laureate",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "laureate \u2014 a concept in literature.",
+  "version": "2.1"
+}

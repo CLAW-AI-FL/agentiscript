@@ -1,0 +1,13 @@
+{
+  "name": "ball-hog",
+  "label": "ball hog",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "ball hog \u2014 a concept in sports.",
+  "version": "2.1"
+}

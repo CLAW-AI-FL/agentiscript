@@ -1,0 +1,13 @@
+{
+  "name": "transmitting-station",
+  "label": "transmitting station",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "transmitting station \u2014 a concept in nautical.",
+  "version": "2.1"
+}

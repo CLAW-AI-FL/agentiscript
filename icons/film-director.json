@@ -1,0 +1,13 @@
+{
+  "name": "film-director",
+  "label": "Film director",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Film director \u2014 a concept in cinema.",
+  "version": "2.1"
+}

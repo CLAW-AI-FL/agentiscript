@@ -1,0 +1,13 @@
+{
+  "name": "rabar-classification",
+  "label": "Rabar Classification",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Rabar Classification \u2014 a concept in chess.",
+  "version": "2.1"
+}

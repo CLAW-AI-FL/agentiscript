@@ -1,0 +1,13 @@
+{
+  "name": "expunge",
+  "label": "Expunge",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Expunge \u2014 a concept in sports.",
+  "version": "2.1"
+}

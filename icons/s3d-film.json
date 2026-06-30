@@ -1,0 +1,13 @@
+{
+  "name": "s3d-film",
+  "label": "S3D film",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "S3D film \u2014 a concept in cinema.",
+  "version": "2.1"
+}

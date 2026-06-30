@@ -1,0 +1,13 @@
+{
+  "name": "angle-of-view",
+  "label": "angle of view",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "angle of view \u2014 a concept in cinema.",
+  "version": "2.1"
+}

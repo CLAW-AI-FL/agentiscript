@@ -1,0 +1,13 @@
+{
+  "name": "neutral-zone",
+  "label": "Neutral zone",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Neutral zone \u2014 a concept in sports.",
+  "version": "2.1"
+}

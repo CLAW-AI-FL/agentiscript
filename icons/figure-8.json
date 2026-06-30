@@ -1,0 +1,13 @@
+{
+  "name": "figure-8",
+  "label": "Figure 8",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Figure 8 \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "yo-yo",
+  "label": "yo-yo",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "yo-yo \u2014 a concept in sports.",
+  "version": "2.1"
+}

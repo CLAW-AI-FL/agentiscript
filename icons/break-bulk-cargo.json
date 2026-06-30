@@ -1,0 +1,13 @@
+{
+  "name": "break-bulk-cargo",
+  "label": "break bulk cargo",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "break bulk cargo \u2014 a concept in nautical.",
+  "version": "2.1"
+}

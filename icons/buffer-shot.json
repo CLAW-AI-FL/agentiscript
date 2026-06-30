@@ -1,0 +1,13 @@
+{
+  "name": "buffer-shot",
+  "label": "buffer shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "buffer shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

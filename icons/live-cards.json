@@ -1,0 +1,13 @@
+{
+  "name": "live-cards",
+  "label": "live cards",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "live cards \u2014 a concept in sports.",
+  "version": "2.1"
+}

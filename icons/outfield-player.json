@@ -1,0 +1,13 @@
+{
+  "name": "outfield-player",
+  "label": "Outfield player",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Outfield player \u2014 a concept in sports.",
+  "version": "2.1"
+}

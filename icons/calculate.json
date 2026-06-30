@@ -1,0 +1,13 @@
+{
+  "name": "calculate",
+  "label": "calculate",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "calculate \u2014 a concept in chess.",
+  "version": "2.1"
+}

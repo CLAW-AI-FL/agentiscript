@@ -1,0 +1,13 @@
+{
+  "name": "drydock",
+  "label": "drydock",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "drydock \u2014 a concept in nautical.",
+  "version": "2.1"
+}

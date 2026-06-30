@@ -1,0 +1,13 @@
+{
+  "name": "positive-geoglyph",
+  "label": "positive geoglyph",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "positive geoglyph \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

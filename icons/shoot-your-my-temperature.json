@@ -1,0 +1,13 @@
+{
+  "name": "shoot-your-my-temperature",
+  "label": "Shoot your (my) temperature",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Shoot your (my) temperature \u2014 a concept in sports.",
+  "version": "2.1"
+}

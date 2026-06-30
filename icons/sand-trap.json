@@ -1,0 +1,13 @@
+{
+  "name": "sand-trap",
+  "label": "Sand trap",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sand trap \u2014 a concept in sports.",
+  "version": "2.1"
+}

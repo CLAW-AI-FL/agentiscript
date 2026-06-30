@@ -1,0 +1,13 @@
+{
+  "name": "outboard-motor",
+  "label": "outboard motor",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "outboard motor \u2014 a concept in nautical.",
+  "version": "2.1"
+}

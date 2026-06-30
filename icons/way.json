@@ -1,0 +1,13 @@
+{
+  "name": "way",
+  "label": "way",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "way \u2014 a concept in nautical.",
+  "version": "2.1"
+}

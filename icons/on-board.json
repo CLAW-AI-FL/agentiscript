@@ -1,0 +1,13 @@
+{
+  "name": "on-board",
+  "label": "on board",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "on board \u2014 a concept in nautical.",
+  "version": "2.1"
+}

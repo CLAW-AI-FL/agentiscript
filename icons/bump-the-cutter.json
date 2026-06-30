@@ -1,0 +1,13 @@
+{
+  "name": "bump-the-cutter",
+  "label": "bump the cutter",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bump the cutter \u2014 a concept in sports.",
+  "version": "2.1"
+}

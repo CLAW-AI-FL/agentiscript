@@ -1,0 +1,13 @@
+{
+  "name": "watching-brief",
+  "label": "watching brief",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "watching brief \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

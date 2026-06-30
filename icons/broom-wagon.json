@@ -1,0 +1,13 @@
+{
+  "name": "broom-wagon",
+  "label": "Broom wagon",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Broom wagon \u2014 a concept in sports.",
+  "version": "2.1"
+}

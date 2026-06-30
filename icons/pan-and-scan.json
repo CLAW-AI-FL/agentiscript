@@ -1,0 +1,13 @@
+{
+  "name": "pan-and-scan",
+  "label": "pan and scan",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "pan and scan \u2014 a concept in cinema.",
+  "version": "2.1"
+}

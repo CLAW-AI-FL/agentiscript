@@ -1,0 +1,13 @@
+{
+  "name": "klettersteig",
+  "label": "Klettersteig",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Klettersteig \u2014 a concept in sports.",
+  "version": "2.1"
+}

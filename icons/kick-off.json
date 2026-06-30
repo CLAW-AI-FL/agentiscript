@@ -1,0 +1,13 @@
+{
+  "name": "kick-off",
+  "label": "Kick-off",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Kick-off \u2014 a concept in sports.",
+  "version": "2.1"
+}

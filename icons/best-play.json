@@ -1,0 +1,13 @@
+{
+  "name": "best-play",
+  "label": "best play",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "best play \u2014 a concept in chess.",
+  "version": "2.1"
+}

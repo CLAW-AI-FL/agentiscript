@@ -1,0 +1,13 @@
+{
+  "name": "arena",
+  "label": "arena",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "arena \u2014 a concept in chess.",
+  "version": "2.1"
+}

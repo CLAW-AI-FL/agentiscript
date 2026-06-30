@@ -1,0 +1,13 @@
+{
+  "name": "royal-piece",
+  "label": "royal piece",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "royal piece \u2014 a concept in chess.",
+  "version": "2.1"
+}

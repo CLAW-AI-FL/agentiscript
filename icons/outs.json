@@ -1,0 +1,13 @@
+{
+  "name": "outs",
+  "label": "outs",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "outs \u2014 a concept in sports.",
+  "version": "2.1"
+}

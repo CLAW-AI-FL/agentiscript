@@ -1,0 +1,13 @@
+{
+  "name": "grigri",
+  "label": "Grigri",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Grigri \u2014 a concept in sports.",
+  "version": "2.1"
+}

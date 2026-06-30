@@ -1,0 +1,13 @@
+{
+  "name": "pitch",
+  "label": "Pitch",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Pitch \u2014 a concept in cinema.",
+  "version": "2.1"
+}

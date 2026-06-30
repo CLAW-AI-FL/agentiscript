@@ -1,0 +1,13 @@
+{
+  "name": "classic",
+  "label": "Classic",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Classic \u2014 a concept in sports.",
+  "version": "2.1"
+}

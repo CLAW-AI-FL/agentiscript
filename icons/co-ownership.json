@@ -1,0 +1,13 @@
+{
+  "name": "co-ownership",
+  "label": "Co-ownership",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Co-ownership \u2014 a concept in sports.",
+  "version": "2.1"
+}

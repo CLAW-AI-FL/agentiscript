@@ -1,0 +1,13 @@
+{
+  "name": "film-release",
+  "label": "film release",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "film release \u2014 a concept in cinema.",
+  "version": "2.1"
+}

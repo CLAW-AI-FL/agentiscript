@@ -1,0 +1,13 @@
+{
+  "name": "overhang",
+  "label": "Overhang",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Overhang \u2014 a concept in sports.",
+  "version": "2.1"
+}

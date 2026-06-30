@@ -1,0 +1,13 @@
+{
+  "name": "commissioning-pennant",
+  "label": "commissioning pennant",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "commissioning pennant \u2014 a concept in nautical.",
+  "version": "2.1"
+}

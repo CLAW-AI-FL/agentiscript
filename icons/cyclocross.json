@@ -1,0 +1,13 @@
+{
+  "name": "cyclocross",
+  "label": "Cyclocross",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Cyclocross \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "candles-per-square-foot",
+  "label": "candles per square foot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "candles per square foot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

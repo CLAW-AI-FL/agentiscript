@@ -1,0 +1,13 @@
+{
+  "name": "back-rank",
+  "label": "back rank",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "back rank \u2014 a concept in chess.",
+  "version": "2.1"
+}

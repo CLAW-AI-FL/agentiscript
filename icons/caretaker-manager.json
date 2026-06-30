@@ -1,0 +1,13 @@
+{
+  "name": "caretaker-manager",
+  "label": "Caretaker manager",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Caretaker manager \u2014 a concept in sports.",
+  "version": "2.1"
+}

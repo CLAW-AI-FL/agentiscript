@@ -1,0 +1,13 @@
+{
+  "name": "serac",
+  "label": "serac",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "serac \u2014 a concept in sports.",
+  "version": "2.1"
+}

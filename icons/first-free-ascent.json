@@ -1,0 +1,13 @@
+{
+  "name": "first-free-ascent",
+  "label": "first free ascent",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "first free ascent \u2014 a concept in sports.",
+  "version": "2.1"
+}

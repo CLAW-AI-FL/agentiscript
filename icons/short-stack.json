@@ -1,0 +1,13 @@
+{
+  "name": "short-stack",
+  "label": "short stack",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "short stack \u2014 a concept in sports.",
+  "version": "2.1"
+}

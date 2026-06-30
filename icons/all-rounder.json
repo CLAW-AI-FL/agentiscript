@@ -1,0 +1,13 @@
+{
+  "name": "all-rounder",
+  "label": "All-rounder",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "All-rounder \u2014 a concept in sports.",
+  "version": "2.1"
+}

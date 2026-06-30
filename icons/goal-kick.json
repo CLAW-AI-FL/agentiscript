@@ -1,0 +1,13 @@
+{
+  "name": "goal-kick",
+  "label": "Goal kick",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Goal kick \u2014 a concept in sports.",
+  "version": "2.1"
+}

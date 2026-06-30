@@ -1,0 +1,13 @@
+{
+  "name": "armageddon-game",
+  "label": "Armageddon game",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Armageddon game \u2014 a concept in chess.",
+  "version": "2.1"
+}

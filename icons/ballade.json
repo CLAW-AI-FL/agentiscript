@@ -1,0 +1,13 @@
+{
+  "name": "ballade",
+  "label": "Ballade",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Ballade \u2014 a concept in literature.",
+  "version": "2.1"
+}

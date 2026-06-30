@@ -1,0 +1,13 @@
+{
+  "name": "armor-belt",
+  "label": "armor belt",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "armor belt \u2014 a concept in nautical.",
+  "version": "2.1"
+}

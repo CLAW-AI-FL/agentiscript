@@ -1,0 +1,13 @@
+{
+  "name": "interzonal-tournament",
+  "label": "Interzonal tournament",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Interzonal tournament \u2014 a concept in chess.",
+  "version": "2.1"
+}

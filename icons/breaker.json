@@ -1,0 +1,13 @@
+{
+  "name": "breaker",
+  "label": "breaker",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "breaker \u2014 a concept in nautical.",
+  "version": "2.1"
+}

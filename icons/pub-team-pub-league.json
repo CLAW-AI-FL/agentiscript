@@ -1,0 +1,13 @@
+{
+  "name": "pub-team-pub-league",
+  "label": "Pub team / pub league",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pub team / pub league \u2014 a concept in sports.",
+  "version": "2.1"
+}

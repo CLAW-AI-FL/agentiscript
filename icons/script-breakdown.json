@@ -1,0 +1,13 @@
+{
+  "name": "script-breakdown",
+  "label": "script breakdown",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "script breakdown \u2014 a concept in cinema.",
+  "version": "2.1"
+}

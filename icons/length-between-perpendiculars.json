@@ -1,0 +1,13 @@
+{
+  "name": "length-between-perpendiculars",
+  "label": "length between perpendiculars",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "length between perpendiculars \u2014 a concept in nautical.",
+  "version": "2.1"
+}

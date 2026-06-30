@@ -1,0 +1,13 @@
+{
+  "name": "sunday-bag",
+  "label": "Sunday bag",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sunday bag \u2014 a concept in sports.",
+  "version": "2.1"
+}

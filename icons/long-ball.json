@@ -1,0 +1,13 @@
+{
+  "name": "long-ball",
+  "label": "Long ball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Long ball \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "freebase",
+  "label": "FreeBASE",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "FreeBASE \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ultras",
+  "label": "Ultras",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Ultras \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "relative-pin",
+  "label": "relative pin",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "relative pin \u2014 a concept in chess.",
+  "version": "2.1"
+}

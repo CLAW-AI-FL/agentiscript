@@ -1,0 +1,13 @@
+{
+  "name": "euro-step",
+  "label": "Euro step",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Euro step \u2014 a concept in sports.",
+  "version": "2.1"
+}

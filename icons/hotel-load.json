@@ -1,0 +1,13 @@
+{
+  "name": "hotel-load",
+  "label": "hotel load",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "hotel load \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "roadshow-theatrical-release",
+  "label": "roadshow theatrical release",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "roadshow theatrical release \u2014 a concept in cinema.",
+  "version": "2.1"
+}

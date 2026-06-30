@@ -1,0 +1,13 @@
+{
+  "name": "second",
+  "label": "second",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "second \u2014 a concept in chess.",
+  "version": "2.1"
+}

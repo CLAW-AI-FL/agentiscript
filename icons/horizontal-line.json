@@ -1,0 +1,13 @@
+{
+  "name": "horizontal-line",
+  "label": "horizontal line",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "horizontal line \u2014 a concept in chess.",
+  "version": "2.1"
+}

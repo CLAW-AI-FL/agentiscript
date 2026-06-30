@@ -1,0 +1,13 @@
+{
+  "name": "descriptive-notation",
+  "label": "descriptive notation",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "descriptive notation \u2014 a concept in chess.",
+  "version": "2.1"
+}

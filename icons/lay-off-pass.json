@@ -1,0 +1,13 @@
+{
+  "name": "lay-off-pass",
+  "label": "Lay-off pass",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Lay-off pass \u2014 a concept in sports.",
+  "version": "2.1"
+}

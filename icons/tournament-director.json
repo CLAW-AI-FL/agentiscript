@@ -1,0 +1,13 @@
+{
+  "name": "tournament-director",
+  "label": "tournament director",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "tournament director \u2014 a concept in chess.",
+  "version": "2.1"
+}

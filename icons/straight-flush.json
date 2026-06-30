@@ -1,0 +1,13 @@
+{
+  "name": "straight-flush",
+  "label": "straight flush",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "straight flush \u2014 a concept in sports.",
+  "version": "2.1"
+}

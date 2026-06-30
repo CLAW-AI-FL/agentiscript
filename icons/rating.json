@@ -1,0 +1,13 @@
+{
+  "name": "rating",
+  "label": "rating",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "rating \u2014 a concept in chess.",
+  "version": "2.1"
+}

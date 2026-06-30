@@ -1,0 +1,13 @@
+{
+  "name": "fluke",
+  "label": "fluke",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "fluke \u2014 a concept in nautical.",
+  "version": "2.1"
+}

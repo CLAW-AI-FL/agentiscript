@@ -1,0 +1,13 @@
+{
+  "name": "on-belay",
+  "label": "on belay",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "on belay \u2014 a concept in sports.",
+  "version": "2.1"
+}

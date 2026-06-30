@@ -1,0 +1,13 @@
+{
+  "name": "tabia",
+  "label": "tabia",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "tabia \u2014 a concept in chess.",
+  "version": "2.1"
+}

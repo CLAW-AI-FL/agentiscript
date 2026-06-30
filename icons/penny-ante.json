@@ -1,0 +1,13 @@
+{
+  "name": "penny-ante",
+  "label": "penny ante",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "penny ante \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "putback-dunk",
+  "label": "putback dunk",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "putback dunk \u2014 a concept in sports.",
+  "version": "2.1"
+}

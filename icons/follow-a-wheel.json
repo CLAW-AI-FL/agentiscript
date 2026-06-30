@@ -1,0 +1,13 @@
+{
+  "name": "follow-a-wheel",
+  "label": "Follow a wheel",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Follow a wheel \u2014 a concept in sports.",
+  "version": "2.1"
+}

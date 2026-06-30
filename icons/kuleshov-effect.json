@@ -1,0 +1,13 @@
+{
+  "name": "kuleshov-effect",
+  "label": "Kuleshov effect",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Kuleshov effect \u2014 a concept in cinema.",
+  "version": "2.1"
+}

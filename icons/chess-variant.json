@@ -1,0 +1,13 @@
+{
+  "name": "chess-variant",
+  "label": "chess variant",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "chess variant \u2014 a concept in chess.",
+  "version": "2.1"
+}

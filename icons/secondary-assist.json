@@ -1,0 +1,13 @@
+{
+  "name": "secondary-assist",
+  "label": "secondary assist",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "secondary assist \u2014 a concept in sports.",
+  "version": "2.1"
+}

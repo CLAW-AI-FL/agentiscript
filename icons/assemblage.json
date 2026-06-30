@@ -1,0 +1,13 @@
+{
+  "name": "assemblage",
+  "label": "assemblage",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "assemblage \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

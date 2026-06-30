@@ -1,0 +1,13 @@
+{
+  "name": "short-game",
+  "label": "Short game",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Short game \u2014 a concept in sports.",
+  "version": "2.1"
+}

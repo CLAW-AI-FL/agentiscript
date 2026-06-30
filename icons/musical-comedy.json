@@ -1,0 +1,13 @@
+{
+  "name": "musical-comedy",
+  "label": "musical comedy",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "musical comedy \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "daily-call-sheet",
+  "label": "daily call sheet",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "daily call sheet \u2014 a concept in cinema.",
+  "version": "2.1"
+}

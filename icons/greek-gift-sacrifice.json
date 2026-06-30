@@ -1,0 +1,13 @@
+{
+  "name": "greek-gift-sacrifice",
+  "label": "Greek gift sacrifice",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Greek gift sacrifice \u2014 a concept in chess.",
+  "version": "2.1"
+}

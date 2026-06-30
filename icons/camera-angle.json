@@ -1,0 +1,13 @@
+{
+  "name": "camera-angle",
+  "label": "camera angle",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "camera angle \u2014 a concept in cinema.",
+  "version": "2.1"
+}

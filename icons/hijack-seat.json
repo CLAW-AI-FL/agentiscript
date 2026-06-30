@@ -1,0 +1,13 @@
+{
+  "name": "hijack-seat",
+  "label": "hijack seat",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "hijack seat \u2014 a concept in sports.",
+  "version": "2.1"
+}

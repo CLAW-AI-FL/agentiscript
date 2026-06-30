@@ -1,0 +1,13 @@
+{
+  "name": "steed",
+  "label": "Steed",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Steed \u2014 a concept in sports.",
+  "version": "2.1"
+}

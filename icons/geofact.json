@@ -1,0 +1,13 @@
+{
+  "name": "geofact",
+  "label": "geofact",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "geofact \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

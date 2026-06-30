@@ -1,0 +1,13 @@
+{
+  "name": "fantasy",
+  "label": "fantasy",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "fantasy \u2014 a concept in literature.",
+  "version": "2.1"
+}

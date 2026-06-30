@@ -1,0 +1,13 @@
+{
+  "name": "bivy-bag",
+  "label": "bivy-bag",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bivy-bag \u2014 a concept in sports.",
+  "version": "2.1"
+}

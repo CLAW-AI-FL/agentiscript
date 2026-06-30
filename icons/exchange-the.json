@@ -1,0 +1,13 @@
+{
+  "name": "exchange-the",
+  "label": "exchange, the",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "exchange, the \u2014 a concept in chess.",
+  "version": "2.1"
+}

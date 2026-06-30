@@ -1,0 +1,13 @@
+{
+  "name": "positional-player",
+  "label": "positional player",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "positional player \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "forward-motion",
+  "label": "forward motion",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "forward motion \u2014 a concept in sports.",
+  "version": "2.1"
+}

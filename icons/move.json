@@ -1,0 +1,13 @@
+{
+  "name": "move",
+  "label": "move",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "move \u2014 a concept in chess.",
+  "version": "2.1"
+}

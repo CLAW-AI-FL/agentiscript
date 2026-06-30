@@ -1,0 +1,13 @@
+{
+  "name": "term-of-patent",
+  "label": "Term of patent",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Term of patent \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

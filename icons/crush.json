@@ -1,0 +1,13 @@
+{
+  "name": "crush",
+  "label": "crush",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "crush \u2014 a concept in chess.",
+  "version": "2.1"
+}

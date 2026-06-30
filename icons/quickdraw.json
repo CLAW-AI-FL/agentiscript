@@ -1,0 +1,13 @@
+{
+  "name": "quickdraw",
+  "label": "quickdraw",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "quickdraw \u2014 a concept in sports.",
+  "version": "2.1"
+}

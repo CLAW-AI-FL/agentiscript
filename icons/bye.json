@@ -1,0 +1,13 @@
+{
+  "name": "bye",
+  "label": "bye",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "bye \u2014 a concept in chess.",
+  "version": "2.1"
+}

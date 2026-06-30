@@ -1,0 +1,13 @@
+{
+  "name": "coxswain",
+  "label": "coxswain",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "coxswain \u2014 a concept in nautical.",
+  "version": "2.1"
+}

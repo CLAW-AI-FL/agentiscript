@@ -1,0 +1,13 @@
+{
+  "name": "losing-a-tempo",
+  "label": "losing a tempo",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "losing a tempo \u2014 a concept in chess.",
+  "version": "2.1"
+}

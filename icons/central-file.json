@@ -1,0 +1,13 @@
+{
+  "name": "central-file",
+  "label": "central file",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "central file \u2014 a concept in chess.",
+  "version": "2.1"
+}

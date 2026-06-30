@@ -1,0 +1,13 @@
+{
+  "name": "light-squares",
+  "label": "light squares",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "light squares \u2014 a concept in chess.",
+  "version": "2.1"
+}

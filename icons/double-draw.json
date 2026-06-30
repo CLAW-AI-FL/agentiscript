@@ -1,0 +1,13 @@
+{
+  "name": "double-draw",
+  "label": "double-draw",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "double-draw \u2014 a concept in sports.",
+  "version": "2.1"
+}

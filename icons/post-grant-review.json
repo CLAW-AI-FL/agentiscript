@@ -1,0 +1,13 @@
+{
+  "name": "post-grant-review",
+  "label": "Post-grant review",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Post-grant review \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

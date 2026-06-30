@@ -1,0 +1,13 @@
+{
+  "name": "split-screen",
+  "label": "Split screen",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Split screen \u2014 a concept in cinema.",
+  "version": "2.1"
+}

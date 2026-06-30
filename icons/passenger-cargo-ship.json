@@ -1,0 +1,13 @@
+{
+  "name": "passenger-cargo-ship",
+  "label": "passenger-cargo ship",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "passenger-cargo ship \u2014 a concept in nautical.",
+  "version": "2.1"
+}

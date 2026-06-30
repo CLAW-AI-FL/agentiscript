@@ -1,0 +1,13 @@
+{
+  "name": "camera-crane",
+  "label": "camera crane",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "camera crane \u2014 a concept in cinema.",
+  "version": "2.1"
+}

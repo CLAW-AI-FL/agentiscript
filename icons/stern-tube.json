@@ -1,0 +1,13 @@
+{
+  "name": "stern-tube",
+  "label": "stern tube",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "stern tube \u2014 a concept in nautical.",
+  "version": "2.1"
+}

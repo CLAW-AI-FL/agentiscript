@@ -1,0 +1,13 @@
+{
+  "name": "gammon-iron",
+  "label": "gammon iron",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "gammon iron \u2014 a concept in nautical.",
+  "version": "2.1"
+}

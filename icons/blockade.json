@@ -1,0 +1,13 @@
+{
+  "name": "blockade",
+  "label": "blockade",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "blockade \u2014 a concept in chess.",
+  "version": "2.1"
+}

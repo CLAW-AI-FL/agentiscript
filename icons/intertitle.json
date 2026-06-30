@@ -1,0 +1,13 @@
+{
+  "name": "intertitle",
+  "label": "intertitle",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "intertitle \u2014 a concept in cinema.",
+  "version": "2.1"
+}

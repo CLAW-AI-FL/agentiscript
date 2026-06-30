@@ -1,0 +1,13 @@
+{
+  "name": "yellow-jersey",
+  "label": "Yellow Jersey",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Yellow Jersey \u2014 a concept in sports.",
+  "version": "2.1"
+}

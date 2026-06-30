@@ -1,0 +1,13 @@
+{
+  "name": "nutmeg",
+  "label": "Nutmeg",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Nutmeg \u2014 a concept in sports.",
+  "version": "2.1"
+}

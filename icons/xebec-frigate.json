@@ -1,0 +1,13 @@
+{
+  "name": "xebec-frigate",
+  "label": "xebec-frigate",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "xebec-frigate \u2014 a concept in nautical.",
+  "version": "2.1"
+}

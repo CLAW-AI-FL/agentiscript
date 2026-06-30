@@ -1,0 +1,13 @@
+{
+  "name": "sac",
+  "label": "sac",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "sac \u2014 a concept in chess.",
+  "version": "2.1"
+}

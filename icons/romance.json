@@ -1,0 +1,13 @@
+{
+  "name": "romance",
+  "label": "Romance",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Romance \u2014 a concept in literature.",
+  "version": "2.1"
+}

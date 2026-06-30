@@ -1,0 +1,13 @@
+{
+  "name": "quintuple-double",
+  "label": "quintuple-double",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "quintuple-double \u2014 a concept in sports.",
+  "version": "2.1"
+}

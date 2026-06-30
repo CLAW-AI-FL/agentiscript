@@ -1,0 +1,13 @@
+{
+  "name": "downbound",
+  "label": "downbound",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "downbound \u2014 a concept in nautical.",
+  "version": "2.1"
+}

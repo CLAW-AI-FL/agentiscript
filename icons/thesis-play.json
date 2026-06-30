@@ -1,0 +1,13 @@
+{
+  "name": "thesis-play",
+  "label": "thesis play",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "thesis play \u2014 a concept in literature.",
+  "version": "2.1"
+}

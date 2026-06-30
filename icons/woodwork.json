@@ -1,0 +1,13 @@
+{
+  "name": "woodwork",
+  "label": "Woodwork",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Woodwork \u2014 a concept in sports.",
+  "version": "2.1"
+}

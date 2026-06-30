@@ -1,0 +1,13 @@
+{
+  "name": "unclear",
+  "label": "unclear",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "unclear \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "slow-roll",
+  "label": "slow roll",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "slow roll \u2014 a concept in sports.",
+  "version": "2.1"
+}

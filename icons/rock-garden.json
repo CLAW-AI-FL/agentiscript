@@ -1,0 +1,13 @@
+{
+  "name": "rock-garden",
+  "label": "Rock garden",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Rock garden \u2014 a concept in sports.",
+  "version": "2.1"
+}

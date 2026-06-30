@@ -1,0 +1,13 @@
+{
+  "name": "unsportsmanlike-foul",
+  "label": "unsportsmanlike foul",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "unsportsmanlike foul \u2014 a concept in sports.",
+  "version": "2.1"
+}

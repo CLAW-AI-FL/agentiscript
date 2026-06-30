@@ -1,0 +1,13 @@
+{
+  "name": "angle-plus-angle",
+  "label": "angle plus angle",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "angle plus angle \u2014 a concept in cinema.",
+  "version": "2.1"
+}

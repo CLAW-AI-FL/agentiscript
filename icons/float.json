@@ -1,0 +1,13 @@
+{
+  "name": "float",
+  "label": "float",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "float \u2014 a concept in sports.",
+  "version": "2.1"
+}

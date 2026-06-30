@@ -1,0 +1,13 @@
+{
+  "name": "flagging",
+  "label": "flagging",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "flagging \u2014 a concept in sports.",
+  "version": "2.1"
+}

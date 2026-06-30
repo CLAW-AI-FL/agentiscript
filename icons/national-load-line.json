@@ -1,0 +1,13 @@
+{
+  "name": "national-load-line",
+  "label": "National Load Line",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "National Load Line \u2014 a concept in nautical.",
+  "version": "2.1"
+}

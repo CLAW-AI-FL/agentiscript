@@ -1,0 +1,13 @@
+{
+  "name": "step-cutting",
+  "label": "step cutting",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "step cutting \u2014 a concept in sports.",
+  "version": "2.1"
+}

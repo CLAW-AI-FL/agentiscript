@@ -1,0 +1,13 @@
+{
+  "name": "fall-line",
+  "label": "Fall line",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Fall line \u2014 a concept in sports.",
+  "version": "2.1"
+}

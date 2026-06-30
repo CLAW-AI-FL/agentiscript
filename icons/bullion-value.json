@@ -1,0 +1,13 @@
+{
+  "name": "bullion-value",
+  "label": "bullion value",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "bullion value \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

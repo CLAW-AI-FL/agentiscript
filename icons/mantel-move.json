@@ -1,0 +1,13 @@
+{
+  "name": "mantel-move",
+  "label": "mantel move",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "mantel move \u2014 a concept in sports.",
+  "version": "2.1"
+}

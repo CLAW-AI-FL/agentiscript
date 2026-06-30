@@ -1,0 +1,13 @@
+{
+  "name": "scotch-foursomes",
+  "label": "Scotch foursomes",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Scotch foursomes \u2014 a concept in sports.",
+  "version": "2.1"
+}

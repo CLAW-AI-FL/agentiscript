@@ -1,0 +1,13 @@
+{
+  "name": "navigation-rules",
+  "label": "navigation rules",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "navigation rules \u2014 a concept in nautical.",
+  "version": "2.1"
+}

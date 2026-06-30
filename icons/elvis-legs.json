@@ -1,0 +1,13 @@
+{
+  "name": "elvis-legs",
+  "label": "Elvis legs",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Elvis legs \u2014 a concept in sports.",
+  "version": "2.1"
+}

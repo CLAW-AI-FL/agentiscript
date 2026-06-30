@@ -1,0 +1,13 @@
+{
+  "name": "string-bet",
+  "label": "string bet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "string bet \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "goal-line",
+  "label": "Goal line",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Goal line \u2014 a concept in sports.",
+  "version": "2.1"
+}

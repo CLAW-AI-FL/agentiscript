@@ -1,0 +1,13 @@
+{
+  "name": "chop-route",
+  "label": "chop route",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "chop route \u2014 a concept in sports.",
+  "version": "2.1"
+}

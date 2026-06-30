@@ -1,0 +1,13 @@
+{
+  "name": "sticky-bottle",
+  "label": "Sticky bottle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sticky bottle \u2014 a concept in sports.",
+  "version": "2.1"
+}

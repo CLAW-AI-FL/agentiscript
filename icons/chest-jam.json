@@ -1,0 +1,13 @@
+{
+  "name": "chest-jam",
+  "label": "chest jam",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "chest jam \u2014 a concept in sports.",
+  "version": "2.1"
+}

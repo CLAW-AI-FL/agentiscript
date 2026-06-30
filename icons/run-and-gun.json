@@ -1,0 +1,13 @@
+{
+  "name": "run-and-gun",
+  "label": "run and gun",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "run and gun \u2014 a concept in sports.",
+  "version": "2.1"
+}

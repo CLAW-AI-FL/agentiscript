@@ -1,0 +1,13 @@
+{
+  "name": "dialled",
+  "label": "dialled",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dialled \u2014 a concept in sports.",
+  "version": "2.1"
+}

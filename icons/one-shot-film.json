@@ -1,0 +1,13 @@
+{
+  "name": "one-shot-film",
+  "label": "one-shot film",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "one-shot film \u2014 a concept in cinema.",
+  "version": "2.1"
+}

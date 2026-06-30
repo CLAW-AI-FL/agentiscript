@@ -1,0 +1,13 @@
+{
+  "name": "arbiter",
+  "label": "arbiter",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "arbiter \u2014 a concept in chess.",
+  "version": "2.1"
+}

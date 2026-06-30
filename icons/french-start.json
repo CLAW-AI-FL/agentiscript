@@ -1,0 +1,13 @@
+{
+  "name": "french-start",
+  "label": "French start",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "French start \u2014 a concept in sports.",
+  "version": "2.1"
+}

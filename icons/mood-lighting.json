@@ -1,0 +1,13 @@
+{
+  "name": "mood-lighting",
+  "label": "mood lighting",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "mood lighting \u2014 a concept in cinema.",
+  "version": "2.1"
+}

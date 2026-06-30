@@ -1,0 +1,13 @@
+{
+  "name": "pillarboxing",
+  "label": "pillarboxing",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "pillarboxing \u2014 a concept in cinema.",
+  "version": "2.1"
+}

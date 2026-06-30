@@ -1,0 +1,13 @@
+{
+  "name": "double-barrel",
+  "label": "double barrel",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "double barrel \u2014 a concept in sports.",
+  "version": "2.1"
+}

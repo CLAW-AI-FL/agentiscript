@@ -1,0 +1,13 @@
+{
+  "name": "scrimmage",
+  "label": "Scrimmage",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Scrimmage \u2014 a concept in sports.",
+  "version": "2.1"
+}

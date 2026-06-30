@@ -1,0 +1,13 @@
+{
+  "name": "pd",
+  "label": "P&D",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "P&D \u2014 a concept in finance.",
+  "version": "2.1"
+}

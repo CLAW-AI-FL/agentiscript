@@ -1,0 +1,13 @@
+{
+  "name": "home-and-away",
+  "label": "Home and away",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Home and away \u2014 a concept in sports.",
+  "version": "2.1"
+}

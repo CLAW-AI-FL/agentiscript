@@ -1,0 +1,13 @@
+{
+  "name": "pairing",
+  "label": "pairing",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "pairing \u2014 a concept in chess.",
+  "version": "2.1"
+}

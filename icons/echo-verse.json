@@ -1,0 +1,13 @@
+{
+  "name": "echo-verse",
+  "label": "echo verse",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "echo verse \u2014 a concept in literature.",
+  "version": "2.1"
+}

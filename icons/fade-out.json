@@ -1,0 +1,13 @@
+{
+  "name": "fade-out",
+  "label": "fade-out",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "fade-out \u2014 a concept in cinema.",
+  "version": "2.1"
+}

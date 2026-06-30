@@ -1,0 +1,13 @@
+{
+  "name": "extended-position-description",
+  "label": "Extended Position Description",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Extended Position Description \u2014 a concept in chess.",
+  "version": "2.1"
+}

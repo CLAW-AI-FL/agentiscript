@@ -1,0 +1,13 @@
+{
+  "name": "pick-up",
+  "label": "pick-up",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pick-up \u2014 a concept in sports.",
+  "version": "2.1"
+}

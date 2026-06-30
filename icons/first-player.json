@@ -1,0 +1,13 @@
+{
+  "name": "first-player",
+  "label": "first player",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "first player \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lammer",
+  "label": "lammer",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "lammer \u2014 a concept in sports.",
+  "version": "2.1"
+}

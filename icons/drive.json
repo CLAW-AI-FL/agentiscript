@@ -1,0 +1,13 @@
+{
+  "name": "drive",
+  "label": "drive",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "drive \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "freezeout",
+  "label": "freezeout",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "freezeout \u2014 a concept in sports.",
+  "version": "2.1"
+}

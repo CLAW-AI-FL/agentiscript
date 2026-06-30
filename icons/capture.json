@@ -1,0 +1,13 @@
+{
+  "name": "capture",
+  "label": "capture",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "capture \u2014 a concept in chess.",
+  "version": "2.1"
+}

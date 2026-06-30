@@ -1,0 +1,13 @@
+{
+  "name": "banana-ball",
+  "label": "Banana-ball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Banana-ball \u2014 a concept in sports.",
+  "version": "2.1"
+}

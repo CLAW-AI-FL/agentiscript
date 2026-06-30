@@ -1,0 +1,13 @@
+{
+  "name": "uiaa-scale-of-difficulty",
+  "label": "UIAA Scale of Difficulty",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "UIAA Scale of Difficulty \u2014 a concept in sports.",
+  "version": "2.1"
+}

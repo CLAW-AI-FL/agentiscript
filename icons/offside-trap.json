@@ -1,0 +1,13 @@
+{
+  "name": "offside-trap",
+  "label": "Offside trap",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Offside trap \u2014 a concept in sports.",
+  "version": "2.1"
+}

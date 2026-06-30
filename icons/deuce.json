@@ -1,0 +1,13 @@
+{
+  "name": "deuce",
+  "label": "deuce",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "deuce \u2014 a concept in sports.",
+  "version": "2.1"
+}

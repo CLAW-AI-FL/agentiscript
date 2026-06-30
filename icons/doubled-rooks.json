@@ -1,0 +1,13 @@
+{
+  "name": "doubled-rooks",
+  "label": "doubled rooks",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "doubled rooks \u2014 a concept in chess.",
+  "version": "2.1"
+}

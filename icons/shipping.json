@@ -1,0 +1,13 @@
+{
+  "name": "shipping",
+  "label": "shipping",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "shipping \u2014 a concept in nautical.",
+  "version": "2.1"
+}

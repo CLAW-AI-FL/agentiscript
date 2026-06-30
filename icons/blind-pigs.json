@@ -1,0 +1,13 @@
+{
+  "name": "blind-pigs",
+  "label": "blind pigs",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "blind pigs \u2014 a concept in chess.",
+  "version": "2.1"
+}

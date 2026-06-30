@@ -1,0 +1,13 @@
+{
+  "name": "moving-violation",
+  "label": "moving violation",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "moving violation \u2014 a concept in sports.",
+  "version": "2.1"
+}

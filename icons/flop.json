@@ -1,0 +1,13 @@
+{
+  "name": "flop",
+  "label": "flop",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "flop \u2014 a concept in sports.",
+  "version": "2.1"
+}

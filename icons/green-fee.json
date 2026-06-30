@@ -1,0 +1,13 @@
+{
+  "name": "green-fee",
+  "label": "Green fee",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Green fee \u2014 a concept in sports.",
+  "version": "2.1"
+}

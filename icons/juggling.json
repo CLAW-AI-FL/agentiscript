@@ -1,0 +1,13 @@
+{
+  "name": "juggling",
+  "label": "Juggling",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Juggling \u2014 a concept in sports.",
+  "version": "2.1"
+}

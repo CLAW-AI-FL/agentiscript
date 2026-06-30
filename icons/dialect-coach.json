@@ -1,0 +1,13 @@
+{
+  "name": "dialect-coach",
+  "label": "dialect coach",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "dialect coach \u2014 a concept in cinema.",
+  "version": "2.1"
+}

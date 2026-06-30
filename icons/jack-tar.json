@@ -1,0 +1,13 @@
+{
+  "name": "jack-tar",
+  "label": "jack tar",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "jack tar \u2014 a concept in nautical.",
+  "version": "2.1"
+}

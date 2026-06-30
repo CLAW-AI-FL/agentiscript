@@ -1,0 +1,13 @@
+{
+  "name": "sensus-communis",
+  "label": "Sensus communis",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Sensus communis \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

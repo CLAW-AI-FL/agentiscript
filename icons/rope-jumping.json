@@ -1,0 +1,13 @@
+{
+  "name": "rope-jumping",
+  "label": "rope jumping",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rope jumping \u2014 a concept in sports.",
+  "version": "2.1"
+}

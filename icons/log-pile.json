@@ -1,0 +1,13 @@
+{
+  "name": "log-pile",
+  "label": "Log pile",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Log pile \u2014 a concept in sports.",
+  "version": "2.1"
+}

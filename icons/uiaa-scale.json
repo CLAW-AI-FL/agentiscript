@@ -1,0 +1,13 @@
+{
+  "name": "uiaa-scale",
+  "label": "UIAA scale",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "UIAA scale \u2014 a concept in sports.",
+  "version": "2.1"
+}

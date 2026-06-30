@@ -1,0 +1,13 @@
+{
+  "name": "chess-set",
+  "label": "chess set",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "chess set \u2014 a concept in chess.",
+  "version": "2.1"
+}

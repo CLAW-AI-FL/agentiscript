@@ -1,0 +1,13 @@
+{
+  "name": "ship-breaking",
+  "label": "ship breaking",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ship breaking \u2014 a concept in nautical.",
+  "version": "2.1"
+}

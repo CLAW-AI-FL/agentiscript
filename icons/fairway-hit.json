@@ -1,0 +1,13 @@
+{
+  "name": "fairway-hit",
+  "label": "fairway hit",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "fairway hit \u2014 a concept in sports.",
+  "version": "2.1"
+}

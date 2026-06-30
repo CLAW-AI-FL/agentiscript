@@ -1,0 +1,13 @@
+{
+  "name": "alpine-knee",
+  "label": "alpine knee",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "alpine knee \u2014 a concept in sports.",
+  "version": "2.1"
+}

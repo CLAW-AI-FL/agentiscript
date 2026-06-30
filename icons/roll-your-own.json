@@ -1,0 +1,13 @@
+{
+  "name": "roll-your-own",
+  "label": "roll your own",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "roll your own \u2014 a concept in sports.",
+  "version": "2.1"
+}

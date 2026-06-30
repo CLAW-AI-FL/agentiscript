@@ -1,0 +1,13 @@
+{
+  "name": "heart-wipe",
+  "label": "heart wipe",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "heart wipe \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "script-supervisor",
+  "label": "script supervisor",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "script supervisor \u2014 a concept in cinema.",
+  "version": "2.1"
+}

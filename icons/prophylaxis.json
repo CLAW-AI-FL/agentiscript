@@ -1,0 +1,13 @@
+{
+  "name": "prophylaxis",
+  "label": "prophylaxis",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "prophylaxis \u2014 a concept in chess.",
+  "version": "2.1"
+}

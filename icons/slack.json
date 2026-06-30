@@ -1,0 +1,13 @@
+{
+  "name": "slack",
+  "label": "slack",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "slack \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "miniature",
+  "label": "miniature",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "miniature \u2014 a concept in chess.",
+  "version": "2.1"
+}

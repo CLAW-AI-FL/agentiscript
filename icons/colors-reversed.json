@@ -1,0 +1,13 @@
+{
+  "name": "colors-reversed",
+  "label": "colors reversed",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "colors reversed \u2014 a concept in chess.",
+  "version": "2.1"
+}

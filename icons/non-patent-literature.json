@@ -1,0 +1,13 @@
+{
+  "name": "non-patent-literature",
+  "label": "Non-patent literature",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Non-patent literature \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

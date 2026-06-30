@@ -1,0 +1,13 @@
+{
+  "name": "microcosm-theatre",
+  "label": "Microcosm Theatre",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Microcosm Theatre \u2014 a concept in literature.",
+  "version": "2.1"
+}

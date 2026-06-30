@@ -1,0 +1,13 @@
+{
+  "name": "parcel",
+  "label": "Parcel",
+  "category": "law",
+  "tags": [
+    "law",
+    "legal",
+    "justice"
+  ],
+  "source": "law",
+  "description": "Parcel \u2014 a concept in law.",
+  "version": "2.1"
+}

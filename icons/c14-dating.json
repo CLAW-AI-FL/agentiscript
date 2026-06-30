@@ -1,0 +1,13 @@
+{
+  "name": "c14-dating",
+  "label": "C14 dating",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "C14 dating \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

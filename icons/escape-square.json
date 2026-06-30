@@ -1,0 +1,13 @@
+{
+  "name": "escape-square",
+  "label": "escape square",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "escape square \u2014 a concept in chess.",
+  "version": "2.1"
+}

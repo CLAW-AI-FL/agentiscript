@@ -1,0 +1,13 @@
+{
+  "name": "youth-academy",
+  "label": "Youth academy",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Youth academy \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "road-rash",
+  "label": "Road rash",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Road rash \u2014 a concept in sports.",
+  "version": "2.1"
+}

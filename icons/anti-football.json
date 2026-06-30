@@ -1,0 +1,13 @@
+{
+  "name": "anti-football",
+  "label": "Anti-football",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Anti-football \u2014 a concept in sports.",
+  "version": "2.1"
+}

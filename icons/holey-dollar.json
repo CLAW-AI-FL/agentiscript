@@ -1,0 +1,13 @@
+{
+  "name": "holey-dollar",
+  "label": "holey dollar",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "holey dollar \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

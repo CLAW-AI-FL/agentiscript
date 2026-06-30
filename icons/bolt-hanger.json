@@ -1,0 +1,13 @@
+{
+  "name": "bolt-hanger",
+  "label": "bolt hanger",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bolt hanger \u2014 a concept in sports.",
+  "version": "2.1"
+}

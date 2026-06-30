@@ -1,0 +1,13 @@
+{
+  "name": "grapeshot",
+  "label": "grapeshot",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "grapeshot \u2014 a concept in nautical.",
+  "version": "2.1"
+}

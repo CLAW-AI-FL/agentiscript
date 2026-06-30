@@ -1,0 +1,13 @@
+{
+  "name": "supporter",
+  "label": "Supporter",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Supporter \u2014 a concept in sports.",
+  "version": "2.1"
+}

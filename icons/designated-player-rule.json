@@ -1,0 +1,13 @@
+{
+  "name": "designated-player-rule",
+  "label": "Designated player rule",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Designated player rule \u2014 a concept in sports.",
+  "version": "2.1"
+}

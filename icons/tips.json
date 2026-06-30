@@ -1,0 +1,13 @@
+{
+  "name": "tips",
+  "label": "Tips",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Tips \u2014 a concept in sports.",
+  "version": "2.1"
+}

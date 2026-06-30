@@ -1,0 +1,13 @@
+{
+  "name": "rhyme-royal",
+  "label": "rhyme royal",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "rhyme royal \u2014 a concept in literature.",
+  "version": "2.1"
+}

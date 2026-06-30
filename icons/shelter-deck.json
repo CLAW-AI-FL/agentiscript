@@ -1,0 +1,13 @@
+{
+  "name": "shelter-deck",
+  "label": "shelter deck",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "shelter deck \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "protagonist",
+  "label": "protagonist",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "protagonist \u2014 a concept in literature.",
+  "version": "2.1"
+}

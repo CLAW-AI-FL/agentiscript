@@ -1,0 +1,13 @@
+{
+  "name": "colorbound",
+  "label": "colorbound",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "colorbound \u2014 a concept in chess.",
+  "version": "2.1"
+}

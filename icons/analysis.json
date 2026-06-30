@@ -1,0 +1,13 @@
+{
+  "name": "analysis",
+  "label": "analysis",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "analysis \u2014 a concept in chess.",
+  "version": "2.1"
+}

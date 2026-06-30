@@ -1,0 +1,13 @@
+{
+  "name": "gimme",
+  "label": "Gimme",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Gimme \u2014 a concept in sports.",
+  "version": "2.1"
+}

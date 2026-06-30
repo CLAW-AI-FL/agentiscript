@@ -1,0 +1,13 @@
+{
+  "name": "post-mortem",
+  "label": "post mortem",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "post mortem \u2014 a concept in chess.",
+  "version": "2.1"
+}

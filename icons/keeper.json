@@ -1,0 +1,13 @@
+{
+  "name": "keeper",
+  "label": "Keeper",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Keeper \u2014 a concept in sports.",
+  "version": "2.1"
+}

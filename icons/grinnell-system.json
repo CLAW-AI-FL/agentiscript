@@ -1,0 +1,13 @@
+{
+  "name": "grinnell-system",
+  "label": "Grinnell System",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Grinnell System \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "culture",
+  "label": "culture",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "culture \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

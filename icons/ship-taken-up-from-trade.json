@@ -1,0 +1,13 @@
+{
+  "name": "ship-taken-up-from-trade",
+  "label": "ship taken up from trade",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ship taken up from trade \u2014 a concept in nautical.",
+  "version": "2.1"
+}

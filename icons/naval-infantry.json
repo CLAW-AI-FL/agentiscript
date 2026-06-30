@@ -1,0 +1,13 @@
+{
+  "name": "naval-infantry",
+  "label": "naval infantry",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "naval infantry \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "static-board",
+  "label": "static board",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "static board \u2014 a concept in sports.",
+  "version": "2.1"
+}

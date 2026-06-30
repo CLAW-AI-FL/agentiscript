@@ -1,0 +1,13 @@
+{
+  "name": "royal-flush",
+  "label": "royal flush",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "royal flush \u2014 a concept in sports.",
+  "version": "2.1"
+}

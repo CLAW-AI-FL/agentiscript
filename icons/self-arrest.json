@@ -1,0 +1,13 @@
+{
+  "name": "self-arrest",
+  "label": "self-arrest",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "self-arrest \u2014 a concept in sports.",
+  "version": "2.1"
+}

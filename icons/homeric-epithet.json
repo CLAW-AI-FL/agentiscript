@@ -1,0 +1,13 @@
+{
+  "name": "homeric-epithet",
+  "label": "Homeric epithet",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Homeric epithet \u2014 a concept in literature.",
+  "version": "2.1"
+}

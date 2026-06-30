@@ -1,0 +1,13 @@
+{
+  "name": "structured",
+  "label": "structured",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "structured \u2014 a concept in sports.",
+  "version": "2.1"
+}

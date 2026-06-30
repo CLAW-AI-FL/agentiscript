@@ -1,0 +1,13 @@
+{
+  "name": "forced-bet",
+  "label": "forced bet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "forced bet \u2014 a concept in sports.",
+  "version": "2.1"
+}

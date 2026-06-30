@@ -1,0 +1,13 @@
+{
+  "name": "standard-notation",
+  "label": "standard notation",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "standard notation \u2014 a concept in chess.",
+  "version": "2.1"
+}

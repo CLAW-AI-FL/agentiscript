@@ -1,0 +1,13 @@
+{
+  "name": "lead-climber",
+  "label": "lead climber",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "lead climber \u2014 a concept in sports.",
+  "version": "2.1"
+}

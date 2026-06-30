@@ -1,0 +1,13 @@
+{
+  "name": "tiebreaks",
+  "label": "tiebreaks",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "tiebreaks \u2014 a concept in chess.",
+  "version": "2.1"
+}

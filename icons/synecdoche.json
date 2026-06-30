@@ -1,0 +1,13 @@
+{
+  "name": "synecdoche",
+  "label": "synecdoche",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "synecdoche \u2014 a concept in literature.",
+  "version": "2.1"
+}

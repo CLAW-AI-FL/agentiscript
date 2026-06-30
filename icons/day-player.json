@@ -1,0 +1,13 @@
+{
+  "name": "day-player",
+  "label": "day player",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "day player \u2014 a concept in cinema.",
+  "version": "2.1"
+}

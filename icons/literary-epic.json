@@ -1,0 +1,13 @@
+{
+  "name": "literary-epic",
+  "label": "literary epic",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "literary epic \u2014 a concept in literature.",
+  "version": "2.1"
+}

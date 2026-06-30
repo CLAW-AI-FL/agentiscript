@@ -1,0 +1,13 @@
+{
+  "name": "calcutta",
+  "label": "Calcutta",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Calcutta \u2014 a concept in sports.",
+  "version": "2.1"
+}

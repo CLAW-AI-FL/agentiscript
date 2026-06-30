@@ -1,0 +1,13 @@
+{
+  "name": "loss",
+  "label": "loss",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "loss \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "open-registry",
+  "label": "open registry",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "open registry \u2014 a concept in nautical.",
+  "version": "2.1"
+}

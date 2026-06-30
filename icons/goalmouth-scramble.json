@@ -1,0 +1,13 @@
+{
+  "name": "goalmouth-scramble",
+  "label": "Goalmouth scramble",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Goalmouth scramble \u2014 a concept in sports.",
+  "version": "2.1"
+}

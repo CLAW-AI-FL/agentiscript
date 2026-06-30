@@ -1,0 +1,13 @@
+{
+  "name": "elevator-team",
+  "label": "Elevator team",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Elevator team \u2014 a concept in sports.",
+  "version": "2.1"
+}

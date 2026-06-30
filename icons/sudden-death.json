@@ -1,0 +1,13 @@
+{
+  "name": "sudden-death",
+  "label": "sudden death",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "sudden death \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "blocker",
+  "label": "blocker",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "blocker \u2014 a concept in sports.",
+  "version": "2.1"
+}

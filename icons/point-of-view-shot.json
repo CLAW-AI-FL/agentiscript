@@ -1,0 +1,13 @@
+{
+  "name": "point-of-view-shot",
+  "label": "Point of view shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Point of view shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

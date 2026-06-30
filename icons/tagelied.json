@@ -1,0 +1,13 @@
+{
+  "name": "tagelied",
+  "label": "Tagelied",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Tagelied \u2014 a concept in literature.",
+  "version": "2.1"
+}

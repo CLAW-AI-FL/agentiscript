@@ -1,0 +1,13 @@
+{
+  "name": "ace-in-the-hole",
+  "label": "ace in the hole",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "ace in the hole \u2014 a concept in sports.",
+  "version": "2.1"
+}

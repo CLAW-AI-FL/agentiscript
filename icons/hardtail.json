@@ -1,0 +1,13 @@
+{
+  "name": "hardtail",
+  "label": "Hardtail",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hardtail \u2014 a concept in sports.",
+  "version": "2.1"
+}

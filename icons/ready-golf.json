@@ -1,0 +1,13 @@
+{
+  "name": "ready-golf",
+  "label": "Ready golf",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Ready golf \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bad-beat",
+  "label": "bad beat",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bad beat \u2014 a concept in sports.",
+  "version": "2.1"
+}

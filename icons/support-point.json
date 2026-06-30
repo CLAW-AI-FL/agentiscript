@@ -1,0 +1,13 @@
+{
+  "name": "support-point",
+  "label": "support point",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "support point \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "term-n",
+  "label": "term= N",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "term= N \u2014 a concept in chess.",
+  "version": "2.1"
+}

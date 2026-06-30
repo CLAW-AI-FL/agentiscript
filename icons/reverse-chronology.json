@@ -1,0 +1,13 @@
+{
+  "name": "reverse-chronology",
+  "label": "reverse chronology",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "reverse chronology \u2014 a concept in literature.",
+  "version": "2.1"
+}

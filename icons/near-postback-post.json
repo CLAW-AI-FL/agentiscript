@@ -1,0 +1,13 @@
+{
+  "name": "near-postback-post",
+  "label": "Near post/Back post",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Near post/Back post \u2014 a concept in sports.",
+  "version": "2.1"
+}

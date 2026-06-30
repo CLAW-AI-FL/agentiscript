@@ -1,0 +1,13 @@
+{
+  "name": "semi-open-game",
+  "label": "Semi-Open Game",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Semi-Open Game \u2014 a concept in chess.",
+  "version": "2.1"
+}

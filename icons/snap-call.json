@@ -1,0 +1,13 @@
+{
+  "name": "snap-call",
+  "label": "snap call",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "snap call \u2014 a concept in sports.",
+  "version": "2.1"
+}

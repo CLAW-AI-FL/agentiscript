@@ -1,0 +1,13 @@
+{
+  "name": "three-points-for-a-win",
+  "label": "Three points for a win",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Three points for a win \u2014 a concept in sports.",
+  "version": "2.1"
+}

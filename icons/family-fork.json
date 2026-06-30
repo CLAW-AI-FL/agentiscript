@@ -1,0 +1,13 @@
+{
+  "name": "family-fork",
+  "label": "family fork",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "family fork \u2014 a concept in chess.",
+  "version": "2.1"
+}

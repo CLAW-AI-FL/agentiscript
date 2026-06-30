@@ -1,0 +1,13 @@
+{
+  "name": "best-boy",
+  "label": "best boy",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "best boy \u2014 a concept in cinema.",
+  "version": "2.1"
+}

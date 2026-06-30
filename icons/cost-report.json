@@ -1,0 +1,13 @@
+{
+  "name": "cost-report",
+  "label": "cost report",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "cost report \u2014 a concept in cinema.",
+  "version": "2.1"
+}

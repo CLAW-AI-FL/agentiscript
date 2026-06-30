@@ -1,0 +1,13 @@
+{
+  "name": "fixed",
+  "label": "Fixed",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Fixed \u2014 a concept in sports.",
+  "version": "2.1"
+}

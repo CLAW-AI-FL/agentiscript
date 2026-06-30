@@ -1,0 +1,13 @@
+{
+  "name": "downswing",
+  "label": "downswing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "downswing \u2014 a concept in sports.",
+  "version": "2.1"
+}

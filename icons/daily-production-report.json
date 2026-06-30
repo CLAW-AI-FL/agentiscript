@@ -1,0 +1,13 @@
+{
+  "name": "daily-production-report",
+  "label": "daily production report",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "daily production report \u2014 a concept in cinema.",
+  "version": "2.1"
+}

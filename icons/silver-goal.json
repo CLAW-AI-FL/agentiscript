@@ -1,0 +1,13 @@
+{
+  "name": "silver-goal",
+  "label": "Silver goal",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Silver goal \u2014 a concept in sports.",
+  "version": "2.1"
+}

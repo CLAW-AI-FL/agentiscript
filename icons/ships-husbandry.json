@@ -1,0 +1,13 @@
+{
+  "name": "ships-husbandry",
+  "label": "ships husbandry",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ships husbandry \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "engine-order-telegraph",
+  "label": "engine order telegraph",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "engine order telegraph \u2014 a concept in nautical.",
+  "version": "2.1"
+}

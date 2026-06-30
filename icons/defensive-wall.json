@@ -1,0 +1,13 @@
+{
+  "name": "defensive-wall",
+  "label": "Defensive wall",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Defensive wall \u2014 a concept in sports.",
+  "version": "2.1"
+}

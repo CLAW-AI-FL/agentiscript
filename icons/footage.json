@@ -1,0 +1,13 @@
+{
+  "name": "footage",
+  "label": "footage",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "footage \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "trapped-piece",
+  "label": "trapped piece",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "trapped piece \u2014 a concept in chess.",
+  "version": "2.1"
+}

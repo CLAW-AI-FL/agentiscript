@@ -1,0 +1,13 @@
+{
+  "name": "rimshot",
+  "label": "rimshot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rimshot \u2014 a concept in sports.",
+  "version": "2.1"
+}

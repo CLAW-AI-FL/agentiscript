@@ -1,0 +1,13 @@
+{
+  "name": "paceline",
+  "label": "Paceline",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Paceline \u2014 a concept in sports.",
+  "version": "2.1"
+}

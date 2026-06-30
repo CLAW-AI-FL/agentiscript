@@ -1,0 +1,13 @@
+{
+  "name": "pyramid",
+  "label": "Pyramid",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pyramid \u2014 a concept in sports.",
+  "version": "2.1"
+}

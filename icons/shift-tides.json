@@ -1,0 +1,13 @@
+{
+  "name": "shift-tides",
+  "label": "shift tides",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "shift tides \u2014 a concept in nautical.",
+  "version": "2.1"
+}

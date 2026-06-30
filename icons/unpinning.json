@@ -1,0 +1,13 @@
+{
+  "name": "unpinning",
+  "label": "unpinning",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "unpinning \u2014 a concept in chess.",
+  "version": "2.1"
+}

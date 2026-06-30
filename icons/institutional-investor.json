@@ -1,0 +1,13 @@
+{
+  "name": "institutional-investor",
+  "label": "Institutional investor",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Institutional investor \u2014 a concept in finance.",
+  "version": "2.1"
+}

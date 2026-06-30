@@ -1,0 +1,13 @@
+{
+  "name": "sand-wedge",
+  "label": "Sand wedge",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sand wedge \u2014 a concept in sports.",
+  "version": "2.1"
+}

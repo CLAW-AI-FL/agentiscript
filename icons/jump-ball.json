@@ -1,0 +1,13 @@
+{
+  "name": "jump-ball",
+  "label": "jump ball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "jump ball \u2014 a concept in sports.",
+  "version": "2.1"
+}

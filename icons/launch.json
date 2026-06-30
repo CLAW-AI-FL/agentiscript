@@ -1,0 +1,13 @@
+{
+  "name": "launch",
+  "label": "launch",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "launch \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "three-point-field-goal",
+  "label": "three-point field goal",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "three-point field goal \u2014 a concept in sports.",
+  "version": "2.1"
+}

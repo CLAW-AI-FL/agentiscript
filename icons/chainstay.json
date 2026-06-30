@@ -1,0 +1,13 @@
+{
+  "name": "chainstay",
+  "label": "Chainstay",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Chainstay \u2014 a concept in sports.",
+  "version": "2.1"
+}

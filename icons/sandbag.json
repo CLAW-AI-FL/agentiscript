@@ -1,0 +1,13 @@
+{
+  "name": "sandbag",
+  "label": "sandbag",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "sandbag \u2014 a concept in sports.",
+  "version": "2.1"
+}

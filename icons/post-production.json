@@ -1,0 +1,13 @@
+{
+  "name": "post-production",
+  "label": "post-production",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "post-production \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "loose-position",
+  "label": "loose position",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "loose position \u2014 a concept in chess.",
+  "version": "2.1"
+}

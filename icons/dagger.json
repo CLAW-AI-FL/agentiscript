@@ -1,0 +1,13 @@
+{
+  "name": "dagger",
+  "label": "dagger",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dagger \u2014 a concept in sports.",
+  "version": "2.1"
+}

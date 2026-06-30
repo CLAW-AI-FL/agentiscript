@@ -1,0 +1,13 @@
+{
+  "name": "dutch-tilt",
+  "label": "Dutch tilt",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Dutch tilt \u2014 a concept in cinema.",
+  "version": "2.1"
+}

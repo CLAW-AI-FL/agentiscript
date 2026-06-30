@@ -1,0 +1,13 @@
+{
+  "name": "game-flow",
+  "label": "game flow",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "game flow \u2014 a concept in sports.",
+  "version": "2.1"
+}

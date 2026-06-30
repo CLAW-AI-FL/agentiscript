@@ -1,0 +1,13 @@
+{
+  "name": "antiquities",
+  "label": "antiquities",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "antiquities \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

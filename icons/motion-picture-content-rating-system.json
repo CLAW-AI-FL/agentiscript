@@ -1,0 +1,13 @@
+{
+  "name": "motion-picture-content-rating-system",
+  "label": "motion picture content rating system",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "motion picture content rating system \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "grinder",
+  "label": "grinder",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "grinder \u2014 a concept in sports.",
+  "version": "2.1"
+}

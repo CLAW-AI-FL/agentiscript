@@ -1,0 +1,13 @@
+{
+  "name": "second-pair",
+  "label": "second pair",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "second pair \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pocket-battleship",
+  "label": "pocket battleship",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "pocket battleship \u2014 a concept in nautical.",
+  "version": "2.1"
+}

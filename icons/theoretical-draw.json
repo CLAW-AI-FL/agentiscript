@@ -1,0 +1,13 @@
+{
+  "name": "theoretical-draw",
+  "label": "theoretical draw",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "theoretical draw \u2014 a concept in chess.",
+  "version": "2.1"
+}

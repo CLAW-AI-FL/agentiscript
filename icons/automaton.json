@@ -1,0 +1,13 @@
+{
+  "name": "automaton",
+  "label": "automaton",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "automaton \u2014 a concept in chess.",
+  "version": "2.1"
+}

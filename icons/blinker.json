@@ -1,0 +1,13 @@
+{
+  "name": "blinker",
+  "label": "blinker",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "blinker \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dispatch-boat",
+  "label": "dispatch boat",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "dispatch boat \u2014 a concept in nautical.",
+  "version": "2.1"
+}

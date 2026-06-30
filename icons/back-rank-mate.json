@@ -1,0 +1,13 @@
+{
+  "name": "back-rank-mate",
+  "label": "back-rank mate",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "back-rank mate \u2014 a concept in chess.",
+  "version": "2.1"
+}

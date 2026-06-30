@@ -1,0 +1,13 @@
+{
+  "name": "bullarding",
+  "label": "Bullarding",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bullarding \u2014 a concept in sports.",
+  "version": "2.1"
+}

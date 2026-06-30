@@ -1,0 +1,13 @@
+{
+  "name": "film-score",
+  "label": "film score",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "film score \u2014 a concept in cinema.",
+  "version": "2.1"
+}

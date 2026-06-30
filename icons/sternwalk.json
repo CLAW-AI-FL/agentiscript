@@ -1,0 +1,13 @@
+{
+  "name": "sternwalk",
+  "label": "sternwalk",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "sternwalk \u2014 a concept in nautical.",
+  "version": "2.1"
+}

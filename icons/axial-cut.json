@@ -1,0 +1,13 @@
+{
+  "name": "axial-cut",
+  "label": "axial cut",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "axial cut \u2014 a concept in cinema.",
+  "version": "2.1"
+}

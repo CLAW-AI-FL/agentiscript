@@ -1,0 +1,13 @@
+{
+  "name": "slide-tackle",
+  "label": "Slide tackle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Slide tackle \u2014 a concept in sports.",
+  "version": "2.1"
+}

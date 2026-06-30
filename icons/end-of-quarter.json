@@ -1,0 +1,13 @@
+{
+  "name": "end-of-quarter",
+  "label": "end of quarter",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "end of quarter \u2014 a concept in sports.",
+  "version": "2.1"
+}

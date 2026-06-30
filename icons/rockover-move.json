@@ -1,0 +1,13 @@
+{
+  "name": "rockover-move",
+  "label": "rockover move",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rockover move \u2014 a concept in sports.",
+  "version": "2.1"
+}

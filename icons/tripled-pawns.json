@@ -1,0 +1,13 @@
+{
+  "name": "tripled-pawns",
+  "label": "tripled pawns",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "tripled pawns \u2014 a concept in chess.",
+  "version": "2.1"
+}

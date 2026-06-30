@@ -1,0 +1,13 @@
+{
+  "name": "visual-effects",
+  "label": "visual effects",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "visual effects \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "long-range-piece",
+  "label": "long-range piece",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "long-range piece \u2014 a concept in chess.",
+  "version": "2.1"
+}

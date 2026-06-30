@@ -1,0 +1,13 @@
+{
+  "name": "exhibition",
+  "label": "exhibition",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "exhibition \u2014 a concept in chess.",
+  "version": "2.1"
+}

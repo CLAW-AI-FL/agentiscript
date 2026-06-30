@@ -1,0 +1,13 @@
+{
+  "name": "inventors-certificate",
+  "label": "Inventor's certificate",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Inventor's certificate \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

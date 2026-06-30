@@ -1,0 +1,13 @@
+{
+  "name": "o-boards",
+  "label": "O Boards",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "O Boards \u2014 a concept in sports.",
+  "version": "2.1"
+}

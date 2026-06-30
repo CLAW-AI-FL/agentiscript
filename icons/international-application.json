@@ -1,0 +1,13 @@
+{
+  "name": "international-application",
+  "label": "International application",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "International application \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

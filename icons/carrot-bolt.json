@@ -1,0 +1,13 @@
+{
+  "name": "carrot-bolt",
+  "label": "carrot bolt",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "carrot bolt \u2014 a concept in sports.",
+  "version": "2.1"
+}

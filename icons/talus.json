@@ -1,0 +1,13 @@
+{
+  "name": "talus",
+  "label": "talus",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "talus \u2014 a concept in sports.",
+  "version": "2.1"
+}

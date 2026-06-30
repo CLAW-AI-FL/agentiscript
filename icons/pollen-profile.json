@@ -1,0 +1,13 @@
+{
+  "name": "pollen-profile",
+  "label": "pollen profile",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "pollen profile \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

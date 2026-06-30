@@ -1,0 +1,13 @@
+{
+  "name": "static-rope",
+  "label": "static rope",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "static rope \u2014 a concept in sports.",
+  "version": "2.1"
+}

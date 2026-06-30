@@ -1,0 +1,13 @@
+{
+  "name": "candidate-master",
+  "label": "Candidate Master",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Candidate Master \u2014 a concept in chess.",
+  "version": "2.1"
+}

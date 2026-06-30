@@ -1,0 +1,13 @@
+{
+  "name": "shooting-script",
+  "label": "shooting script",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "shooting script \u2014 a concept in cinema.",
+  "version": "2.1"
+}

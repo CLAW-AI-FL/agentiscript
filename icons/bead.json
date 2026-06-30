@@ -1,0 +1,13 @@
+{
+  "name": "bead",
+  "label": "Bead",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bead \u2014 a concept in sports.",
+  "version": "2.1"
+}

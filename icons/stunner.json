@@ -1,0 +1,13 @@
+{
+  "name": "stunner",
+  "label": "Stunner",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Stunner \u2014 a concept in sports.",
+  "version": "2.1"
+}

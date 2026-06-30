@@ -1,0 +1,13 @@
+{
+  "name": "friendly",
+  "label": "Friendly",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Friendly \u2014 a concept in sports.",
+  "version": "2.1"
+}

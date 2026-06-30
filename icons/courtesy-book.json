@@ -1,0 +1,13 @@
+{
+  "name": "courtesy-book",
+  "label": "courtesy book",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "courtesy book \u2014 a concept in literature.",
+  "version": "2.1"
+}

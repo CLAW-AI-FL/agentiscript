@@ -1,0 +1,13 @@
+{
+  "name": "finds",
+  "label": "finds",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "finds \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

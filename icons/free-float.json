@@ -1,0 +1,13 @@
+{
+  "name": "free-float",
+  "label": "Free float",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Free float \u2014 a concept in finance.",
+  "version": "2.1"
+}

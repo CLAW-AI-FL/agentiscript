@@ -1,0 +1,13 @@
+{
+  "name": "verso",
+  "label": "verso",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "verso \u2014 a concept in literature.",
+  "version": "2.1"
+}

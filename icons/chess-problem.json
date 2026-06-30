@@ -1,0 +1,13 @@
+{
+  "name": "chess-problem",
+  "label": "chess problem",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "chess problem \u2014 a concept in chess.",
+  "version": "2.1"
+}

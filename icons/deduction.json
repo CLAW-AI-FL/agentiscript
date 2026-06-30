@@ -1,0 +1,13 @@
+{
+  "name": "deduction",
+  "label": "Deduction",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Deduction \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

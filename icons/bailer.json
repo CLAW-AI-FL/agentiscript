@@ -1,0 +1,13 @@
+{
+  "name": "bailer",
+  "label": "bailer",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "bailer \u2014 a concept in nautical.",
+  "version": "2.1"
+}

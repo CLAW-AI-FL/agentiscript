@@ -1,0 +1,13 @@
+{
+  "name": "herring-buss",
+  "label": "herring buss",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "herring buss \u2014 a concept in nautical.",
+  "version": "2.1"
+}

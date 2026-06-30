@@ -1,0 +1,13 @@
+{
+  "name": "theoretical-novelty",
+  "label": "theoretical novelty",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "theoretical novelty \u2014 a concept in chess.",
+  "version": "2.1"
+}

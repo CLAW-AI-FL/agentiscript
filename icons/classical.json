@@ -1,0 +1,13 @@
+{
+  "name": "classical",
+  "label": "classical",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "classical \u2014 a concept in chess.",
+  "version": "2.1"
+}

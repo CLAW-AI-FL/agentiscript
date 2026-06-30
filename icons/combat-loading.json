@@ -1,0 +1,13 @@
+{
+  "name": "combat-loading",
+  "label": "combat loading",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "combat loading \u2014 a concept in nautical.",
+  "version": "2.1"
+}

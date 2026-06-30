@@ -1,0 +1,13 @@
+{
+  "name": "wheelie",
+  "label": "Wheelie",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Wheelie \u2014 a concept in sports.",
+  "version": "2.1"
+}

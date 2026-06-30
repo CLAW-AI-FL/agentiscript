@@ -1,0 +1,13 @@
+{
+  "name": "beam-wind",
+  "label": "beam wind",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "beam wind \u2014 a concept in nautical.",
+  "version": "2.1"
+}

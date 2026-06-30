@@ -1,0 +1,13 @@
+{
+  "name": "mm",
+  "label": "M.M",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "M.M \u2014 a concept in music.",
+  "version": "2.1"
+}

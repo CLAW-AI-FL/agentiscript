@@ -1,0 +1,13 @@
+{
+  "name": "exposed-king",
+  "label": "exposed king",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "exposed king \u2014 a concept in chess.",
+  "version": "2.1"
+}

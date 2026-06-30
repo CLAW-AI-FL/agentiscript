@@ -1,0 +1,13 @@
+{
+  "name": "storyboard-artist",
+  "label": "storyboard artist",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "storyboard artist \u2014 a concept in cinema.",
+  "version": "2.1"
+}

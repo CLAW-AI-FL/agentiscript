@@ -1,0 +1,13 @@
+{
+  "name": "tahitian-mooring",
+  "label": "Tahitian mooring",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Tahitian mooring \u2014 a concept in nautical.",
+  "version": "2.1"
+}

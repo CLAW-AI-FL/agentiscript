@@ -1,0 +1,13 @@
+{
+  "name": "first-rank",
+  "label": "first rank",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "first rank \u2014 a concept in chess.",
+  "version": "2.1"
+}

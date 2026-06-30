@@ -1,0 +1,13 @@
+{
+  "name": "frontcourt",
+  "label": "frontcourt",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "frontcourt \u2014 a concept in sports.",
+  "version": "2.1"
+}

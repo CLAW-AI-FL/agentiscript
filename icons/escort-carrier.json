@@ -1,0 +1,13 @@
+{
+  "name": "escort-carrier",
+  "label": "escort carrier",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "escort carrier \u2014 a concept in nautical.",
+  "version": "2.1"
+}

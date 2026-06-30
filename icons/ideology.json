@@ -1,0 +1,13 @@
+{
+  "name": "ideology",
+  "label": "Ideology",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Ideology \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

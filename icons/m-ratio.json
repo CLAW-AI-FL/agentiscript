@@ -1,0 +1,13 @@
+{
+  "name": "m-ratio",
+  "label": "M-ratio",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "M-ratio \u2014 a concept in sports.",
+  "version": "2.1"
+}

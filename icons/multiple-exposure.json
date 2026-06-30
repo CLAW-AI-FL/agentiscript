@@ -1,0 +1,13 @@
+{
+  "name": "multiple-exposure",
+  "label": "multiple exposure",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "multiple exposure \u2014 a concept in cinema.",
+  "version": "2.1"
+}

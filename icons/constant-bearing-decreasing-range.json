@@ -1,0 +1,13 @@
+{
+  "name": "constant-bearing-decreasing-range",
+  "label": "constant bearing, decreasing range",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "constant bearing, decreasing range \u2014 a concept in nautical.",
+  "version": "2.1"
+}

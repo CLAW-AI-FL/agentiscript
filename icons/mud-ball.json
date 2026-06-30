@@ -1,0 +1,13 @@
+{
+  "name": "mud-ball",
+  "label": "Mud ball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Mud ball \u2014 a concept in sports.",
+  "version": "2.1"
+}

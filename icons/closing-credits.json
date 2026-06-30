@@ -1,0 +1,13 @@
+{
+  "name": "closing-credits",
+  "label": "closing credits",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "closing credits \u2014 a concept in cinema.",
+  "version": "2.1"
+}

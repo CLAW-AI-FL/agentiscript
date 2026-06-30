@@ -1,0 +1,13 @@
+{
+  "name": "byronic-hero",
+  "label": "Byronic hero",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Byronic hero \u2014 a concept in literature.",
+  "version": "2.1"
+}

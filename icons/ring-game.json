@@ -1,0 +1,13 @@
+{
+  "name": "ring-game",
+  "label": "ring game",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "ring game \u2014 a concept in sports.",
+  "version": "2.1"
+}

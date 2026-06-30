@@ -1,0 +1,13 @@
+{
+  "name": "save",
+  "label": "Save",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Save \u2014 a concept in sports.",
+  "version": "2.1"
+}

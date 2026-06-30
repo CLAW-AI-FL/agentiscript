@@ -1,0 +1,13 @@
+{
+  "name": "starting-square",
+  "label": "starting square",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "starting square \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "performance-rating",
+  "label": "performance rating",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "performance rating \u2014 a concept in chess.",
+  "version": "2.1"
+}

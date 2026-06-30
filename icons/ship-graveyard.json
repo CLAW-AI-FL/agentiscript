@@ -1,0 +1,13 @@
+{
+  "name": "ship-graveyard",
+  "label": "ship graveyard",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ship graveyard \u2014 a concept in nautical.",
+  "version": "2.1"
+}

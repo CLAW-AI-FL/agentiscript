@@ -1,0 +1,13 @@
+{
+  "name": "word-accent",
+  "label": "word accent",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "word accent \u2014 a concept in literature.",
+  "version": "2.1"
+}

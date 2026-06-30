@@ -1,0 +1,13 @@
+{
+  "name": "bounty",
+  "label": "bounty",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bounty \u2014 a concept in sports.",
+  "version": "2.1"
+}

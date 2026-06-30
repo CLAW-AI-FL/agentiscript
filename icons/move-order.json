@@ -1,0 +1,13 @@
+{
+  "name": "move-order",
+  "label": "move order",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "move order \u2014 a concept in chess.",
+  "version": "2.1"
+}

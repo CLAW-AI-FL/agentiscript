@@ -1,0 +1,13 @@
+{
+  "name": "laytime",
+  "label": "laytime",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "laytime \u2014 a concept in nautical.",
+  "version": "2.1"
+}

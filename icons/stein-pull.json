@@ -1,0 +1,13 @@
+{
+  "name": "stein-pull",
+  "label": "stein pull",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "stein pull \u2014 a concept in sports.",
+  "version": "2.1"
+}

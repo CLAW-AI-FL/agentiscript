@@ -1,0 +1,13 @@
+{
+  "name": "literary-theory",
+  "label": "literary theory",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "literary theory \u2014 a concept in literature.",
+  "version": "2.1"
+}

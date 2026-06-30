@@ -1,0 +1,13 @@
+{
+  "name": "cross-handed",
+  "label": "Cross-handed",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Cross-handed \u2014 a concept in sports.",
+  "version": "2.1"
+}

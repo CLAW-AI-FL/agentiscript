@@ -1,0 +1,13 @@
+{
+  "name": "film-speed",
+  "label": "Film speed",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Film speed \u2014 a concept in cinema.",
+  "version": "2.1"
+}

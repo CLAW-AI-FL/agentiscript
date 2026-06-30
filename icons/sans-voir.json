@@ -1,0 +1,13 @@
+{
+  "name": "sans-voir",
+  "label": "sans voir",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "sans voir \u2014 a concept in chess.",
+  "version": "2.1"
+}

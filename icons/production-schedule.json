@@ -1,0 +1,13 @@
+{
+  "name": "production-schedule",
+  "label": "production schedule",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "production schedule \u2014 a concept in cinema.",
+  "version": "2.1"
+}

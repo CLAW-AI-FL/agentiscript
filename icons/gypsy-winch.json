@@ -1,0 +1,13 @@
+{
+  "name": "gypsy-winch",
+  "label": "gypsy winch",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "gypsy winch \u2014 a concept in nautical.",
+  "version": "2.1"
+}

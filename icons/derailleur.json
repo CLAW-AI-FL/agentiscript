@@ -1,0 +1,13 @@
+{
+  "name": "derailleur",
+  "label": "Derailleur",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Derailleur \u2014 a concept in sports.",
+  "version": "2.1"
+}

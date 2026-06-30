@@ -1,0 +1,13 @@
+{
+  "name": "fleur-de-coin",
+  "label": "fleur de coin",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "fleur de coin \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

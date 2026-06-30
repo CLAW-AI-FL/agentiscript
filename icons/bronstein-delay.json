@@ -1,0 +1,13 @@
+{
+  "name": "bronstein-delay",
+  "label": "Bronstein delay",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Bronstein delay \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dog-watch",
+  "label": "dog watch",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "dog watch \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "intermediate-sprint",
+  "label": "Intermediate sprint",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Intermediate sprint \u2014 a concept in sports.",
+  "version": "2.1"
+}

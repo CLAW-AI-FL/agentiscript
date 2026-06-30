@@ -1,0 +1,13 @@
+{
+  "name": "pressure-breathing",
+  "label": "pressure breathing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pressure breathing \u2014 a concept in sports.",
+  "version": "2.1"
+}

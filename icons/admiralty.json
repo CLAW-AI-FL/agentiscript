@@ -1,0 +1,13 @@
+{
+  "name": "admiralty",
+  "label": "admiralty",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "admiralty \u2014 a concept in nautical.",
+  "version": "2.1"
+}

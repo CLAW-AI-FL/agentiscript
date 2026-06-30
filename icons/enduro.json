@@ -1,0 +1,13 @@
+{
+  "name": "enduro",
+  "label": "Enduro",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Enduro \u2014 a concept in sports.",
+  "version": "2.1"
+}

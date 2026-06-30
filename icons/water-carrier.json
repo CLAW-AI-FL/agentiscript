@@ -1,0 +1,13 @@
+{
+  "name": "water-carrier",
+  "label": "Water carrier",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Water carrier \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "plugged-lie",
+  "label": "Plugged lie",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Plugged lie \u2014 a concept in sports.",
+  "version": "2.1"
+}

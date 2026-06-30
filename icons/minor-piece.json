@@ -1,0 +1,13 @@
+{
+  "name": "minor-piece",
+  "label": "minor piece",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "minor piece \u2014 a concept in chess.",
+  "version": "2.1"
+}

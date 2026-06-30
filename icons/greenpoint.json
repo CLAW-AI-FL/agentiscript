@@ -1,0 +1,13 @@
+{
+  "name": "greenpoint",
+  "label": "greenpoint",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "greenpoint \u2014 a concept in sports.",
+  "version": "2.1"
+}

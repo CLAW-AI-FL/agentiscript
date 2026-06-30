@@ -1,0 +1,13 @@
+{
+  "name": "fast-finisher",
+  "label": "Fast finisher",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Fast finisher \u2014 a concept in sports.",
+  "version": "2.1"
+}

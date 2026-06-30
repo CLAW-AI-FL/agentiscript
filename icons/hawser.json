@@ -1,0 +1,13 @@
+{
+  "name": "hawser",
+  "label": "hawser",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "hawser \u2014 a concept in nautical.",
+  "version": "2.1"
+}

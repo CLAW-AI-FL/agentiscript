@@ -1,0 +1,13 @@
+{
+  "name": "aero-bars",
+  "label": "Aero bars",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Aero bars \u2014 a concept in sports.",
+  "version": "2.1"
+}

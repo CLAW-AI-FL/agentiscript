@@ -1,0 +1,13 @@
+{
+  "name": "knee-bar",
+  "label": "knee bar",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "knee bar \u2014 a concept in sports.",
+  "version": "2.1"
+}

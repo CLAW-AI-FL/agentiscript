@@ -1,0 +1,13 @@
+{
+  "name": "building-a-bridge",
+  "label": "building a bridge",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "building a bridge \u2014 a concept in chess.",
+  "version": "2.1"
+}

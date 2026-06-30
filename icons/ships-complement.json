@@ -1,0 +1,13 @@
+{
+  "name": "ships-complement",
+  "label": "ship's complement",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ship's complement \u2014 a concept in nautical.",
+  "version": "2.1"
+}

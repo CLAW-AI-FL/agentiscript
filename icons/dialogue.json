@@ -1,0 +1,13 @@
+{
+  "name": "dialogue",
+  "label": "dialogue",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "dialogue \u2014 a concept in literature.",
+  "version": "2.1"
+}

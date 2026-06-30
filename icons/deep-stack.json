@@ -1,0 +1,13 @@
+{
+  "name": "deep-stack",
+  "label": "deep stack",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "deep stack \u2014 a concept in sports.",
+  "version": "2.1"
+}

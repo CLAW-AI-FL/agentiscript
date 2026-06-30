@@ -1,0 +1,13 @@
+{
+  "name": "unit",
+  "label": "unit",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "unit \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

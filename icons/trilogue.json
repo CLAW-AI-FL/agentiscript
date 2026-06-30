@@ -1,0 +1,13 @@
+{
+  "name": "trilogue",
+  "label": "trilogue",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "trilogue \u2014 a concept in literature.",
+  "version": "2.1"
+}

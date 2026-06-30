@@ -1,0 +1,13 @@
+{
+  "name": "bunny-hop",
+  "label": "Bunny hop",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bunny hop \u2014 a concept in sports.",
+  "version": "2.1"
+}

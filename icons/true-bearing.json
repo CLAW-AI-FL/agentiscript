@@ -1,0 +1,13 @@
+{
+  "name": "true-bearing",
+  "label": "true bearing",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "true bearing \u2014 a concept in nautical.",
+  "version": "2.1"
+}

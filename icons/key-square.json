@@ -1,0 +1,13 @@
+{
+  "name": "key-square",
+  "label": "key square",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "key square \u2014 a concept in chess.",
+  "version": "2.1"
+}

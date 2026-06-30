@@ -1,0 +1,13 @@
+{
+  "name": "keelage",
+  "label": "Keelage",
+  "category": "law",
+  "tags": [
+    "law",
+    "legal",
+    "justice"
+  ],
+  "source": "law",
+  "description": "Keelage \u2014 a concept in law.",
+  "version": "2.1"
+}

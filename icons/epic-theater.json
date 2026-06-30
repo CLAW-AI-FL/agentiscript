@@ -1,0 +1,13 @@
+{
+  "name": "epic-theater",
+  "label": "epic theater",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "epic theater \u2014 a concept in literature.",
+  "version": "2.1"
+}

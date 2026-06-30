@@ -1,0 +1,13 @@
+{
+  "name": "swat",
+  "label": "swat",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "swat \u2014 a concept in sports.",
+  "version": "2.1"
+}

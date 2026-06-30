@@ -1,0 +1,13 @@
+{
+  "name": "go-motion",
+  "label": "go motion",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "go motion \u2014 a concept in cinema.",
+  "version": "2.1"
+}

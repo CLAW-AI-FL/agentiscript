@@ -1,0 +1,13 @@
+{
+  "name": "suited",
+  "label": "suited",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "suited \u2014 a concept in sports.",
+  "version": "2.1"
+}

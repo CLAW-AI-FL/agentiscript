@@ -1,0 +1,13 @@
+{
+  "name": "counterfeit",
+  "label": "counterfeit",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "counterfeit \u2014 a concept in sports.",
+  "version": "2.1"
+}

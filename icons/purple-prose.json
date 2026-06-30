@@ -1,0 +1,13 @@
+{
+  "name": "purple-prose",
+  "label": "purple prose",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "purple prose \u2014 a concept in literature.",
+  "version": "2.1"
+}

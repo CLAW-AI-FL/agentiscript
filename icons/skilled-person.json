@@ -1,0 +1,13 @@
+{
+  "name": "skilled-person",
+  "label": "Skilled person",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Skilled person \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

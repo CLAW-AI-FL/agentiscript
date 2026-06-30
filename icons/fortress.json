@@ -1,0 +1,13 @@
+{
+  "name": "fortress",
+  "label": "fortress",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "fortress \u2014 a concept in chess.",
+  "version": "2.1"
+}

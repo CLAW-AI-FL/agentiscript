@@ -1,0 +1,13 @@
+{
+  "name": "rolled-up-trips",
+  "label": "rolled-up trips",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rolled-up trips \u2014 a concept in sports.",
+  "version": "2.1"
+}

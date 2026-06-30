@@ -1,0 +1,13 @@
+{
+  "name": "hand-jam",
+  "label": "hand jam",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "hand jam \u2014 a concept in sports.",
+  "version": "2.1"
+}

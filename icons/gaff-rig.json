@@ -1,0 +1,13 @@
+{
+  "name": "gaff-rig",
+  "label": "gaff rig",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "gaff rig \u2014 a concept in nautical.",
+  "version": "2.1"
+}

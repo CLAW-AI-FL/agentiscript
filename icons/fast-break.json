@@ -1,0 +1,13 @@
+{
+  "name": "fast-break",
+  "label": "fast break",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "fast break \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "abandon",
+  "label": "Abandon",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Abandon \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "text-move",
+  "label": "text move",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "text move \u2014 a concept in chess.",
+  "version": "2.1"
+}

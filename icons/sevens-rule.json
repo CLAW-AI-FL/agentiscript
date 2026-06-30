@@ -1,0 +1,13 @@
+{
+  "name": "sevens-rule",
+  "label": "sevens rule",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "sevens rule \u2014 a concept in sports.",
+  "version": "2.1"
+}

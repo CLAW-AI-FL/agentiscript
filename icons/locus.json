@@ -1,0 +1,13 @@
+{
+  "name": "locus",
+  "label": "locus",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "locus \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

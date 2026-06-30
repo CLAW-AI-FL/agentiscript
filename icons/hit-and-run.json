@@ -1,0 +1,13 @@
+{
+  "name": "hit-and-run",
+  "label": "hit and run",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "hit and run \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "floorman-floorperson-floor",
+  "label": "floorman, floorperson, floor",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "floorman, floorperson, floor \u2014 a concept in sports.",
+  "version": "2.1"
+}

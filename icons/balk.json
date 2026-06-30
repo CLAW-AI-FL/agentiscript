@@ -1,0 +1,13 @@
+{
+  "name": "balk",
+  "label": "balk",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "balk \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

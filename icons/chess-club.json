@@ -1,0 +1,13 @@
+{
+  "name": "chess-club",
+  "label": "chess club",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "chess club \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pastoral",
+  "label": "pastoral",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "pastoral \u2014 a concept in literature.",
+  "version": "2.1"
+}

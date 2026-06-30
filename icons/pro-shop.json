@@ -1,0 +1,13 @@
+{
+  "name": "pro-shop",
+  "label": "Pro shop",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pro shop \u2014 a concept in sports.",
+  "version": "2.1"
+}

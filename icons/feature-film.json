@@ -1,0 +1,13 @@
+{
+  "name": "feature-film",
+  "label": "feature film",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "feature film \u2014 a concept in cinema.",
+  "version": "2.1"
+}

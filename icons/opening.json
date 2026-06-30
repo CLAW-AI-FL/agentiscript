@@ -1,0 +1,13 @@
+{
+  "name": "opening",
+  "label": "opening",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "opening \u2014 a concept in chess.",
+  "version": "2.1"
+}

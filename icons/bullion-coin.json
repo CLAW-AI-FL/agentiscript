@@ -1,0 +1,13 @@
+{
+  "name": "bullion-coin",
+  "label": "bullion coin",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "bullion coin \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

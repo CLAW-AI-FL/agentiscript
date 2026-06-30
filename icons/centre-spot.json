@@ -1,0 +1,13 @@
+{
+  "name": "centre-spot",
+  "label": "Centre spot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Centre spot \u2014 a concept in sports.",
+  "version": "2.1"
+}

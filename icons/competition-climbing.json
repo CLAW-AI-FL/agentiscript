@@ -1,0 +1,13 @@
+{
+  "name": "competition-climbing",
+  "label": "competition climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "competition climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

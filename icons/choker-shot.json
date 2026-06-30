@@ -1,0 +1,13 @@
+{
+  "name": "choker-shot",
+  "label": "choker shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "choker shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ground-under-repair",
+  "label": "Ground under repair",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Ground under repair \u2014 a concept in sports.",
+  "version": "2.1"
+}

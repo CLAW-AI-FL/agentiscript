@@ -1,0 +1,13 @@
+{
+  "name": "short-fixing",
+  "label": "short fixing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "short fixing \u2014 a concept in sports.",
+  "version": "2.1"
+}

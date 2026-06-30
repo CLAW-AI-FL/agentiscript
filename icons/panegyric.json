@@ -1,0 +1,13 @@
+{
+  "name": "panegyric",
+  "label": "Panegyric",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Panegyric \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

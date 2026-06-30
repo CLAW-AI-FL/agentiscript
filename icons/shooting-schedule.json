@@ -1,0 +1,13 @@
+{
+  "name": "shooting-schedule",
+  "label": "shooting schedule",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "shooting schedule \u2014 a concept in cinema.",
+  "version": "2.1"
+}

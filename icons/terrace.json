@@ -1,0 +1,13 @@
+{
+  "name": "terrace",
+  "label": "Terrace",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Terrace \u2014 a concept in sports.",
+  "version": "2.1"
+}

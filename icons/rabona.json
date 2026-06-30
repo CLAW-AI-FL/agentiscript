@@ -1,0 +1,13 @@
+{
+  "name": "rabona",
+  "label": "Rabona",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Rabona \u2014 a concept in sports.",
+  "version": "2.1"
+}

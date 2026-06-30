@@ -1,0 +1,13 @@
+{
+  "name": "flag-stick",
+  "label": "flag-stick",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "flag-stick \u2014 a concept in sports.",
+  "version": "2.1"
+}

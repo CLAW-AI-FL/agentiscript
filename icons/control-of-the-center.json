@@ -1,0 +1,13 @@
+{
+  "name": "control-of-the-center",
+  "label": "control of the center",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "control of the center \u2014 a concept in chess.",
+  "version": "2.1"
+}

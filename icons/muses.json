@@ -1,0 +1,13 @@
+{
+  "name": "muses",
+  "label": "Muses",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Muses \u2014 a concept in literature.",
+  "version": "2.1"
+}

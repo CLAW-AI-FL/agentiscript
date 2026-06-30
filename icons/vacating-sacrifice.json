@@ -1,0 +1,13 @@
+{
+  "name": "vacating-sacrifice",
+  "label": "vacating sacrifice",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "vacating sacrifice \u2014 a concept in chess.",
+  "version": "2.1"
+}

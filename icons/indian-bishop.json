@@ -1,0 +1,13 @@
+{
+  "name": "indian-bishop",
+  "label": "Indian bishop",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Indian bishop \u2014 a concept in chess.",
+  "version": "2.1"
+}

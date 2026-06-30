@@ -1,0 +1,13 @@
+{
+  "name": "individual-time-trial",
+  "label": "Individual time trial",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Individual time trial \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "race",
+  "label": "race",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "race \u2014 a concept in sports.",
+  "version": "2.1"
+}

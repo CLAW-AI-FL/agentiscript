@@ -1,0 +1,13 @@
+{
+  "name": "accent-light",
+  "label": "accent light",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "accent light \u2014 a concept in cinema.",
+  "version": "2.1"
+}

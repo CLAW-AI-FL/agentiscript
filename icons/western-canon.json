@@ -1,0 +1,13 @@
+{
+  "name": "western-canon",
+  "label": "Western canon",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Western canon \u2014 a concept in literature.",
+  "version": "2.1"
+}

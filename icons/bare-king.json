@@ -1,0 +1,13 @@
+{
+  "name": "bare-king",
+  "label": "bare king",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "bare king \u2014 a concept in chess.",
+  "version": "2.1"
+}

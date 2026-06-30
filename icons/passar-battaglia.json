@@ -1,0 +1,13 @@
+{
+  "name": "passar-battaglia",
+  "label": "passar battaglia",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "passar battaglia \u2014 a concept in chess.",
+  "version": "2.1"
+}

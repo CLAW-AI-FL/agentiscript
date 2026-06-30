@@ -1,0 +1,13 @@
+{
+  "name": "step-outline",
+  "label": "step outline",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "step outline \u2014 a concept in cinema.",
+  "version": "2.1"
+}

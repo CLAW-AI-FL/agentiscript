@@ -1,0 +1,13 @@
+{
+  "name": "hill-climb",
+  "label": "Hill climb",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hill climb \u2014 a concept in sports.",
+  "version": "2.1"
+}

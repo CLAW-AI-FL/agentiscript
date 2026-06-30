@@ -1,0 +1,13 @@
+{
+  "name": "mid-amateur",
+  "label": "Mid-amateur",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Mid-amateur \u2014 a concept in sports.",
+  "version": "2.1"
+}

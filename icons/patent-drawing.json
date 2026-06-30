@@ -1,0 +1,13 @@
+{
+  "name": "patent-drawing",
+  "label": "Patent drawing",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Patent drawing \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

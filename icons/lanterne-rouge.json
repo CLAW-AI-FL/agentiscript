@@ -1,0 +1,13 @@
+{
+  "name": "lanterne-rouge",
+  "label": "Lanterne rouge",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Lanterne rouge \u2014 a concept in sports.",
+  "version": "2.1"
+}

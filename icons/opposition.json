@@ -1,0 +1,13 @@
+{
+  "name": "opposition",
+  "label": "opposition",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "opposition \u2014 a concept in chess.",
+  "version": "2.1"
+}

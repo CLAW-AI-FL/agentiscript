@@ -1,0 +1,13 @@
+{
+  "name": "analogue",
+  "label": "Analogue",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Analogue \u2014 a concept in literature.",
+  "version": "2.1"
+}

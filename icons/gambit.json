@@ -1,0 +1,13 @@
+{
+  "name": "gambit",
+  "label": "gambit",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "gambit \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "heel-toe",
+  "label": "heel-toe",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "heel-toe \u2014 a concept in sports.",
+  "version": "2.1"
+}

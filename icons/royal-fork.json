@@ -1,0 +1,13 @@
+{
+  "name": "royal-fork",
+  "label": "royal fork",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "royal fork \u2014 a concept in chess.",
+  "version": "2.1"
+}

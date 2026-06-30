@@ -1,0 +1,13 @@
+{
+  "name": "kingside",
+  "label": "kingside",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "kingside \u2014 a concept in chess.",
+  "version": "2.1"
+}

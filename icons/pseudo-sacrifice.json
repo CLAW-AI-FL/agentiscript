@@ -1,0 +1,13 @@
+{
+  "name": "pseudo-sacrifice",
+  "label": "pseudo sacrifice",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "pseudo sacrifice \u2014 a concept in chess.",
+  "version": "2.1"
+}

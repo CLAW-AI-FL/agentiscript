@@ -1,0 +1,13 @@
+{
+  "name": "leven",
+  "label": "Leven",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Leven \u2014 a concept in sports.",
+  "version": "2.1"
+}

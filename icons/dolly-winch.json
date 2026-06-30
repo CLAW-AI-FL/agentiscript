@@ -1,0 +1,13 @@
+{
+  "name": "dolly-winch",
+  "label": "dolly winch",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "dolly winch \u2014 a concept in nautical.",
+  "version": "2.1"
+}

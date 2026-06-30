@@ -1,0 +1,13 @@
+{
+  "name": "hangdog",
+  "label": "hangdog",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "hangdog \u2014 a concept in sports.",
+  "version": "2.1"
+}

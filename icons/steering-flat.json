@@ -1,0 +1,13 @@
+{
+  "name": "steering-flat",
+  "label": "steering flat",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "steering flat \u2014 a concept in nautical.",
+  "version": "2.1"
+}

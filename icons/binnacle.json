@@ -1,0 +1,13 @@
+{
+  "name": "binnacle",
+  "label": "binnacle",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "binnacle \u2014 a concept in nautical.",
+  "version": "2.1"
+}

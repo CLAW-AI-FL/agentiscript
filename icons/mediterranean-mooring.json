@@ -1,0 +1,13 @@
+{
+  "name": "mediterranean-mooring",
+  "label": "Mediterranean mooring",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Mediterranean mooring \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "drag-light",
+  "label": "drag light",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "drag light \u2014 a concept in sports.",
+  "version": "2.1"
+}

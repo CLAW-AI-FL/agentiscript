@@ -1,0 +1,13 @@
+{
+  "name": "character-animation",
+  "label": "character animation",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "character animation \u2014 a concept in cinema.",
+  "version": "2.1"
+}

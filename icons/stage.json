@@ -1,0 +1,13 @@
+{
+  "name": "stage",
+  "label": "Stage",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Stage \u2014 a concept in sports.",
+  "version": "2.1"
+}

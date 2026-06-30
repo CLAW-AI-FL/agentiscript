@@ -1,0 +1,13 @@
+{
+  "name": "brick-and-mortar",
+  "label": "brick and mortar",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "brick and mortar \u2014 a concept in sports.",
+  "version": "2.1"
+}

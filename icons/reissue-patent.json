@@ -1,0 +1,13 @@
+{
+  "name": "reissue-patent",
+  "label": "Reissue patent",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Reissue patent \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "conning-tower",
+  "label": "conning tower",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "conning tower \u2014 a concept in nautical.",
+  "version": "2.1"
+}

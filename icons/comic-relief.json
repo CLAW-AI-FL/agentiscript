@@ -1,0 +1,13 @@
+{
+  "name": "comic-relief",
+  "label": "comic relief",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "comic relief \u2014 a concept in literature.",
+  "version": "2.1"
+}

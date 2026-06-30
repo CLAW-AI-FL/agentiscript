@@ -1,0 +1,13 @@
+{
+  "name": "snarg",
+  "label": "snarg",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "snarg \u2014 a concept in sports.",
+  "version": "2.1"
+}

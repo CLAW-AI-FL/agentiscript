@@ -1,0 +1,13 @@
+{
+  "name": "replenishment-oiler",
+  "label": "replenishment oiler",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "replenishment oiler \u2014 a concept in nautical.",
+  "version": "2.1"
+}

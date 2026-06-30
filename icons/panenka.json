@@ -1,0 +1,13 @@
+{
+  "name": "panenka",
+  "label": "Panenka",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Panenka \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "clone",
+  "label": "Clone",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Clone \u2014 a concept in sports.",
+  "version": "2.1"
+}

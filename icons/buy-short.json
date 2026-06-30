@@ -1,0 +1,13 @@
+{
+  "name": "buy-short",
+  "label": "buy short",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "buy short \u2014 a concept in sports.",
+  "version": "2.1"
+}

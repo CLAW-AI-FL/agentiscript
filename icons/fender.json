@@ -1,0 +1,13 @@
+{
+  "name": "fender",
+  "label": "fender",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "fender \u2014 a concept in nautical.",
+  "version": "2.1"
+}

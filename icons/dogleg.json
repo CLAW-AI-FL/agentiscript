@@ -1,0 +1,13 @@
+{
+  "name": "dogleg",
+  "label": "dogleg",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dogleg \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dry-sieving",
+  "label": "dry sieving",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "dry sieving \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

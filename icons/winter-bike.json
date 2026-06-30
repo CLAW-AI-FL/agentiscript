@@ -1,0 +1,13 @@
+{
+  "name": "winter-bike",
+  "label": "Winter bike",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Winter bike \u2014 a concept in sports.",
+  "version": "2.1"
+}

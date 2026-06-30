@@ -1,0 +1,13 @@
+{
+  "name": "line-piece",
+  "label": "line piece",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "line piece \u2014 a concept in chess.",
+  "version": "2.1"
+}

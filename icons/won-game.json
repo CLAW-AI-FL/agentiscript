@@ -1,0 +1,13 @@
+{
+  "name": "won-game",
+  "label": "won game",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "won game \u2014 a concept in chess.",
+  "version": "2.1"
+}

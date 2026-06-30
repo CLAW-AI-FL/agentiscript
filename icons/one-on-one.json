@@ -1,0 +1,13 @@
+{
+  "name": "one-on-one",
+  "label": "One-on-one",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "One-on-one \u2014 a concept in sports.",
+  "version": "2.1"
+}

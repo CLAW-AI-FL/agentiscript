@@ -1,0 +1,13 @@
+{
+  "name": "lock-off",
+  "label": "lock-off",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "lock-off \u2014 a concept in sports.",
+  "version": "2.1"
+}

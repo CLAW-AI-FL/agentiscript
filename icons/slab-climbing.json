@@ -1,0 +1,13 @@
+{
+  "name": "slab-climbing",
+  "label": "slab climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "slab climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

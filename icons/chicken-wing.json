@@ -1,0 +1,13 @@
+{
+  "name": "chicken-wing",
+  "label": "chicken wing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "chicken wing \u2014 a concept in sports.",
+  "version": "2.1"
+}

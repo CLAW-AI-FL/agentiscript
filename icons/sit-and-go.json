@@ -1,0 +1,13 @@
+{
+  "name": "sit-and-go",
+  "label": "sit and go",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "sit and go \u2014 a concept in sports.",
+  "version": "2.1"
+}

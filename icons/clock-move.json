@@ -1,0 +1,13 @@
+{
+  "name": "clock-move",
+  "label": "clock move",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "clock move \u2014 a concept in chess.",
+  "version": "2.1"
+}

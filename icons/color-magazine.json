@@ -1,0 +1,13 @@
+{
+  "name": "color-magazine",
+  "label": "Color magazine",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Color magazine \u2014 a concept in cinema.",
+  "version": "2.1"
+}

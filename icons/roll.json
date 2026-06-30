@@ -1,0 +1,13 @@
+{
+  "name": "roll",
+  "label": "roll",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "roll \u2014 a concept in cinema.",
+  "version": "2.1"
+}

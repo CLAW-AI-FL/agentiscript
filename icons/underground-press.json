@@ -1,0 +1,13 @@
+{
+  "name": "underground-press",
+  "label": "underground press",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "underground press \u2014 a concept in literature.",
+  "version": "2.1"
+}

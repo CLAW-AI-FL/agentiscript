@@ -1,0 +1,13 @@
+{
+  "name": "give-and-go",
+  "label": "Give-and-go",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Give-and-go \u2014 a concept in sports.",
+  "version": "2.1"
+}

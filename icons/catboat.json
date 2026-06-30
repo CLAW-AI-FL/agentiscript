@@ -1,0 +1,13 @@
+{
+  "name": "catboat",
+  "label": "catboat",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "catboat \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bid-thief",
+  "label": "bid thief",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bid thief \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "length-bpp",
+  "label": "Length BPP",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "Length BPP \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "b-movie",
+  "label": "B movie",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "B movie \u2014 a concept in cinema.",
+  "version": "2.1"
+}

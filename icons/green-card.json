@@ -1,0 +1,13 @@
+{
+  "name": "green-card",
+  "label": "Green card",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Green card \u2014 a concept in sports.",
+  "version": "2.1"
+}

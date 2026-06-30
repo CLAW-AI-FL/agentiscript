@@ -1,0 +1,13 @@
+{
+  "name": "small-bower",
+  "label": "small bower",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "small bower \u2014 a concept in nautical.",
+  "version": "2.1"
+}

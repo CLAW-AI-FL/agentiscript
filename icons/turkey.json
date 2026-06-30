@@ -1,0 +1,13 @@
+{
+  "name": "turkey",
+  "label": "turkey",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "turkey \u2014 a concept in sports.",
+  "version": "2.1"
+}

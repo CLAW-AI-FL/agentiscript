@@ -1,0 +1,13 @@
+{
+  "name": "drawing-line",
+  "label": "drawing line",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "drawing line \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "basket-cut",
+  "label": "basket cut",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "basket cut \u2014 a concept in sports.",
+  "version": "2.1"
+}

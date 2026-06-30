@@ -1,0 +1,13 @@
+{
+  "name": "cud",
+  "label": "cud",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "cud \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

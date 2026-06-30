@@ -1,0 +1,13 @@
+{
+  "name": "roll-onroll-off-ship",
+  "label": "roll-on/roll-off ship",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "roll-on/roll-off ship \u2014 a concept in nautical.",
+  "version": "2.1"
+}

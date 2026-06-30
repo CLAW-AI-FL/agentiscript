@@ -1,0 +1,13 @@
+{
+  "name": "absolute-bearing",
+  "label": "absolute bearing",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "absolute bearing \u2014 a concept in nautical.",
+  "version": "2.1"
+}

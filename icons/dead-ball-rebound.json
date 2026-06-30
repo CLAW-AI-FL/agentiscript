@@ -1,0 +1,13 @@
+{
+  "name": "dead-ball-rebound",
+  "label": "dead-ball rebound",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "dead-ball rebound \u2014 a concept in sports.",
+  "version": "2.1"
+}

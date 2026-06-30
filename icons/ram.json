@@ -1,0 +1,13 @@
+{
+  "name": "ram",
+  "label": "ram",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ram \u2014 a concept in nautical.",
+  "version": "2.1"
+}

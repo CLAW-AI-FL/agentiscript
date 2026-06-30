@@ -1,0 +1,13 @@
+{
+  "name": "bughouse-chess",
+  "label": "bughouse chess",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "bughouse chess \u2014 a concept in chess.",
+  "version": "2.1"
+}

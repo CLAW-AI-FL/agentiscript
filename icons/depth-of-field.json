@@ -1,0 +1,13 @@
+{
+  "name": "depth-of-field",
+  "label": "depth of field",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "depth of field \u2014 a concept in cinema.",
+  "version": "2.1"
+}

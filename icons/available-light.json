@@ -1,0 +1,13 @@
+{
+  "name": "available-light",
+  "label": "Available light",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Available light \u2014 a concept in cinema.",
+  "version": "2.1"
+}

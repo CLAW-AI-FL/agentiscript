@@ -1,0 +1,13 @@
+{
+  "name": "european-treble",
+  "label": "European Treble",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "European Treble \u2014 a concept in sports.",
+  "version": "2.1"
+}

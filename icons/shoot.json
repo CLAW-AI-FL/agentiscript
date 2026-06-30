@@ -1,0 +1,13 @@
+{
+  "name": "shoot",
+  "label": "Shoot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Shoot \u2014 a concept in sports.",
+  "version": "2.1"
+}

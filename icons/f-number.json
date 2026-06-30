@@ -1,0 +1,13 @@
+{
+  "name": "f-number",
+  "label": "F-number",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "F-number \u2014 a concept in cinema.",
+  "version": "2.1"
+}

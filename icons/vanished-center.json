@@ -1,0 +1,13 @@
+{
+  "name": "vanished-center",
+  "label": "vanished center",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "vanished center \u2014 a concept in chess.",
+  "version": "2.1"
+}

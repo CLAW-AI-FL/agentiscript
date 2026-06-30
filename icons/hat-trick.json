@@ -1,0 +1,13 @@
+{
+  "name": "hat-trick",
+  "label": "Hat-trick",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hat-trick \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bosuns-call",
+  "label": "bosun's call",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "bosun's call \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "angle",
+  "label": "angle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "angle \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "baseball-pass",
+  "label": "baseball pass",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "baseball pass \u2014 a concept in sports.",
+  "version": "2.1"
+}

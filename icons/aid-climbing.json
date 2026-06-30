@@ -1,0 +1,13 @@
+{
+  "name": "aid-climbing",
+  "label": "aid climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "aid climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

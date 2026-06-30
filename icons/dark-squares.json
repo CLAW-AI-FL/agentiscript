@@ -1,0 +1,13 @@
+{
+  "name": "dark-squares",
+  "label": "dark squares",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "dark squares \u2014 a concept in chess.",
+  "version": "2.1"
+}

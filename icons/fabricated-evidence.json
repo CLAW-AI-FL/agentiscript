@@ -1,0 +1,13 @@
+{
+  "name": "fabricated-evidence",
+  "label": "Fabricated evidence",
+  "category": "law",
+  "tags": [
+    "law",
+    "legal",
+    "justice"
+  ],
+  "source": "law",
+  "description": "Fabricated evidence \u2014 a concept in law.",
+  "version": "2.1"
+}

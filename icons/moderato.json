@@ -1,0 +1,13 @@
+{
+  "name": "moderato",
+  "label": "moderato",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "moderato \u2014 a concept in music.",
+  "version": "2.1"
+}

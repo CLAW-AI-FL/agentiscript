@@ -1,0 +1,13 @@
+{
+  "name": "repertoire",
+  "label": "repertoire",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "repertoire \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "senior-pga-tour",
+  "label": "Senior PGA Tour",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Senior PGA Tour \u2014 a concept in sports.",
+  "version": "2.1"
+}

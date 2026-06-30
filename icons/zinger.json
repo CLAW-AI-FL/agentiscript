@@ -1,0 +1,13 @@
+{
+  "name": "zinger",
+  "label": "zinger",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "zinger \u2014 a concept in sports.",
+  "version": "2.1"
+}

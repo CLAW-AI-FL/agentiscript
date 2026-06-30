@@ -1,0 +1,13 @@
+{
+  "name": "air",
+  "label": "air",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "air \u2014 a concept in sports.",
+  "version": "2.1"
+}

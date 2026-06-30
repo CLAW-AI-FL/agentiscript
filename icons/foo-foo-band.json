@@ -1,0 +1,13 @@
+{
+  "name": "foo-foo-band",
+  "label": "foo-foo band",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "foo-foo band \u2014 a concept in nautical.",
+  "version": "2.1"
+}

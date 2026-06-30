@@ -1,0 +1,13 @@
+{
+  "name": "fresnel-lens",
+  "label": "Fresnel lens",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Fresnel lens \u2014 a concept in cinema.",
+  "version": "2.1"
+}

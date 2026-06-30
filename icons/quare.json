@@ -1,0 +1,13 @@
+{
+  "name": "quare",
+  "label": "Quare",
+  "category": "law",
+  "tags": [
+    "law",
+    "legal",
+    "justice"
+  ],
+  "source": "law",
+  "description": "Quare \u2014 a concept in law.",
+  "version": "2.1"
+}

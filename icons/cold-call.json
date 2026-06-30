@@ -1,0 +1,13 @@
+{
+  "name": "cold-call",
+  "label": "cold call",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "cold call \u2014 a concept in sports.",
+  "version": "2.1"
+}

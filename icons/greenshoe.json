@@ -1,0 +1,13 @@
+{
+  "name": "greenshoe",
+  "label": "Greenshoe",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Greenshoe \u2014 a concept in finance.",
+  "version": "2.1"
+}

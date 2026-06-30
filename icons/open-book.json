@@ -1,0 +1,13 @@
+{
+  "name": "open-book",
+  "label": "open book",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "open book \u2014 a concept in sports.",
+  "version": "2.1"
+}

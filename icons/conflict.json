@@ -1,0 +1,13 @@
+{
+  "name": "conflict",
+  "label": "Conflict",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Conflict \u2014 a concept in literature.",
+  "version": "2.1"
+}

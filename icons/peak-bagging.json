@@ -1,0 +1,13 @@
+{
+  "name": "peak-bagging",
+  "label": "peak-bagging",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "peak-bagging \u2014 a concept in sports.",
+  "version": "2.1"
+}

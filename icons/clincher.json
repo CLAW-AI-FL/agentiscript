@@ -1,0 +1,13 @@
+{
+  "name": "clincher",
+  "label": "Clincher",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Clincher \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "clean",
+  "label": "clean",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "clean \u2014 a concept in sports.",
+  "version": "2.1"
+}

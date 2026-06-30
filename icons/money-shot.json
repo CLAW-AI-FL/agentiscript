@@ -1,0 +1,13 @@
+{
+  "name": "money-shot",
+  "label": "money shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "money shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

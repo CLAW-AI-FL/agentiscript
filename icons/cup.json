@@ -1,0 +1,13 @@
+{
+  "name": "cup",
+  "label": "Cup",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Cup \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "side-game",
+  "label": "side game",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "side game \u2014 a concept in sports.",
+  "version": "2.1"
+}

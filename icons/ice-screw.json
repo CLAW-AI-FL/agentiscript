@@ -1,0 +1,13 @@
+{
+  "name": "ice-screw",
+  "label": "ice screw",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "ice screw \u2014 a concept in sports.",
+  "version": "2.1"
+}

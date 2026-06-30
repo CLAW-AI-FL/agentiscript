@@ -1,0 +1,13 @@
+{
+  "name": "stalemate",
+  "label": "stalemate",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "stalemate \u2014 a concept in chess.",
+  "version": "2.1"
+}

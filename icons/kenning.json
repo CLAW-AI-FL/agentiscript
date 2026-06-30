@@ -1,0 +1,13 @@
+{
+  "name": "kenning",
+  "label": "kenning",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "kenning \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hairdryer-treatment",
+  "label": "Hairdryer treatment",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hairdryer treatment \u2014 a concept in sports.",
+  "version": "2.1"
+}

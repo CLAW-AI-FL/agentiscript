@@ -1,0 +1,13 @@
+{
+  "name": "b-roll",
+  "label": "B-roll",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "B-roll \u2014 a concept in cinema.",
+  "version": "2.1"
+}

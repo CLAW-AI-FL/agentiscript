@@ -1,0 +1,13 @@
+{
+  "name": "top-corner",
+  "label": "Top corner",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Top corner \u2014 a concept in sports.",
+  "version": "2.1"
+}

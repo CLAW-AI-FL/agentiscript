@@ -1,0 +1,13 @@
+{
+  "name": "earthworks",
+  "label": "earthworks",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "earthworks \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

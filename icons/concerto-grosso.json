@@ -1,0 +1,13 @@
+{
+  "name": "concerto-grosso",
+  "label": "concerto grosso",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "concerto grosso \u2014 a concept in music.",
+  "version": "2.1"
+}

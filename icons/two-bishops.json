@@ -1,0 +1,13 @@
+{
+  "name": "two-bishops",
+  "label": "two bishops",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "two bishops \u2014 a concept in chess.",
+  "version": "2.1"
+}

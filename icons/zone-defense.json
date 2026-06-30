@@ -1,0 +1,13 @@
+{
+  "name": "zone-defense",
+  "label": "zone defense",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "zone defense \u2014 a concept in sports.",
+  "version": "2.1"
+}

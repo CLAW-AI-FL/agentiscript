@@ -1,0 +1,13 @@
+{
+  "name": "common-general-knowledge",
+  "label": "Common general knowledge",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Common general knowledge \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "da-capo",
+  "label": "da capo",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "da capo \u2014 a concept in music.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "en-echelon",
+  "label": "en echelon",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "en echelon \u2014 a concept in nautical.",
+  "version": "2.1"
+}

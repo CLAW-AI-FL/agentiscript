@@ -1,0 +1,13 @@
+{
+  "name": "back-nine",
+  "label": "back nine",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "back nine \u2014 a concept in sports.",
+  "version": "2.1"
+}

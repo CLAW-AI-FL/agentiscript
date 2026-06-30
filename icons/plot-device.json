@@ -1,0 +1,13 @@
+{
+  "name": "plot-device",
+  "label": "plot device",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "plot device \u2014 a concept in cinema.",
+  "version": "2.1"
+}

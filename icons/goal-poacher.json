@@ -1,0 +1,13 @@
+{
+  "name": "goal-poacher",
+  "label": "Goal poacher",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Goal poacher \u2014 a concept in sports.",
+  "version": "2.1"
+}

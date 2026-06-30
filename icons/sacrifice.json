@@ -1,0 +1,13 @@
+{
+  "name": "sacrifice",
+  "label": "sacrifice",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "sacrifice \u2014 a concept in chess.",
+  "version": "2.1"
+}

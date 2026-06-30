@@ -1,0 +1,13 @@
+{
+  "name": "in-situ",
+  "label": "in situ",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "in situ \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

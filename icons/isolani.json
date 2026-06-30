@@ -1,0 +1,13 @@
+{
+  "name": "isolani",
+  "label": "isolani",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "isolani \u2014 a concept in chess.",
+  "version": "2.1"
+}

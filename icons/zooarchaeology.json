@@ -1,0 +1,13 @@
+{
+  "name": "zooarchaeology",
+  "label": "zooarchaeology",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "zooarchaeology \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

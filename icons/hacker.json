@@ -1,0 +1,13 @@
+{
+  "name": "hacker",
+  "label": "hacker",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "hacker \u2014 a concept in sports.",
+  "version": "2.1"
+}

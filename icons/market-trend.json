@@ -1,0 +1,13 @@
+{
+  "name": "market-trend",
+  "label": "Market trend",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Market trend \u2014 a concept in finance.",
+  "version": "2.1"
+}

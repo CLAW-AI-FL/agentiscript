@@ -1,0 +1,13 @@
+{
+  "name": "time-trialist",
+  "label": "Time trialist",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Time trialist \u2014 a concept in sports.",
+  "version": "2.1"
+}

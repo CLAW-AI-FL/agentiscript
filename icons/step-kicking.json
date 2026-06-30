@@ -1,0 +1,13 @@
+{
+  "name": "step-kicking",
+  "label": "step kicking",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "step kicking \u2014 a concept in sports.",
+  "version": "2.1"
+}

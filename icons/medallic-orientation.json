@@ -1,0 +1,13 @@
+{
+  "name": "medallic-orientation",
+  "label": "Medallic orientation",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "Medallic orientation \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "belay-glasses",
+  "label": "belay glasses",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "belay glasses \u2014 a concept in sports.",
+  "version": "2.1"
+}

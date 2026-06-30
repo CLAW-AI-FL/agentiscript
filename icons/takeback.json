@@ -1,0 +1,13 @@
+{
+  "name": "takeback",
+  "label": "takeback",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "takeback \u2014 a concept in chess.",
+  "version": "2.1"
+}

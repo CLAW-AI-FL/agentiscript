@@ -1,0 +1,13 @@
+{
+  "name": "angle-of-attack",
+  "label": "angle of attack",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "angle of attack \u2014 a concept in nautical.",
+  "version": "2.1"
+}

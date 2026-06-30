@@ -1,0 +1,13 @@
+{
+  "name": "theme-tournament",
+  "label": "theme tournament",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "theme tournament \u2014 a concept in chess.",
+  "version": "2.1"
+}

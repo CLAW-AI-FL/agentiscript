@@ -1,0 +1,13 @@
+{
+  "name": "icing",
+  "label": "icing",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "icing \u2014 a concept in nautical.",
+  "version": "2.1"
+}

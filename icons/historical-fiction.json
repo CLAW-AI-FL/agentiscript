@@ -1,0 +1,13 @@
+{
+  "name": "historical-fiction",
+  "label": "historical fiction",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "historical fiction \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "celtic-art",
+  "label": "Celtic art",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Celtic art \u2014 a concept in literature.",
+  "version": "2.1"
+}

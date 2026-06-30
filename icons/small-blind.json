@@ -1,0 +1,13 @@
+{
+  "name": "small-blind",
+  "label": "small blind",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "small blind \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chipping",
+  "label": "Chipping",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Chipping \u2014 a concept in sports.",
+  "version": "2.1"
+}

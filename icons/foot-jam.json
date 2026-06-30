@@ -1,0 +1,13 @@
+{
+  "name": "foot-jam",
+  "label": "foot jam",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "foot jam \u2014 a concept in sports.",
+  "version": "2.1"
+}

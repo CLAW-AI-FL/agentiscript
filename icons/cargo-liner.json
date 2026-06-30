@@ -1,0 +1,13 @@
+{
+  "name": "cargo-liner",
+  "label": "cargo liner",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "cargo liner \u2014 a concept in nautical.",
+  "version": "2.1"
+}

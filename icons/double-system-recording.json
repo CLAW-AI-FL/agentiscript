@@ -1,0 +1,13 @@
+{
+  "name": "double-system-recording",
+  "label": "double-system recording",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "double-system recording \u2014 a concept in cinema.",
+  "version": "2.1"
+}

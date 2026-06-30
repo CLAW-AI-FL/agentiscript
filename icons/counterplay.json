@@ -1,0 +1,13 @@
+{
+  "name": "counterplay",
+  "label": "counterplay",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "counterplay \u2014 a concept in chess.",
+  "version": "2.1"
+}

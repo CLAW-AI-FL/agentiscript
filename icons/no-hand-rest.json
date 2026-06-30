@@ -1,0 +1,13 @@
+{
+  "name": "no-hand-rest",
+  "label": "no-hand rest",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "no-hand rest \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "weather-helm",
+  "label": "weather helm",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "weather helm \u2014 a concept in nautical.",
+  "version": "2.1"
+}

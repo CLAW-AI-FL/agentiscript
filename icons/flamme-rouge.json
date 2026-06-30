@@ -1,0 +1,13 @@
+{
+  "name": "flamme-rouge",
+  "label": "Flamme rouge",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Flamme rouge \u2014 a concept in sports.",
+  "version": "2.1"
+}

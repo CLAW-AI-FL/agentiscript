@@ -1,0 +1,13 @@
+{
+  "name": "rudder-stop",
+  "label": "rudder stop",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "rudder stop \u2014 a concept in nautical.",
+  "version": "2.1"
+}

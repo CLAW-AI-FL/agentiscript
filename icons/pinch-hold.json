@@ -1,0 +1,13 @@
+{
+  "name": "pinch-hold",
+  "label": "pinch hold",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pinch hold \u2014 a concept in sports.",
+  "version": "2.1"
+}

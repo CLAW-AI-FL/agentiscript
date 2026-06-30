@@ -1,0 +1,13 @@
+{
+  "name": "eclogue",
+  "label": "eclogue",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "eclogue \u2014 a concept in literature.",
+  "version": "2.1"
+}

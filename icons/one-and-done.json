@@ -1,0 +1,13 @@
+{
+  "name": "one-and-done",
+  "label": "one-and-done",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "one-and-done \u2014 a concept in sports.",
+  "version": "2.1"
+}

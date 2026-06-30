@@ -1,0 +1,13 @@
+{
+  "name": "guard-ship",
+  "label": "guard ship",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "guard ship \u2014 a concept in nautical.",
+  "version": "2.1"
+}

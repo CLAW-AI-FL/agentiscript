@@ -1,0 +1,13 @@
+{
+  "name": "moor",
+  "label": "moor",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "moor \u2014 a concept in nautical.",
+  "version": "2.1"
+}

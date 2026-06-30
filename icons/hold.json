@@ -1,0 +1,13 @@
+{
+  "name": "hold",
+  "label": "hold",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "hold \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vertical-jump",
+  "label": "vertical jump",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "vertical jump \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "negative-cost",
+  "label": "negative cost",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "negative cost \u2014 a concept in cinema.",
+  "version": "2.1"
+}

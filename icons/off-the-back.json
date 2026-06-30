@@ -1,0 +1,13 @@
+{
+  "name": "off-the-back",
+  "label": "Off the back",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Off the back \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "donk-bet",
+  "label": "donk bet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "donk bet \u2014 a concept in sports.",
+  "version": "2.1"
+}

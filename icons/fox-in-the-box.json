@@ -1,0 +1,13 @@
+{
+  "name": "fox-in-the-box",
+  "label": "Fox in the box",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Fox in the box \u2014 a concept in sports.",
+  "version": "2.1"
+}

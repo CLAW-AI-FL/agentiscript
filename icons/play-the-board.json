@@ -1,0 +1,13 @@
+{
+  "name": "play-the-board",
+  "label": "play the board",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "play the board \u2014 a concept in sports.",
+  "version": "2.1"
+}

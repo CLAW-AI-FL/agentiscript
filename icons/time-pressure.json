@@ -1,0 +1,13 @@
+{
+  "name": "time-pressure",
+  "label": "time pressure",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "time pressure \u2014 a concept in chess.",
+  "version": "2.1"
+}

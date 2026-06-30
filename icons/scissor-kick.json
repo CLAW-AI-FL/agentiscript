@@ -1,0 +1,13 @@
+{
+  "name": "scissor-kick",
+  "label": "Scissor kick",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Scissor kick \u2014 a concept in sports.",
+  "version": "2.1"
+}

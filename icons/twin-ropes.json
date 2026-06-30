@@ -1,0 +1,13 @@
+{
+  "name": "twin-ropes",
+  "label": "twin ropes",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "twin ropes \u2014 a concept in sports.",
+  "version": "2.1"
+}

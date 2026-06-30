@@ -1,0 +1,13 @@
+{
+  "name": "stunt-performer",
+  "label": "stunt performer",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "stunt performer \u2014 a concept in cinema.",
+  "version": "2.1"
+}

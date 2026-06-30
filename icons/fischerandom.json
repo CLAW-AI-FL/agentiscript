@@ -1,0 +1,13 @@
+{
+  "name": "fischerandom",
+  "label": "Fischerandom",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Fischerandom \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "misread",
+  "label": "Misread",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Misread \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pop-up",
+  "label": "Pop-up",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pop-up \u2014 a concept in sports.",
+  "version": "2.1"
+}

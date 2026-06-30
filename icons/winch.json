@@ -1,0 +1,13 @@
+{
+  "name": "winch",
+  "label": "winch",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "winch \u2014 a concept in nautical.",
+  "version": "2.1"
+}

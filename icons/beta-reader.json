@@ -1,0 +1,13 @@
+{
+  "name": "beta-reader",
+  "label": "beta reader",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "beta reader \u2014 a concept in literature.",
+  "version": "2.1"
+}

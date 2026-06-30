@@ -1,0 +1,13 @@
+{
+  "name": "world-cup",
+  "label": "World Cup",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "World Cup \u2014 a concept in sports.",
+  "version": "2.1"
+}

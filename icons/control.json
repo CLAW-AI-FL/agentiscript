@@ -1,0 +1,13 @@
+{
+  "name": "control",
+  "label": "control",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "control \u2014 a concept in chess.",
+  "version": "2.1"
+}

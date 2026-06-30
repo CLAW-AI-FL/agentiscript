@@ -1,0 +1,13 @@
+{
+  "name": "bottom-bracket",
+  "label": "Bottom bracket",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Bottom bracket \u2014 a concept in sports.",
+  "version": "2.1"
+}

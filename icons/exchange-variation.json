@@ -1,0 +1,13 @@
+{
+  "name": "exchange-variation",
+  "label": "exchange variation",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "exchange variation \u2014 a concept in chess.",
+  "version": "2.1"
+}

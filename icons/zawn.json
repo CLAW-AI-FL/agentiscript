@@ -1,0 +1,13 @@
+{
+  "name": "zawn",
+  "label": "zawn",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "zawn \u2014 a concept in sports.",
+  "version": "2.1"
+}

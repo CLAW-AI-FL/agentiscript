@@ -1,0 +1,13 @@
+{
+  "name": "man-of-the-match",
+  "label": "Man of the match",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Man of the match \u2014 a concept in sports.",
+  "version": "2.1"
+}

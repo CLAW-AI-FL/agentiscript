@@ -1,0 +1,13 @@
+{
+  "name": "non-provisional-patent-application",
+  "label": "Non-provisional patent application",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Non-provisional patent application \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "moving-day",
+  "label": "Moving day",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Moving day \u2014 a concept in sports.",
+  "version": "2.1"
+}

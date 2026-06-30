@@ -1,0 +1,13 @@
+{
+  "name": "dart",
+  "label": "dart",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "dart \u2014 a concept in nautical.",
+  "version": "2.1"
+}

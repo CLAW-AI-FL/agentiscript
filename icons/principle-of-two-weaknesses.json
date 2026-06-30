@@ -1,0 +1,13 @@
+{
+  "name": "principle-of-two-weaknesses",
+  "label": "Principle of two weaknesses",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Principle of two weaknesses \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "away-goals-rule",
+  "label": "Away goals rule",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Away goals rule \u2014 a concept in sports.",
+  "version": "2.1"
+}

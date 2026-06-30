@@ -1,0 +1,13 @@
+{
+  "name": "whip-pan",
+  "label": "whip pan",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "whip pan \u2014 a concept in cinema.",
+  "version": "2.1"
+}

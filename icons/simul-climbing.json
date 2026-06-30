@@ -1,0 +1,13 @@
+{
+  "name": "simul-climbing",
+  "label": "simul climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "simul climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

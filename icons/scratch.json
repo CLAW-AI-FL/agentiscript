@@ -1,0 +1,13 @@
+{
+  "name": "scratch",
+  "label": "Scratch",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Scratch \u2014 a concept in sports.",
+  "version": "2.1"
+}

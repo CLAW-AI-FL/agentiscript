@@ -1,0 +1,13 @@
+{
+  "name": "eurocup-basketball",
+  "label": "EuroCup Basketball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "EuroCup Basketball \u2014 a concept in sports.",
+  "version": "2.1"
+}

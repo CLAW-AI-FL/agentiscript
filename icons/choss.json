@@ -1,0 +1,13 @@
+{
+  "name": "choss",
+  "label": "choss",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "choss \u2014 a concept in sports.",
+  "version": "2.1"
+}

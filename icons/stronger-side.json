@@ -1,0 +1,13 @@
+{
+  "name": "stronger-side",
+  "label": "stronger side",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "stronger side \u2014 a concept in chess.",
+  "version": "2.1"
+}

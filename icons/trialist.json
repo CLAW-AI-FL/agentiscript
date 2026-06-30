@@ -1,0 +1,13 @@
+{
+  "name": "trialist",
+  "label": "Trialist",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Trialist \u2014 a concept in sports.",
+  "version": "2.1"
+}

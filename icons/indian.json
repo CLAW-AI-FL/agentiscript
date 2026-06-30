@@ -1,0 +1,13 @@
+{
+  "name": "indian",
+  "label": "Indian",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Indian \u2014 a concept in chess.",
+  "version": "2.1"
+}

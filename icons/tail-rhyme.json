@@ -1,0 +1,13 @@
+{
+  "name": "tail-rhyme",
+  "label": "tail rhyme",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "tail rhyme \u2014 a concept in literature.",
+  "version": "2.1"
+}

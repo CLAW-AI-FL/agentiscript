@@ -1,0 +1,13 @@
+{
+  "name": "movie-camera",
+  "label": "movie camera",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "movie camera \u2014 a concept in cinema.",
+  "version": "2.1"
+}

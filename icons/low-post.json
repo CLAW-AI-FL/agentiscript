@@ -1,0 +1,13 @@
+{
+  "name": "low-post",
+  "label": "low post",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "low post \u2014 a concept in sports.",
+  "version": "2.1"
+}

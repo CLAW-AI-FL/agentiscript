@@ -1,0 +1,13 @@
+{
+  "name": "represent",
+  "label": "represent",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "represent \u2014 a concept in sports.",
+  "version": "2.1"
+}

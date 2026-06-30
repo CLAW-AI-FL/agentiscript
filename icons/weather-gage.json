@@ -1,0 +1,13 @@
+{
+  "name": "weather-gage",
+  "label": "weather gage",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "weather gage \u2014 a concept in nautical.",
+  "version": "2.1"
+}

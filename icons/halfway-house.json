@@ -1,0 +1,13 @@
+{
+  "name": "halfway-house",
+  "label": "halfway house",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "halfway house \u2014 a concept in sports.",
+  "version": "2.1"
+}

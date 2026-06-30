@@ -1,0 +1,13 @@
+{
+  "name": "one-chip-rule",
+  "label": "one-chip rule",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "one-chip rule \u2014 a concept in sports.",
+  "version": "2.1"
+}

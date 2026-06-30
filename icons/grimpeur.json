@@ -1,0 +1,13 @@
+{
+  "name": "grimpeur",
+  "label": "Grimpeur",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Grimpeur \u2014 a concept in sports.",
+  "version": "2.1"
+}

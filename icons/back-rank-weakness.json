@@ -1,0 +1,13 @@
+{
+  "name": "back-rank-weakness",
+  "label": "back-rank weakness",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "back-rank weakness \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tautology",
+  "label": "Tautology",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "Tautology \u2014 a concept in literature.",
+  "version": "2.1"
+}

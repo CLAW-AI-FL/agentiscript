@@ -1,0 +1,13 @@
+{
+  "name": "x-rating",
+  "label": "X rating",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "X rating \u2014 a concept in cinema.",
+  "version": "2.1"
+}

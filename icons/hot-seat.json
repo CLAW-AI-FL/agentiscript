@@ -1,0 +1,13 @@
+{
+  "name": "hot-seat",
+  "label": "Hot seat",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hot seat \u2014 a concept in sports.",
+  "version": "2.1"
+}

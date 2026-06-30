@@ -1,0 +1,13 @@
+{
+  "name": "spar-torpedo",
+  "label": "spar torpedo",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "spar torpedo \u2014 a concept in nautical.",
+  "version": "2.1"
+}

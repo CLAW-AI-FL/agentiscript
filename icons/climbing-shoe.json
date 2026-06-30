@@ -1,0 +1,13 @@
+{
+  "name": "climbing-shoe",
+  "label": "climbing shoe",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "climbing shoe \u2014 a concept in sports.",
+  "version": "2.1"
+}

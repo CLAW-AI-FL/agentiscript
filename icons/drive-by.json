@@ -1,0 +1,13 @@
+{
+  "name": "drive-by",
+  "label": "drive-by",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "drive-by \u2014 a concept in sports.",
+  "version": "2.1"
+}

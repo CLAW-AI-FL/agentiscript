@@ -1,0 +1,13 @@
+{
+  "name": "sportive-bicycle",
+  "label": "Sportive bicycle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sportive bicycle \u2014 a concept in sports.",
+  "version": "2.1"
+}

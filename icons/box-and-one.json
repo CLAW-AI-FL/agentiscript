@@ -1,0 +1,13 @@
+{
+  "name": "box-and-one",
+  "label": "box-and-one",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "box-and-one \u2014 a concept in sports.",
+  "version": "2.1"
+}

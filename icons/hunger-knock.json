@@ -1,0 +1,13 @@
+{
+  "name": "hunger-knock",
+  "label": "Hunger knock",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Hunger knock \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "a-match",
+  "label": "\"A\" Match",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "\"A\" Match \u2014 a concept in sports.",
+  "version": "2.1"
+}

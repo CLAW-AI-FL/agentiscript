@@ -1,0 +1,13 @@
+{
+  "name": "simultaneous-chess",
+  "label": "simultaneous chess",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "simultaneous chess \u2014 a concept in chess.",
+  "version": "2.1"
+}

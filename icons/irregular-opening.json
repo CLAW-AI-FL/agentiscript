@@ -1,0 +1,13 @@
+{
+  "name": "irregular-opening",
+  "label": "irregular opening",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "irregular opening \u2014 a concept in chess.",
+  "version": "2.1"
+}

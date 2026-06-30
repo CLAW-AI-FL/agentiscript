@@ -1,0 +1,13 @@
+{
+  "name": "blast",
+  "label": "blast",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "blast \u2014 a concept in sports.",
+  "version": "2.1"
+}

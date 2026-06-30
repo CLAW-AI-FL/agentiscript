@@ -1,0 +1,13 @@
+{
+  "name": "parcours",
+  "label": "Parcours",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Parcours \u2014 a concept in sports.",
+  "version": "2.1"
+}

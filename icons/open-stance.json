@@ -1,0 +1,13 @@
+{
+  "name": "open-stance",
+  "label": "open stance",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "open stance \u2014 a concept in sports.",
+  "version": "2.1"
+}

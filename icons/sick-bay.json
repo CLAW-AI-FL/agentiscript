@@ -1,0 +1,13 @@
+{
+  "name": "sick-bay",
+  "label": "sick bay",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "sick bay \u2014 a concept in nautical.",
+  "version": "2.1"
+}

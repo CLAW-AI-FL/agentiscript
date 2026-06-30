@@ -1,0 +1,13 @@
+{
+  "name": "pot-limit",
+  "label": "pot-limit",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pot-limit \u2014 a concept in sports.",
+  "version": "2.1"
+}

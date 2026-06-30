@@ -1,0 +1,13 @@
+{
+  "name": "competition-ice-climbing",
+  "label": "competition ice climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "competition ice climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

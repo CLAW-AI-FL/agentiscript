@@ -1,0 +1,13 @@
+{
+  "name": "slice",
+  "label": "Slice",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Slice \u2014 a concept in sports.",
+  "version": "2.1"
+}

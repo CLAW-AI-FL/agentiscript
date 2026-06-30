@@ -1,0 +1,13 @@
+{
+  "name": "touch-move-rule",
+  "label": "touch-move rule",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "touch-move rule \u2014 a concept in chess.",
+  "version": "2.1"
+}

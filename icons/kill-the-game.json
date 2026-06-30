@@ -1,0 +1,13 @@
+{
+  "name": "kill-the-game",
+  "label": "Kill the game",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Kill the game \u2014 a concept in sports.",
+  "version": "2.1"
+}

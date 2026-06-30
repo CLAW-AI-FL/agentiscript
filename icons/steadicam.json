@@ -1,0 +1,13 @@
+{
+  "name": "steadicam",
+  "label": "Steadicam",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Steadicam \u2014 a concept in cinema.",
+  "version": "2.1"
+}

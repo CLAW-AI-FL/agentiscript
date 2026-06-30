@@ -1,0 +1,13 @@
+{
+  "name": "two-footed-tackle",
+  "label": "Two-footed tackle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Two-footed tackle \u2014 a concept in sports.",
+  "version": "2.1"
+}

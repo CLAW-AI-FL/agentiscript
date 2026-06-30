@@ -1,0 +1,13 @@
+{
+  "name": "bomb-pot",
+  "label": "bomb pot",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "bomb pot \u2014 a concept in sports.",
+  "version": "2.1"
+}

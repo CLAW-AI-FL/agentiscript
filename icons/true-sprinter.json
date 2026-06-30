@@ -1,0 +1,13 @@
+{
+  "name": "true-sprinter",
+  "label": "True sprinter",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "True sprinter \u2014 a concept in sports.",
+  "version": "2.1"
+}

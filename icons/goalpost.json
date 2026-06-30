@@ -1,0 +1,13 @@
+{
+  "name": "goalpost",
+  "label": "Goalpost",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Goalpost \u2014 a concept in sports.",
+  "version": "2.1"
+}

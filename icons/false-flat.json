@@ -1,0 +1,13 @@
+{
+  "name": "false-flat",
+  "label": "False flat",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "False flat \u2014 a concept in sports.",
+  "version": "2.1"
+}

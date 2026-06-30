@@ -1,0 +1,13 @@
+{
+  "name": "essay",
+  "label": "essay",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "essay \u2014 a concept in literature.",
+  "version": "2.1"
+}

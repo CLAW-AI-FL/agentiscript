@@ -1,0 +1,13 @@
+{
+  "name": "technical-area",
+  "label": "Technical area",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Technical area \u2014 a concept in sports.",
+  "version": "2.1"
+}

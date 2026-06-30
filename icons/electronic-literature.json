@@ -1,0 +1,13 @@
+{
+  "name": "electronic-literature",
+  "label": "electronic literature",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "electronic literature \u2014 a concept in literature.",
+  "version": "2.1"
+}

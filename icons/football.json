@@ -1,0 +1,13 @@
+{
+  "name": "football",
+  "label": "Football",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Football \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dissoi-logoi",
+  "label": "Dissoi logoi",
+  "category": "rhetoric",
+  "tags": [
+    "rhetoric",
+    "language",
+    "persuasion"
+  ],
+  "source": "rhetoric",
+  "description": "Dissoi logoi \u2014 a concept in rhetoric.",
+  "version": "2.1"
+}

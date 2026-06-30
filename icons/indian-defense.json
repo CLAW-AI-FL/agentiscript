@@ -1,0 +1,13 @@
+{
+  "name": "indian-defense",
+  "label": "Indian Defense",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Indian Defense \u2014 a concept in chess.",
+  "version": "2.1"
+}

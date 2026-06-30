@@ -1,0 +1,13 @@
+{
+  "name": "studs",
+  "label": "Studs",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Studs \u2014 a concept in sports.",
+  "version": "2.1"
+}

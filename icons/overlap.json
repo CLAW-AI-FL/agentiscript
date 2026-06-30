@@ -1,0 +1,13 @@
+{
+  "name": "overlap",
+  "label": "Overlap",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Overlap \u2014 a concept in sports.",
+  "version": "2.1"
+}

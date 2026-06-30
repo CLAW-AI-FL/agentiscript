@@ -1,0 +1,13 @@
+{
+  "name": "negative-geoglyph",
+  "label": "negative geoglyph",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "negative geoglyph \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

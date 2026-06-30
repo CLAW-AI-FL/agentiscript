@@ -1,0 +1,13 @@
+{
+  "name": "knight",
+  "label": "knight",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "knight \u2014 a concept in chess.",
+  "version": "2.1"
+}

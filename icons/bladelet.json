@@ -1,0 +1,13 @@
+{
+  "name": "bladelet",
+  "label": "bladelet",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "bladelet \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

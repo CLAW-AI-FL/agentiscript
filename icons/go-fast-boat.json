@@ -1,0 +1,13 @@
+{
+  "name": "go-fast-boat",
+  "label": "go-fast boat",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "go-fast boat \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "video-assistant-referee",
+  "label": "Video assistant referee",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Video assistant referee \u2014 a concept in sports.",
+  "version": "2.1"
+}

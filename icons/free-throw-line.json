@@ -1,0 +1,13 @@
+{
+  "name": "free-throw-line",
+  "label": "free-throw line",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "free-throw line \u2014 a concept in sports.",
+  "version": "2.1"
+}

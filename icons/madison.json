@@ -1,0 +1,13 @@
+{
+  "name": "madison",
+  "label": "Madison",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Madison \u2014 a concept in sports.",
+  "version": "2.1"
+}

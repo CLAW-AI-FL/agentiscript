@@ -1,0 +1,13 @@
+{
+  "name": "excavation",
+  "label": "excavation",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "excavation \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

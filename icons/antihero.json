@@ -1,0 +1,13 @@
+{
+  "name": "antihero",
+  "label": "antihero",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "antihero \u2014 a concept in literature.",
+  "version": "2.1"
+}

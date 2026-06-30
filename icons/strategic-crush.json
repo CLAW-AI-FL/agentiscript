@@ -1,0 +1,13 @@
+{
+  "name": "strategic-crush",
+  "label": "strategic crush",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "strategic crush \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "weather-side",
+  "label": "weather side",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "weather side \u2014 a concept in nautical.",
+  "version": "2.1"
+}

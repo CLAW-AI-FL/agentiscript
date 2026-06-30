@@ -1,0 +1,13 @@
+{
+  "name": "champions-league",
+  "label": "Champions League",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Champions League \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "finds-processing",
+  "label": "finds processing",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "finds processing \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

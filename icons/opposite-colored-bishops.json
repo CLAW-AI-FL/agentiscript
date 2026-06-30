@@ -1,0 +1,13 @@
+{
+  "name": "opposite-colored-bishops",
+  "label": "opposite-colored bishops",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "opposite-colored bishops \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ironboat",
+  "label": "ironboat",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ironboat \u2014 a concept in nautical.",
+  "version": "2.1"
+}

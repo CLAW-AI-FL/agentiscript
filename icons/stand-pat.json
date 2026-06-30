@@ -1,0 +1,13 @@
+{
+  "name": "stand-pat",
+  "label": "stand pat",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "stand pat \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "close-shot",
+  "label": "close shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "close shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

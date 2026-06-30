@@ -1,0 +1,13 @@
+{
+  "name": "promedios",
+  "label": "Promedios",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Promedios \u2014 a concept in sports.",
+  "version": "2.1"
+}

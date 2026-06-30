@@ -1,0 +1,13 @@
+{
+  "name": "hokku",
+  "label": "hokku",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "hokku \u2014 a concept in literature.",
+  "version": "2.1"
+}

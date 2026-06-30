@@ -1,0 +1,13 @@
+{
+  "name": "flag-officer",
+  "label": "flag officer",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "flag officer \u2014 a concept in nautical.",
+  "version": "2.1"
+}

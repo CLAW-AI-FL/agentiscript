@@ -1,0 +1,13 @@
+{
+  "name": "air-ball",
+  "label": "air ball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "air ball \u2014 a concept in sports.",
+  "version": "2.1"
+}

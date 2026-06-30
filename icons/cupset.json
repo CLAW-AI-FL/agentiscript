@@ -1,0 +1,13 @@
+{
+  "name": "cupset",
+  "label": "Cupset",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Cupset \u2014 a concept in sports.",
+  "version": "2.1"
+}

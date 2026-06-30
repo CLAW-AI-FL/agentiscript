@@ -1,0 +1,13 @@
+{
+  "name": "goal-average",
+  "label": "Goal average",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Goal average \u2014 a concept in sports.",
+  "version": "2.1"
+}

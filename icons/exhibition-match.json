@@ -1,0 +1,13 @@
+{
+  "name": "exhibition-match",
+  "label": "Exhibition match",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Exhibition match \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stony",
+  "label": "Stony",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Stony \u2014 a concept in sports.",
+  "version": "2.1"
+}

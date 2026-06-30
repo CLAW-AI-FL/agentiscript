@@ -1,0 +1,13 @@
+{
+  "name": "transom",
+  "label": "transom",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "transom \u2014 a concept in nautical.",
+  "version": "2.1"
+}

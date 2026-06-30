@@ -1,0 +1,13 @@
+{
+  "name": "pitch-mark",
+  "label": "Pitch mark",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Pitch mark \u2014 a concept in sports.",
+  "version": "2.1"
+}

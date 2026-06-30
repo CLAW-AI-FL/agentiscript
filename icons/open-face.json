@@ -1,0 +1,13 @@
+{
+  "name": "open-face",
+  "label": "open face",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "open face \u2014 a concept in sports.",
+  "version": "2.1"
+}

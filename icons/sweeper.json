@@ -1,0 +1,13 @@
+{
+  "name": "sweeper",
+  "label": "Sweeper",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Sweeper \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "downbet",
+  "label": "downbet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "downbet \u2014 a concept in sports.",
+  "version": "2.1"
+}

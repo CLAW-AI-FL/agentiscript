@@ -1,0 +1,13 @@
+{
+  "name": "scramble",
+  "label": "Scramble",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Scramble \u2014 a concept in sports.",
+  "version": "2.1"
+}

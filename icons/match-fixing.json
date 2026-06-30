@@ -1,0 +1,13 @@
+{
+  "name": "match-fixing",
+  "label": "Match fixing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Match fixing \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "betting-structure",
+  "label": "betting structure",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "betting structure \u2014 a concept in sports.",
+  "version": "2.1"
+}

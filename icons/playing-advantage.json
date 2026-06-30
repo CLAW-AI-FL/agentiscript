@@ -1,0 +1,13 @@
+{
+  "name": "playing-advantage",
+  "label": "Playing advantage",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Playing advantage \u2014 a concept in sports.",
+  "version": "2.1"
+}

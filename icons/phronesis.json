@@ -1,0 +1,13 @@
+{
+  "name": "phronesis",
+  "label": "phronesis",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "phronesis \u2014 a concept in literature.",
+  "version": "2.1"
+}

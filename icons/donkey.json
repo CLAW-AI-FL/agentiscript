@@ -1,0 +1,13 @@
+{
+  "name": "donkey",
+  "label": "donkey",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "donkey \u2014 a concept in sports.",
+  "version": "2.1"
+}

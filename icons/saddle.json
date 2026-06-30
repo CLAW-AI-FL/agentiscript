@@ -1,0 +1,13 @@
+{
+  "name": "saddle",
+  "label": "Saddle",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Saddle \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "big-full",
+  "label": "big full",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "big full \u2014 a concept in sports.",
+  "version": "2.1"
+}

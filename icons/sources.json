@@ -1,0 +1,13 @@
+{
+  "name": "sources",
+  "label": "Sources",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Sources \u2014 a concept in chess.",
+  "version": "2.1"
+}

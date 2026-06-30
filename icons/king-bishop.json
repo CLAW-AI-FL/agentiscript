@@ -1,0 +1,13 @@
+{
+  "name": "king-bishop",
+  "label": "king bishop",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "king bishop \u2014 a concept in chess.",
+  "version": "2.1"
+}

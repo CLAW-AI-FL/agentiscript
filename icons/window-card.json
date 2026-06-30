@@ -1,0 +1,13 @@
+{
+  "name": "window-card",
+  "label": "window card",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "window card \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "call-time",
+  "label": "call time",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "call time \u2014 a concept in cinema.",
+  "version": "2.1"
+}

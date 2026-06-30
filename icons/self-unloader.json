@@ -1,0 +1,13 @@
+{
+  "name": "self-unloader",
+  "label": "self-unloader",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "self-unloader \u2014 a concept in nautical.",
+  "version": "2.1"
+}

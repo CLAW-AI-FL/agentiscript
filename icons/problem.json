@@ -1,0 +1,13 @@
+{
+  "name": "problem",
+  "label": "problem",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "problem \u2014 a concept in sports.",
+  "version": "2.1"
+}

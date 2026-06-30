@@ -1,0 +1,13 @@
+{
+  "name": "golf-club",
+  "label": "Golf club",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Golf club \u2014 a concept in sports.",
+  "version": "2.1"
+}

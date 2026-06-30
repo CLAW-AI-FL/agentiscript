@@ -1,0 +1,13 @@
+{
+  "name": "tramp-freighter",
+  "label": "tramp freighter",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "tramp freighter \u2014 a concept in nautical.",
+  "version": "2.1"
+}

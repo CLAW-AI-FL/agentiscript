@@ -1,0 +1,13 @@
+{
+  "name": "leavittation",
+  "label": "Leavittation",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Leavittation \u2014 a concept in sports.",
+  "version": "2.1"
+}

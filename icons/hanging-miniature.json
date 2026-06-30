@@ -1,0 +1,13 @@
+{
+  "name": "hanging-miniature",
+  "label": "hanging miniature",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "hanging miniature \u2014 a concept in cinema.",
+  "version": "2.1"
+}

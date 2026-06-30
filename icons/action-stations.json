@@ -1,0 +1,13 @@
+{
+  "name": "action-stations",
+  "label": "action stations",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "action stations \u2014 a concept in nautical.",
+  "version": "2.1"
+}

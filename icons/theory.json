@@ -1,0 +1,13 @@
+{
+  "name": "theory",
+  "label": "theory",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "theory \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gunroom",
+  "label": "gunroom",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "gunroom \u2014 a concept in nautical.",
+  "version": "2.1"
+}

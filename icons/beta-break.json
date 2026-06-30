@@ -1,0 +1,13 @@
+{
+  "name": "beta-break",
+  "label": "beta break",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "beta break \u2014 a concept in sports.",
+  "version": "2.1"
+}

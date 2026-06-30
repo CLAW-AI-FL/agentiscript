@@ -1,0 +1,13 @@
+{
+  "name": "lane",
+  "label": "lane",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "lane \u2014 a concept in sports.",
+  "version": "2.1"
+}

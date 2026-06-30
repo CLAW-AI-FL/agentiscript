@@ -1,0 +1,13 @@
+{
+  "name": "national-collegiate-athletic-association",
+  "label": "National Collegiate Athletic Association",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "National Collegiate Athletic Association \u2014 a concept in sports.",
+  "version": "2.1"
+}

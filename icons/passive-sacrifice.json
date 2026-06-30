@@ -1,0 +1,13 @@
+{
+  "name": "passive-sacrifice",
+  "label": "passive sacrifice",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "passive sacrifice \u2014 a concept in chess.",
+  "version": "2.1"
+}

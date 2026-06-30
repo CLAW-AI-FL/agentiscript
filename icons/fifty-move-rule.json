@@ -1,0 +1,13 @@
+{
+  "name": "fifty-move-rule",
+  "label": "fifty-move rule",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "fifty-move rule \u2014 a concept in chess.",
+  "version": "2.1"
+}

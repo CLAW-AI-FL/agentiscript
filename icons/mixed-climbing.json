@@ -1,0 +1,13 @@
+{
+  "name": "mixed-climbing",
+  "label": "mixed climbing",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "mixed climbing \u2014 a concept in sports.",
+  "version": "2.1"
+}

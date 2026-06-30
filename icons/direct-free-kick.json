@@ -1,0 +1,13 @@
+{
+  "name": "direct-free-kick",
+  "label": "Direct free kick",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Direct free kick \u2014 a concept in sports.",
+  "version": "2.1"
+}

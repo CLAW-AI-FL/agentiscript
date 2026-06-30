@@ -1,0 +1,13 @@
+{
+  "name": "dead-draw",
+  "label": "dead draw",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "dead draw \u2014 a concept in chess.",
+  "version": "2.1"
+}

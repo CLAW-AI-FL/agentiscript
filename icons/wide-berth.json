@@ -1,0 +1,13 @@
+{
+  "name": "wide-berth",
+  "label": "wide berth",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "wide berth \u2014 a concept in nautical.",
+  "version": "2.1"
+}

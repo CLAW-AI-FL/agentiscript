@@ -1,0 +1,13 @@
+{
+  "name": "position-bet",
+  "label": "position bet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "position bet \u2014 a concept in sports.",
+  "version": "2.1"
+}

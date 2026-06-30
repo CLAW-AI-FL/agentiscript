@@ -1,0 +1,13 @@
+{
+  "name": "inside-forward",
+  "label": "Inside forward",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Inside forward \u2014 a concept in sports.",
+  "version": "2.1"
+}

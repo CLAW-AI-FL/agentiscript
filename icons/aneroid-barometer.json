@@ -1,0 +1,13 @@
+{
+  "name": "aneroid-barometer",
+  "label": "aneroid barometer",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "aneroid barometer \u2014 a concept in nautical.",
+  "version": "2.1"
+}

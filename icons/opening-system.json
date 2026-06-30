@@ -1,0 +1,13 @@
+{
+  "name": "opening-system",
+  "label": "opening system",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "opening system \u2014 a concept in chess.",
+  "version": "2.1"
+}

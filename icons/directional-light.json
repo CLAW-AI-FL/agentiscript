@@ -1,0 +1,13 @@
+{
+  "name": "directional-light",
+  "label": "directional light",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "directional light \u2014 a concept in nautical.",
+  "version": "2.1"
+}

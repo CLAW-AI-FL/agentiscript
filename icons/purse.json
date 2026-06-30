@@ -1,0 +1,13 @@
+{
+  "name": "purse",
+  "label": "purse",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "purse \u2014 a concept in sports.",
+  "version": "2.1"
+}

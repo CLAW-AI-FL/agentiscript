@@ -1,0 +1,13 @@
+{
+  "name": "tank-in-the-tank",
+  "label": "tank, in the tank",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "tank, in the tank \u2014 a concept in sports.",
+  "version": "2.1"
+}

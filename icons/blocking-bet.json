@@ -1,0 +1,13 @@
+{
+  "name": "blocking-bet",
+  "label": "blocking bet",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "blocking bet \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "man-on",
+  "label": "Man on!",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Man on! \u2014 a concept in sports.",
+  "version": "2.1"
+}

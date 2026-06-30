@@ -1,0 +1,13 @@
+{
+  "name": "shovelbum",
+  "label": "shovelbum",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "shovelbum \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

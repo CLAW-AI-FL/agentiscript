@@ -1,0 +1,13 @@
+{
+  "name": "flagrant-foul",
+  "label": "flagrant foul",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "flagrant foul \u2014 a concept in sports.",
+  "version": "2.1"
+}

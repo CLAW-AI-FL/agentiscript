@@ -1,0 +1,13 @@
+{
+  "name": "midden",
+  "label": "midden",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "midden \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

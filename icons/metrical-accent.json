@@ -1,0 +1,13 @@
+{
+  "name": "metrical-accent",
+  "label": "metrical accent",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "metrical accent \u2014 a concept in literature.",
+  "version": "2.1"
+}

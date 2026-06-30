@@ -1,0 +1,13 @@
+{
+  "name": "episode",
+  "label": "episode",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "episode \u2014 a concept in literature.",
+  "version": "2.1"
+}

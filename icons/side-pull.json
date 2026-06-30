@@ -1,0 +1,13 @@
+{
+  "name": "side-pull",
+  "label": "side pull",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "side pull \u2014 a concept in sports.",
+  "version": "2.1"
+}

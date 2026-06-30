@@ -1,0 +1,13 @@
+{
+  "name": "philidor-sacrifice",
+  "label": "Philidor sacrifice",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Philidor sacrifice \u2014 a concept in chess.",
+  "version": "2.1"
+}

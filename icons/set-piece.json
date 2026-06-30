@@ -1,0 +1,13 @@
+{
+  "name": "set-piece",
+  "label": "Set piece",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Set piece \u2014 a concept in sports.",
+  "version": "2.1"
+}

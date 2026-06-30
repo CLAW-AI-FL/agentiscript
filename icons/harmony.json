@@ -1,0 +1,13 @@
+{
+  "name": "harmony",
+  "label": "harmony",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "harmony \u2014 a concept in chess.",
+  "version": "2.1"
+}

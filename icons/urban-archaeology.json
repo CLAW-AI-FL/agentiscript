@@ -1,0 +1,13 @@
+{
+  "name": "urban-archaeology",
+  "label": "urban archaeology",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "urban archaeology \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

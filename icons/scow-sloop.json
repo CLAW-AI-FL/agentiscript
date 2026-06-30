@@ -1,0 +1,13 @@
+{
+  "name": "scow-sloop",
+  "label": "scow sloop",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "scow sloop \u2014 a concept in nautical.",
+  "version": "2.1"
+}

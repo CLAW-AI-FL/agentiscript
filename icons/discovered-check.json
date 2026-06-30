@@ -1,0 +1,13 @@
+{
+  "name": "discovered-check",
+  "label": "discovered check",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "discovered check \u2014 a concept in chess.",
+  "version": "2.1"
+}

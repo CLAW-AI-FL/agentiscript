@@ -1,0 +1,13 @@
+{
+  "name": "demonstration-board",
+  "label": "demonstration board",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "demonstration board \u2014 a concept in chess.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pilot-boat",
+  "label": "pilot boat",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "pilot boat \u2014 a concept in nautical.",
+  "version": "2.1"
+}

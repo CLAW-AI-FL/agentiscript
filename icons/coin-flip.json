@@ -1,0 +1,13 @@
+{
+  "name": "coin-flip",
+  "label": "coin flip",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "coin flip \u2014 a concept in sports.",
+  "version": "2.1"
+}

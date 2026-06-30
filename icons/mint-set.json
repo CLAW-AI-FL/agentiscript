@@ -1,0 +1,13 @@
+{
+  "name": "mint-set",
+  "label": "mint set",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "mint set \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

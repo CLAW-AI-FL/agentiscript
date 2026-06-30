@@ -1,0 +1,13 @@
+{
+  "name": "bosuns-pipe",
+  "label": "bosun's pipe",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "bosun's pipe \u2014 a concept in nautical.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "university-wits",
+  "label": "University Wits",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "University Wits \u2014 a concept in literature.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "high-post",
+  "label": "high post",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "high post \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bottom",
+  "label": "bottom",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "bottom \u2014 a concept in nautical.",
+  "version": "2.1"
+}

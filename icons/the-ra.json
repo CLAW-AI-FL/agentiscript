@@ -1,0 +1,13 @@
+{
+  "name": "the-ra",
+  "label": "The R&A",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "The R&A \u2014 a concept in sports.",
+  "version": "2.1"
+}

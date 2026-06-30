@@ -1,0 +1,13 @@
+{
+  "name": "tarrasch-rule",
+  "label": "Tarrasch rule",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "Tarrasch rule \u2014 a concept in chess.",
+  "version": "2.1"
+}

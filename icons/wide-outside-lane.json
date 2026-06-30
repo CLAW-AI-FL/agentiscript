@@ -1,0 +1,13 @@
+{
+  "name": "wide-outside-lane",
+  "label": "Wide Outside Lane",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Wide Outside Lane \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "square-ball",
+  "label": "Square ball",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Square ball \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sham-sacrifice",
+  "label": "sham sacrifice",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "sham sacrifice \u2014 a concept in chess.",
+  "version": "2.1"
+}

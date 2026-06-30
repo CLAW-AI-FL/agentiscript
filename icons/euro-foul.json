@@ -1,0 +1,13 @@
+{
+  "name": "euro-foul",
+  "label": "Euro foul",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Euro foul \u2014 a concept in sports.",
+  "version": "2.1"
+}

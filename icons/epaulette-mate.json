@@ -1,0 +1,13 @@
+{
+  "name": "epaulette-mate",
+  "label": "epaulette mate",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "epaulette mate \u2014 a concept in chess.",
+  "version": "2.1"
+}

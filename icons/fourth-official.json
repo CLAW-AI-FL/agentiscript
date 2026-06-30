@@ -1,0 +1,13 @@
+{
+  "name": "fourth-official",
+  "label": "Fourth official",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Fourth official \u2014 a concept in sports.",
+  "version": "2.1"
+}

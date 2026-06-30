@@ -1,0 +1,13 @@
+{
+  "name": "pinkpoint",
+  "label": "pinkpoint",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "pinkpoint \u2014 a concept in sports.",
+  "version": "2.1"
+}

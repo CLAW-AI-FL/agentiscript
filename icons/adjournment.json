@@ -1,0 +1,13 @@
+{
+  "name": "adjournment",
+  "label": "adjournment",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "adjournment \u2014 a concept in chess.",
+  "version": "2.1"
+}

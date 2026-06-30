@@ -1,0 +1,13 @@
+{
+  "name": "mast-case",
+  "label": "mast case",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "mast case \u2014 a concept in nautical.",
+  "version": "2.1"
+}

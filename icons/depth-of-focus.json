@@ -1,0 +1,13 @@
+{
+  "name": "depth-of-focus",
+  "label": "depth of focus",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "depth of focus \u2014 a concept in cinema.",
+  "version": "2.1"
+}

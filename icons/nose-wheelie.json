@@ -1,0 +1,13 @@
+{
+  "name": "nose-wheelie",
+  "label": "Nose wheelie",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Nose wheelie \u2014 a concept in sports.",
+  "version": "2.1"
+}

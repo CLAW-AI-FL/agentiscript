@@ -1,0 +1,13 @@
+{
+  "name": "heave",
+  "label": "heave",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "heave \u2014 a concept in nautical.",
+  "version": "2.1"
+}

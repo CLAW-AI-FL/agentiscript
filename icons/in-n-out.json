@@ -1,0 +1,13 @@
+{
+  "name": "in-n-out",
+  "label": "in-n-out",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "in-n-out \u2014 a concept in sports.",
+  "version": "2.1"
+}

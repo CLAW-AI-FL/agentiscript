@@ -1,0 +1,13 @@
+{
+  "name": "virtual-archaeology",
+  "label": "Virtual archaeology",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "Virtual archaeology \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

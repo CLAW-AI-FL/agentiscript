@@ -1,0 +1,13 @@
+{
+  "name": "fergie-time",
+  "label": "Fergie time",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Fergie time \u2014 a concept in sports.",
+  "version": "2.1"
+}

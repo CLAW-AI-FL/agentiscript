@@ -1,0 +1,13 @@
+{
+  "name": "live-game",
+  "label": "live game",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "live game \u2014 a concept in sports.",
+  "version": "2.1"
+}

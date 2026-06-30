@@ -1,0 +1,13 @@
+{
+  "name": "cameo-lighting",
+  "label": "cameo lighting",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "cameo lighting \u2014 a concept in cinema.",
+  "version": "2.1"
+}

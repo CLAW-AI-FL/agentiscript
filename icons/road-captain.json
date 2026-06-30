@@ -1,0 +1,13 @@
+{
+  "name": "road-captain",
+  "label": "Road captain",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Road captain \u2014 a concept in sports.",
+  "version": "2.1"
+}

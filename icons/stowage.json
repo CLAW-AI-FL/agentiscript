@@ -1,0 +1,13 @@
+{
+  "name": "stowage",
+  "label": "stowage",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "stowage \u2014 a concept in nautical.",
+  "version": "2.1"
+}

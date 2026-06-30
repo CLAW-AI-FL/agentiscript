@@ -1,0 +1,13 @@
+{
+  "name": "baulk",
+  "label": "baulk",
+  "category": "archaeology",
+  "tags": [
+    "archaeology",
+    "history",
+    "science"
+  ],
+  "source": "archaeology",
+  "description": "baulk \u2014 a concept in archaeology.",
+  "version": "2.1"
+}

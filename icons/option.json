@@ -1,0 +1,13 @@
+{
+  "name": "option",
+  "label": "option",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "option \u2014 a concept in sports.",
+  "version": "2.1"
+}

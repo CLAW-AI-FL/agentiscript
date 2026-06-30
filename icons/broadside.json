@@ -1,0 +1,13 @@
+{
+  "name": "broadside",
+  "label": "broadside",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "broadside \u2014 a concept in cinema.",
+  "version": "2.1"
+}

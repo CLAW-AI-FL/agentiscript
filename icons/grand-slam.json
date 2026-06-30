@@ -1,0 +1,13 @@
+{
+  "name": "grand-slam",
+  "label": "Grand slam",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Grand slam \u2014 a concept in sports.",
+  "version": "2.1"
+}

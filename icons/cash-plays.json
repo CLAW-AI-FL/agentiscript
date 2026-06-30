@@ -1,0 +1,13 @@
+{
+  "name": "cash-plays",
+  "label": "cash plays",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "cash plays \u2014 a concept in sports.",
+  "version": "2.1"
+}

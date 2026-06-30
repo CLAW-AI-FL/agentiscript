@@ -1,0 +1,13 @@
+{
+  "name": "ship-classification-society",
+  "label": "ship classification society",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "ship classification society \u2014 a concept in nautical.",
+  "version": "2.1"
+}

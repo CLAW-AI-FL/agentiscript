@@ -1,0 +1,13 @@
+{
+  "name": "shop-right",
+  "label": "Shop right",
+  "category": "patent-law",
+  "tags": [
+    "patent",
+    "law",
+    "intellectual-property"
+  ],
+  "source": "patent-law",
+  "description": "Shop right \u2014 a concept in patent-law.",
+  "version": "2.1"
+}

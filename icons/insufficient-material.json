@@ -1,0 +1,13 @@
+{
+  "name": "insufficient-material",
+  "label": "insufficient material",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "insufficient material \u2014 a concept in chess.",
+  "version": "2.1"
+}

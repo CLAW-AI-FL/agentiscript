@@ -1,0 +1,13 @@
+{
+  "name": "maillot-jaune",
+  "label": "Maillot Jaune",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Maillot Jaune \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stop-and-go",
+  "label": "stop and go",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "stop and go \u2014 a concept in sports.",
+  "version": "2.1"
+}

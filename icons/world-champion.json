@@ -1,0 +1,13 @@
+{
+  "name": "world-champion",
+  "label": "World Champion",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "World Champion \u2014 a concept in chess.",
+  "version": "2.1"
+}

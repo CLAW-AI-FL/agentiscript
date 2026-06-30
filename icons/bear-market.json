@@ -1,0 +1,13 @@
+{
+  "name": "bear-market",
+  "label": "Bear market",
+  "category": "finance",
+  "tags": [
+    "finance",
+    "economics",
+    "money"
+  ],
+  "source": "finance",
+  "description": "Bear market \u2014 a concept in finance.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "en-prise",
+  "label": "en prise",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "en prise \u2014 a concept in chess.",
+  "version": "2.1"
+}

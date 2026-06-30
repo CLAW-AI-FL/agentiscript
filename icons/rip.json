@@ -1,0 +1,13 @@
+{
+  "name": "rip",
+  "label": "Rip",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Rip \u2014 a concept in sports.",
+  "version": "2.1"
+}

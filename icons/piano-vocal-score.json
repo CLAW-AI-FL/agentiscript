@@ -1,0 +1,13 @@
+{
+  "name": "piano-vocal-score",
+  "label": "piano-vocal score",
+  "category": "music",
+  "tags": [
+    "music",
+    "arts",
+    "sound"
+  ],
+  "source": "music",
+  "description": "piano-vocal score \u2014 a concept in music.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "exergue",
+  "label": "exergue",
+  "category": "numismatics",
+  "tags": [
+    "numismatics",
+    "coins",
+    "history"
+  ],
+  "source": "numismatics",
+  "description": "exergue \u2014 a concept in numismatics.",
+  "version": "2.1"
+}

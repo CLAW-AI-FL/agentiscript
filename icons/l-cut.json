@@ -1,0 +1,13 @@
+{
+  "name": "l-cut",
+  "label": "L cut",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "L cut \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "timecode",
+  "label": "timecode",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "timecode \u2014 a concept in cinema.",
+  "version": "2.1"
+}

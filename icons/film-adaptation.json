@@ -1,0 +1,13 @@
+{
+  "name": "film-adaptation",
+  "label": "Film adaptation",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "Film adaptation \u2014 a concept in cinema.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "webcam-poker",
+  "label": "webcam poker",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "webcam poker \u2014 a concept in sports.",
+  "version": "2.1"
+}

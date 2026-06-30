@@ -1,0 +1,13 @@
+{
+  "name": "shotreverse-shot",
+  "label": "shot/reverse shot",
+  "category": "cinema",
+  "tags": [
+    "cinema",
+    "film",
+    "arts"
+  ],
+  "source": "cinema",
+  "description": "shot/reverse shot \u2014 a concept in cinema.",
+  "version": "2.1"
+}

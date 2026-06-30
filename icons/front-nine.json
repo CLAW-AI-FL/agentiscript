@@ -1,0 +1,13 @@
+{
+  "name": "front-nine",
+  "label": "Front nine",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Front nine \u2014 a concept in sports.",
+  "version": "2.1"
+}

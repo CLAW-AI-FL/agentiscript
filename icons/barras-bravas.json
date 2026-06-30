@@ -1,0 +1,13 @@
+{
+  "name": "barras-bravas",
+  "label": "Barras bravas",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Barras bravas \u2014 a concept in sports.",
+  "version": "2.1"
+}

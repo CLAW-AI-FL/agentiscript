@@ -1,0 +1,13 @@
+{
+  "name": "first-ascent",
+  "label": "first ascent",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "first ascent \u2014 a concept in sports.",
+  "version": "2.1"
+}

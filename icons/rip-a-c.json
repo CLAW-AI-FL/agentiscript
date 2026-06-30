@@ -1,0 +1,13 @@
+{
+  "name": "rip-a-c",
+  "label": "rip a C",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "rip a C \u2014 a concept in sports.",
+  "version": "2.1"
+}

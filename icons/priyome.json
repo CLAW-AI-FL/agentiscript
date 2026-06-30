@@ -1,0 +1,13 @@
+{
+  "name": "priyome",
+  "label": "priyome",
+  "category": "chess",
+  "tags": [
+    "chess",
+    "strategy",
+    "games"
+  ],
+  "source": "chess",
+  "description": "priyome \u2014 a concept in chess.",
+  "version": "2.1"
+}

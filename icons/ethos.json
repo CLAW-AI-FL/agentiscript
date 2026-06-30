@@ -1,0 +1,13 @@
+{
+  "name": "ethos",
+  "label": "ethos",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "writing",
+    "arts"
+  ],
+  "source": "literature",
+  "description": "ethos \u2014 a concept in literature.",
+  "version": "2.1"
+}

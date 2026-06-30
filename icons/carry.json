@@ -1,0 +1,13 @@
+{
+  "name": "carry",
+  "label": "Carry",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "Carry \u2014 a concept in sports.",
+  "version": "2.1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "door-card",
+  "label": "door card",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "door card \u2014 a concept in sports.",
+  "version": "2.1"
+}

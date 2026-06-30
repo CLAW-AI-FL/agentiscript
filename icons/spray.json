@@ -1,0 +1,13 @@
+{
+  "name": "spray",
+  "label": "spray",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "spray \u2014 a concept in sports.",
+  "version": "2.1"
+}

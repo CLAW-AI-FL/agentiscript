@@ -1,0 +1,13 @@
+{
+  "name": "graving-dock",
+  "label": "graving dock",
+  "category": "nautical",
+  "tags": [
+    "nautical",
+    "maritime",
+    "navigation"
+  ],
+  "source": "nautical",
+  "description": "graving dock \u2014 a concept in nautical.",
+  "version": "2.1"
+}

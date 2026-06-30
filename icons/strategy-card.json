@@ -1,0 +1,13 @@
+{
+  "name": "strategy-card",
+  "label": "strategy card",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "strategy card \u2014 a concept in sports.",
+  "version": "2.1"
+}

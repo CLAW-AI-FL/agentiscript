@@ -1,0 +1,13 @@
+{
+  "name": "live-poker",
+  "label": "live poker",
+  "category": "sports",
+  "tags": [
+    "sports",
+    "athletics",
+    "competition"
+  ],
+  "source": "sports",
+  "description": "live poker \u2014 a concept in sports.",
+  "version": "2.1"
+}
