@@ -1,0 +1,11 @@
+{
+  "name": "restricted randomization",
+  "slug": "restricted-randomization",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "restricted randomization \u2014 a concept in general.",
+  "version": "2.0"
+}

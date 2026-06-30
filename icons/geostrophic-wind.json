@@ -1,0 +1,13 @@
+{
+  "name": "geostrophic wind",
+  "slug": "geostrophic-wind",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_meteorology",
+  "description": "geostrophic wind \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

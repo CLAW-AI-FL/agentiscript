@@ -1,0 +1,11 @@
+{
+  "name": "VLSI",
+  "slug": "vlsi",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "VLSI \u2014 a concept in general.",
+  "version": "2.0"
+}

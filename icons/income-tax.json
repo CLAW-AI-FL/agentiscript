@@ -1,0 +1,11 @@
+{
+  "name": "Income tax",
+  "slug": "income-tax",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "Income tax \u2014 a concept in general.",
+  "version": "2.0"
+}

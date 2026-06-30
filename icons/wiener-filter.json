@@ -1,0 +1,12 @@
+{
+  "name": "Wiener filter",
+  "slug": "wiener-filter",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "Wiener filter \u2014 a concept in engineering.",
+  "version": "2.0"
+}

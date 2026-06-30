@@ -1,0 +1,11 @@
+{
+  "name": "pricing",
+  "slug": "pricing",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "pricing \u2014 a concept in general.",
+  "version": "2.0"
+}

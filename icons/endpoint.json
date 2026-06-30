@@ -1,0 +1,11 @@
+{
+  "name": "endpoint",
+  "slug": "endpoint",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "Glossary_of_graph_theory",
+  "description": "endpoint \u2014 a concept in general.",
+  "version": "2.0"
+}

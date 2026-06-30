@@ -1,0 +1,11 @@
+{
+  "name": "quota sampling",
+  "slug": "quota-sampling",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "quota sampling \u2014 a concept in general.",
+  "version": "2.0"
+}

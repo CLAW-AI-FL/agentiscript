@@ -1,0 +1,12 @@
+{
+  "name": "PIN diode",
+  "slug": "pin-diode",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "PIN diode \u2014 a concept in engineering.",
+  "version": "2.0"
+}

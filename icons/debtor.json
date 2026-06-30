@@ -1,0 +1,11 @@
+{
+  "name": "debtor",
+  "slug": "debtor",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "debtor \u2014 a concept in general.",
+  "version": "2.0"
+}

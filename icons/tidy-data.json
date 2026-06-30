@@ -1,0 +1,12 @@
+{
+  "name": "tidy data",
+  "slug": "tidy-data",
+  "tags": [
+    "psychology",
+    "cognitive-science"
+  ],
+  "category": "psychology",
+  "source": "stats",
+  "description": "tidy data \u2014 a concept in psychology.",
+  "version": "2.0"
+}

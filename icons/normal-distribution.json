@@ -1,0 +1,12 @@
+{
+  "name": "normal distribution",
+  "slug": "normal-distribution",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "normal distribution \u2014 a concept in statistics.",
+  "version": "2.0"
+}

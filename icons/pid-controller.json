@@ -1,0 +1,12 @@
+{
+  "name": "PID controller",
+  "slug": "pid-controller",
+  "tags": [
+    "psychology",
+    "cognitive-science"
+  ],
+  "category": "psychology",
+  "source": "ee",
+  "description": "PID controller \u2014 a concept in psychology.",
+  "version": "2.0"
+}

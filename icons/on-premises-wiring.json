@@ -1,0 +1,11 @@
+{
+  "name": "on-premises wiring",
+  "slug": "on-premises-wiring",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "on-premises wiring \u2014 a concept in general.",
+  "version": "2.0"
+}

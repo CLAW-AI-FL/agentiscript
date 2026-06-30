@@ -1,0 +1,12 @@
+{
+  "name": "simple random sample",
+  "slug": "simple-random-sample",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "simple random sample \u2014 a concept in statistics.",
+  "version": "2.0"
+}

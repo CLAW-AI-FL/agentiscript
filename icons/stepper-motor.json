@@ -1,0 +1,12 @@
+{
+  "name": "stepper motor",
+  "slug": "stepper-motor",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "stepper motor \u2014 a concept in engineering.",
+  "version": "2.0"
+}

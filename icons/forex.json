@@ -1,0 +1,11 @@
+{
+  "name": "Forex",
+  "slug": "forex",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "Forex \u2014 a concept in general.",
+  "version": "2.0"
+}

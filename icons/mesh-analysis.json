@@ -1,0 +1,11 @@
+{
+  "name": "mesh analysis",
+  "slug": "mesh-analysis",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "mesh analysis \u2014 a concept in general.",
+  "version": "2.0"
+}

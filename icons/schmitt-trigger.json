@@ -1,0 +1,11 @@
+{
+  "name": "Schmitt trigger",
+  "slug": "schmitt-trigger",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "Schmitt trigger \u2014 a concept in general.",
+  "version": "2.0"
+}

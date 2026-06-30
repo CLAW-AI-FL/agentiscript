@@ -1,0 +1,12 @@
+{
+  "name": "resistor",
+  "slug": "resistor",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "resistor \u2014 a concept in engineering.",
+  "version": "2.0"
+}

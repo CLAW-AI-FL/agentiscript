@@ -1,0 +1,12 @@
+{
+  "name": "Thomsen graph",
+  "slug": "thomsen-graph",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "Glossary_of_graph_theory",
+  "description": "Thomsen graph \u2014 a concept in graph.",
+  "version": "2.0"
+}

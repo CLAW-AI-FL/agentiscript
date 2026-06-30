@@ -1,0 +1,11 @@
+{
+  "name": "credit rating",
+  "slug": "credit-rating",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "credit rating \u2014 a concept in general.",
+  "version": "2.0"
+}

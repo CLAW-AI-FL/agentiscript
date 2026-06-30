@@ -1,0 +1,12 @@
+{
+  "name": "statistical inference",
+  "slug": "statistical-inference",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "statistical inference \u2014 a concept in statistics.",
+  "version": "2.0"
+}

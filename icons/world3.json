@@ -1,0 +1,11 @@
+{
+  "name": "World3",
+  "slug": "world3",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "World3 \u2014 a concept in general.",
+  "version": "2.0"
+}

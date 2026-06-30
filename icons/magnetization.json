@@ -1,0 +1,11 @@
+{
+  "name": "magnetization",
+  "slug": "magnetization",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "magnetization \u2014 a concept in general.",
+  "version": "2.0"
+}

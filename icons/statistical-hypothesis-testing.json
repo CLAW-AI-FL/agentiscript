@@ -1,0 +1,12 @@
+{
+  "name": "statistical hypothesis testing",
+  "slug": "statistical-hypothesis-testing",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "statistical hypothesis testing \u2014 a concept in statistics.",
+  "version": "2.0"
+}

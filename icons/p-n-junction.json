@@ -1,0 +1,11 @@
+{
+  "name": "P-N junction",
+  "slug": "p-n-junction",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "P-N junction \u2014 a concept in general.",
+  "version": "2.0"
+}

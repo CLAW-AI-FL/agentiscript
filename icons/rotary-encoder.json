@@ -1,0 +1,11 @@
+{
+  "name": "rotary encoder",
+  "slug": "rotary-encoder",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "rotary encoder \u2014 a concept in general.",
+  "version": "2.0"
+}

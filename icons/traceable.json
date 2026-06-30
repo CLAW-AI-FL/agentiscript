@@ -1,0 +1,12 @@
+{
+  "name": "traceable",
+  "slug": "traceable",
+  "tags": [
+    "mathematics",
+    "linear-algebra"
+  ],
+  "category": "tensor",
+  "source": "Glossary_of_graph_theory",
+  "description": "traceable \u2014 a concept in tensor.",
+  "version": "2.0"
+}

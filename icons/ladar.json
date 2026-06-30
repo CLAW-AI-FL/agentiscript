@@ -1,0 +1,11 @@
+{
+  "name": "LADAR",
+  "slug": "ladar",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "Glossary_of_meteorology",
+  "description": "LADAR \u2014 a concept in general.",
+  "version": "2.0"
+}

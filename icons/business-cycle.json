@@ -1,0 +1,12 @@
+{
+  "name": "business cycle",
+  "slug": "business-cycle",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "economics",
+  "description": "business cycle \u2014 a concept in graph.",
+  "version": "2.0"
+}

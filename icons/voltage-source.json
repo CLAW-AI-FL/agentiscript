@@ -1,0 +1,12 @@
+{
+  "name": "voltage source",
+  "slug": "voltage-source",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "voltage source \u2014 a concept in engineering.",
+  "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "supergraph",
+  "slug": "supergraph",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "Glossary_of_graph_theory",
+  "description": "supergraph \u2014 a concept in graph.",
+  "version": "2.0"
+}

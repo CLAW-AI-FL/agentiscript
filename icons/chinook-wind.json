@@ -1,0 +1,13 @@
+{
+  "name": "chinook wind",
+  "slug": "chinook-wind",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_meteorology",
+  "description": "chinook wind \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

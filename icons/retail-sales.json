@@ -1,0 +1,11 @@
+{
+  "name": "retail sales",
+  "slug": "retail-sales",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "retail sales \u2014 a concept in general.",
+  "version": "2.0"
+}

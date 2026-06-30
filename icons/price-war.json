@@ -1,0 +1,13 @@
+{
+  "name": "price war",
+  "slug": "price-war",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "economics",
+  "description": "price war \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

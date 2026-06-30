@@ -1,0 +1,13 @@
+{
+  "name": "cold front",
+  "slug": "cold-front",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_meteorology",
+  "description": "cold front \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

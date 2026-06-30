@@ -1,0 +1,13 @@
+{
+  "name": "price point",
+  "slug": "price-point",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "economics",
+  "description": "price point \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

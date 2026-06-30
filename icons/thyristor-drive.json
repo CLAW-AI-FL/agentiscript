@@ -1,0 +1,11 @@
+{
+  "name": "thyristor drive",
+  "slug": "thyristor-drive",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "thyristor drive \u2014 a concept in general.",
+  "version": "2.0"
+}

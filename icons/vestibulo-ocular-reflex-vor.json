@@ -1,0 +1,11 @@
+{
+  "name": "Vestibulo-ocular reflex (VOR)",
+  "slug": "vestibulo-ocular-reflex-vor",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "neuro",
+  "description": "Vestibulo-ocular reflex (VOR) \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "hypercube",
+  "slug": "hypercube",
+  "tags": [
+    "mathematics",
+    "geometry"
+  ],
+  "category": "geometry",
+  "source": "Glossary_of_graph_theory",
+  "description": "hypercube \u2014 a concept in geometry.",
+  "version": "2.0"
+}

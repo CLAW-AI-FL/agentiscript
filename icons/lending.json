@@ -1,0 +1,11 @@
+{
+  "name": "lending",
+  "slug": "lending",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "lending \u2014 a concept in general.",
+  "version": "2.0"
+}

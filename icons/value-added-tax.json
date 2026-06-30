@@ -1,0 +1,11 @@
+{
+  "name": "value-added tax",
+  "slug": "value-added-tax",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "value-added tax \u2014 a concept in general.",
+  "version": "2.0"
+}

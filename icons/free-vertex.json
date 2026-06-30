@@ -1,0 +1,12 @@
+{
+  "name": "free vertex",
+  "slug": "free-vertex",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "Glossary_of_graph_theory",
+  "description": "free vertex \u2014 a concept in graph.",
+  "version": "2.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "solar micro-inverter",
+  "slug": "solar-micro-inverter",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "solar micro-inverter \u2014 a concept in general.",
+  "version": "2.0"
+}

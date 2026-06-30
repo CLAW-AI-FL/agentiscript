@@ -1,0 +1,12 @@
+{
+  "name": "nonparametric regression",
+  "slug": "nonparametric-regression",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "nonparametric regression \u2014 a concept in statistics.",
+  "version": "2.0"
+}

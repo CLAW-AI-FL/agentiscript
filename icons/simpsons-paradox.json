@@ -1,0 +1,11 @@
+{
+  "name": "Simpsons paradox",
+  "slug": "simpsons-paradox",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "Simpsons paradox \u2014 a concept in general.",
+  "version": "2.0"
+}

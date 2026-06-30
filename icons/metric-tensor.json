@@ -1,0 +1,12 @@
+{
+  "name": "Metric tensor",
+  "slug": "metric-tensor",
+  "tags": [
+    "mathematics",
+    "linear-algebra"
+  ],
+  "category": "tensor",
+  "source": "Glossary_of_tensor_theory",
+  "description": "Metric tensor \u2014 a concept in tensor.",
+  "version": "2.0"
+}

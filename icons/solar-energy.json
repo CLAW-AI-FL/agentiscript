@@ -1,0 +1,11 @@
+{
+  "name": "solar energy",
+  "slug": "solar-energy",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "solar energy \u2014 a concept in general.",
+  "version": "2.0"
+}

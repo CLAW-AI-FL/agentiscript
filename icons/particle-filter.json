@@ -1,0 +1,12 @@
+{
+  "name": "particle filter",
+  "slug": "particle-filter",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "stats",
+  "description": "particle filter \u2014 a concept in engineering.",
+  "version": "2.0"
+}

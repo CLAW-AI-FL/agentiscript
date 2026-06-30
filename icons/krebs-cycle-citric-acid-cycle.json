@@ -1,0 +1,12 @@
+{
+  "name": "Krebs cycle (Citric acid cycle)",
+  "slug": "krebs-cycle-citric-acid-cycle",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "neuro",
+  "description": "Krebs cycle (Citric acid cycle) \u2014 a concept in graph.",
+  "version": "2.0"
+}

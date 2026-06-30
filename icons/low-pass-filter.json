@@ -1,0 +1,12 @@
+{
+  "name": "low-pass filter",
+  "slug": "low-pass-filter",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "low-pass filter \u2014 a concept in engineering.",
+  "version": "2.0"
+}

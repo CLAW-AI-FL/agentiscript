@@ -1,0 +1,12 @@
+{
+  "name": "grand supercycle",
+  "slug": "grand-supercycle",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "economics",
+  "description": "grand supercycle \u2014 a concept in graph.",
+  "version": "2.0"
+}

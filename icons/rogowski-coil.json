@@ -1,0 +1,11 @@
+{
+  "name": "Rogowski coil",
+  "slug": "rogowski-coil",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "Rogowski coil \u2014 a concept in general.",
+  "version": "2.0"
+}

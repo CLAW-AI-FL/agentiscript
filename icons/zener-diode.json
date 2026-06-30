@@ -1,0 +1,12 @@
+{
+  "name": "Zener diode",
+  "slug": "zener-diode",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "Zener diode \u2014 a concept in engineering.",
+  "version": "2.0"
+}

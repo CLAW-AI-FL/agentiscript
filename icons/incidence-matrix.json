@@ -1,0 +1,12 @@
+{
+  "name": "incidence matrix",
+  "slug": "incidence-matrix",
+  "tags": [
+    "mathematics",
+    "linear-algebra"
+  ],
+  "category": "tensor",
+  "source": "Glossary_of_graph_theory",
+  "description": "incidence matrix \u2014 a concept in tensor.",
+  "version": "2.0"
+}

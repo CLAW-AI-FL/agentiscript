@@ -1,0 +1,13 @@
+{
+  "name": "winter storm",
+  "slug": "winter-storm",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_meteorology",
+  "description": "winter storm \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

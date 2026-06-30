@@ -1,0 +1,11 @@
+{
+  "name": "total cost",
+  "slug": "total-cost",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "total cost \u2014 a concept in general.",
+  "version": "2.0"
+}

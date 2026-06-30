@@ -1,0 +1,12 @@
+{
+  "name": "H-coloring",
+  "slug": "h-coloring",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "Glossary_of_graph_theory",
+  "description": "H-coloring \u2014 a concept in graph.",
+  "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "mean",
+  "slug": "mean",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "mean \u2014 a concept in statistics.",
+  "version": "2.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "interest",
+  "slug": "interest",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "interest \u2014 a concept in general.",
+  "version": "2.0"
+}

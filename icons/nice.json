@@ -1,0 +1,13 @@
+{
+  "name": "nice",
+  "slug": "nice",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_mathematical_jargon",
+  "description": "nice \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

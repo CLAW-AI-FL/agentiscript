@@ -1,0 +1,13 @@
+{
+  "name": "sensible temperature",
+  "slug": "sensible-temperature",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_meteorology",
+  "description": "sensible temperature \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

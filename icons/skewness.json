@@ -1,0 +1,11 @@
+{
+  "name": "skewness",
+  "slug": "skewness",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "skewness \u2014 a concept in general.",
+  "version": "2.0"
+}

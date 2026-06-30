@@ -1,0 +1,11 @@
+{
+  "name": "stem-and-leaf display",
+  "slug": "stem-and-leaf-display",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "stem-and-leaf display \u2014 a concept in general.",
+  "version": "2.0"
+}

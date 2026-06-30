@@ -1,0 +1,11 @@
+{
+  "name": "Sulcus",
+  "slug": "sulcus",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "neuro",
+  "description": "Sulcus \u2014 a concept in general.",
+  "version": "2.0"
+}

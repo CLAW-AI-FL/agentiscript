@@ -1,0 +1,11 @@
+{
+  "name": "time series",
+  "slug": "time-series",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "time series \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "JNK pathway (c-Jun N-terminal kinase pathway)",
+  "slug": "jnk-pathway-c-jun-n-terminal-kinase-pathway",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "neuro",
+  "description": "JNK pathway (c-Jun N-terminal kinase pathway) \u2014 a concept in graph.",
+  "version": "2.0"
+}

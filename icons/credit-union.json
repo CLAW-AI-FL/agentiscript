@@ -1,0 +1,11 @@
+{
+  "name": "credit union",
+  "slug": "credit-union",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "credit union \u2014 a concept in general.",
+  "version": "2.0"
+}

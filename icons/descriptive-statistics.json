@@ -1,0 +1,12 @@
+{
+  "name": "descriptive statistics",
+  "slug": "descriptive-statistics",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "descriptive statistics \u2014 a concept in statistics.",
+  "version": "2.0"
+}

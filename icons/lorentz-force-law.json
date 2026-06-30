@@ -1,0 +1,11 @@
+{
+  "name": "Lorentz force law",
+  "slug": "lorentz-force-law",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "Lorentz force law \u2014 a concept in general.",
+  "version": "2.0"
+}

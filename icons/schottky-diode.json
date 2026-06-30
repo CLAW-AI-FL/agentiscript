@@ -1,0 +1,12 @@
+{
+  "name": "Schottky diode",
+  "slug": "schottky-diode",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "Schottky diode \u2014 a concept in engineering.",
+  "version": "2.0"
+}

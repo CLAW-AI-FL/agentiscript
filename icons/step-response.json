@@ -1,0 +1,11 @@
+{
+  "name": "step response",
+  "slug": "step-response",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "step response \u2014 a concept in general.",
+  "version": "2.0"
+}

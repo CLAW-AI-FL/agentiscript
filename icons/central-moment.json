@@ -1,0 +1,11 @@
+{
+  "name": "central moment",
+  "slug": "central-moment",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "central moment \u2014 a concept in general.",
+  "version": "2.0"
+}

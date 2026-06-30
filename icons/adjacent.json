@@ -1,0 +1,11 @@
+{
+  "name": "adjacent",
+  "slug": "adjacent",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "Glossary_of_graph_theory",
+  "description": "adjacent \u2014 a concept in general.",
+  "version": "2.0"
+}

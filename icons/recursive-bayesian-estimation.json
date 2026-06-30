@@ -1,0 +1,12 @@
+{
+  "name": "recursive Bayesian estimation",
+  "slug": "recursive-bayesian-estimation",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "recursive Bayesian estimation \u2014 a concept in statistics.",
+  "version": "2.0"
+}
