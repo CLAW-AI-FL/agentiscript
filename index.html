@@ -77,6 +77,7 @@ footer{padding:40px 24px;text-align:center;border-top:1px solid rgba(255,255,255
   <div class="stat"><div class="stat-num">Free</div><div class="stat-label">Forever</div></div>
   <div class="stat"><div class="stat-num">Open</div><div class="stat-label">Source</div></div>
 </div>
+<p style="text-align:center;font-size:0.78rem;color:rgba(255,255,255,0.3);margin:-16px 0 20px;">Commercial icons shown &mdash; <a href="/docs/" style="color:rgba(159,121,44,0.7);text-decoration:none;">Full catalog (20,520+) available via API</a></p>
 <div class="section">
   <h2>Featured Icons</h2>
   <div class="search-wrap">
@@ -124,8 +125,46 @@ document.getElementById('captureForm').addEventListener('submit',function(e){
 });
 
 // ── Dynamic icon loading ──────────────────────────────────
-let allIcons = [];
+let allIcons = [];      // full manifest (all icons, used for search)
+let commercialIcons = []; // commercial-value subset shown to humans
 const FEATURED = 24;
+
+// Keywords that indicate a commercially valuable icon category
+const SHOW_KEYWORDS = [
+  'agentic','agent','blockchain','crypto','defi','web3','ai','artificial intelligence',
+  'quantum','zk','zero-knowledge','mcp','llm','rag','security','infrastructure',
+  'science','tech','near','flare','economics','finance','philosophy','futurism',
+  'space','defense','robot','neural','language model','vector','embedding',
+  'decentralized','dao','nft','token','wallet','oracle','protocol','layer',
+  'compute','cloud','network','identity','privacy','data','automation',
+  'intelligence','machine learning','deep learning','transformer'
+];
+
+// Keywords that mean "hide from human UI" (still served in manifest for bots)
+const HIDE_KEYWORDS = [
+  'agriculture','farming','crop','livestock','harvest','irrigat','poultry',
+  'chess','nautical','sailing','vessel','maritime',
+  'music','melody','instrument','guitar','piano','violin','drum',
+  'literary','poetry','novelist','fiction','prose',
+  'politics','government','congress','senate','parliament','election','ballot',
+  'meteorolog','weather','forecast','precipitation','typhoon','tornado','hurricane',
+  'virology','pathogen','bacterium','bacteria','fungi','fungal','parasite',
+  'aerospace mechanical','avionics','turbine blade','fuselage'
+];
+
+function isCommercialIcon(icon) {
+  const cat  = (icon.category || '').toLowerCase();
+  const name = (icon.name || icon.slug || icon.concept || '').toLowerCase();
+  const combined = cat + ' ' + name;
+
+  // Hard-hide noisy categories
+  const shouldHide = HIDE_KEYWORDS.some(k => combined.includes(k));
+  if (shouldHide) return false;
+
+  // Show if any commercial keyword appears
+  const shouldShow = SHOW_KEYWORDS.some(k => combined.includes(k));
+  return shouldShow;
+}
 
 function renderIcons(icons, isSearch) {
   const grid = document.getElementById('featured-grid');
@@ -139,8 +178,8 @@ function renderIcons(icons, isSearch) {
   }
 
   grid.innerHTML = icons.map(icon => {
-    const id   = icon.id   || icon.name || '';
-    const name = icon.concept || icon.name || id;
+    const id   = icon.slug || icon.id   || icon.name || '';
+    const name = icon.name || icon.concept || id;
     const cat  = icon.category || '';
     return `<div class="icon-card">
       <div class="icon-preview">
@@ -155,8 +194,8 @@ function renderIcons(icons, isSearch) {
     countEl.textContent = `${icons.length.toLocaleString()} result${icons.length === 1 ? '' : 's'}`;
     viewAll.style.display = 'none';
   } else {
-    countEl.textContent = icons.length < allIcons.length
-      ? `Showing ${icons.length} of ${allIcons.length.toLocaleString()} icons`
+    countEl.textContent = icons.length < commercialIcons.length
+      ? `Showing ${icons.length} of ${commercialIcons.length.toLocaleString()} featured icons`
       : '';
     viewAll.style.display = '';
   }
@@ -168,28 +207,32 @@ async function loadIcons() {
     const data = await res.json();
     allIcons   = data.icons || [];
 
-    const total = data.total || allIcons.length;
-    document.getElementById('icon-count').textContent = total.toLocaleString();
+    // Filter to commercial-value icons for human display
+    commercialIcons = allIcons.filter(isCommercialIcon);
 
-    // Count unique categories
-    const cats = new Set(allIcons.map(i => i.category).filter(Boolean));
+    // Stat counter shows commercial count; full catalog stays in manifest for bots
+    document.getElementById('icon-count').textContent = commercialIcons.length.toLocaleString();
+
+    // Count unique categories in commercial subset
+    const cats = new Set(commercialIcons.map(i => i.category).filter(Boolean));
     document.getElementById('cat-count').textContent = cats.size || '—';
 
-    // Render first FEATURED icons
-    renderIcons(allIcons.slice(0, FEATURED), false);
+    // Render first FEATURED commercial icons
+    renderIcons(commercialIcons.slice(0, FEATURED), false);
 
-    // Wire up search
+    // Wire up search (searches commercial subset)
     const searchEl = document.getElementById('icon-search');
     searchEl.addEventListener('input', function() {
       const q = this.value.trim().toLowerCase();
       if (!q) {
-        renderIcons(allIcons.slice(0, FEATURED), false);
+        renderIcons(commercialIcons.slice(0, FEATURED), false);
         return;
       }
-      const hits = allIcons.filter(icon =>
-        (icon.concept || icon.name || '').toLowerCase().includes(q) ||
+      const hits = commercialIcons.filter(icon =>
+        (icon.name || icon.concept || '').toLowerCase().includes(q) ||
         (icon.category || '').toLowerCase().includes(q) ||
-        (icon.definition || '').toLowerCase().includes(q)
+        (icon.description || icon.definition || '').toLowerCase().includes(q) ||
+        (icon.tags || []).some(t => t.toLowerCase().includes(q))
       );
       renderIcons(hits.slice(0, 120), true);
     });
