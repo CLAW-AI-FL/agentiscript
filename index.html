@@ -129,6 +129,19 @@ let allIcons = [];      // full manifest (all icons, used for search)
 let commercialIcons = []; // commercial-value subset shown to humans
 const FEATURED = 24;
 
+const FLAGSHIP_SLUGS = [
+  'x402-protocol','agentic-loop','smart-contract','mcp','llm','rag',
+  'dao','defi','zero-knowledge-proof','consensus','validator','staking',
+  'transformer','embedding','fine-tuning','inference','agent-wallet',
+  'machine-to-machine-commerce','context-window','multi-agent',
+  'orchestrator','tokenization','blockchain','quantum-computing'
+];
+
+function cleanName(icon) {
+  const raw = icon.name || icon.slug || icon.id || '';
+  return raw.replace(/-/g,' ').replace(/\|.*/,'').replace(/^1=\s*/,'').slice(0,30);
+}
+
 // Keywords that indicate a commercially valuable icon category
 const SHOW_KEYWORDS = [
   'agentic','agent','blockchain','crypto','defi','web3','ai','artificial intelligence',
@@ -149,8 +162,12 @@ const HIDE_KEYWORDS = [
   'politics','government','congress','senate','parliament','election','ballot',
   'meteorolog','weather','forecast','precipitation','typhoon','tornado','hurricane',
   'virology','pathogen','bacterium','bacteria','fungi','fungal','parasite',
-  'aerospace mechanical','avionics','turbine blade','fuselage'
+  'aerospace mechanical','avionics','turbine blade','fuselage',
+  'muscle','abdomen','abscess','arris','astragal','aisle'
 ];
+
+// Categories to block unless they have a tech keyword
+const HIDE_CATEGORIES = ['architecture','general','aerospace engineering'];
 
 function isCommercialIcon(icon) {
   const cat  = (icon.category || '').toLowerCase();
@@ -160,6 +177,14 @@ function isCommercialIcon(icon) {
   // Hard-hide noisy categories
   const shouldHide = HIDE_KEYWORDS.some(k => combined.includes(k));
   if (shouldHide) return false;
+
+  // Hide names starting with '1='
+  if (name.startsWith('1=')) return false;
+
+  // Hide blocked categories unless they have a tech keyword
+  if (HIDE_CATEGORIES.includes(cat)) {
+    return SHOW_KEYWORDS.some(k => combined.includes(k));
+  }
 
   // Show if any commercial keyword appears
   const shouldShow = SHOW_KEYWORDS.some(k => combined.includes(k));
@@ -179,7 +204,7 @@ function renderIcons(icons, isSearch) {
 
   grid.innerHTML = icons.map(icon => {
     const id   = icon.slug || icon.id   || icon.name || '';
-    const name = icon.name || icon.concept || id;
+    const name = cleanName(icon);
     const cat  = icon.category || '';
     return `<div class="icon-card">
       <div class="icon-preview">
@@ -217,15 +242,22 @@ async function loadIcons() {
     const cats = new Set(commercialIcons.map(i => i.category).filter(Boolean));
     document.getElementById('cat-count').textContent = cats.size || '—';
 
-    // Render first FEATURED commercial icons
-    renderIcons(commercialIcons.slice(0, FEATURED), false);
+    // Build featured set: flagship icons first, then the rest
+    const flagship = FLAGSHIP_SLUGS
+      .map(slug => commercialIcons.find(i => (i.slug||i.name||i.id||'').toLowerCase() === slug))
+      .filter(Boolean);
+    const rest = commercialIcons.filter(i => !FLAGSHIP_SLUGS.includes((i.slug||i.name||i.id||'').toLowerCase()));
+    const featured = [...flagship, ...rest].slice(0, FEATURED);
+
+    // Render featured commercial icons
+    renderIcons(featured, false);
 
     // Wire up search (searches commercial subset)
     const searchEl = document.getElementById('icon-search');
     searchEl.addEventListener('input', function() {
       const q = this.value.trim().toLowerCase();
       if (!q) {
-        renderIcons(commercialIcons.slice(0, FEATURED), false);
+        renderIcons(featured, false);
         return;
       }
       const hits = commercialIcons.filter(icon =>
