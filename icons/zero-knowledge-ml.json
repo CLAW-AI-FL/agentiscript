@@ -1,0 +1,22 @@
+{
+  "name": "zero-knowledge-ml",
+  "label": "Zero-Knowledge ML",
+  "concept": "Zero-Knowledge ML",
+  "definition": "Machine learning inference or training performed within zero-knowledge proof systems, enabling model outputs to be verified without exposing weights or private inputs",
+  "aliases": [
+    "zkML",
+    "zk machine learning",
+    "private inference",
+    "verifiable ML"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "zero knowledge",
+    "machine learning",
+    "privacy",
+    "verification",
+    "zkML"
+  ],
+  "version": "1.5"
+}

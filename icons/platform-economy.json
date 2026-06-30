@@ -1,0 +1,22 @@
+{
+  "name": "platform-economy",
+  "label": "Platform Economy",
+  "concept": "Platform Economy",
+  "definition": "An economic model built on multi-sided platforms that facilitate interactions between producers and consumers\u2014including AI agents\u2014capturing value through network effects and transaction mediation",
+  "aliases": [
+    "platform business",
+    "two-sided market",
+    "marketplace economy",
+    "network platform"
+  ],
+  "category": "economics-finance",
+  "category_name": "Economics & Finance",
+  "tags": [
+    "platform",
+    "economy",
+    "marketplace",
+    "network effects",
+    "two-sided market"
+  ],
+  "version": "1.5"
+}

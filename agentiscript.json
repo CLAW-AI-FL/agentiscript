@@ -1,7 +1,7 @@
 {
-  "version": "1.4",
-  "total": 668,
-  "generated": "2026-06-30T15:17:56Z",
+  "version": "1.5",
+  "total": 687,
+  "generated": "2026-06-30T15:23:54Z",
   "icons": [
     {
       "name": "abductive-reasoning",
@@ -37,8 +37,7 @@
         "mindset",
         "thinking",
         "growth"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-083",
@@ -61,8 +60,7 @@
         "NEAR",
         "permissions",
         "security"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "account-abstraction",
@@ -401,8 +399,7 @@
         "agent",
         "a16z",
         "authentication"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "agent-interrupt",
@@ -498,8 +495,7 @@
         "agents",
         "NEAR",
         "discovery"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "agent-memory-retrieval",
@@ -712,8 +708,7 @@
         "agents",
         "a16z",
         "cloud"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "agent-self-correction",
@@ -906,8 +901,7 @@
         "agents",
         "autonomous",
         "value"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-001",
@@ -918,8 +912,7 @@
       "tags": [
         "agentic",
         "loop"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "agentic-platform",
@@ -1017,8 +1010,7 @@
       "tags": [
         "ai",
         "factory"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-182",
@@ -1036,8 +1028,7 @@
         "AI infra",
         "a16z",
         "vector store"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-191",
@@ -1055,8 +1046,7 @@
         "a16z",
         "AI trading",
         "probability"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-165",
@@ -1066,8 +1056,7 @@
       "svg": "/icons/aiware.svg",
       "tags": [
         "aiware"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-203",
@@ -1085,8 +1074,7 @@
         "NIST AI RMF",
         "explainability",
         "audit"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-015",
@@ -1096,8 +1084,7 @@
       "svg": "/icons/alignment.svg",
       "tags": [
         "alignment"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-042",
@@ -1120,8 +1107,7 @@
         "DeFi",
         "liquidity",
         "trading"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "analogical-reasoning",
@@ -1163,6 +1149,29 @@
       "svg": "/icons/api-agent.svg"
     },
     {
+      "name": "api-gateway",
+      "label": "API Gateway",
+      "concept": "API Gateway",
+      "definition": "A server that acts as the single entry point for all client requests, routing them to appropriate microservices while handling authentication, rate limiting, and protocol translation",
+      "aliases": [
+        "API proxy",
+        "gateway service",
+        "API management",
+        "reverse proxy gateway"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "API gateway",
+        "routing",
+        "microservices",
+        "authentication",
+        "infrastructure"
+      ],
+      "version": "1.5",
+      "svg": "/icons/api-gateway.svg"
+    },
+    {
       "name": "api-monetization",
       "label": "API Monetization",
       "category": "business",
@@ -1196,8 +1205,7 @@
         "interface",
         "endpoint",
         "integration"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "appchain",
@@ -1237,6 +1245,29 @@
       "svg": "/icons/atomic-swap.svg"
     },
     {
+      "name": "attention-economy",
+      "label": "Attention Economy",
+      "concept": "Attention Economy",
+      "definition": "An economic model treating human or AI attention as a scarce resource, where platforms and agents compete to capture, direct, and monetize attention flows",
+      "aliases": [
+        "attention markets",
+        "engagement economy",
+        "attention as currency",
+        "eyeball economy"
+      ],
+      "category": "economics-finance",
+      "category_name": "Economics & Finance",
+      "tags": [
+        "attention",
+        "economy",
+        "engagement",
+        "monetization",
+        "media"
+      ],
+      "version": "1.5",
+      "svg": "/icons/attention-economy.svg"
+    },
+    {
       "name": "attention-head",
       "label": "Attention Head",
       "category": "ai",
@@ -1269,8 +1300,7 @@
         "transformer",
         "focus",
         "neural network"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-069",
@@ -1293,8 +1323,7 @@
         "proof",
         "verification",
         "data"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "auction-mechanism",
@@ -1343,8 +1372,7 @@
         "assets",
         "defense",
         "systems"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "autonomous-browser",
@@ -1553,8 +1581,7 @@
         "outcome",
         "yes/no",
         "boolean"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "bleu-score",
@@ -1614,8 +1641,7 @@
         "latency",
         "oracle",
         "real-time"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-056",
@@ -1638,8 +1664,7 @@
         "blockchain",
         "transaction",
         "hash"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "blockchain-bridge",
@@ -1652,6 +1677,29 @@
       ],
       "version": "1.3",
       "svg": "/icons/blockchain-bridge.svg"
+    },
+    {
+      "name": "blue-green-deployment",
+      "label": "Blue-Green Deployment",
+      "concept": "Blue-Green Deployment",
+      "definition": "A deployment strategy that maintains two identical production environments (blue and green), switching traffic between them to achieve zero-downtime releases and instant rollback capability",
+      "aliases": [
+        "blue green deploy",
+        "zero-downtime deployment",
+        "environment switching",
+        "traffic switchover"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "blue-green",
+        "deployment",
+        "zero-downtime",
+        "DevOps",
+        "rollback"
+      ],
+      "version": "1.5",
+      "svg": "/icons/blue-green-deployment.svg"
     },
     {
       "id": "AS-132",
@@ -1674,8 +1722,7 @@
         "geopolitics",
         "emerging markets",
         "economics"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-054",
@@ -1698,8 +1745,7 @@
         "cross-chain",
         "interoperability",
         "blockchain"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "bridge-retrieval",
@@ -1739,6 +1785,29 @@
       ],
       "version": "1.4",
       "svg": "/icons/bug-detection-agent.svg"
+    },
+    {
+      "name": "bulkhead-pattern",
+      "label": "Bulkhead Pattern",
+      "concept": "Bulkhead Pattern",
+      "definition": "A resilience design pattern that isolates elements of an application into pools so that if one fails, others continue to function\u2014inspired by ship bulkheads that prevent flooding",
+      "aliases": [
+        "bulkhead isolation",
+        "resource isolation",
+        "thread pool isolation",
+        "fault isolation"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "bulkhead",
+        "resilience",
+        "isolation",
+        "pattern",
+        "microservices"
+      ],
+      "version": "1.5",
+      "svg": "/icons/bulkhead-pattern.svg"
     },
     {
       "name": "bundler",
@@ -1803,6 +1872,29 @@
       "svg": "/icons/calendar-agent.svg"
     },
     {
+      "name": "canary-deployment",
+      "label": "Canary Deployment",
+      "concept": "Canary Deployment",
+      "definition": "A deployment technique that gradually rolls out changes to a small subset of users before full release, monitoring for errors and allowing quick rollback if issues are detected",
+      "aliases": [
+        "canary release",
+        "gradual rollout",
+        "progressive delivery",
+        "canary testing"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "canary",
+        "deployment",
+        "gradual rollout",
+        "progressive delivery",
+        "DevOps"
+      ],
+      "version": "1.5",
+      "svg": "/icons/canary-deployment.svg"
+    },
+    {
       "id": "AS-161",
       "concept": "Canister",
       "definition": "A sealed software unit on the Internet Computer containing both code and state, capable of serving HTTP and holding gigabytes of data",
@@ -1810,8 +1902,7 @@
       "svg": "/icons/canister.svg",
       "tags": [
         "canister"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-124",
@@ -1834,8 +1925,7 @@
         "money",
         "inequality",
         "economics"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "catastrophic-forgetting",
@@ -1870,8 +1960,7 @@
       "svg": "/icons/cbdc.svg",
       "tags": [
         "cbdc"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-103",
@@ -1894,8 +1983,7 @@
         "regulated",
         "compliance",
         "exchange"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-048",
@@ -1906,8 +1994,7 @@
       "tags": [
         "chain",
         "abstraction"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-163",
@@ -1918,8 +2005,7 @@
       "tags": [
         "chain",
         "fusion"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "chain-of-thought-prompting",
@@ -1943,8 +2029,7 @@
         "chain",
         "of",
         "thought"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-076",
@@ -1967,8 +2052,7 @@
         "NEAR",
         "MPC",
         "multichain"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-057",
@@ -1991,8 +2075,30 @@
         "blocks",
         "ledger",
         "immutable"
+      ]
+    },
+    {
+      "name": "chaos-engineering",
+      "label": "Chaos Engineering",
+      "concept": "Chaos Engineering",
+      "definition": "The practice of deliberately injecting failures and perturbations into a system to discover weaknesses before they cause outages, pioneered by Netflix's Chaos Monkey",
+      "aliases": [
+        "chaos monkey",
+        "fault injection",
+        "resilience testing",
+        "game days"
       ],
-      "version": "1.0"
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "chaos engineering",
+        "fault injection",
+        "resilience",
+        "testing",
+        "SRE"
+      ],
+      "version": "1.5",
+      "svg": "/icons/chaos-engineering.svg"
     },
     {
       "name": "checkpoint-recovery",
@@ -2028,8 +2134,30 @@
         "die",
         "packaging",
         "semiconductor"
+      ]
+    },
+    {
+      "name": "circuit-breaker",
+      "label": "Circuit Breaker",
+      "concept": "Circuit Breaker",
+      "definition": "A resilience design pattern that detects failures in downstream services and short-circuits requests to prevent cascade failures, allowing the system to recover gracefully",
+      "aliases": [
+        "fault tolerance",
+        "fallback pattern",
+        "resilience pattern",
+        "trip breaker"
       ],
-      "version": "1.0"
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "circuit breaker",
+        "resilience",
+        "fault tolerance",
+        "microservices",
+        "pattern"
+      ],
+      "version": "1.5",
+      "svg": "/icons/circuit-breaker.svg"
     },
     {
       "name": "circuit-depth",
@@ -2128,8 +2256,7 @@
         "psychology",
         "belief",
         "conflict"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "cognitive-load",
@@ -2204,8 +2331,7 @@
         "regulation",
         "KYC",
         "AML"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "compute-marketplace",
@@ -2267,8 +2393,7 @@
         "privacy",
         "NEAR",
         "mode"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "consensus-layer",
@@ -2291,8 +2416,7 @@
       "tags": [
         "consensus",
         "mechanism"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "constitutional-agent",
@@ -2327,8 +2451,7 @@
         "safety",
         "principles",
         "Anthropic"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "constitutional-preference",
@@ -2414,8 +2537,7 @@
       "tags": [
         "context",
         "window"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "continual-learning",
@@ -2502,8 +2624,7 @@
         "drone",
         "defense",
         "autonomous"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "counterfactual-reasoning",
@@ -2517,6 +2638,52 @@
       ],
       "version": "1.4",
       "svg": "/icons/counterfactual-reasoning.svg"
+    },
+    {
+      "name": "cqrs",
+      "label": "CQRS",
+      "concept": "CQRS",
+      "definition": "Command Query Responsibility Segregation: an architectural pattern that separates read (query) and write (command) operations into distinct models, enabling independent scaling and optimization",
+      "aliases": [
+        "command query responsibility segregation",
+        "read write separation",
+        "command model",
+        "query model"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "CQRS",
+        "command",
+        "query",
+        "architecture",
+        "pattern"
+      ],
+      "version": "1.5",
+      "svg": "/icons/cqrs.svg"
+    },
+    {
+      "name": "creator-economy",
+      "label": "Creator Economy",
+      "concept": "Creator Economy",
+      "definition": "An economic ecosystem where individual creators\u2014including AI agents\u2014generate, distribute, and monetize content or services directly, often through platform-independent channels",
+      "aliases": [
+        "content creator economy",
+        "independent creator",
+        "creator monetization",
+        "creator platforms"
+      ],
+      "category": "economics-finance",
+      "category_name": "Economics & Finance",
+      "tags": [
+        "creator",
+        "economy",
+        "content",
+        "monetization",
+        "platform"
+      ],
+      "version": "1.5",
+      "svg": "/icons/creator-economy.svg"
     },
     {
       "name": "credit-assignment",
@@ -2539,8 +2706,7 @@
       "svg": "/icons/crispr.svg",
       "tags": [
         "crispr"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "critic-agent",
@@ -2571,8 +2737,7 @@
         "national security",
         "government",
         "resilience"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "cross-attention",
@@ -2645,8 +2810,7 @@
         "cross",
         "collateral",
         "efficiency"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "cross-venue-arbitrage",
@@ -2669,8 +2833,7 @@
       "tags": [
         "crypto",
         "agility"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-198",
@@ -2688,8 +2851,7 @@
         "post-quantum",
         "PQC",
         "agility"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "curiosity-driven",
@@ -2720,8 +2882,7 @@
         "recovery",
         "business continuity",
         "CISA"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "danksharding",
@@ -2743,8 +2904,7 @@
       "svg": "/icons/dao.svg",
       "tags": [
         "dao"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "dark-pool-trading",
@@ -2791,8 +2951,7 @@
       "tags": [
         "data",
         "availability"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-042",
@@ -2803,8 +2962,7 @@
       "tags": [
         "data",
         "flywheel"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "data-marketplace",
@@ -2853,8 +3011,7 @@
         "oracle",
         "FTSO",
         "incentives"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-131",
@@ -2877,8 +3034,7 @@
         "efficiency",
         "economics",
         "welfare"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "debate-agent",
@@ -2951,8 +3107,7 @@
         "quantum",
         "noise",
         "error"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-127",
@@ -2975,8 +3130,7 @@
         "dollar",
         "reserves",
         "geopolitics"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-031",
@@ -2986,8 +3140,7 @@
       "svg": "/icons/defi.svg",
       "tags": [
         "defi"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-168",
@@ -2998,8 +3151,7 @@
       "tags": [
         "delegated",
         "autonomy"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "dense-retrieval",
@@ -3074,8 +3226,7 @@
         "identifier",
         "decentralized",
         "identity"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "differential-privacy",
@@ -3131,8 +3282,7 @@
         "IAM",
         "credentials",
         "SSI"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "distributed-cognition",
@@ -3146,6 +3296,29 @@
       ],
       "version": "1.4",
       "svg": "/icons/distributed-cognition.svg"
+    },
+    {
+      "name": "distributed-tracing",
+      "label": "Distributed Tracing",
+      "concept": "Distributed Tracing",
+      "definition": "A monitoring technique that tracks requests across multiple microservices or agents, recording timing and causality to diagnose latency, failures, and performance bottlenecks",
+      "aliases": [
+        "request tracing",
+        "span tracing",
+        "OpenTelemetry tracing",
+        "Jaeger tracing"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "distributed tracing",
+        "observability",
+        "spans",
+        "microservices",
+        "monitoring"
+      ],
+      "version": "1.5",
+      "svg": "/icons/distributed-tracing.svg"
     },
     {
       "name": "doctor-agents",
@@ -3218,8 +3391,7 @@
         "bias",
         "overconfidence",
         "psychology"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-152",
@@ -3242,8 +3414,7 @@
         "local",
         "inference",
         "embedded"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "edge-inference",
@@ -3304,8 +3475,7 @@
       "svg": "/icons/embedding.svg",
       "tags": [
         "embedding"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "emergent-behavior",
@@ -3365,8 +3535,7 @@
         "enshrined",
         "protocol",
         "native"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-105",
@@ -3389,8 +3558,7 @@
         "quantum",
         "correlation",
         "nonlocal"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "entry-point",
@@ -3425,8 +3593,7 @@
         "genes",
         "expression",
         "biology"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "etl-agent",
@@ -3463,8 +3630,7 @@
         "lithography",
         "chip",
         "ASML"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-099",
@@ -3487,8 +3653,7 @@
         "contract",
         "outcome",
         "market"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "event-driven-agent",
@@ -3502,6 +3667,29 @@
       ],
       "version": "1.4",
       "svg": "/icons/event-driven-agent.svg"
+    },
+    {
+      "name": "event-sourcing",
+      "label": "Event Sourcing",
+      "concept": "Event Sourcing",
+      "definition": "An architectural pattern where application state is derived by replaying an immutable log of domain events rather than storing current state directly, enabling auditability and time-travel queries",
+      "aliases": [
+        "event log",
+        "event store",
+        "append-only log",
+        "event replay"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "event sourcing",
+        "events",
+        "immutable log",
+        "architecture",
+        "CQRS"
+      ],
+      "version": "1.5",
+      "svg": "/icons/event-sourcing.svg"
     },
     {
       "name": "evolve-agentic",
@@ -3601,8 +3789,7 @@
         "exponential",
         "organization",
         "scale"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "fact-verification-agent",
@@ -3633,8 +3820,7 @@
         "automation",
         "a16z",
         "MLOps"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "fairness-agent",
@@ -3671,8 +3857,7 @@
         "Flare",
         "bridge",
         "trustless"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "fault-tolerant-quantum",
@@ -3707,8 +3892,30 @@
         "data",
         "connector",
         "attestation"
+      ]
+    },
+    {
+      "name": "feature-flag",
+      "label": "Feature Flag",
+      "concept": "Feature Flag",
+      "definition": "A software development technique enabling features to be toggled on or off at runtime without code deployment, facilitating A/B testing, gradual rollouts, and kill switches",
+      "aliases": [
+        "feature toggle",
+        "feature switch",
+        "LaunchDarkly",
+        "runtime toggle"
       ],
-      "version": "1.0"
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "feature flag",
+        "feature toggle",
+        "A/B testing",
+        "DevOps",
+        "deployment"
+      ],
+      "version": "1.5",
+      "svg": "/icons/feature-flag.svg"
     },
     {
       "id": "AS-200",
@@ -3726,8 +3933,7 @@
         "SSO",
         "OIDC",
         "identity management"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "federated-learning",
@@ -3788,8 +3994,7 @@
         "examples",
         "prompting",
         "learning"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "few-shot",
@@ -3812,8 +4017,7 @@
       "tags": [
         "fine",
         "tuning"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-074",
@@ -3836,8 +4040,7 @@
         "Flare",
         "wallet",
         "account abstraction"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "flashbots",
@@ -3884,8 +4087,7 @@
         "distributed",
         "learning",
         "federated"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "flow-reasoning",
@@ -3945,8 +4147,7 @@
         "protocol",
         "upgrade",
         "blockchain"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "form-filling-agent",
@@ -3982,8 +4183,7 @@
         "base",
         "pretrained",
         "model"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-027",
@@ -4006,8 +4206,7 @@
         "SOTA",
         "capability",
         "leading edge"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-063",
@@ -4030,8 +4229,7 @@
         "oracle",
         "price feed",
         "FTSO"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-004",
@@ -4042,8 +4240,7 @@
       "tags": [
         "function",
         "calling"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "futarchy",
@@ -4078,8 +4275,7 @@
         "XRP",
         "Flare",
         "wrapped"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "game-theoretic-agent",
@@ -4115,8 +4311,30 @@
         "fee",
         "transaction",
         "Ethereum"
+      ]
+    },
+    {
+      "name": "gig-economy",
+      "label": "Gig Economy",
+      "concept": "Gig Economy",
+      "definition": "A labor market characterized by short-term, on-demand task contracts rather than permanent employment, extended to AI agents performing discrete tasks for hire",
+      "aliases": [
+        "freelance economy",
+        "on-demand economy",
+        "task economy",
+        "agent gig market"
       ],
-      "version": "1.0"
+      "category": "economics-finance",
+      "category_name": "Economics & Finance",
+      "tags": [
+        "gig",
+        "economy",
+        "freelance",
+        "on-demand",
+        "tasks"
+      ],
+      "version": "1.5",
+      "svg": "/icons/gig-economy.svg"
     },
     {
       "name": "governance-token",
@@ -4251,8 +4469,7 @@
       "svg": "/icons/guardrails.svg",
       "tags": [
         "guardrails"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "gui-agent",
@@ -4287,8 +4504,7 @@
       "svg": "/icons/hallucination.svg",
       "tags": [
         "hallucination"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-167",
@@ -4301,8 +4517,7 @@
         "root",
         "of",
         "trust"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-123",
@@ -4325,8 +4540,7 @@
         "memory",
         "bandwidth",
         "DRAM"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "high-frequency-trading",
@@ -4361,8 +4575,7 @@
         "high-throughput",
         "parallel",
         "chemistry"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-169",
@@ -4372,8 +4585,7 @@
       "svg": "/icons/hndl.svg",
       "tags": [
         "hndl"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "homomorphic-encryption",
@@ -4460,8 +4672,7 @@
       "svg": "/icons/ibc.svg",
       "tags": [
         "ibc"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-048",
@@ -4484,8 +4695,7 @@
         "liquidity",
         "AMM",
         "DeFi"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "incident-response-agent",
@@ -4508,8 +4718,7 @@
       "svg": "/icons/inference.svg",
       "tags": [
         "inference"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "inspiration-retrieval",
@@ -4545,8 +4754,7 @@
         "goals",
         "AI",
         "drives"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-135",
@@ -4569,8 +4777,7 @@
         "explosion",
         "recursive",
         "AI"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "intent-based-transaction",
@@ -4670,8 +4877,7 @@
         "audit",
         "NEAR",
         "smart contract"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-133",
@@ -4694,8 +4900,7 @@
         "payments",
         "standard",
         "messaging"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "jailbreak",
@@ -4806,8 +5011,7 @@
         "scaling",
         "rollup",
         "blockchain"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "layer-normalization",
@@ -4878,8 +5082,7 @@
         "liquid",
         "DeFi",
         "derivative"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "liquidity-fragmentation",
@@ -4914,8 +5117,7 @@
         "pool",
         "DeFi",
         "tokens"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "llm-agent",
@@ -5010,8 +5212,7 @@
       "svg": "/icons/llm.svg",
       "tags": [
         "llm"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "load-testing-agent",
@@ -5074,8 +5275,7 @@
         "long",
         "horizon",
         "execution"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "lora-fine-tuning",
@@ -5118,8 +5318,7 @@
         "parsing",
         "a16z",
         "agent input"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "majority-voting",
@@ -5142,8 +5341,7 @@
       "tags": [
         "managed",
         "agent"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "market-microstructure",
@@ -5203,8 +5401,7 @@
         "discovery",
         "AI",
         "science"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "maximum-extractable-value",
@@ -5226,8 +5423,7 @@
       "svg": "/icons/mcp.svg",
       "tags": [
         "mcp"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "mechanism-design",
@@ -5264,8 +5460,7 @@
       "tags": [
         "memory",
         "agent"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-051",
@@ -5288,8 +5483,7 @@
         "hash",
         "tree",
         "verification"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "meta-learning-agent",
@@ -5325,8 +5519,7 @@
         "macro",
         "trend",
         "future"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "metered-billing",
@@ -5362,8 +5555,7 @@
         "front-running",
         "blockchain",
         "attack"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-119",
@@ -5386,8 +5578,7 @@
         "architecture",
         "API",
         "service"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-097",
@@ -5410,8 +5601,7 @@
         "payment",
         "micro",
         "blockchain"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-151",
@@ -5434,8 +5624,7 @@
         "mission",
         "autonomous",
         "defense"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "mixture-of-agents",
@@ -5583,8 +5772,7 @@
       "svg": "/icons/moonshot.svg",
       "tags": [
         "moonshot"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "moral-reasoning",
@@ -5608,8 +5796,7 @@
       "tags": [
         "move",
         "language"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-145",
@@ -5632,8 +5819,7 @@
         "mission",
         "purpose",
         "transformation"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-183",
@@ -5651,8 +5837,7 @@
         "coordination",
         "a16z",
         "workflow"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "multi-agent-rl",
@@ -5677,8 +5862,7 @@
         "multi",
         "agent",
         "system"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "multi-agent",
@@ -5713,8 +5897,7 @@
         "military",
         "operations",
         "defense"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "multi-head-attention",
@@ -5800,8 +5983,7 @@
         "multichain",
         "governance",
         "NEAR"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "multimodal-agent",
@@ -5874,8 +6056,7 @@
         "NEAR",
         "declarative",
         "execution"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "negotiation-agent",
@@ -5986,8 +6167,7 @@
         "plasticity",
         "neural",
         "learning"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "next-token-prediction",
@@ -6009,8 +6189,7 @@
       "svg": "/icons/nns.svg",
       "tags": [
         "nns"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-058",
@@ -6033,8 +6212,7 @@
         "network",
         "validation",
         "blockchain"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "notification-agent",
@@ -6063,6 +6241,29 @@
       "svg": "/icons/observability-agent.svg"
     },
     {
+      "name": "observability-platform",
+      "label": "Observability Platform",
+      "concept": "Observability Platform",
+      "definition": "An integrated system for collecting, storing, and analyzing metrics, logs, and traces from distributed systems, providing deep insight into system behavior and performance",
+      "aliases": [
+        "monitoring platform",
+        "telemetry platform",
+        "SRE platform",
+        "OpenTelemetry"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "observability",
+        "monitoring",
+        "metrics",
+        "logs",
+        "traces"
+      ],
+      "version": "1.5",
+      "svg": "/icons/observability-platform.svg"
+    },
+    {
       "id": "AS-033",
       "concept": "Off-Ramp",
       "definition": "Converting cryptocurrency back to fiat currency to exit the blockchain ecosystem",
@@ -6071,8 +6272,7 @@
       "tags": [
         "off",
         "ramp"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "offline-rl",
@@ -6108,8 +6308,7 @@
       "tags": [
         "on",
         "ramp"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-090",
@@ -6132,8 +6331,7 @@
         "finance",
         "blockchain",
         "DeFi"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-186",
@@ -6151,8 +6349,7 @@
         "onchain",
         "a16z",
         "real-world assets"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "online-learning-agent",
@@ -6225,8 +6422,7 @@
         "data",
         "blockchain",
         "problem"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-006",
@@ -6236,8 +6432,7 @@
       "svg": "/icons/orchestrator.svg",
       "tags": [
         "orchestrator"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "order-flow",
@@ -6260,8 +6455,7 @@
       "tags": [
         "orthogonal",
         "persistence"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-033",
@@ -6284,8 +6478,7 @@
         "wireless",
         "deployment",
         "software"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-184",
@@ -6303,8 +6496,7 @@
         "outcomes",
         "a16z",
         "evaluation"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-137",
@@ -6327,8 +6519,7 @@
         "misalignment",
         "optimizer",
         "Bostrom"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-174",
@@ -6338,8 +6529,7 @@
       "svg": "/icons/parachain.svg",
       "tags": [
         "parachain"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-172",
@@ -6350,8 +6540,7 @@
       "tags": [
         "parallel",
         "subagents"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-142",
@@ -6374,8 +6563,7 @@
         "relationship",
         "psychology",
         "media"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "pay-per-call",
@@ -6448,8 +6636,7 @@
         "futures",
         "derivatives",
         "trading"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "perplexity-score",
@@ -6498,8 +6685,7 @@
         "consciousness",
         "experience",
         "philosophy"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "photonic-qubit",
@@ -6529,8 +6715,7 @@
         "IoT",
         "a16z",
         "physical AI"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "planner-agent",
@@ -6569,6 +6754,29 @@
       ],
       "version": "1.3",
       "svg": "/icons/plasma.svg"
+    },
+    {
+      "name": "platform-economy",
+      "label": "Platform Economy",
+      "concept": "Platform Economy",
+      "definition": "An economic model built on multi-sided platforms that facilitate interactions between producers and consumers\u2014including AI agents\u2014capturing value through network effects and transaction mediation",
+      "aliases": [
+        "platform business",
+        "two-sided market",
+        "marketplace economy",
+        "network platform"
+      ],
+      "category": "economics-finance",
+      "category_name": "Economics & Finance",
+      "tags": [
+        "platform",
+        "economy",
+        "marketplace",
+        "network effects",
+        "two-sided market"
+      ],
+      "version": "1.5",
+      "svg": "/icons/platform-economy.svg"
     },
     {
       "name": "points-program",
@@ -6630,8 +6838,7 @@
         "post",
         "quantum",
         "cryptography"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-040",
@@ -6642,8 +6849,7 @@
       "tags": [
         "prediction",
         "market"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "price-impact",
@@ -6673,8 +6879,7 @@
         "NIST",
         "differential privacy",
         "homomorphic encryption"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "private-mempool",
@@ -6730,8 +6935,7 @@
         "smart contracts",
         "a16z",
         "settlement"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "programmable-money",
@@ -6775,8 +6979,7 @@
         "a16z",
         "context-aware",
         "autonomy"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "prompt-injection",
@@ -6811,8 +7014,7 @@
       "svg": "/icons/prompt.svg",
       "tags": [
         "prompt"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-176",
@@ -6824,8 +7026,7 @@
         "proof",
         "of",
         "history"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "proposer-builder-separation",
@@ -6923,8 +7124,7 @@
         "central bank",
         "money",
         "policy"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "quantum-advantage",
@@ -7067,8 +7267,7 @@
         "circuit",
         "qubit",
         "logic"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "quantum-key-distribution",
@@ -7163,8 +7362,7 @@
       "tags": [
         "quantum",
         "superposition"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-109",
@@ -7187,8 +7385,7 @@
         "milestone",
         "advantage",
         "computing"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "quantum-teleportation",
@@ -7222,8 +7419,7 @@
       "svg": "/icons/qubit.svg",
       "tags": [
         "qubit"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "query-expansion",
@@ -7272,8 +7468,7 @@
       "svg": "/icons/rag.svg",
       "tags": [
         "rag"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "rate-limiting",
@@ -7334,8 +7529,7 @@
         "real-time",
         "finality",
         "payments"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "real-yield",
@@ -7458,8 +7652,7 @@
         "markets",
         "feedback",
         "Soros"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "regression-testing-agent",
@@ -7495,8 +7688,7 @@
         "capture",
         "industry",
         "policy"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-036",
@@ -7519,8 +7711,7 @@
         "coding",
         "agent",
         "cloud"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "reranking",
@@ -7631,8 +7822,7 @@
         "rocket",
         "SpaceX",
         "cost"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-162",
@@ -7643,8 +7833,7 @@
       "tags": [
         "reverse",
         "gas"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "reward-function",
@@ -7730,8 +7919,7 @@
       "tags": [
         "rwa",
         "tokenization"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "safe-rl",
@@ -7757,6 +7945,29 @@
       ],
       "version": "1.3",
       "svg": "/icons/safety-alignment.svg"
+    },
+    {
+      "name": "saga-pattern",
+      "label": "Saga Pattern",
+      "concept": "Saga Pattern",
+      "definition": "A distributed transaction management pattern where a sequence of local transactions is coordinated via events or commands, with compensating transactions to handle failures",
+      "aliases": [
+        "saga orchestration",
+        "choreography saga",
+        "distributed saga",
+        "compensating transaction"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "saga",
+        "distributed transactions",
+        "microservices",
+        "pattern",
+        "orchestration"
+      ],
+      "version": "1.5",
+      "svg": "/icons/saga-pattern.svg"
     },
     {
       "name": "sandboxing",
@@ -7893,8 +8104,7 @@
         "autonomous",
         "AI",
         "robotics"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "self-evolving",
@@ -7980,8 +8190,7 @@
         "fab",
         "chip",
         "manufacturing"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "sentiment-analysis-agent",
@@ -8008,6 +8217,29 @@
       ],
       "version": "1.4",
       "svg": "/icons/sequential-reasoning.svg"
+    },
+    {
+      "name": "service-mesh",
+      "label": "Service Mesh",
+      "concept": "Service Mesh",
+      "definition": "A dedicated infrastructure layer that handles service-to-service communication in microservices architectures, providing observability, security, and traffic management",
+      "aliases": [
+        "sidecar proxy",
+        "Istio",
+        "Linkerd",
+        "service-to-service networking"
+      ],
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "service mesh",
+        "microservices",
+        "networking",
+        "infrastructure",
+        "proxy"
+      ],
+      "version": "1.5",
+      "svg": "/icons/service-mesh.svg"
     },
     {
       "name": "session-key",
@@ -8042,8 +8274,7 @@
       "tags": [
         "shadow",
         "mode"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-082",
@@ -8066,8 +8297,7 @@
         "scalability",
         "NEAR",
         "parallel"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "shared-sequencer",
@@ -8126,8 +8356,7 @@
       "svg": "/icons/singularity.svg",
       "tags": [
         "singularity"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-027",
@@ -8138,8 +8367,7 @@
       "tags": [
         "smart",
         "contract"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "smart-money",
@@ -8187,8 +8415,7 @@
       "tags": [
         "sound",
         "money"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-199",
@@ -8206,8 +8433,7 @@
         "GDPR",
         "jurisdiction",
         "data governance"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "sovereign-rollup",
@@ -8314,8 +8540,7 @@
         "fiat",
         "a16z",
         "USDC"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-149",
@@ -8338,8 +8563,7 @@
         "rocket",
         "SpaceX",
         "staging"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-053",
@@ -8362,8 +8586,7 @@
         "PoS",
         "rewards",
         "blockchain"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "state-channel",
@@ -8475,8 +8698,7 @@
       "tags": [
         "sub",
         "agent"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "summarization-agent",
@@ -8524,8 +8746,7 @@
         "ASI",
         "AI",
         "capability"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "supervisor-agent",
@@ -8556,8 +8777,7 @@
         "SBOM",
         "third-party risk",
         "CISA"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "surface-code",
@@ -8592,8 +8812,7 @@
         "vector",
         "graphics",
         "format"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "swarm-intelligence",
@@ -8655,8 +8874,7 @@
         "edge",
         "compute",
         "defense"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-095",
@@ -8679,8 +8897,7 @@
         "immutable",
         "audit",
         "tamper-proof"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "task-decomposition",
@@ -8703,8 +8920,7 @@
       "svg": "/icons/tee.svg",
       "tags": [
         "tee"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-019",
@@ -8714,8 +8930,7 @@
       "svg": "/icons/temperature.svg",
       "tags": [
         "temperature"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "temporal-reasoning",
@@ -8751,8 +8966,7 @@
         "terawatt",
         "scale",
         "AI"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "test-generation-agent",
@@ -8801,8 +9015,7 @@
       "tags": [
         "token",
         "ai"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "token-budget",
@@ -8850,8 +9063,7 @@
       "svg": "/icons/tokenization.svg",
       "tags": [
         "tokenization"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "tokenized-treasury",
@@ -8912,8 +9124,7 @@
       "tags": [
         "tool",
         "use"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "topological-qubit",
@@ -8948,8 +9159,7 @@
         "transaction",
         "irreversible",
         "confirmed"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "transfer-learning-agent",
@@ -8984,8 +9194,7 @@
       "svg": "/icons/transformer.svg",
       "tags": [
         "transformer"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "translation-workflows",
@@ -9057,8 +9266,7 @@
         "lockout",
         "verification",
         "NEAR"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-093",
@@ -9081,8 +9289,7 @@
         "AI",
         "agent",
         "safety"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-034",
@@ -9105,8 +9312,7 @@
         "tiers",
         "planning",
         "reactive"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "uncertainty-quantification",
@@ -9179,8 +9385,7 @@
         "node",
         "network",
         "verification"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "validium",
@@ -9228,8 +9433,7 @@
       "tags": [
         "vector",
         "database"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "vector-search",
@@ -9265,8 +9469,7 @@
         "compute",
         "ZK",
         "proof"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-062",
@@ -9290,8 +9493,30 @@
         "verifiable",
         "W3C",
         "attestation"
+      ]
+    },
+    {
+      "name": "verifiable-inference",
+      "label": "Verifiable Inference",
+      "concept": "Verifiable Inference",
+      "definition": "AI inference where the computation is accompanied by a cryptographic proof that allows anyone to verify the output was produced correctly by a specific model",
+      "aliases": [
+        "proven inference",
+        "auditable AI",
+        "trustless AI inference",
+        "proof of computation"
       ],
-      "version": "1.0"
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "verifiable",
+        "inference",
+        "cryptographic proof",
+        "trustless",
+        "AI"
+      ],
+      "version": "1.5",
+      "svg": "/icons/verifiable-inference.svg"
     },
     {
       "name": "verifiable-rewards",
@@ -9346,8 +9571,7 @@
         "a16z",
         "domain-specific",
         "enterprise"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-148",
@@ -9370,8 +9594,7 @@
         "SpaceX",
         "manufacturing",
         "supply chain"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-025",
@@ -9382,8 +9605,7 @@
       "tags": [
         "vibe",
         "coding"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "vibe-shift",
@@ -9440,8 +9662,7 @@
         "audio",
         "a16z",
         "conversational AI"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "vote-delegation",
@@ -9476,8 +9697,7 @@
         "keys",
         "crypto",
         "storage"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "web-scraping-agent",
@@ -9513,8 +9733,7 @@
         "API",
         "JSON",
         "oracle"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "webhook-agent",
@@ -9550,8 +9769,7 @@
         "callback",
         "event",
         "HTTP"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "weight-initialization",
@@ -9599,8 +9817,7 @@
       "svg": "/icons/x402.svg",
       "tags": [
         "x402"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-101",
@@ -9623,8 +9840,7 @@
         "binary",
         "contract",
         "settlement"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-128",
@@ -9647,8 +9863,30 @@
         "inversion",
         "recession",
         "bonds"
+      ]
+    },
+    {
+      "name": "zero-knowledge-ml",
+      "label": "Zero-Knowledge ML",
+      "concept": "Zero-Knowledge ML",
+      "definition": "Machine learning inference or training performed within zero-knowledge proof systems, enabling model outputs to be verified without exposing weights or private inputs",
+      "aliases": [
+        "zkML",
+        "zk machine learning",
+        "private inference",
+        "verifiable ML"
       ],
-      "version": "1.0"
+      "category": "science-tech",
+      "category_name": "Science & Tech",
+      "tags": [
+        "zero knowledge",
+        "machine learning",
+        "privacy",
+        "verification",
+        "zkML"
+      ],
+      "version": "1.5",
+      "svg": "/icons/zero-knowledge-ml.svg"
     },
     {
       "name": "zero-shot-agent",
@@ -9684,8 +9922,7 @@
         "instruction",
         "generalization",
         "LLM"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "zero-shot",
@@ -9715,8 +9952,7 @@
         "security",
         "authentication",
         "micro-segmentation"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "id": "AS-029",
@@ -9727,8 +9963,7 @@
       "tags": [
         "zk",
         "proof"
-      ],
-      "version": "1.0"
+      ]
     },
     {
       "name": "zk-rollup",

@@ -1,0 +1,22 @@
+{
+  "name": "blue-green-deployment",
+  "label": "Blue-Green Deployment",
+  "concept": "Blue-Green Deployment",
+  "definition": "A deployment strategy that maintains two identical production environments (blue and green), switching traffic between them to achieve zero-downtime releases and instant rollback capability",
+  "aliases": [
+    "blue green deploy",
+    "zero-downtime deployment",
+    "environment switching",
+    "traffic switchover"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "blue-green",
+    "deployment",
+    "zero-downtime",
+    "DevOps",
+    "rollback"
+  ],
+  "version": "1.5"
+}

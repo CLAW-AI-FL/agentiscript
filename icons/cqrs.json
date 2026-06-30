@@ -1,0 +1,22 @@
+{
+  "name": "cqrs",
+  "label": "CQRS",
+  "concept": "CQRS",
+  "definition": "Command Query Responsibility Segregation: an architectural pattern that separates read (query) and write (command) operations into distinct models, enabling independent scaling and optimization",
+  "aliases": [
+    "command query responsibility segregation",
+    "read write separation",
+    "command model",
+    "query model"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "CQRS",
+    "command",
+    "query",
+    "architecture",
+    "pattern"
+  ],
+  "version": "1.5"
+}

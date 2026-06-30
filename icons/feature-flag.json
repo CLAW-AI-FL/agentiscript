@@ -1,0 +1,22 @@
+{
+  "name": "feature-flag",
+  "label": "Feature Flag",
+  "concept": "Feature Flag",
+  "definition": "A software development technique enabling features to be toggled on or off at runtime without code deployment, facilitating A/B testing, gradual rollouts, and kill switches",
+  "aliases": [
+    "feature toggle",
+    "feature switch",
+    "LaunchDarkly",
+    "runtime toggle"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "feature flag",
+    "feature toggle",
+    "A/B testing",
+    "DevOps",
+    "deployment"
+  ],
+  "version": "1.5"
+}

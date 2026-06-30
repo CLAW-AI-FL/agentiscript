@@ -1,0 +1,22 @@
+{
+  "name": "canary-deployment",
+  "label": "Canary Deployment",
+  "concept": "Canary Deployment",
+  "definition": "A deployment technique that gradually rolls out changes to a small subset of users before full release, monitoring for errors and allowing quick rollback if issues are detected",
+  "aliases": [
+    "canary release",
+    "gradual rollout",
+    "progressive delivery",
+    "canary testing"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "canary",
+    "deployment",
+    "gradual rollout",
+    "progressive delivery",
+    "DevOps"
+  ],
+  "version": "1.5"
+}

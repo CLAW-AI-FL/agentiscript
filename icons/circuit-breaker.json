@@ -1,0 +1,22 @@
+{
+  "name": "circuit-breaker",
+  "label": "Circuit Breaker",
+  "concept": "Circuit Breaker",
+  "definition": "A resilience design pattern that detects failures in downstream services and short-circuits requests to prevent cascade failures, allowing the system to recover gracefully",
+  "aliases": [
+    "fault tolerance",
+    "fallback pattern",
+    "resilience pattern",
+    "trip breaker"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "circuit breaker",
+    "resilience",
+    "fault tolerance",
+    "microservices",
+    "pattern"
+  ],
+  "version": "1.5"
+}

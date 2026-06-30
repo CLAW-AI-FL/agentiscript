@@ -1,0 +1,22 @@
+{
+  "name": "saga-pattern",
+  "label": "Saga Pattern",
+  "concept": "Saga Pattern",
+  "definition": "A distributed transaction management pattern where a sequence of local transactions is coordinated via events or commands, with compensating transactions to handle failures",
+  "aliases": [
+    "saga orchestration",
+    "choreography saga",
+    "distributed saga",
+    "compensating transaction"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "saga",
+    "distributed transactions",
+    "microservices",
+    "pattern",
+    "orchestration"
+  ],
+  "version": "1.5"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "chaos-engineering",
+  "label": "Chaos Engineering",
+  "concept": "Chaos Engineering",
+  "definition": "The practice of deliberately injecting failures and perturbations into a system to discover weaknesses before they cause outages, pioneered by Netflix's Chaos Monkey",
+  "aliases": [
+    "chaos monkey",
+    "fault injection",
+    "resilience testing",
+    "game days"
+  ],
+  "category": "science-tech",
+  "category_name": "Science & Tech",
+  "tags": [
+    "chaos engineering",
+    "fault injection",
+    "resilience",
+    "testing",
+    "SRE"
+  ],
+  "version": "1.5"
+}
