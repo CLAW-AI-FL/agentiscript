@@ -1,0 +1,18 @@
+{
+  "id": "AS-183",
+  "slug": "multi-agent-orchestration",
+  "concept": "Multi-Agent Orchestration",
+  "definition": "Coordinating multiple AI agents with distinct roles, tools, and memory to collaboratively complete complex tasks.",
+  "aliases": [],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "multi-agent-orchestration.svg",
+  "tags": [
+    "orchestration",
+    "multi-agent",
+    "coordination",
+    "a16z",
+    "workflow"
+  ]
+}

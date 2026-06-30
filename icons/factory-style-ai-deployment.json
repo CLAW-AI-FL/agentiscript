@@ -1,0 +1,18 @@
+{
+  "id": "AS-188",
+  "slug": "factory-style-ai-deployment",
+  "concept": "Factory-Style AI Deployment",
+  "definition": "Industrialized pipelines for building, evaluating, and deploying AI agents at scale using repeatable, automated manufacturing metaphors.",
+  "aliases": [],
+  "category": "infrastructure",
+  "category_name": "Infrastructure",
+  "sources": [],
+  "svg": "factory-style-ai-deployment.svg",
+  "tags": [
+    "deployment",
+    "factory",
+    "automation",
+    "a16z",
+    "MLOps"
+  ]
+}

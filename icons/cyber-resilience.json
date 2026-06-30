@@ -1,0 +1,18 @@
+{
+  "id": "AS-196",
+  "slug": "cyber-resilience",
+  "concept": "Cyber Resilience",
+  "definition": "The capacity to anticipate, withstand, recover from, and adapt to adverse cyber events while maintaining continuous operations.",
+  "aliases": [],
+  "category": "security",
+  "category_name": "Security",
+  "sources": [],
+  "svg": "cyber-resilience.svg",
+  "tags": [
+    "cyber resilience",
+    "NIST",
+    "recovery",
+    "business continuity",
+    "CISA"
+  ]
+}

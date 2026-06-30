@@ -1,0 +1,18 @@
+{
+  "id": "AS-194",
+  "slug": "zero-trust",
+  "concept": "Zero Trust",
+  "definition": "A security model that eliminates implicit trust \u2014 every request, from any source, must be continuously authenticated and authorized.",
+  "aliases": [],
+  "category": "security",
+  "category_name": "Security",
+  "sources": [],
+  "svg": "zero-trust.svg",
+  "tags": [
+    "zero trust",
+    "NIST",
+    "security",
+    "authentication",
+    "micro-segmentation"
+  ]
+}

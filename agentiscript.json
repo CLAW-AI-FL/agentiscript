@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "total": 178,
+  "version": "1.2",
+  "total": 203,
   "icons": [
     {
       "id": "AS-146",
@@ -3288,6 +3288,456 @@
       "tags": [
         "zk",
         "proof"
+      ]
+    },
+    {
+      "id": "AS-179",
+      "slug": "machine-readability",
+      "concept": "Machine Readability",
+      "definition": "Structuring data and documents so AI agents can parse, interpret, and act on them without human intermediation.",
+      "aliases": [],
+      "category": "ai-agents",
+      "category_name": "AI Agents",
+      "sources": [],
+      "svg": "machine-readability.svg",
+      "tags": [
+        "machine-readable",
+        "structured data",
+        "parsing",
+        "a16z",
+        "agent input"
+      ]
+    },
+    {
+      "id": "AS-180",
+      "slug": "agent-identity",
+      "concept": "Agent Identity",
+      "definition": "Cryptographically verifiable credentials that uniquely identify an AI agent across systems and transactions.",
+      "aliases": [],
+      "category": "ai-agents",
+      "category_name": "AI Agents",
+      "sources": [],
+      "svg": "agent-identity.svg",
+      "tags": [
+        "identity",
+        "credentials",
+        "agent",
+        "a16z",
+        "authentication"
+      ]
+    },
+    {
+      "id": "AS-181",
+      "slug": "programmable-financial-system",
+      "concept": "Programmable Financial System",
+      "definition": "A financial infrastructure where money movement, compliance, and settlement are encoded as executable logic rather than manual process.",
+      "aliases": [],
+      "category": "finance-defi",
+      "category_name": "Finance & DeFi",
+      "sources": [],
+      "svg": "programmable-financial-system.svg",
+      "tags": [
+        "programmable money",
+        "fintech",
+        "smart contracts",
+        "a16z",
+        "settlement"
+      ]
+    },
+    {
+      "id": "AS-182",
+      "slug": "ai-native-data-stack",
+      "concept": "AI-Native Data Stack",
+      "definition": "Data infrastructure built from the ground up for LLM ingestion, retrieval-augmented generation, and agentic pipelines.",
+      "aliases": [],
+      "category": "infrastructure",
+      "category_name": "Infrastructure",
+      "sources": [],
+      "svg": "ai-native-data-stack.svg",
+      "tags": [
+        "data stack",
+        "RAG",
+        "AI infra",
+        "a16z",
+        "vector store"
+      ]
+    },
+    {
+      "id": "AS-183",
+      "slug": "multi-agent-orchestration",
+      "concept": "Multi-Agent Orchestration",
+      "definition": "Coordinating multiple AI agents with distinct roles, tools, and memory to collaboratively complete complex tasks.",
+      "aliases": [],
+      "category": "ai-agents",
+      "category_name": "AI Agents",
+      "sources": [],
+      "svg": "multi-agent-orchestration.svg",
+      "tags": [
+        "orchestration",
+        "multi-agent",
+        "coordination",
+        "a16z",
+        "workflow"
+      ]
+    },
+    {
+      "id": "AS-184",
+      "slug": "outcome-based-metrics",
+      "concept": "Outcome-Based Metrics",
+      "definition": "Measuring AI agent performance by real-world results delivered rather than activity proxies like tokens generated or tasks initiated.",
+      "aliases": [],
+      "category": "ai-agents",
+      "category_name": "AI Agents",
+      "sources": [],
+      "svg": "outcome-based-metrics.svg",
+      "tags": [
+        "metrics",
+        "KPI",
+        "outcomes",
+        "a16z",
+        "evaluation"
+      ]
+    },
+    {
+      "id": "AS-185",
+      "slug": "voice-agent",
+      "concept": "Voice Agent",
+      "definition": "An AI agent that perceives, processes, and responds through spoken language, enabling hands-free agentic interaction.",
+      "aliases": [],
+      "category": "ai-agents",
+      "category_name": "AI Agents",
+      "sources": [],
+      "svg": "voice-agent.svg",
+      "tags": [
+        "voice",
+        "speech",
+        "audio",
+        "a16z",
+        "conversational AI"
+      ]
+    },
+    {
+      "id": "AS-186",
+      "slug": "onchain-rwa-origination",
+      "concept": "Onchain RWA Origination",
+      "definition": "The minting and management of real-world asset tokens \u2014 debt, real estate, commodities \u2014 directly on a programmable blockchain.",
+      "aliases": [],
+      "category": "finance-defi",
+      "category_name": "Finance & DeFi",
+      "sources": [],
+      "svg": "onchain-rwa-origination.svg",
+      "tags": [
+        "RWA",
+        "tokenization",
+        "onchain",
+        "a16z",
+        "real-world assets"
+      ]
+    },
+    {
+      "id": "AS-187",
+      "slug": "stablecoin-onramp",
+      "concept": "Stablecoin Onramp",
+      "definition": "Infrastructure that converts fiat currency into stablecoins seamlessly, enabling agents and users to enter crypto-native financial rails.",
+      "aliases": [],
+      "category": "finance-defi",
+      "category_name": "Finance & DeFi",
+      "sources": [],
+      "svg": "stablecoin-onramp.svg",
+      "tags": [
+        "stablecoin",
+        "onramp",
+        "fiat",
+        "a16z",
+        "USDC"
+      ]
+    },
+    {
+      "id": "AS-188",
+      "slug": "factory-style-ai-deployment",
+      "concept": "Factory-Style AI Deployment",
+      "definition": "Industrialized pipelines for building, evaluating, and deploying AI agents at scale using repeatable, automated manufacturing metaphors.",
+      "aliases": [],
+      "category": "infrastructure",
+      "category_name": "Infrastructure",
+      "sources": [],
+      "svg": "factory-style-ai-deployment.svg",
+      "tags": [
+        "deployment",
+        "factory",
+        "automation",
+        "a16z",
+        "MLOps"
+      ]
+    },
+    {
+      "id": "AS-189",
+      "slug": "physical-observability",
+      "concept": "Physical Observability",
+      "definition": "Equipping AI systems with real-time sensor data from the physical world \u2014 cameras, LIDAR, IoT \u2014 to ground decisions in material reality.",
+      "aliases": [],
+      "category": "infrastructure",
+      "category_name": "Infrastructure",
+      "sources": [],
+      "svg": "physical-observability.svg",
+      "tags": [
+        "observability",
+        "sensors",
+        "IoT",
+        "a16z",
+        "physical AI"
+      ]
+    },
+    {
+      "id": "AS-190",
+      "slug": "prompt-free-ai",
+      "concept": "Prompt-Free AI",
+      "definition": "AI systems that infer intent from context, behavior, and structured goals rather than requiring explicit natural-language prompts.",
+      "aliases": [],
+      "category": "ai-agents",
+      "category_name": "AI Agents",
+      "sources": [],
+      "svg": "prompt-free-ai.svg",
+      "tags": [
+        "prompt-free",
+        "intent inference",
+        "a16z",
+        "context-aware",
+        "autonomy"
+      ]
+    },
+    {
+      "id": "AS-191",
+      "slug": "ai-prediction-market",
+      "concept": "AI Prediction Market",
+      "definition": "Markets where AI agents trade probability contracts on real-world outcomes, creating decentralized forecasting mechanisms.",
+      "aliases": [],
+      "category": "finance-defi",
+      "category_name": "Finance & DeFi",
+      "sources": [],
+      "svg": "ai-prediction-market.svg",
+      "tags": [
+        "prediction market",
+        "forecasting",
+        "a16z",
+        "AI trading",
+        "probability"
+      ]
+    },
+    {
+      "id": "AS-192",
+      "slug": "vertical-ai",
+      "concept": "Vertical AI",
+      "definition": "AI systems purpose-built for a single industry domain \u2014 legal, healthcare, finance \u2014 with domain-specific data, models, and workflows.",
+      "aliases": [],
+      "category": "ai-agents",
+      "category_name": "AI Agents",
+      "sources": [],
+      "svg": "vertical-ai.svg",
+      "tags": [
+        "vertical AI",
+        "industry AI",
+        "a16z",
+        "domain-specific",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "AS-193",
+      "slug": "agent-scale-infrastructure",
+      "concept": "Agent-Scale Infrastructure",
+      "definition": "Compute, networking, and orchestration platforms engineered to run millions of concurrent AI agents reliably and economically.",
+      "aliases": [],
+      "category": "infrastructure",
+      "category_name": "Infrastructure",
+      "sources": [],
+      "svg": "agent-scale-infrastructure.svg",
+      "tags": [
+        "infrastructure",
+        "scale",
+        "agents",
+        "a16z",
+        "cloud"
+      ]
+    },
+    {
+      "id": "AS-194",
+      "slug": "zero-trust",
+      "concept": "Zero Trust",
+      "definition": "A security model that eliminates implicit trust \u2014 every request, from any source, must be continuously authenticated and authorized.",
+      "aliases": [],
+      "category": "security",
+      "category_name": "Security",
+      "sources": [],
+      "svg": "zero-trust.svg",
+      "tags": [
+        "zero trust",
+        "NIST",
+        "security",
+        "authentication",
+        "micro-segmentation"
+      ]
+    },
+    {
+      "id": "AS-195",
+      "slug": "digital-identity",
+      "concept": "Digital Identity",
+      "definition": "A verifiable, portable representation of an individual or entity's attributes in digital systems, governed by standards like NIST SP 800-63.",
+      "aliases": [],
+      "category": "security",
+      "category_name": "Security",
+      "sources": [],
+      "svg": "digital-identity.svg",
+      "tags": [
+        "digital identity",
+        "NIST",
+        "IAM",
+        "credentials",
+        "SSI"
+      ]
+    },
+    {
+      "id": "AS-196",
+      "slug": "cyber-resilience",
+      "concept": "Cyber Resilience",
+      "definition": "The capacity to anticipate, withstand, recover from, and adapt to adverse cyber events while maintaining continuous operations.",
+      "aliases": [],
+      "category": "security",
+      "category_name": "Security",
+      "sources": [],
+      "svg": "cyber-resilience.svg",
+      "tags": [
+        "cyber resilience",
+        "NIST",
+        "recovery",
+        "business continuity",
+        "CISA"
+      ]
+    },
+    {
+      "id": "AS-197",
+      "slug": "supply-chain-risk",
+      "concept": "Supply Chain Risk",
+      "definition": "Threats introduced through third-party software, hardware, or service dependencies \u2014 a top NIST and CISA concern in federal security frameworks.",
+      "aliases": [],
+      "category": "security",
+      "category_name": "Security",
+      "sources": [],
+      "svg": "supply-chain-risk.svg",
+      "tags": [
+        "supply chain",
+        "NIST",
+        "SBOM",
+        "third-party risk",
+        "CISA"
+      ]
+    },
+    {
+      "id": "AS-198",
+      "slug": "cryptographic-agility",
+      "concept": "Cryptographic Agility",
+      "definition": "Designing systems to swap cryptographic algorithms quickly \u2014 critical for post-quantum migration per NIST PQC standards.",
+      "aliases": [],
+      "category": "security",
+      "category_name": "Security",
+      "sources": [],
+      "svg": "cryptographic-agility.svg",
+      "tags": [
+        "cryptography",
+        "NIST",
+        "post-quantum",
+        "PQC",
+        "agility"
+      ]
+    },
+    {
+      "id": "AS-199",
+      "slug": "sovereign-data",
+      "concept": "Sovereign Data",
+      "definition": "The principle that data is subject to the laws and governance of the nation or entity where it originates, resists foreign extraction.",
+      "aliases": [],
+      "category": "governance",
+      "category_name": "Governance",
+      "sources": [],
+      "svg": "sovereign-data.svg",
+      "tags": [
+        "data sovereignty",
+        "government",
+        "GDPR",
+        "jurisdiction",
+        "data governance"
+      ]
+    },
+    {
+      "id": "AS-200",
+      "slug": "federated-identity",
+      "concept": "Federated Identity",
+      "definition": "An arrangement allowing users to authenticate once across multiple independent systems using shared identity standards like SAML, OIDC, or FIDO2.",
+      "aliases": [],
+      "category": "security",
+      "category_name": "Security",
+      "sources": [],
+      "svg": "federated-identity.svg",
+      "tags": [
+        "federation",
+        "NIST",
+        "SSO",
+        "OIDC",
+        "identity management"
+      ]
+    },
+    {
+      "id": "AS-201",
+      "slug": "critical-infrastructure",
+      "concept": "Critical Infrastructure",
+      "definition": "The 16 CISA-designated sectors \u2014 energy, water, finance, communications \u2014 whose disruption would have severe national security consequences.",
+      "aliases": [],
+      "category": "governance",
+      "category_name": "Governance",
+      "sources": [],
+      "svg": "critical-infrastructure.svg",
+      "tags": [
+        "critical infrastructure",
+        "CISA",
+        "national security",
+        "government",
+        "resilience"
+      ]
+    },
+    {
+      "id": "AS-202",
+      "slug": "privacy-enhancing-technology",
+      "concept": "Privacy-Enhancing Technology",
+      "definition": "Tools like differential privacy, homomorphic encryption, and secure multi-party computation that process data without exposing raw personal information.",
+      "aliases": [],
+      "category": "security",
+      "category_name": "Security",
+      "sources": [],
+      "svg": "privacy-enhancing-technology.svg",
+      "tags": [
+        "PET",
+        "privacy",
+        "NIST",
+        "differential privacy",
+        "homomorphic encryption"
+      ]
+    },
+    {
+      "id": "AS-203",
+      "slug": "algorithmic-accountability",
+      "concept": "Algorithmic Accountability",
+      "definition": "The obligation for organizations to explain, audit, and accept responsibility for automated decisions affecting individuals \u2014 core to AI governance frameworks.",
+      "aliases": [],
+      "category": "governance",
+      "category_name": "Governance",
+      "sources": [],
+      "svg": "algorithmic-accountability.svg",
+      "tags": [
+        "accountability",
+        "AI governance",
+        "NIST AI RMF",
+        "explainability",
+        "audit"
       ]
     }
   ]

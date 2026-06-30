@@ -1,0 +1,18 @@
+{
+  "id": "AS-180",
+  "slug": "agent-identity",
+  "concept": "Agent Identity",
+  "definition": "Cryptographically verifiable credentials that uniquely identify an AI agent across systems and transactions.",
+  "aliases": [],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "agent-identity.svg",
+  "tags": [
+    "identity",
+    "credentials",
+    "agent",
+    "a16z",
+    "authentication"
+  ]
+}

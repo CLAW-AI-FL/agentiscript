@@ -1,0 +1,18 @@
+{
+  "id": "AS-181",
+  "slug": "programmable-financial-system",
+  "concept": "Programmable Financial System",
+  "definition": "A financial infrastructure where money movement, compliance, and settlement are encoded as executable logic rather than manual process.",
+  "aliases": [],
+  "category": "finance-defi",
+  "category_name": "Finance & DeFi",
+  "sources": [],
+  "svg": "programmable-financial-system.svg",
+  "tags": [
+    "programmable money",
+    "fintech",
+    "smart contracts",
+    "a16z",
+    "settlement"
+  ]
+}

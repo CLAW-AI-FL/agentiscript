@@ -1,0 +1,18 @@
+{
+  "id": "AS-193",
+  "slug": "agent-scale-infrastructure",
+  "concept": "Agent-Scale Infrastructure",
+  "definition": "Compute, networking, and orchestration platforms engineered to run millions of concurrent AI agents reliably and economically.",
+  "aliases": [],
+  "category": "infrastructure",
+  "category_name": "Infrastructure",
+  "sources": [],
+  "svg": "agent-scale-infrastructure.svg",
+  "tags": [
+    "infrastructure",
+    "scale",
+    "agents",
+    "a16z",
+    "cloud"
+  ]
+}

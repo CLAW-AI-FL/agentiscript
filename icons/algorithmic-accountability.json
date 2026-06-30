@@ -1,0 +1,18 @@
+{
+  "id": "AS-203",
+  "slug": "algorithmic-accountability",
+  "concept": "Algorithmic Accountability",
+  "definition": "The obligation for organizations to explain, audit, and accept responsibility for automated decisions affecting individuals \u2014 core to AI governance frameworks.",
+  "aliases": [],
+  "category": "governance",
+  "category_name": "Governance",
+  "sources": [],
+  "svg": "algorithmic-accountability.svg",
+  "tags": [
+    "accountability",
+    "AI governance",
+    "NIST AI RMF",
+    "explainability",
+    "audit"
+  ]
+}

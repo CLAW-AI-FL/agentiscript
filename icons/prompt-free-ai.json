@@ -1,0 +1,18 @@
+{
+  "id": "AS-190",
+  "slug": "prompt-free-ai",
+  "concept": "Prompt-Free AI",
+  "definition": "AI systems that infer intent from context, behavior, and structured goals rather than requiring explicit natural-language prompts.",
+  "aliases": [],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "prompt-free-ai.svg",
+  "tags": [
+    "prompt-free",
+    "intent inference",
+    "a16z",
+    "context-aware",
+    "autonomy"
+  ]
+}

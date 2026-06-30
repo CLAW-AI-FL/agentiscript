@@ -1,0 +1,18 @@
+{
+  "id": "AS-187",
+  "slug": "stablecoin-onramp",
+  "concept": "Stablecoin Onramp",
+  "definition": "Infrastructure that converts fiat currency into stablecoins seamlessly, enabling agents and users to enter crypto-native financial rails.",
+  "aliases": [],
+  "category": "finance-defi",
+  "category_name": "Finance & DeFi",
+  "sources": [],
+  "svg": "stablecoin-onramp.svg",
+  "tags": [
+    "stablecoin",
+    "onramp",
+    "fiat",
+    "a16z",
+    "USDC"
+  ]
+}
