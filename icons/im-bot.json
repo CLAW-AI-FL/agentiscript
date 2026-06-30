@@ -1,0 +1,11 @@
+{
+  "name": "IM bot",
+  "slug": "im-bot",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ai",
+  "description": "IM bot \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "moving average",
+  "slug": "moving-average",
+  "tags": [
+    "technology",
+    "artificial-intelligence"
+  ],
+  "category": "ai",
+  "source": "stats",
+  "description": "moving average \u2014 a concept in ai.",
+  "version": "2.0"
+}

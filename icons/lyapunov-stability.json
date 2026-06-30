@@ -1,0 +1,11 @@
+{
+  "name": "Lyapunov stability",
+  "slug": "lyapunov-stability",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "Lyapunov stability \u2014 a concept in general.",
+  "version": "2.0"
+}

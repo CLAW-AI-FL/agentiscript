@@ -1,0 +1,11 @@
+{
+  "name": "wattmeter",
+  "slug": "wattmeter",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "wattmeter \u2014 a concept in general.",
+  "version": "2.0"
+}

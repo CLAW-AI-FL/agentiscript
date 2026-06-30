@@ -1,0 +1,12 @@
+{
+  "name": "signal processing",
+  "slug": "signal-processing",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "signal processing \u2014 a concept in engineering.",
+  "version": "2.0"
+}

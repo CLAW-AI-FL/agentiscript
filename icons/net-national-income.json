@@ -1,0 +1,11 @@
+{
+  "name": "net national income",
+  "slug": "net-national-income",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "net national income \u2014 a concept in general.",
+  "version": "2.0"
+}

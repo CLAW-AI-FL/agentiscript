@@ -1,0 +1,11 @@
+{
+  "name": "spark-gap transmitter",
+  "slug": "spark-gap-transmitter",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "spark-gap transmitter \u2014 a concept in general.",
+  "version": "2.0"
+}

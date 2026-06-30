@@ -1,0 +1,12 @@
+{
+  "name": "weighted median",
+  "slug": "weighted-median",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "weighted median \u2014 a concept in statistics.",
+  "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "median absolute deviation",
+  "slug": "median-absolute-deviation",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "median absolute deviation \u2014 a concept in statistics.",
+  "version": "2.0"
+}

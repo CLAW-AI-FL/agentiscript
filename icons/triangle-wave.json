@@ -1,0 +1,12 @@
+{
+  "name": "triangle wave",
+  "slug": "triangle-wave",
+  "tags": [
+    "mathematics",
+    "geometry"
+  ],
+  "category": "geometry",
+  "source": "ee",
+  "description": "triangle wave \u2014 a concept in geometry.",
+  "version": "2.0"
+}

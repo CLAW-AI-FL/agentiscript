@@ -1,0 +1,12 @@
+{
+  "name": "planar graph",
+  "slug": "planar-graph",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "ee",
+  "description": "planar graph \u2014 a concept in graph.",
+  "version": "2.0"
+}

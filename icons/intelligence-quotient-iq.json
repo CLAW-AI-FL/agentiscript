@@ -1,0 +1,11 @@
+{
+  "name": "Intelligence quotient (IQ)",
+  "slug": "intelligence-quotient-iq",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "neuro",
+  "description": "Intelligence quotient (IQ) \u2014 a concept in general.",
+  "version": "2.0"
+}

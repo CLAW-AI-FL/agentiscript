@@ -1,0 +1,11 @@
+{
+  "name": "Students t-test",
+  "slug": "students-t-test",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "Students t-test \u2014 a concept in general.",
+  "version": "2.0"
+}

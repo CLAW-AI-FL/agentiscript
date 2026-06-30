@@ -1,0 +1,11 @@
+{
+  "name": "radar cross section",
+  "slug": "radar-cross-section",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "radar cross section \u2014 a concept in general.",
+  "version": "2.0"
+}

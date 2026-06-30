@@ -1,0 +1,13 @@
+{
+  "name": "real prices",
+  "slug": "real-prices",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "economics",
+  "description": "real prices \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

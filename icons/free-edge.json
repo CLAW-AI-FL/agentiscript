@@ -1,0 +1,12 @@
+{
+  "name": "free edge",
+  "slug": "free-edge",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "Glossary_of_graph_theory",
+  "description": "free edge \u2014 a concept in graph.",
+  "version": "2.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stocks",
+  "slug": "stocks",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "stocks \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "photodiode",
+  "slug": "photodiode",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "photodiode \u2014 a concept in engineering.",
+  "version": "2.0"
+}

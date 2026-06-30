@@ -1,0 +1,11 @@
+{
+  "name": "cluster sampling",
+  "slug": "cluster-sampling",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "cluster sampling \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "nutrient cycle",
+  "slug": "nutrient-cycle",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "Glossary_of_ecology",
+  "description": "nutrient cycle \u2014 a concept in graph.",
+  "version": "2.0"
+}

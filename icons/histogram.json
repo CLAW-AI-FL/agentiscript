@@ -1,0 +1,11 @@
+{
+  "name": "histogram",
+  "slug": "histogram",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "histogram \u2014 a concept in general.",
+  "version": "2.0"
+}

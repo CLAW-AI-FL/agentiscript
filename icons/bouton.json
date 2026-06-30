@@ -1,0 +1,11 @@
+{
+  "name": "Bouton",
+  "slug": "bouton",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "neuro",
+  "description": "Bouton \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wage",
+  "slug": "wage",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "wage \u2014 a concept in general.",
+  "version": "2.0"
+}

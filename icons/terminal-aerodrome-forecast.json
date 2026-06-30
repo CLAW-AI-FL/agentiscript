@@ -1,0 +1,11 @@
+{
+  "name": "terminal aerodrome forecast",
+  "slug": "terminal-aerodrome-forecast",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "Glossary_of_meteorology",
+  "description": "terminal aerodrome forecast \u2014 a concept in general.",
+  "version": "2.0"
+}

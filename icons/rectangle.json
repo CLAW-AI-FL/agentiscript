@@ -1,0 +1,12 @@
+{
+  "name": "rectangle",
+  "slug": "rectangle",
+  "tags": [
+    "mathematics",
+    "geometry"
+  ],
+  "category": "geometry",
+  "source": "Glossary_of_graph_theory",
+  "description": "rectangle \u2014 a concept in geometry.",
+  "version": "2.0"
+}

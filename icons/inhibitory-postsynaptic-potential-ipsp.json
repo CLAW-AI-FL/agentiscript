@@ -1,0 +1,11 @@
+{
+  "name": "Inhibitory postsynaptic potential (IPSP)",
+  "slug": "inhibitory-postsynaptic-potential-ipsp",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "neuro",
+  "description": "Inhibitory postsynaptic potential (IPSP) \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "out-degree",
+  "slug": "out-degree",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "Glossary_of_graph_theory",
+  "description": "out-degree \u2014 a concept in general.",
+  "version": "2.0"
+}

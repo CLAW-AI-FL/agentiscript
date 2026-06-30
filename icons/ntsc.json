@@ -1,0 +1,11 @@
+{
+  "name": "NTSC",
+  "slug": "ntsc",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "NTSC \u2014 a concept in general.",
+  "version": "2.0"
+}

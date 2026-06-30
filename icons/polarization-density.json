@@ -1,0 +1,11 @@
+{
+  "name": "polarization density",
+  "slug": "polarization-density",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "polarization density \u2014 a concept in general.",
+  "version": "2.0"
+}

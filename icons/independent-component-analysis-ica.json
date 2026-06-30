@@ -1,0 +1,11 @@
+{
+  "name": "Independent component analysis (ICA)",
+  "slug": "independent-component-analysis-ica",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "neuro",
+  "description": "Independent component analysis (ICA) \u2014 a concept in general.",
+  "version": "2.0"
+}

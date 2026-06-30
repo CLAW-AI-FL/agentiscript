@@ -1,0 +1,11 @@
+{
+  "name": "credit bureau",
+  "slug": "credit-bureau",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "credit bureau \u2014 a concept in general.",
+  "version": "2.0"
+}

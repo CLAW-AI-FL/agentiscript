@@ -1,0 +1,11 @@
+{
+  "name": "rotary converter",
+  "slug": "rotary-converter",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "rotary converter \u2014 a concept in general.",
+  "version": "2.0"
+}

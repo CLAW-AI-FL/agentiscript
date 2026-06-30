@@ -1,0 +1,11 @@
+{
+  "name": "U.S. Dollar",
+  "slug": "us-dollar",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "U.S. Dollar \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sea surface temperature",
+  "slug": "sea-surface-temperature",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_meteorology",
+  "description": "sea surface temperature \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

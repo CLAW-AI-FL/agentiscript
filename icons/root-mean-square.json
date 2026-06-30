@@ -1,0 +1,12 @@
+{
+  "name": "root mean square",
+  "slug": "root-mean-square",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "ee",
+  "description": "root mean square \u2014 a concept in statistics.",
+  "version": "2.0"
+}

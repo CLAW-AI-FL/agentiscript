@@ -1,0 +1,11 @@
+{
+  "name": "push\u2013pull converter",
+  "slug": "pushpull-converter",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "push\u2013pull converter \u2014 a concept in general.",
+  "version": "2.0"
+}

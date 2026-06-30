@@ -1,0 +1,11 @@
+{
+  "name": "transfer payment",
+  "slug": "transfer-payment",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "transfer payment \u2014 a concept in general.",
+  "version": "2.0"
+}

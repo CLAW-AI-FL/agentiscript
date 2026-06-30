@@ -1,0 +1,11 @@
+{
+  "name": "Nyquist stability criterion",
+  "slug": "nyquist-stability-criterion",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "Nyquist stability criterion \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "percentile",
+  "slug": "percentile",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "percentile \u2014 a concept in statistics.",
+  "version": "2.0"
+}

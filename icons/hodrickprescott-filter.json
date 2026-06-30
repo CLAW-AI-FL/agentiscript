@@ -1,0 +1,12 @@
+{
+  "name": "Hodrick\u2013Prescott filter",
+  "slug": "hodrickprescott-filter",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "economics",
+  "description": "Hodrick\u2013Prescott filter \u2014 a concept in engineering.",
+  "version": "2.0"
+}

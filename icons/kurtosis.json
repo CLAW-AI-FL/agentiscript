@@ -1,0 +1,11 @@
+{
+  "name": "kurtosis",
+  "slug": "kurtosis",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "kurtosis \u2014 a concept in general.",
+  "version": "2.0"
+}

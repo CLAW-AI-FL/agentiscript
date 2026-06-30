@@ -1,0 +1,11 @@
+{
+  "name": "mutual exclusivity",
+  "slug": "mutual-exclusivity",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "mutual exclusivity \u2014 a concept in general.",
+  "version": "2.0"
+}

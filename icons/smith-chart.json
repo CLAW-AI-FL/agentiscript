@@ -1,0 +1,11 @@
+{
+  "name": "Smith chart",
+  "slug": "smith-chart",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "Smith chart \u2014 a concept in general.",
+  "version": "2.0"
+}

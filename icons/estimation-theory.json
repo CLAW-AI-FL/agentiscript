@@ -1,0 +1,11 @@
+{
+  "name": "estimation theory",
+  "slug": "estimation-theory",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "stats",
+  "description": "estimation theory \u2014 a concept in general.",
+  "version": "2.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bow echo",
+  "slug": "bow-echo",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "Glossary_of_meteorology",
+  "description": "bow echo \u2014 a concept in general.",
+  "version": "2.0"
+}

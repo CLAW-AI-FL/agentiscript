@@ -1,0 +1,11 @@
+{
+  "name": "unplanned spending",
+  "slug": "unplanned-spending",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "unplanned spending \u2014 a concept in general.",
+  "version": "2.0"
+}

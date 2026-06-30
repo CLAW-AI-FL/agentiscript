@@ -1,0 +1,11 @@
+{
+  "name": "Terminal Doppler Weather Radar",
+  "slug": "terminal-doppler-weather-radar",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "Glossary_of_meteorology",
+  "description": "Terminal Doppler Weather Radar \u2014 a concept in general.",
+  "version": "2.0"
+}

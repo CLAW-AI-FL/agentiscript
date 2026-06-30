@@ -1,0 +1,11 @@
+{
+  "name": "phasor measurement unit",
+  "slug": "phasor-measurement-unit",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "phasor measurement unit \u2014 a concept in general.",
+  "version": "2.0"
+}

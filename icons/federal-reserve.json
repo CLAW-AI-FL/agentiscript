@@ -1,0 +1,11 @@
+{
+  "name": "Federal Reserve",
+  "slug": "federal-reserve",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "Federal Reserve \u2014 a concept in general.",
+  "version": "2.0"
+}

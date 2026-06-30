@@ -1,0 +1,13 @@
+{
+  "name": "producer price index",
+  "slug": "producer-price-index",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "economics",
+  "description": "producer price index \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

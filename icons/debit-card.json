@@ -1,0 +1,11 @@
+{
+  "name": "debit card",
+  "slug": "debit-card",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "debit card \u2014 a concept in general.",
+  "version": "2.0"
+}

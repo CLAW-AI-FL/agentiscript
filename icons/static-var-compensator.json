@@ -1,0 +1,11 @@
+{
+  "name": "static VAR compensator",
+  "slug": "static-var-compensator",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "static VAR compensator \u2014 a concept in general.",
+  "version": "2.0"
+}

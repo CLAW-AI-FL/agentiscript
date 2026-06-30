@@ -1,0 +1,11 @@
+{
+  "name": "central bank",
+  "slug": "central-bank",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "central bank \u2014 a concept in general.",
+  "version": "2.0"
+}

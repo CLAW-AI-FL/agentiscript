@@ -1,0 +1,12 @@
+{
+  "name": "dispersed knowledge",
+  "slug": "dispersed-knowledge",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "economics",
+  "description": "dispersed knowledge \u2014 a concept in graph.",
+  "version": "2.0"
+}

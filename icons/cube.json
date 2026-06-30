@@ -1,0 +1,12 @@
+{
+  "name": "cube",
+  "slug": "cube",
+  "tags": [
+    "mathematics",
+    "geometry"
+  ],
+  "category": "geometry",
+  "source": "Glossary_of_graph_theory",
+  "description": "cube \u2014 a concept in geometry.",
+  "version": "2.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Morse code",
+  "slug": "morse-code",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "Morse code \u2014 a concept in general.",
+  "version": "2.0"
+}

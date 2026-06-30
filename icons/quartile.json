@@ -1,0 +1,12 @@
+{
+  "name": "quartile",
+  "slug": "quartile",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "quartile \u2014 a concept in statistics.",
+  "version": "2.0"
+}

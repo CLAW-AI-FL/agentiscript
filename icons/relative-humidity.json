@@ -1,0 +1,13 @@
+{
+  "name": "relative humidity",
+  "slug": "relative-humidity",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_meteorology",
+  "description": "relative humidity \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

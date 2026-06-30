@@ -1,0 +1,11 @@
+{
+  "name": "multimeter",
+  "slug": "multimeter",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "multimeter \u2014 a concept in general.",
+  "version": "2.0"
+}

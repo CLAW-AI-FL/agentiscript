@@ -1,0 +1,11 @@
+{
+  "name": "tachometer",
+  "slug": "tachometer",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "tachometer \u2014 a concept in general.",
+  "version": "2.0"
+}

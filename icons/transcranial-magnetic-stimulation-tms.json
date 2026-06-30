@@ -1,0 +1,12 @@
+{
+  "name": "Transcranial magnetic stimulation (TMS)",
+  "slug": "transcranial-magnetic-stimulation-tms",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "neuro",
+  "description": "Transcranial magnetic stimulation (TMS) \u2014 a concept in engineering.",
+  "version": "2.0"
+}

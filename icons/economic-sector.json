@@ -1,0 +1,11 @@
+{
+  "name": "economic sector",
+  "slug": "economic-sector",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "economic sector \u2014 a concept in general.",
+  "version": "2.0"
+}

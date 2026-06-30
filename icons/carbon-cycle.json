@@ -1,0 +1,12 @@
+{
+  "name": "carbon cycle",
+  "slug": "carbon-cycle",
+  "tags": [
+    "mathematics",
+    "graph-theory"
+  ],
+  "category": "graph",
+  "source": "Glossary_of_ecology",
+  "description": "carbon cycle \u2014 a concept in graph.",
+  "version": "2.0"
+}

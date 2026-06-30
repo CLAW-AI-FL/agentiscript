@@ -1,0 +1,11 @@
+{
+  "name": "metal rectifier",
+  "slug": "metal-rectifier",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "metal rectifier \u2014 a concept in general.",
+  "version": "2.0"
+}

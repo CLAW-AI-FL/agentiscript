@@ -1,0 +1,11 @@
+{
+  "name": "corporate tax",
+  "slug": "corporate-tax",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "corporate tax \u2014 a concept in general.",
+  "version": "2.0"
+}

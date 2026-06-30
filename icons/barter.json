@@ -1,0 +1,11 @@
+{
+  "name": "barter",
+  "slug": "barter",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "economics",
+  "description": "barter \u2014 a concept in general.",
+  "version": "2.0"
+}

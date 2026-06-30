@@ -1,0 +1,11 @@
+{
+  "name": "record player",
+  "slug": "record-player",
+  "tags": [
+    "general"
+  ],
+  "category": "general",
+  "source": "ee",
+  "description": "record player \u2014 a concept in general.",
+  "version": "2.0"
+}

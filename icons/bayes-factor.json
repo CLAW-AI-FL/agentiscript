@@ -1,0 +1,12 @@
+{
+  "name": "Bayes factor",
+  "slug": "bayes-factor",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "Bayes factor \u2014 a concept in statistics.",
+  "version": "2.0"
+}

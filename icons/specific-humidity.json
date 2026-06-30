@@ -1,0 +1,13 @@
+{
+  "name": "specific humidity",
+  "slug": "specific-humidity",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_meteorology",
+  "description": "specific humidity \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

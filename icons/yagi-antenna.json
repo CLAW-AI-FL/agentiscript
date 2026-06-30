@@ -1,0 +1,12 @@
+{
+  "name": "Yagi antenna",
+  "slug": "yagi-antenna",
+  "tags": [
+    "technology",
+    "engineering"
+  ],
+  "category": "engineering",
+  "source": "ee",
+  "description": "Yagi antenna \u2014 a concept in engineering.",
+  "version": "2.0"
+}

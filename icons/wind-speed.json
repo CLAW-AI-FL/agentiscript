@@ -1,0 +1,13 @@
+{
+  "name": "wind speed",
+  "slug": "wind-speed",
+  "tags": [
+    "science",
+    "meteorology",
+    "weather"
+  ],
+  "category": "meteorology",
+  "source": "Glossary_of_meteorology",
+  "description": "wind speed \u2014 a concept in meteorology.",
+  "version": "2.0"
+}

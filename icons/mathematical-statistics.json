@@ -1,0 +1,12 @@
+{
+  "name": "mathematical statistics",
+  "slug": "mathematical-statistics",
+  "tags": [
+    "mathematics",
+    "statistics"
+  ],
+  "category": "statistics",
+  "source": "stats",
+  "description": "mathematical statistics \u2014 a concept in statistics.",
+  "version": "2.0"
+}
