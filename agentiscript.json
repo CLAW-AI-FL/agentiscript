@@ -1,8 +1,44 @@
 {
   "version": "1.5",
-  "total": 687,
-  "generated": "2026-06-30T15:23:54Z",
+  "total": 1241,
+  "generated": "2026-06-30T15:26:36Z",
   "icons": [
+    {
+      "name": "51-attack",
+      "label": "51 Attack",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "attack"
+      ],
+      "version": "1.3",
+      "svg": "/icons/51-attack.svg"
+    },
+    {
+      "name": "a-search",
+      "label": "A Search",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "search"
+      ],
+      "version": "1.3",
+      "svg": "/icons/a-search.svg"
+    },
+    {
+      "name": "abductive-logic-programming-alp",
+      "label": "Abductive Logic Programming Alp",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "abductive",
+        "logic",
+        "programming",
+        "alp"
+      ],
+      "version": "1.3",
+      "svg": "/icons/abductive-logic-programming-alp.svg"
+    },
     {
       "name": "abductive-reasoning",
       "label": "Abductive Reasoning",
@@ -15,6 +51,52 @@
       ],
       "version": "1.4",
       "svg": "/icons/abductive-reasoning.svg"
+    },
+    {
+      "name": "abi",
+      "label": "Abi",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "abi"
+      ],
+      "version": "1.3",
+      "svg": "/icons/abi.svg"
+    },
+    {
+      "name": "ablation",
+      "label": "Ablation",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "ablation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ablation.svg"
+    },
+    {
+      "name": "abstract-data-type",
+      "label": "Abstract Data Type",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "abstract",
+        "data",
+        "type"
+      ],
+      "version": "1.3",
+      "svg": "/icons/abstract-data-type.svg"
+    },
+    {
+      "name": "abstraction",
+      "label": "Abstraction",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "abstraction"
+      ],
+      "version": "1.3",
+      "svg": "/icons/abstraction.svg"
     },
     {
       "id": "AS-146",
@@ -38,6 +120,18 @@
         "thinking",
         "growth"
       ]
+    },
+    {
+      "name": "accelerating-change",
+      "label": "Accelerating Change",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "accelerating",
+        "change"
+      ],
+      "version": "1.3",
+      "svg": "/icons/accelerating-change.svg"
     },
     {
       "id": "AS-083",
@@ -75,6 +169,17 @@
       "svg": "/icons/account-abstraction.svg"
     },
     {
+      "name": "account",
+      "label": "Account",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "account"
+      ],
+      "version": "1.3",
+      "svg": "/icons/account.svg"
+    },
+    {
       "name": "accuracy-token",
       "label": "Accuracy Token",
       "category": "evaluation",
@@ -86,6 +191,43 @@
       ],
       "version": "1.4",
       "svg": "/icons/accuracy-token.svg"
+    },
+    {
+      "name": "action-language",
+      "label": "Action Language",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "action",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/action-language.svg"
+    },
+    {
+      "name": "action-model-learning",
+      "label": "Action Model Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "action",
+        "model",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/action-model-learning.svg"
+    },
+    {
+      "name": "action-selection",
+      "label": "Action Selection",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "action",
+        "selection"
+      ],
+      "version": "1.3",
+      "svg": "/icons/action-selection.svg"
     },
     {
       "name": "action-space",
@@ -151,6 +293,55 @@
       "svg": "/icons/adam-optimizer.svg"
     },
     {
+      "name": "adaptive-algorithm",
+      "label": "Adaptive Algorithm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "adaptive",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/adaptive-algorithm.svg"
+    },
+    {
+      "name": "adaptive-neuro-fuzzy-inference-system-anfis",
+      "label": "Adaptive Neuro Fuzzy Inference System Anfis",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "adaptive",
+        "neuro",
+        "fuzzy",
+        "inference"
+      ],
+      "version": "1.3",
+      "svg": "/icons/adaptive-neuro-fuzzy-inference-system-anfis.svg"
+    },
+    {
+      "name": "address",
+      "label": "Address",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "address"
+      ],
+      "version": "1.3",
+      "svg": "/icons/address.svg"
+    },
+    {
+      "name": "admissible-heuristic",
+      "label": "Admissible Heuristic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "admissible",
+        "heuristic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/admissible-heuristic.svg"
+    },
+    {
       "name": "adversarial-attack",
       "label": "Adversarial Attack",
       "category": "ai",
@@ -176,6 +367,18 @@
       "svg": "/icons/adversarial-robustness.svg"
     },
     {
+      "name": "affective-computing",
+      "label": "Affective Computing",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "affective",
+        "computing"
+      ],
+      "version": "1.3",
+      "svg": "/icons/affective-computing.svg"
+    },
+    {
       "name": "agent-SLA",
       "label": "Agent SLA",
       "category": "agentic",
@@ -198,6 +401,18 @@
       ],
       "version": "1.3",
       "svg": "/icons/agent-ambiguity.svg"
+    },
+    {
+      "name": "agent-architecture",
+      "label": "Agent Architecture",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "agent",
+        "architecture"
+      ],
+      "version": "1.3",
+      "svg": "/icons/agent-architecture.svg"
     },
     {
       "name": "agent-audit-trail",
@@ -990,6 +1205,17 @@
       "svg": "/icons/agentic-workflows.svg"
     },
     {
+      "name": "ai-accelerator",
+      "label": "Ai Accelerator",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "accelerator"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ai-accelerator.svg"
+    },
+    {
       "name": "ai-agent",
       "label": "AI Agent",
       "category": "agentic",
@@ -1000,6 +1226,40 @@
       ],
       "version": "1.3",
       "svg": "/icons/ai-agent.svg"
+    },
+    {
+      "name": "ai-bubble",
+      "label": "Ai Bubble",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "bubble"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ai-bubble.svg"
+    },
+    {
+      "name": "ai-complete",
+      "label": "Ai Complete",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "complete"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ai-complete.svg"
+    },
+    {
+      "name": "ai-data-center",
+      "label": "Ai Data Center",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "data",
+        "center"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ai-data-center.svg"
     },
     {
       "id": "AS-043",
@@ -1059,6 +1319,17 @@
       ]
     },
     {
+      "name": "algorithm",
+      "label": "Algorithm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/algorithm.svg"
+    },
+    {
       "id": "AS-203",
       "slug": "algorithmic-accountability",
       "concept": "Algorithmic Accountability",
@@ -1077,6 +1348,30 @@
       ]
     },
     {
+      "name": "algorithmic-efficiency",
+      "label": "Algorithmic Efficiency",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "algorithmic",
+        "efficiency"
+      ],
+      "version": "1.3",
+      "svg": "/icons/algorithmic-efficiency.svg"
+    },
+    {
+      "name": "algorithmic-probability",
+      "label": "Algorithmic Probability",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "algorithmic",
+        "probability"
+      ],
+      "version": "1.3",
+      "svg": "/icons/algorithmic-probability.svg"
+    },
+    {
       "id": "AS-015",
       "concept": "Alignment",
       "definition": "Ensuring AI goals and behavior match human values and intentions",
@@ -1085,6 +1380,29 @@
       "tags": [
         "alignment"
       ]
+    },
+    {
+      "name": "alphago",
+      "label": "Alphago",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "alphago"
+      ],
+      "version": "1.3",
+      "svg": "/icons/alphago.svg"
+    },
+    {
+      "name": "ambient-intelligence",
+      "label": "Ambient Intelligence",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "ambient",
+        "intelligence"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ambient-intelligence.svg"
     },
     {
       "id": "AS-042",
@@ -1123,6 +1441,29 @@
       "svg": "/icons/analogical-reasoning.svg"
     },
     {
+      "name": "analysis-of-algorithms",
+      "label": "Analysis Of Algorithms",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "analysis",
+        "algorithms"
+      ],
+      "version": "1.3",
+      "svg": "/icons/analysis-of-algorithms.svg"
+    },
+    {
+      "name": "analytics",
+      "label": "Analytics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "analytics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/analytics.svg"
+    },
+    {
       "name": "anomaly-detection-agent",
       "label": "Anomaly Detection Agent",
       "category": "agents",
@@ -1134,6 +1475,58 @@
       ],
       "version": "1.4",
       "svg": "/icons/anomaly-detection-agent.svg"
+    },
+    {
+      "name": "answer-set-programming-asp",
+      "label": "Answer Set Programming Asp",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "answer",
+        "set",
+        "programming",
+        "asp"
+      ],
+      "version": "1.3",
+      "svg": "/icons/answer-set-programming-asp.svg"
+    },
+    {
+      "name": "ant-colony-optimization-aco",
+      "label": "Ant Colony Optimization Aco",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "ant",
+        "colony",
+        "optimization",
+        "aco"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ant-colony-optimization-aco.svg"
+    },
+    {
+      "name": "anti-sybil",
+      "label": "Anti Sybil",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "anti",
+        "sybil"
+      ],
+      "version": "1.3",
+      "svg": "/icons/anti-sybil.svg"
+    },
+    {
+      "name": "anytime-algorithm",
+      "label": "Anytime Algorithm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "anytime",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/anytime-algorithm.svg"
     },
     {
       "name": "api-agent",
@@ -1220,6 +1613,20 @@
       "svg": "/icons/appchain.svg"
     },
     {
+      "name": "application-programming-interface-api",
+      "label": "Application Programming Interface Api",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "application",
+        "programming",
+        "interface",
+        "api"
+      ],
+      "version": "1.3",
+      "svg": "/icons/application-programming-interface-api.svg"
+    },
+    {
       "name": "approval-workflow",
       "label": "Approval Workflow",
       "category": "workflow",
@@ -1231,6 +1638,171 @@
       ],
       "version": "1.4",
       "svg": "/icons/approval-workflow.svg"
+    },
+    {
+      "name": "approximate-string-matching",
+      "label": "Approximate String Matching",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "approximate",
+        "string",
+        "matching"
+      ],
+      "version": "1.3",
+      "svg": "/icons/approximate-string-matching.svg"
+    },
+    {
+      "name": "approximation-error",
+      "label": "Approximation Error",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "approximation",
+        "error"
+      ],
+      "version": "1.3",
+      "svg": "/icons/approximation-error.svg"
+    },
+    {
+      "name": "apr",
+      "label": "Apr",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "apr"
+      ],
+      "version": "1.3",
+      "svg": "/icons/apr.svg"
+    },
+    {
+      "name": "argumentation-framework",
+      "label": "Argumentation Framework",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "argumentation",
+        "framework"
+      ],
+      "version": "1.3",
+      "svg": "/icons/argumentation-framework.svg"
+    },
+    {
+      "name": "artificial-general-intelligence-agi",
+      "label": "Artificial General Intelligence Agi",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "artificial",
+        "general",
+        "intelligence",
+        "agi"
+      ],
+      "version": "1.3",
+      "svg": "/icons/artificial-general-intelligence-agi.svg"
+    },
+    {
+      "name": "artificial-immune-system-ais",
+      "label": "Artificial Immune System Ais",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "artificial",
+        "immune",
+        "system",
+        "ais"
+      ],
+      "version": "1.3",
+      "svg": "/icons/artificial-immune-system-ais.svg"
+    },
+    {
+      "name": "artificial-intelligence-ai",
+      "label": "Artificial Intelligence Ai",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "artificial",
+        "intelligence"
+      ],
+      "version": "1.3",
+      "svg": "/icons/artificial-intelligence-ai.svg"
+    },
+    {
+      "name": "artificial-intelligence-arms-race",
+      "label": "Artificial Intelligence Arms Race",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "artificial",
+        "intelligence",
+        "arms",
+        "race"
+      ],
+      "version": "1.3",
+      "svg": "/icons/artificial-intelligence-arms-race.svg"
+    },
+    {
+      "name": "artificial-intelligence-markup-language",
+      "label": "Artificial Intelligence Markup Language",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "artificial",
+        "intelligence",
+        "markup",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/artificial-intelligence-markup-language.svg"
+    },
+    {
+      "name": "asic",
+      "label": "Asic",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "asic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/asic.svg"
+    },
+    {
+      "name": "assert",
+      "label": "Assert",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "assert"
+      ],
+      "version": "1.3",
+      "svg": "/icons/assert.svg"
+    },
+    {
+      "name": "association-for-the-advancement-of-artificial-intelligence-aaai",
+      "label": "Association For The Advancement Of Artificial Intelligence Aaai",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "association",
+        "for",
+        "the",
+        "advancement"
+      ],
+      "version": "1.3",
+      "svg": "/icons/association-for-the-advancement-of-artificial-intelligence-aaai.svg"
+    },
+    {
+      "name": "asymptotic-computational-complexity",
+      "label": "Asymptotic Computational Complexity",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "asymptotic",
+        "computational",
+        "complexity"
+      ],
+      "version": "1.3",
+      "svg": "/icons/asymptotic-computational-complexity.svg"
     },
     {
       "name": "atomic-swap",
@@ -1326,6 +1898,18 @@
       ]
     },
     {
+      "name": "attributional-calculus",
+      "label": "Attributional Calculus",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "attributional",
+        "calculus"
+      ],
+      "version": "1.3",
+      "svg": "/icons/attributional-calculus.svg"
+    },
+    {
       "name": "auction-mechanism",
       "label": "Auction Mechanism",
       "category": "economics",
@@ -1339,6 +1923,81 @@
       "svg": "/icons/auction-mechanism.svg"
     },
     {
+      "name": "augmented-reality-ar",
+      "label": "Augmented Reality Ar",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "augmented",
+        "reality"
+      ],
+      "version": "1.3",
+      "svg": "/icons/augmented-reality-ar.svg"
+    },
+    {
+      "name": "autoencoder",
+      "label": "Autoencoder",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "autoencoder"
+      ],
+      "version": "1.3",
+      "svg": "/icons/autoencoder.svg"
+    },
+    {
+      "name": "automata-theory",
+      "label": "Automata Theory",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "automata",
+        "theory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/automata-theory.svg"
+    },
+    {
+      "name": "automated-machine-learning-automl",
+      "label": "Automated Machine Learning Automl",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "automated",
+        "machine",
+        "learning",
+        "automl"
+      ],
+      "version": "1.3",
+      "svg": "/icons/automated-machine-learning-automl.svg"
+    },
+    {
+      "name": "automated-planning-and-scheduling",
+      "label": "Automated Planning And Scheduling",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "automated",
+        "planning",
+        "and",
+        "scheduling"
+      ],
+      "version": "1.3",
+      "svg": "/icons/automated-planning-and-scheduling.svg"
+    },
+    {
+      "name": "automated-reasoning",
+      "label": "Automated Reasoning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "automated",
+        "reasoning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/automated-reasoning.svg"
+    },
+    {
       "name": "automl-agent",
       "label": "AutoML Agent",
       "category": "agents",
@@ -1350,6 +2009,18 @@
       ],
       "version": "1.4",
       "svg": "/icons/automl-agent.svg"
+    },
+    {
+      "name": "autonomic-computing-ac",
+      "label": "Autonomic Computing Ac",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "autonomic",
+        "computing"
+      ],
+      "version": "1.3",
+      "svg": "/icons/autonomic-computing-ac.svg"
     },
     {
       "id": "AS-156",
@@ -1388,6 +2059,18 @@
       "svg": "/icons/autonomous-browser.svg"
     },
     {
+      "name": "autonomous-car",
+      "label": "Autonomous Car",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "autonomous",
+        "car"
+      ],
+      "version": "1.3",
+      "svg": "/icons/autonomous-car.svg"
+    },
+    {
       "name": "autonomous-discovery",
       "label": "Autonomous Discovery",
       "category": "ai",
@@ -1410,6 +2093,18 @@
       ],
       "version": "1.3",
       "svg": "/icons/autonomous-research.svg"
+    },
+    {
+      "name": "autonomous-robot",
+      "label": "Autonomous Robot",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "autonomous",
+        "robot"
+      ],
+      "version": "1.3",
+      "svg": "/icons/autonomous-robot.svg"
     },
     {
       "name": "autonomous-scientific",
@@ -1449,6 +2144,34 @@
       "svg": "/icons/background-agent.svg"
     },
     {
+      "name": "backpropagation-through-structure-bpts",
+      "label": "Backpropagation Through Structure Bpts",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "backpropagation",
+        "through",
+        "structure",
+        "bpts"
+      ],
+      "version": "1.3",
+      "svg": "/icons/backpropagation-through-structure-bpts.svg"
+    },
+    {
+      "name": "backpropagation-through-time-bptt",
+      "label": "Backpropagation Through Time Bptt",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "backpropagation",
+        "through",
+        "time",
+        "bptt"
+      ],
+      "version": "1.3",
+      "svg": "/icons/backpropagation-through-time-bptt.svg"
+    },
+    {
       "name": "backpropagation",
       "label": "Backpropagation",
       "category": "ai",
@@ -1459,6 +2182,57 @@
       ],
       "version": "1.3",
       "svg": "/icons/backpropagation.svg"
+    },
+    {
+      "name": "backward-chaining",
+      "label": "Backward Chaining",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "backward",
+        "chaining"
+      ],
+      "version": "1.3",
+      "svg": "/icons/backward-chaining.svg"
+    },
+    {
+      "name": "bag-of-words-model-in-computer-vision",
+      "label": "Bag Of Words Model In Computer Vision",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "bag",
+        "words",
+        "model",
+        "computer"
+      ],
+      "version": "1.3",
+      "svg": "/icons/bag-of-words-model-in-computer-vision.svg"
+    },
+    {
+      "name": "bag-of-words-model",
+      "label": "Bag Of Words Model",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "bag",
+        "words",
+        "model"
+      ],
+      "version": "1.3",
+      "svg": "/icons/bag-of-words-model.svg"
+    },
+    {
+      "name": "base-fee",
+      "label": "Base Fee",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "base",
+        "fee"
+      ],
+      "version": "1.3",
+      "svg": "/icons/base-fee.svg"
     },
     {
       "name": "based-rollup",
@@ -1511,6 +2285,66 @@
       "svg": "/icons/bayesian-optimization.svg"
     },
     {
+      "name": "bayesian-programming",
+      "label": "Bayesian Programming",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "bayesian",
+        "programming"
+      ],
+      "version": "1.3",
+      "svg": "/icons/bayesian-programming.svg"
+    },
+    {
+      "name": "beacon-chain",
+      "label": "Beacon Chain",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "beacon",
+        "chain"
+      ],
+      "version": "1.3",
+      "svg": "/icons/beacon-chain.svg"
+    },
+    {
+      "name": "bees-algorithm",
+      "label": "Bees Algorithm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "bees",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/bees-algorithm.svg"
+    },
+    {
+      "name": "behavior-informatics-bi",
+      "label": "Behavior Informatics Bi",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "behavior",
+        "informatics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/behavior-informatics-bi.svg"
+    },
+    {
+      "name": "behavior-tree-bt",
+      "label": "Behavior Tree Bt",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "behavior",
+        "tree"
+      ],
+      "version": "1.3",
+      "svg": "/icons/behavior-tree-bt.svg"
+    },
+    {
       "name": "belief-state",
       "label": "Belief State",
       "category": "agentic",
@@ -1521,6 +2355,20 @@
       ],
       "version": "1.3",
       "svg": "/icons/belief-state.svg"
+    },
+    {
+      "name": "beliefdesireintention-software-model-bdi",
+      "label": "Beliefdesireintention Software Model Bdi",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "beliefdesireintention",
+        "software",
+        "model",
+        "bdi"
+      ],
+      "version": "1.3",
+      "svg": "/icons/beliefdesireintention-software-model-bdi.svg"
     },
     {
       "name": "benchmark-agent",
@@ -1561,6 +2409,54 @@
       "svg": "/icons/bias-detection-agent.svg"
     },
     {
+      "name": "biasvariance-tradeoff",
+      "label": "Biasvariance Tradeoff",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "biasvariance",
+        "tradeoff"
+      ],
+      "version": "1.3",
+      "svg": "/icons/biasvariance-tradeoff.svg"
+    },
+    {
+      "name": "big-data",
+      "label": "Big Data",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "big",
+        "data"
+      ],
+      "version": "1.3",
+      "svg": "/icons/big-data.svg"
+    },
+    {
+      "name": "big-endian",
+      "label": "Big Endian",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "big",
+        "endian"
+      ],
+      "version": "1.3",
+      "svg": "/icons/big-endian.svg"
+    },
+    {
+      "name": "big-o-notation",
+      "label": "Big O Notation",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "big",
+        "notation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/big-o-notation.svg"
+    },
+    {
       "id": "AS-100",
       "slug": "binary-outcome",
       "concept": "Binary Outcome",
@@ -1582,6 +2478,30 @@
         "yes/no",
         "boolean"
       ]
+    },
+    {
+      "name": "binary-tree",
+      "label": "Binary Tree",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "binary",
+        "tree"
+      ],
+      "version": "1.3",
+      "svg": "/icons/binary-tree.svg"
+    },
+    {
+      "name": "blackboard-system",
+      "label": "Blackboard System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "blackboard",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/blackboard-system.svg"
     },
     {
       "name": "bleu-score",
@@ -1621,6 +2541,30 @@
       "svg": "/icons/blob-transaction.svg"
     },
     {
+      "name": "block-explorer",
+      "label": "Block Explorer",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "block",
+        "explorer"
+      ],
+      "version": "1.3",
+      "svg": "/icons/block-explorer.svg"
+    },
+    {
+      "name": "block-header",
+      "label": "Block Header",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "block",
+        "header"
+      ],
+      "version": "1.3",
+      "svg": "/icons/block-header.svg"
+    },
+    {
       "id": "AS-072",
       "slug": "block-latency-feed",
       "concept": "Block-Latency Feed",
@@ -1642,6 +2586,78 @@
         "oracle",
         "real-time"
       ]
+    },
+    {
+      "name": "block-propagation",
+      "label": "Block Propagation",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "block",
+        "propagation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/block-propagation.svg"
+    },
+    {
+      "name": "block-proposer",
+      "label": "Block Proposer",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "block",
+        "proposer"
+      ],
+      "version": "1.3",
+      "svg": "/icons/block-proposer.svg"
+    },
+    {
+      "name": "block-reward",
+      "label": "Block Reward",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "block",
+        "reward"
+      ],
+      "version": "1.3",
+      "svg": "/icons/block-reward.svg"
+    },
+    {
+      "name": "block-status",
+      "label": "Block Status",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "block",
+        "status"
+      ],
+      "version": "1.3",
+      "svg": "/icons/block-status.svg"
+    },
+    {
+      "name": "block-time",
+      "label": "Block Time",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "block",
+        "time"
+      ],
+      "version": "1.3",
+      "svg": "/icons/block-time.svg"
+    },
+    {
+      "name": "block-validation",
+      "label": "Block Validation",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "block",
+        "validation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/block-validation.svg"
     },
     {
       "id": "AS-056",
@@ -1679,6 +2695,16 @@
       "svg": "/icons/blockchain-bridge.svg"
     },
     {
+      "name": "blockchain",
+      "label": "Blockchain",
+      "category": "blockchain",
+      "tags": [
+        "blockchain"
+      ],
+      "version": "1.3",
+      "svg": "/icons/blockchain.svg"
+    },
+    {
       "name": "blue-green-deployment",
       "label": "Blue-Green Deployment",
       "concept": "Blue-Green Deployment",
@@ -1700,6 +2726,89 @@
       ],
       "version": "1.5",
       "svg": "/icons/blue-green-deployment.svg"
+    },
+    {
+      "name": "boltzmann-machine",
+      "label": "Boltzmann Machine",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "boltzmann",
+        "machine"
+      ],
+      "version": "1.3",
+      "svg": "/icons/boltzmann-machine.svg"
+    },
+    {
+      "name": "boolean-satisfiability-problem",
+      "label": "Boolean Satisfiability Problem",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "boolean",
+        "satisfiability",
+        "problem"
+      ],
+      "version": "1.3",
+      "svg": "/icons/boolean-satisfiability-problem.svg"
+    },
+    {
+      "name": "boosting",
+      "label": "Boosting",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "boosting"
+      ],
+      "version": "1.3",
+      "svg": "/icons/boosting.svg"
+    },
+    {
+      "name": "bootnode",
+      "label": "Bootnode",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "bootnode"
+      ],
+      "version": "1.3",
+      "svg": "/icons/bootnode.svg"
+    },
+    {
+      "name": "bootstrap-aggregating",
+      "label": "Bootstrap Aggregating",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "bootstrap",
+        "aggregating"
+      ],
+      "version": "1.3",
+      "svg": "/icons/bootstrap-aggregating.svg"
+    },
+    {
+      "name": "brain-technology",
+      "label": "Brain Technology",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "brain",
+        "technology"
+      ],
+      "version": "1.3",
+      "svg": "/icons/brain-technology.svg"
+    },
+    {
+      "name": "branching-factor",
+      "label": "Branching Factor",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "branching",
+        "factor"
+      ],
+      "version": "1.3",
+      "svg": "/icons/branching-factor.svg"
     },
     {
       "id": "AS-132",
@@ -1761,6 +2870,17 @@
       "svg": "/icons/bridge-retrieval.svg"
     },
     {
+      "name": "bridge",
+      "label": "Bridge",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "bridge"
+      ],
+      "version": "1.3",
+      "svg": "/icons/bridge.svg"
+    },
+    {
       "name": "browser-use",
       "label": "Browser Use",
       "category": "agents",
@@ -1772,6 +2892,19 @@
       ],
       "version": "1.4",
       "svg": "/icons/browser-use.svg"
+    },
+    {
+      "name": "brute-force-search",
+      "label": "Brute Force Search",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "brute",
+        "force",
+        "search"
+      ],
+      "version": "1.3",
+      "svg": "/icons/brute-force-search.svg"
     },
     {
       "name": "bug-detection-agent",
@@ -1844,6 +2977,29 @@
       ],
       "version": "1.3",
       "svg": "/icons/byte-pair-encoding.svg"
+    },
+    {
+      "name": "bytecode",
+      "label": "Bytecode",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "bytecode"
+      ],
+      "version": "1.3",
+      "svg": "/icons/bytecode.svg"
+    },
+    {
+      "name": "byzantium-fork",
+      "label": "Byzantium Fork",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "byzantium",
+        "fork"
+      ],
+      "version": "1.3",
+      "svg": "/icons/byzantium-fork.svg"
     },
     {
       "name": "caching-agent",
@@ -1926,6 +3082,46 @@
         "inequality",
         "economics"
       ]
+    },
+    {
+      "name": "capsule-neural-network-capsnet",
+      "label": "Capsule Neural Network Capsnet",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "capsule",
+        "neural",
+        "network",
+        "capsnet"
+      ],
+      "version": "1.3",
+      "svg": "/icons/capsule-neural-network-capsnet.svg"
+    },
+    {
+      "name": "case-based-reasoning-cbr",
+      "label": "Case Based Reasoning Cbr",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "case",
+        "based",
+        "reasoning",
+        "cbr"
+      ],
+      "version": "1.3",
+      "svg": "/icons/case-based-reasoning-cbr.svg"
+    },
+    {
+      "name": "casper-ffg",
+      "label": "Casper Ffg",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "casper",
+        "ffg"
+      ],
+      "version": "1.3",
+      "svg": "/icons/casper-ffg.svg"
     },
     {
       "name": "catastrophic-forgetting",
@@ -2101,6 +3297,17 @@
       "svg": "/icons/chaos-engineering.svg"
     },
     {
+      "name": "chatbot",
+      "label": "Chatbot",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "chatbot"
+      ],
+      "version": "1.3",
+      "svg": "/icons/chatbot.svg"
+    },
+    {
       "name": "checkpoint-recovery",
       "label": "Checkpoint Recovery",
       "category": "resilience",
@@ -2112,6 +3319,17 @@
       ],
       "version": "1.4",
       "svg": "/icons/checkpoint-recovery.svg"
+    },
+    {
+      "name": "checkpoint",
+      "label": "Checkpoint",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "checkpoint"
+      ],
+      "version": "1.3",
+      "svg": "/icons/checkpoint.svg"
     },
     {
       "id": "AS-122",
@@ -2197,6 +3415,41 @@
       "svg": "/icons/cliff-vesting.svg"
     },
     {
+      "name": "cloud-robotics",
+      "label": "Cloud Robotics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "cloud",
+        "robotics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/cloud-robotics.svg"
+    },
+    {
+      "name": "cluster-analysis",
+      "label": "Cluster Analysis",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "cluster",
+        "analysis"
+      ],
+      "version": "1.3",
+      "svg": "/icons/cluster-analysis.svg"
+    },
+    {
+      "name": "cobweb",
+      "label": "Cobweb",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "cobweb"
+      ],
+      "version": "1.3",
+      "svg": "/icons/cobweb.svg"
+    },
+    {
       "name": "code-generation-agent",
       "label": "Code Generation Agent",
       "category": "agents",
@@ -2236,6 +3489,30 @@
       "svg": "/icons/code-review-agent.svg"
     },
     {
+      "name": "cognitive-architecture",
+      "label": "Cognitive Architecture",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "cognitive",
+        "architecture"
+      ],
+      "version": "1.3",
+      "svg": "/icons/cognitive-architecture.svg"
+    },
+    {
+      "name": "cognitive-computing",
+      "label": "Cognitive Computing",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "cognitive",
+        "computing"
+      ],
+      "version": "1.3",
+      "svg": "/icons/cognitive-computing.svg"
+    },
+    {
       "id": "AS-140",
       "slug": "cognitive-dissonance",
       "concept": "Cognitive Dissonance",
@@ -2272,6 +3549,18 @@
       "svg": "/icons/cognitive-load.svg"
     },
     {
+      "name": "cognitive-science",
+      "label": "Cognitive Science",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "cognitive",
+        "science"
+      ],
+      "version": "1.3",
+      "svg": "/icons/cognitive-science.svg"
+    },
+    {
       "name": "collective-intelligence",
       "label": "Collective Intelligence",
       "category": "multi-agent",
@@ -2283,6 +3572,53 @@
       ],
       "version": "1.4",
       "svg": "/icons/collective-intelligence.svg"
+    },
+    {
+      "name": "combinatorial-optimization",
+      "label": "Combinatorial Optimization",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "combinatorial",
+        "optimization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/combinatorial-optimization.svg"
+    },
+    {
+      "name": "committee-machine",
+      "label": "Committee Machine",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "committee",
+        "machine"
+      ],
+      "version": "1.3",
+      "svg": "/icons/committee-machine.svg"
+    },
+    {
+      "name": "committee",
+      "label": "Committee",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "committee"
+      ],
+      "version": "1.3",
+      "svg": "/icons/committee.svg"
+    },
+    {
+      "name": "commonsense-knowledge",
+      "label": "Commonsense Knowledge",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "commonsense",
+        "knowledge"
+      ],
+      "version": "1.3",
+      "svg": "/icons/commonsense-knowledge.svg"
     },
     {
       "name": "commonsense-reasoning",
@@ -2311,6 +3647,17 @@
       "svg": "/icons/comparing-retrieval.svg"
     },
     {
+      "name": "compiling",
+      "label": "Compiling",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "compiling"
+      ],
+      "version": "1.3",
+      "svg": "/icons/compiling.svg"
+    },
+    {
       "id": "AS-091",
       "slug": "compliance-first",
       "concept": "Compliance-First",
@@ -2334,6 +3681,177 @@
       ]
     },
     {
+      "name": "computational-chemistry",
+      "label": "Computational Chemistry",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "chemistry"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-chemistry.svg"
+    },
+    {
+      "name": "computational-complexity-theory",
+      "label": "Computational Complexity Theory",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "complexity",
+        "theory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-complexity-theory.svg"
+    },
+    {
+      "name": "computational-creativity",
+      "label": "Computational Creativity",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "creativity"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-creativity.svg"
+    },
+    {
+      "name": "computational-cybernetics",
+      "label": "Computational Cybernetics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "cybernetics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-cybernetics.svg"
+    },
+    {
+      "name": "computational-humor",
+      "label": "Computational Humor",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "humor"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-humor.svg"
+    },
+    {
+      "name": "computational-infeasibility",
+      "label": "Computational Infeasibility",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "computational",
+        "infeasibility"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-infeasibility.svg"
+    },
+    {
+      "name": "computational-intelligence-ci",
+      "label": "Computational Intelligence Ci",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "intelligence"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-intelligence-ci.svg"
+    },
+    {
+      "name": "computational-learning-theory",
+      "label": "Computational Learning Theory",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "learning",
+        "theory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-learning-theory.svg"
+    },
+    {
+      "name": "computational-linguistics",
+      "label": "Computational Linguistics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "linguistics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-linguistics.svg"
+    },
+    {
+      "name": "computational-mathematics",
+      "label": "Computational Mathematics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "mathematics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-mathematics.svg"
+    },
+    {
+      "name": "computational-neuroscience",
+      "label": "Computational Neuroscience",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "neuroscience"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-neuroscience.svg"
+    },
+    {
+      "name": "computational-number-theory",
+      "label": "Computational Number Theory",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "number",
+        "theory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-number-theory.svg"
+    },
+    {
+      "name": "computational-problem",
+      "label": "Computational Problem",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "problem"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-problem.svg"
+    },
+    {
+      "name": "computational-statistics",
+      "label": "Computational Statistics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computational",
+        "statistics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computational-statistics.svg"
+    },
+    {
       "name": "compute-marketplace",
       "label": "Compute Marketplace",
       "category": "infrastructure",
@@ -2347,6 +3865,44 @@
       "svg": "/icons/compute-marketplace.svg"
     },
     {
+      "name": "computer-audition-ca",
+      "label": "Computer Audition Ca",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computer",
+        "audition"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computer-audition-ca.svg"
+    },
+    {
+      "name": "computer-automated-design-cautod",
+      "label": "Computer Automated Design Cautod",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computer",
+        "automated",
+        "design",
+        "cautod"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computer-automated-design-cautod.svg"
+    },
+    {
+      "name": "computer-science",
+      "label": "Computer Science",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computer",
+        "science"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computer-science.svg"
+    },
+    {
       "name": "computer-use-agent",
       "label": "Computer Use Agent",
       "category": "agents",
@@ -2358,6 +3914,30 @@
       ],
       "version": "1.4",
       "svg": "/icons/computer-use-agent.svg"
+    },
+    {
+      "name": "computer-vision",
+      "label": "Computer Vision",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "computer",
+        "vision"
+      ],
+      "version": "1.3",
+      "svg": "/icons/computer-vision.svg"
+    },
+    {
+      "name": "concept-drift",
+      "label": "Concept Drift",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "concept",
+        "drift"
+      ],
+      "version": "1.3",
+      "svg": "/icons/concept-drift.svg"
     },
     {
       "name": "conditional-payment",
@@ -2396,6 +3976,29 @@
       ]
     },
     {
+      "name": "connectionism",
+      "label": "Connectionism",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "connectionism"
+      ],
+      "version": "1.3",
+      "svg": "/icons/connectionism.svg"
+    },
+    {
+      "name": "consensus-client",
+      "label": "Consensus Client",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "consensus",
+        "client"
+      ],
+      "version": "1.3",
+      "svg": "/icons/consensus-client.svg"
+    },
+    {
       "name": "consensus-layer",
       "label": "Consensus Layer",
       "category": "blockchain",
@@ -2417,6 +4020,53 @@
         "consensus",
         "mechanism"
       ]
+    },
+    {
+      "name": "consensus-rules",
+      "label": "Consensus Rules",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "consensus",
+        "rules"
+      ],
+      "version": "1.3",
+      "svg": "/icons/consensus-rules.svg"
+    },
+    {
+      "name": "consensus",
+      "label": "Consensus",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "consensus"
+      ],
+      "version": "1.3",
+      "svg": "/icons/consensus.svg"
+    },
+    {
+      "name": "consistent-heuristic",
+      "label": "Consistent Heuristic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "consistent",
+        "heuristic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/consistent-heuristic.svg"
+    },
+    {
+      "name": "constantinople-fork",
+      "label": "Constantinople Fork",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "constantinople",
+        "fork"
+      ],
+      "version": "1.3",
+      "svg": "/icons/constantinople-fork.svg"
     },
     {
       "name": "constitutional-agent",
@@ -2478,6 +4128,45 @@
       "svg": "/icons/constitutional-prompting.svg"
     },
     {
+      "name": "constrained-conditional-model-ccm",
+      "label": "Constrained Conditional Model Ccm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "constrained",
+        "conditional",
+        "model",
+        "ccm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/constrained-conditional-model-ccm.svg"
+    },
+    {
+      "name": "constraint-logic-programming",
+      "label": "Constraint Logic Programming",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "constraint",
+        "logic",
+        "programming"
+      ],
+      "version": "1.3",
+      "svg": "/icons/constraint-logic-programming.svg"
+    },
+    {
+      "name": "constraint-programming",
+      "label": "Constraint Programming",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "constraint",
+        "programming"
+      ],
+      "version": "1.3",
+      "svg": "/icons/constraint-programming.svg"
+    },
+    {
       "name": "constraint-satisfaction",
       "label": "Constraint Satisfaction",
       "category": "reasoning",
@@ -2489,6 +4178,18 @@
       ],
       "version": "1.4",
       "svg": "/icons/constraint-satisfaction.svg"
+    },
+    {
+      "name": "constructed-language",
+      "label": "Constructed Language",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "constructed",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/constructed-language.svg"
     },
     {
       "name": "context-aware-agent",
@@ -2565,6 +4266,43 @@
       "svg": "/icons/continual-rl.svg"
     },
     {
+      "name": "contract-account",
+      "label": "Contract Account",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "contract",
+        "account"
+      ],
+      "version": "1.3",
+      "svg": "/icons/contract-account.svg"
+    },
+    {
+      "name": "contract-creation-transaction",
+      "label": "Contract Creation Transaction",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "contract",
+        "creation",
+        "transaction"
+      ],
+      "version": "1.3",
+      "svg": "/icons/contract-creation-transaction.svg"
+    },
+    {
+      "name": "control-theory",
+      "label": "Control Theory",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "control",
+        "theory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/control-theory.svg"
+    },
+    {
       "name": "conviction-voting",
       "label": "Conviction Voting",
       "category": "blockchain",
@@ -2575,6 +4313,19 @@
       ],
       "version": "1.3",
       "svg": "/icons/conviction-voting.svg"
+    },
+    {
+      "name": "convolutional-neural-network",
+      "label": "Convolutional Neural Network",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "convolutional",
+        "neural",
+        "network"
+      ],
+      "version": "1.3",
+      "svg": "/icons/convolutional-neural-network.svg"
     },
     {
       "name": "coordinating-autonomous",
@@ -2825,6 +4576,17 @@
       "svg": "/icons/cross-venue-arbitrage.svg"
     },
     {
+      "name": "crossover",
+      "label": "Crossover",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "crossover"
+      ],
+      "version": "1.3",
+      "svg": "/icons/crossover.svg"
+    },
+    {
       "id": "AS-170",
       "concept": "Crypto-Agility",
       "definition": "The ability to switch cryptographic algorithms and protocols without redesigning the entire system, future-proofing against quantum attacks",
@@ -2834,6 +4596,17 @@
         "crypto",
         "agility"
       ]
+    },
+    {
+      "name": "cryptoeconomics",
+      "label": "Cryptoeconomics",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "cryptoeconomics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/cryptoeconomics.svg"
     },
     {
       "id": "AS-198",
@@ -2852,6 +4625,17 @@
         "PQC",
         "agility"
       ]
+    },
+    {
+      "name": "cryptography",
+      "label": "Cryptography",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "cryptography"
+      ],
+      "version": "1.3",
+      "svg": "/icons/cryptography.svg"
     },
     {
       "name": "curiosity-driven",
@@ -2885,6 +4669,17 @@
       ]
     },
     {
+      "name": "dag",
+      "label": "Dag",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "dag"
+      ],
+      "version": "1.3",
+      "svg": "/icons/dag.svg"
+    },
+    {
       "name": "danksharding",
       "label": "Danksharding",
       "category": "blockchain",
@@ -2905,6 +4700,17 @@
       "tags": [
         "dao"
       ]
+    },
+    {
+      "name": "dapp",
+      "label": "Dapp",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "dapp"
+      ],
+      "version": "1.3",
+      "svg": "/icons/dapp.svg"
     },
     {
       "name": "dark-pool-trading",
@@ -2929,6 +4735,41 @@
       ],
       "version": "1.3",
       "svg": "/icons/dark-pool.svg"
+    },
+    {
+      "name": "darkforest",
+      "label": "Darkforest",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "darkforest"
+      ],
+      "version": "1.3",
+      "svg": "/icons/darkforest.svg"
+    },
+    {
+      "name": "dartmouth-workshop",
+      "label": "Dartmouth Workshop",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "dartmouth",
+        "workshop"
+      ],
+      "version": "1.3",
+      "svg": "/icons/dartmouth-workshop.svg"
+    },
+    {
+      "name": "data-augmentation",
+      "label": "Data Augmentation",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "data",
+        "augmentation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/data-augmentation.svg"
     },
     {
       "name": "data-availability-layer",
@@ -2965,6 +4806,30 @@
       ]
     },
     {
+      "name": "data-fusion",
+      "label": "Data Fusion",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "data",
+        "fusion"
+      ],
+      "version": "1.3",
+      "svg": "/icons/data-fusion.svg"
+    },
+    {
+      "name": "data-integration",
+      "label": "Data Integration",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "data",
+        "integration"
+      ],
+      "version": "1.3",
+      "svg": "/icons/data-integration.svg"
+    },
+    {
       "name": "data-marketplace",
       "label": "Data Marketplace",
       "category": "business",
@@ -2976,6 +4841,18 @@
       ],
       "version": "1.4",
       "svg": "/icons/data-marketplace.svg"
+    },
+    {
+      "name": "data-mining",
+      "label": "Data Mining",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "data",
+        "mining"
+      ],
+      "version": "1.3",
+      "svg": "/icons/data-mining.svg"
     },
     {
       "name": "data-pipeline-agent",
@@ -3014,6 +4891,54 @@
       ]
     },
     {
+      "name": "data-science",
+      "label": "Data Science",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "data",
+        "science"
+      ],
+      "version": "1.3",
+      "svg": "/icons/data-science.svg"
+    },
+    {
+      "name": "data-set",
+      "label": "Data Set",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "data",
+        "set"
+      ],
+      "version": "1.3",
+      "svg": "/icons/data-set.svg"
+    },
+    {
+      "name": "data-warehouse-dw-or-dwh",
+      "label": "Data Warehouse Dw Or Dwh",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "data",
+        "warehouse",
+        "dwh"
+      ],
+      "version": "1.3",
+      "svg": "/icons/data-warehouse-dw-or-dwh.svg"
+    },
+    {
+      "name": "datalog",
+      "label": "Datalog",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "datalog"
+      ],
+      "version": "1.3",
+      "svg": "/icons/datalog.svg"
+    },
+    {
       "id": "AS-131",
       "slug": "deadweight-loss",
       "concept": "Deadweight Loss",
@@ -3048,6 +4973,17 @@
       ],
       "version": "1.4",
       "svg": "/icons/debate-agent.svg"
+    },
+    {
+      "name": "decentralization",
+      "label": "Decentralization",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "decentralization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/decentralization.svg"
     },
     {
       "name": "decentralized-execution",
@@ -3085,6 +5021,69 @@
       ],
       "version": "1.3",
       "svg": "/icons/decentralized-sequencer.svg"
+    },
+    {
+      "name": "decision-boundary",
+      "label": "Decision Boundary",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "decision",
+        "boundary"
+      ],
+      "version": "1.3",
+      "svg": "/icons/decision-boundary.svg"
+    },
+    {
+      "name": "decision-support-system-dss",
+      "label": "Decision Support System Dss",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "decision",
+        "support",
+        "system",
+        "dss"
+      ],
+      "version": "1.3",
+      "svg": "/icons/decision-support-system-dss.svg"
+    },
+    {
+      "name": "decision-theory",
+      "label": "Decision Theory",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "decision",
+        "theory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/decision-theory.svg"
+    },
+    {
+      "name": "decision-tree-learning",
+      "label": "Decision Tree Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "decision",
+        "tree",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/decision-tree-learning.svg"
+    },
+    {
+      "name": "declarative-programming",
+      "label": "Declarative Programming",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "declarative",
+        "programming"
+      ],
+      "version": "1.3",
+      "svg": "/icons/declarative-programming.svg"
     },
     {
       "id": "AS-106",
@@ -3133,6 +5132,66 @@
       ]
     },
     {
+      "name": "deductive-classifier",
+      "label": "Deductive Classifier",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "deductive",
+        "classifier"
+      ],
+      "version": "1.3",
+      "svg": "/icons/deductive-classifier.svg"
+    },
+    {
+      "name": "deep-blue",
+      "label": "Deep Blue",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "deep",
+        "blue"
+      ],
+      "version": "1.3",
+      "svg": "/icons/deep-blue.svg"
+    },
+    {
+      "name": "deep-learning",
+      "label": "Deep Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "deep",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/deep-learning.svg"
+    },
+    {
+      "name": "deepmind-technologies",
+      "label": "Deepmind Technologies",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "deepmind",
+        "technologies"
+      ],
+      "version": "1.3",
+      "svg": "/icons/deepmind-technologies.svg"
+    },
+    {
+      "name": "default-logic",
+      "label": "Default Logic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "default",
+        "logic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/default-logic.svg"
+    },
+    {
       "id": "AS-031",
       "concept": "DeFi",
       "definition": "Decentralized Finance: financial services built on blockchain without traditional intermediaries",
@@ -3167,6 +5226,20 @@
       "svg": "/icons/dense-retrieval.svg"
     },
     {
+      "name": "density-based-spatial-clustering-of-applications-with-noise-dbscan",
+      "label": "Density Based Spatial Clustering Of Applications With Noise Dbscan",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "density",
+        "based",
+        "spatial",
+        "clustering"
+      ],
+      "version": "1.3",
+      "svg": "/icons/density-based-spatial-clustering-of-applications-with-noise-dbscan.svg"
+    },
+    {
       "name": "dependency-resolution",
       "label": "Dependency Resolution",
       "category": "infrastructure",
@@ -3193,6 +5266,76 @@
       "svg": "/icons/deployment-agent.svg"
     },
     {
+      "name": "deposit-contract",
+      "label": "Deposit Contract",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "deposit",
+        "contract"
+      ],
+      "version": "1.3",
+      "svg": "/icons/deposit-contract.svg"
+    },
+    {
+      "name": "desci",
+      "label": "Desci",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "desci"
+      ],
+      "version": "1.3",
+      "svg": "/icons/desci.svg"
+    },
+    {
+      "name": "description-logic-dl",
+      "label": "Description Logic Dl",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "description",
+        "logic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/description-logic-dl.svg"
+    },
+    {
+      "name": "developmental-robotics-devrob",
+      "label": "Developmental Robotics Devrob",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "developmental",
+        "robotics",
+        "devrob"
+      ],
+      "version": "1.3",
+      "svg": "/icons/developmental-robotics-devrob.svg"
+    },
+    {
+      "name": "dex",
+      "label": "Dex",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "dex"
+      ],
+      "version": "1.3",
+      "svg": "/icons/dex.svg"
+    },
+    {
+      "name": "diagnosis",
+      "label": "Diagnosis",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "diagnosis"
+      ],
+      "version": "1.3",
+      "svg": "/icons/diagnosis.svg"
+    },
+    {
       "name": "dialog-management",
       "label": "Dialog Management",
       "category": "agents",
@@ -3204,6 +5347,18 @@
       ],
       "version": "1.4",
       "svg": "/icons/dialog-management.svg"
+    },
+    {
+      "name": "dialogue-system",
+      "label": "Dialogue System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "dialogue",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/dialogue-system.svg"
     },
     {
       "id": "AS-061",
@@ -3240,6 +5395,29 @@
       ],
       "version": "1.4",
       "svg": "/icons/differential-privacy.svg"
+    },
+    {
+      "name": "difficulty-bomb",
+      "label": "Difficulty Bomb",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "difficulty",
+        "bomb"
+      ],
+      "version": "1.3",
+      "svg": "/icons/difficulty-bomb.svg"
+    },
+    {
+      "name": "difficulty",
+      "label": "Difficulty",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "difficulty"
+      ],
+      "version": "1.3",
+      "svg": "/icons/difficulty.svg"
     },
     {
       "name": "diffusion-agent",
@@ -3285,6 +5463,79 @@
       ]
     },
     {
+      "name": "digital-signatures",
+      "label": "Digital Signatures",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "digital",
+        "signatures"
+      ],
+      "version": "1.3",
+      "svg": "/icons/digital-signatures.svg"
+    },
+    {
+      "name": "dijkstras-algorithm",
+      "label": "Dijkstras Algorithm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "dijkstras",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/dijkstras-algorithm.svg"
+    },
+    {
+      "name": "dimensionality-reduction",
+      "label": "Dimensionality Reduction",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "dimensionality",
+        "reduction"
+      ],
+      "version": "1.3",
+      "svg": "/icons/dimensionality-reduction.svg"
+    },
+    {
+      "name": "discovery",
+      "label": "Discovery",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "discovery"
+      ],
+      "version": "1.3",
+      "svg": "/icons/discovery.svg"
+    },
+    {
+      "name": "discrete-system",
+      "label": "Discrete System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "discrete",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/discrete-system.svg"
+    },
+    {
+      "name": "distributed-artificial-intelligence-dai",
+      "label": "Distributed Artificial Intelligence Dai",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "distributed",
+        "artificial",
+        "intelligence",
+        "dai"
+      ],
+      "version": "1.3",
+      "svg": "/icons/distributed-artificial-intelligence-dai.svg"
+    },
+    {
       "name": "distributed-cognition",
       "label": "Distributed Cognition",
       "category": "cognitive-science",
@@ -3296,6 +5547,19 @@
       ],
       "version": "1.4",
       "svg": "/icons/distributed-cognition.svg"
+    },
+    {
+      "name": "distributed-hash-table",
+      "label": "Distributed Hash Table",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "distributed",
+        "hash",
+        "table"
+      ],
+      "version": "1.3",
+      "svg": "/icons/distributed-hash-table.svg"
     },
     {
       "name": "distributed-tracing",
@@ -3347,6 +5611,17 @@
       "svg": "/icons/document-chunking.svg"
     },
     {
+      "name": "doge-d",
+      "label": "Doge D",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "doge"
+      ],
+      "version": "1.3",
+      "svg": "/icons/doge-d.svg"
+    },
+    {
       "name": "domain-adaptation",
       "label": "Domain Adaptation",
       "category": "ai",
@@ -3357,6 +5632,30 @@
       ],
       "version": "1.3",
       "svg": "/icons/domain-adaptation.svg"
+    },
+    {
+      "name": "double-descent",
+      "label": "Double Descent",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "double",
+        "descent"
+      ],
+      "version": "1.3",
+      "svg": "/icons/double-descent.svg"
+    },
+    {
+      "name": "double-spend",
+      "label": "Double Spend",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "double",
+        "spend"
+      ],
+      "version": "1.3",
+      "svg": "/icons/double-spend.svg"
     },
     {
       "name": "dropout",
@@ -3394,6 +5693,81 @@
       ]
     },
     {
+      "name": "dynamic-epistemic-logic-del",
+      "label": "Dynamic Epistemic Logic Del",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "dynamic",
+        "epistemic",
+        "logic",
+        "del"
+      ],
+      "version": "1.3",
+      "svg": "/icons/dynamic-epistemic-logic-del.svg"
+    },
+    {
+      "name": "eager-learning",
+      "label": "Eager Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "eager",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/eager-learning.svg"
+    },
+    {
+      "name": "early-stopping",
+      "label": "Early Stopping",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "early",
+        "stopping"
+      ],
+      "version": "1.3",
+      "svg": "/icons/early-stopping.svg"
+    },
+    {
+      "name": "ebert-test",
+      "label": "Ebert Test",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "ebert",
+        "test"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ebert-test.svg"
+    },
+    {
+      "name": "ecdsa",
+      "label": "Ecdsa",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "ecdsa"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ecdsa.svg"
+    },
+    {
+      "name": "echo-state-network-esn",
+      "label": "Echo State Network Esn",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "echo",
+        "state",
+        "network",
+        "esn"
+      ],
+      "version": "1.3",
+      "svg": "/icons/echo-state-network-esn.svg"
+    },
+    {
       "id": "AS-152",
       "slug": "edge-ai",
       "concept": "Edge AI",
@@ -3428,6 +5802,17 @@
       ],
       "version": "1.4",
       "svg": "/icons/edge-inference.svg"
+    },
+    {
+      "name": "eip",
+      "label": "Eip",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "eip"
+      ],
+      "version": "1.3",
+      "svg": "/icons/eip.svg"
     },
     {
       "name": "email-agent",
@@ -3478,6 +5863,31 @@
       ]
     },
     {
+      "name": "embodied-agent",
+      "label": "Embodied Agent",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "embodied",
+        "agent"
+      ],
+      "version": "1.3",
+      "svg": "/icons/embodied-agent.svg"
+    },
+    {
+      "name": "embodied-cognitive-science",
+      "label": "Embodied Cognitive Science",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "embodied",
+        "cognitive",
+        "science"
+      ],
+      "version": "1.3",
+      "svg": "/icons/embodied-cognitive-science.svg"
+    },
+    {
       "name": "emergent-behavior",
       "label": "Emergent Behavior",
       "category": "complex-systems",
@@ -3513,6 +5923,40 @@
       ],
       "version": "1.3",
       "svg": "/icons/emissions-schedule.svg"
+    },
+    {
+      "name": "encryption",
+      "label": "Encryption",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "encryption"
+      ],
+      "version": "1.3",
+      "svg": "/icons/encryption.svg"
+    },
+    {
+      "name": "ens",
+      "label": "Ens",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "ens"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ens.svg"
+    },
+    {
+      "name": "ensemble-learning",
+      "label": "Ensemble Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "ensemble",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ensemble-learning.svg"
     },
     {
       "id": "AS-068",
@@ -3561,6 +6005,17 @@
       ]
     },
     {
+      "name": "entropy",
+      "label": "Entropy",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "entropy"
+      ],
+      "version": "1.3",
+      "svg": "/icons/entropy.svg"
+    },
+    {
       "name": "entry-point",
       "label": "Entry Point",
       "category": "blockchain",
@@ -3571,6 +6026,17 @@
       ],
       "version": "1.3",
       "svg": "/icons/entry-point.svg"
+    },
+    {
+      "name": "eoa",
+      "label": "Eoa",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "eoa"
+      ],
+      "version": "1.3",
+      "svg": "/icons/eoa.svg"
     },
     {
       "id": "AS-111",
@@ -3594,6 +6060,144 @@
         "expression",
         "biology"
       ]
+    },
+    {
+      "name": "epoch",
+      "label": "Epoch",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "epoch"
+      ],
+      "version": "1.3",
+      "svg": "/icons/epoch.svg"
+    },
+    {
+      "name": "equivocation",
+      "label": "Equivocation",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "equivocation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/equivocation.svg"
+    },
+    {
+      "name": "erc-1155",
+      "label": "Erc 1155",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "erc",
+        "1155"
+      ],
+      "version": "1.3",
+      "svg": "/icons/erc-1155.svg"
+    },
+    {
+      "name": "erc-20",
+      "label": "Erc 20",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "erc"
+      ],
+      "version": "1.3",
+      "svg": "/icons/erc-20.svg"
+    },
+    {
+      "name": "erc-721",
+      "label": "Erc 721",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "erc",
+        "721"
+      ],
+      "version": "1.3",
+      "svg": "/icons/erc-721.svg"
+    },
+    {
+      "name": "erc",
+      "label": "Erc",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "erc"
+      ],
+      "version": "1.3",
+      "svg": "/icons/erc.svg"
+    },
+    {
+      "name": "error-driven-learning",
+      "label": "Error Driven Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "error",
+        "driven",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/error-driven-learning.svg"
+    },
+    {
+      "name": "eth1",
+      "label": "Eth1",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "eth1"
+      ],
+      "version": "1.3",
+      "svg": "/icons/eth1.svg"
+    },
+    {
+      "name": "eth2",
+      "label": "Eth2",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "eth2"
+      ],
+      "version": "1.3",
+      "svg": "/icons/eth2.svg"
+    },
+    {
+      "name": "ethash",
+      "label": "Ethash",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "ethash"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ethash.svg"
+    },
+    {
+      "name": "ether",
+      "label": "Ether",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "ether"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ether.svg"
+    },
+    {
+      "name": "ethics-of-artificial-intelligence",
+      "label": "Ethics Of Artificial Intelligence",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "ethics",
+        "artificial",
+        "intelligence"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ethics-of-artificial-intelligence.svg"
     },
     {
       "name": "etl-agent",
@@ -3692,6 +6296,65 @@
       "svg": "/icons/event-sourcing.svg"
     },
     {
+      "name": "events",
+      "label": "Events",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "events"
+      ],
+      "version": "1.3",
+      "svg": "/icons/events.svg"
+    },
+    {
+      "name": "evm-assembly-language",
+      "label": "Evm Assembly Language",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "evm",
+        "assembly",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/evm-assembly-language.svg"
+    },
+    {
+      "name": "evm",
+      "label": "Evm",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "evm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/evm.svg"
+    },
+    {
+      "name": "evolutionary-algorithm-ea",
+      "label": "Evolutionary Algorithm Ea",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "evolutionary",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/evolutionary-algorithm-ea.svg"
+    },
+    {
+      "name": "evolutionary-computation",
+      "label": "Evolutionary Computation",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "evolutionary",
+        "computation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/evolutionary-computation.svg"
+    },
+    {
       "name": "evolve-agentic",
       "label": "Evolving Agentic Systems",
       "category": "agents",
@@ -3703,6 +6366,32 @@
       ],
       "version": "1.4",
       "svg": "/icons/evolve-agentic.svg"
+    },
+    {
+      "name": "evolving-classification-function-ecf",
+      "label": "Evolving Classification Function Ecf",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "evolving",
+        "classification",
+        "function",
+        "ecf"
+      ],
+      "version": "1.3",
+      "svg": "/icons/evolving-classification-function-ecf.svg"
+    },
+    {
+      "name": "execution-client",
+      "label": "Execution Client",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "execution",
+        "client"
+      ],
+      "version": "1.3",
+      "svg": "/icons/execution-client.svg"
     },
     {
       "name": "execution-layer",
@@ -3730,6 +6419,20 @@
       "svg": "/icons/executor-agent.svg"
     },
     {
+      "name": "existential-risk-from-artificial-general-intelligence",
+      "label": "Existential Risk From Artificial General Intelligence",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "existential",
+        "risk",
+        "from",
+        "artificial"
+      ],
+      "version": "1.3",
+      "svg": "/icons/existential-risk-from-artificial-general-intelligence.svg"
+    },
+    {
       "name": "experimentalist-agents",
       "label": "Experimentalist Agents",
       "category": "agents",
@@ -3741,6 +6444,18 @@
       ],
       "version": "1.4",
       "svg": "/icons/experimentalist-agents.svg"
+    },
+    {
+      "name": "expert-system",
+      "label": "Expert System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "expert",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/expert-system.svg"
     },
     {
       "name": "explainable-ai",
@@ -3836,6 +6551,18 @@
       "svg": "/icons/fairness-agent.svg"
     },
     {
+      "name": "fallback-function",
+      "label": "Fallback Function",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "fallback",
+        "function"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fallback-function.svg"
+    },
+    {
       "id": "AS-065",
       "slug": "fassets",
       "concept": "FAssets",
@@ -3858,6 +6585,31 @@
         "bridge",
         "trustless"
       ]
+    },
+    {
+      "name": "fast-and-frugal-trees",
+      "label": "Fast And Frugal Trees",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "fast",
+        "and",
+        "frugal",
+        "trees"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fast-and-frugal-trees.svg"
+    },
+    {
+      "name": "faucet",
+      "label": "Faucet",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "faucet"
+      ],
+      "version": "1.3",
+      "svg": "/icons/faucet.svg"
     },
     {
       "name": "fault-tolerant-quantum",
@@ -3895,6 +6647,18 @@
       ]
     },
     {
+      "name": "feature-extraction",
+      "label": "Feature Extraction",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "feature",
+        "extraction"
+      ],
+      "version": "1.3",
+      "svg": "/icons/feature-extraction.svg"
+    },
+    {
       "name": "feature-flag",
       "label": "Feature Flag",
       "concept": "Feature Flag",
@@ -3916,6 +6680,41 @@
       ],
       "version": "1.5",
       "svg": "/icons/feature-flag.svg"
+    },
+    {
+      "name": "feature-learning",
+      "label": "Feature Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "feature",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/feature-learning.svg"
+    },
+    {
+      "name": "feature-selection",
+      "label": "Feature Selection",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "feature",
+        "selection"
+      ],
+      "version": "1.3",
+      "svg": "/icons/feature-selection.svg"
+    },
+    {
+      "name": "feature",
+      "label": "Feature",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "feature"
+      ],
+      "version": "1.3",
+      "svg": "/icons/feature.svg"
     },
     {
       "id": "AS-200",
@@ -4009,6 +6808,17 @@
       "svg": "/icons/few-shot.svg"
     },
     {
+      "name": "finality",
+      "label": "Finality",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "finality"
+      ],
+      "version": "1.3",
+      "svg": "/icons/finality.svg"
+    },
+    {
       "id": "AS-012",
       "concept": "Fine-Tuning",
       "definition": "Post-training customization of a foundation model for a specific domain or task",
@@ -4018,6 +6828,30 @@
         "fine",
         "tuning"
       ]
+    },
+    {
+      "name": "finney",
+      "label": "Finney",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "finney"
+      ],
+      "version": "1.3",
+      "svg": "/icons/finney.svg"
+    },
+    {
+      "name": "first-order-logic",
+      "label": "First Order Logic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "first",
+        "order",
+        "logic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/first-order-logic.svg"
     },
     {
       "id": "AS-074",
@@ -4102,6 +6936,17 @@
       "svg": "/icons/flow-reasoning.svg"
     },
     {
+      "name": "fluent",
+      "label": "Fluent",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "fluent"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fluent.svg"
+    },
+    {
       "name": "forecasting-agent",
       "label": "Forecasting Agent",
       "category": "agents",
@@ -4150,6 +6995,30 @@
       ]
     },
     {
+      "name": "fork-choice-algorithm",
+      "label": "Fork Choice Algorithm",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "fork",
+        "choice",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fork-choice-algorithm.svg"
+    },
+    {
+      "name": "fork",
+      "label": "Fork",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "fork"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fork.svg"
+    },
+    {
       "name": "form-filling-agent",
       "label": "Form Filling Agent",
       "category": "agents",
@@ -4161,6 +7030,30 @@
       ],
       "version": "1.4",
       "svg": "/icons/form-filling-agent.svg"
+    },
+    {
+      "name": "formal-language",
+      "label": "Formal Language",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "formal",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/formal-language.svg"
+    },
+    {
+      "name": "forward-chaining",
+      "label": "Forward Chaining",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "forward",
+        "chaining"
+      ],
+      "version": "1.3",
+      "svg": "/icons/forward-chaining.svg"
     },
     {
       "id": "AS-026",
@@ -4186,6 +7079,66 @@
       ]
     },
     {
+      "name": "frame-language",
+      "label": "Frame Language",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "frame",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/frame-language.svg"
+    },
+    {
+      "name": "frame-problem",
+      "label": "Frame Problem",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "frame",
+        "problem"
+      ],
+      "version": "1.3",
+      "svg": "/icons/frame-problem.svg"
+    },
+    {
+      "name": "frame",
+      "label": "Frame",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "frame"
+      ],
+      "version": "1.3",
+      "svg": "/icons/frame.svg"
+    },
+    {
+      "name": "fraud-proof",
+      "label": "Fraud Proof",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "fraud",
+        "proof"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fraud-proof.svg"
+    },
+    {
+      "name": "friendly-artificial-intelligence",
+      "label": "Friendly Artificial Intelligence",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "friendly",
+        "artificial",
+        "intelligence"
+      ],
+      "version": "1.3",
+      "svg": "/icons/friendly-artificial-intelligence.svg"
+    },
+    {
       "id": "AS-027",
       "slug": "frontier-model",
       "concept": "Frontier Model",
@@ -4207,6 +7160,17 @@
         "capability",
         "leading edge"
       ]
+    },
+    {
+      "name": "frontier",
+      "label": "Frontier",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "frontier"
+      ],
+      "version": "1.3",
+      "svg": "/icons/frontier.svg"
     },
     {
       "id": "AS-063",
@@ -4255,6 +7219,67 @@
       "svg": "/icons/futarchy.svg"
     },
     {
+      "name": "futures-studies",
+      "label": "Futures Studies",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "futures",
+        "studies"
+      ],
+      "version": "1.3",
+      "svg": "/icons/futures-studies.svg"
+    },
+    {
+      "name": "fuzzy-control-system",
+      "label": "Fuzzy Control System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "fuzzy",
+        "control",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fuzzy-control-system.svg"
+    },
+    {
+      "name": "fuzzy-logic",
+      "label": "Fuzzy Logic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "fuzzy",
+        "logic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fuzzy-logic.svg"
+    },
+    {
+      "name": "fuzzy-rule",
+      "label": "Fuzzy Rule",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "fuzzy",
+        "rule"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fuzzy-rule.svg"
+    },
+    {
+      "name": "fuzzy-set",
+      "label": "Fuzzy Set",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "fuzzy",
+        "set"
+      ],
+      "version": "1.3",
+      "svg": "/icons/fuzzy-set.svg"
+    },
+    {
       "id": "AS-066",
       "slug": "fxrp",
       "concept": "FXRP",
@@ -4291,6 +7316,18 @@
       "svg": "/icons/game-theoretic-agent.svg"
     },
     {
+      "name": "game-theory",
+      "label": "Game Theory",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "game",
+        "theory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/game-theory.svg"
+    },
+    {
       "id": "AS-052",
       "slug": "gas-fee",
       "concept": "Gas Fee",
@@ -4314,6 +7351,166 @@
       ]
     },
     {
+      "name": "gas-limit",
+      "label": "Gas Limit",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "gas",
+        "limit"
+      ],
+      "version": "1.3",
+      "svg": "/icons/gas-limit.svg"
+    },
+    {
+      "name": "gas-price",
+      "label": "Gas Price",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "gas",
+        "price"
+      ],
+      "version": "1.3",
+      "svg": "/icons/gas-price.svg"
+    },
+    {
+      "name": "gas",
+      "label": "Gas",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "gas"
+      ],
+      "version": "1.3",
+      "svg": "/icons/gas.svg"
+    },
+    {
+      "name": "general-game-playing-ggp",
+      "label": "General Game Playing Ggp",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "general",
+        "game",
+        "playing",
+        "ggp"
+      ],
+      "version": "1.3",
+      "svg": "/icons/general-game-playing-ggp.svg"
+    },
+    {
+      "name": "generalization-error",
+      "label": "Generalization Error",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "generalization",
+        "error"
+      ],
+      "version": "1.3",
+      "svg": "/icons/generalization-error.svg"
+    },
+    {
+      "name": "generalization",
+      "label": "Generalization",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "generalization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/generalization.svg"
+    },
+    {
+      "name": "generative-adversarial-network-gan",
+      "label": "Generative Adversarial Network Gan",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "generative",
+        "adversarial",
+        "network",
+        "gan"
+      ],
+      "version": "1.3",
+      "svg": "/icons/generative-adversarial-network-gan.svg"
+    },
+    {
+      "name": "generative-artificial-intelligence",
+      "label": "Generative Artificial Intelligence",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "generative",
+        "artificial",
+        "intelligence"
+      ],
+      "version": "1.3",
+      "svg": "/icons/generative-artificial-intelligence.svg"
+    },
+    {
+      "name": "generative-pretrained-transformer-gpt",
+      "label": "Generative Pretrained Transformer Gpt",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "generative",
+        "pretrained",
+        "transformer",
+        "gpt"
+      ],
+      "version": "1.3",
+      "svg": "/icons/generative-pretrained-transformer-gpt.svg"
+    },
+    {
+      "name": "genesis-block",
+      "label": "Genesis Block",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "genesis",
+        "block"
+      ],
+      "version": "1.3",
+      "svg": "/icons/genesis-block.svg"
+    },
+    {
+      "name": "genetic-algorithm-ga",
+      "label": "Genetic Algorithm Ga",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "genetic",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/genetic-algorithm-ga.svg"
+    },
+    {
+      "name": "genetic-operator",
+      "label": "Genetic Operator",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "genetic",
+        "operator"
+      ],
+      "version": "1.3",
+      "svg": "/icons/genetic-operator.svg"
+    },
+    {
+      "name": "geth",
+      "label": "Geth",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "geth"
+      ],
+      "version": "1.3",
+      "svg": "/icons/geth.svg"
+    },
+    {
       "name": "gig-economy",
       "label": "Gig Economy",
       "concept": "Gig Economy",
@@ -4335,6 +7532,19 @@
       ],
       "version": "1.5",
       "svg": "/icons/gig-economy.svg"
+    },
+    {
+      "name": "glowworm-swarm-optimization",
+      "label": "Glowworm Swarm Optimization",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "glowworm",
+        "swarm",
+        "optimization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/glowworm-swarm-optimization.svg"
     },
     {
       "name": "governance-token",
@@ -4375,6 +7585,18 @@
       "svg": "/icons/graceful-degradation.svg"
     },
     {
+      "name": "gradient-boosting",
+      "label": "Gradient Boosting",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "gradient",
+        "boosting"
+      ],
+      "version": "1.3",
+      "svg": "/icons/gradient-boosting.svg"
+    },
+    {
       "name": "gradient-descent",
       "label": "Gradient Descent",
       "category": "ai",
@@ -4385,6 +7607,46 @@
       ],
       "version": "1.3",
       "svg": "/icons/gradient-descent.svg"
+    },
+    {
+      "name": "graph-abstract-data-type",
+      "label": "Graph Abstract Data Type",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "graph",
+        "abstract",
+        "data",
+        "type"
+      ],
+      "version": "1.3",
+      "svg": "/icons/graph-abstract-data-type.svg"
+    },
+    {
+      "name": "graph-database-gdb",
+      "label": "Graph Database Gdb",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "graph",
+        "database",
+        "gdb"
+      ],
+      "version": "1.3",
+      "svg": "/icons/graph-database-gdb.svg"
+    },
+    {
+      "name": "graph-discrete-mathematics",
+      "label": "Graph Discrete Mathematics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "graph",
+        "discrete",
+        "mathematics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/graph-discrete-mathematics.svg"
     },
     {
       "name": "graph-embeddings",
@@ -4437,6 +7699,30 @@
       "svg": "/icons/graph-rag.svg"
     },
     {
+      "name": "graph-theory",
+      "label": "Graph Theory",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "graph",
+        "theory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/graph-theory.svg"
+    },
+    {
+      "name": "graph-traversal",
+      "label": "Graph Traversal",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "graph",
+        "traversal"
+      ],
+      "version": "1.3",
+      "svg": "/icons/graph-traversal.svg"
+    },
+    {
       "name": "grounding-agent",
       "label": "Grounding Agent",
       "category": "agents",
@@ -4484,6 +7770,17 @@
       "svg": "/icons/gui-agent.svg"
     },
     {
+      "name": "gwei",
+      "label": "Gwei",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "gwei"
+      ],
+      "version": "1.3",
+      "svg": "/icons/gwei.svg"
+    },
+    {
       "name": "hallucination-detection",
       "label": "Hallucination Detection",
       "category": "evaluation",
@@ -4507,6 +7804,18 @@
       ]
     },
     {
+      "name": "hard-fork",
+      "label": "Hard Fork",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "hard",
+        "fork"
+      ],
+      "version": "1.3",
+      "svg": "/icons/hard-fork.svg"
+    },
+    {
       "id": "AS-167",
       "concept": "Hardware Root of Trust",
       "definition": "A foundational security layer anchored in physical hardware that establishes a chain of trust for all software running on a device",
@@ -4518,6 +7827,29 @@
         "of",
         "trust"
       ]
+    },
+    {
+      "name": "hash-rate",
+      "label": "Hash Rate",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "hash",
+        "rate"
+      ],
+      "version": "1.3",
+      "svg": "/icons/hash-rate.svg"
+    },
+    {
+      "name": "hash",
+      "label": "Hash",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "hash"
+      ],
+      "version": "1.3",
+      "svg": "/icons/hash.svg"
     },
     {
       "id": "AS-123",
@@ -4541,6 +7873,29 @@
         "bandwidth",
         "DRAM"
       ]
+    },
+    {
+      "name": "heuristic",
+      "label": "Heuristic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "heuristic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/heuristic.svg"
+    },
+    {
+      "name": "hidden-layer",
+      "label": "Hidden Layer",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "hidden",
+        "layer"
+      ],
+      "version": "1.3",
+      "svg": "/icons/hidden-layer.svg"
     },
     {
       "name": "high-frequency-trading",
@@ -4586,6 +7941,29 @@
       "tags": [
         "hndl"
       ]
+    },
+    {
+      "name": "holographic-consensus",
+      "label": "Holographic Consensus",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "holographic",
+        "consensus"
+      ],
+      "version": "1.3",
+      "svg": "/icons/holographic-consensus.svg"
+    },
+    {
+      "name": "homestead",
+      "label": "Homestead",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "homestead"
+      ],
+      "version": "1.3",
+      "svg": "/icons/homestead.svg"
     },
     {
       "name": "homomorphic-encryption",
@@ -4652,6 +8030,18 @@
       "svg": "/icons/hyde.svg"
     },
     {
+      "name": "hyper-heuristic",
+      "label": "Hyper Heuristic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "hyper",
+        "heuristic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/hyper-heuristic.svg"
+    },
+    {
       "name": "hyperbolic-bridge",
       "label": "Hyperbolic Bridge",
       "category": "embeddings",
@@ -4665,6 +8055,40 @@
       "svg": "/icons/hyperbolic-bridge.svg"
     },
     {
+      "name": "hyperparameter-optimization",
+      "label": "Hyperparameter Optimization",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "hyperparameter",
+        "optimization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/hyperparameter-optimization.svg"
+    },
+    {
+      "name": "hyperparameter",
+      "label": "Hyperparameter",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "hyperparameter"
+      ],
+      "version": "1.3",
+      "svg": "/icons/hyperparameter.svg"
+    },
+    {
+      "name": "hyperplane",
+      "label": "Hyperplane",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "hyperplane"
+      ],
+      "version": "1.3",
+      "svg": "/icons/hyperplane.svg"
+    },
+    {
       "id": "AS-175",
       "concept": "IBC",
       "definition": "Inter-Blockchain Communication: a protocol enabling sovereign blockchains to transfer tokens and data trustlessly",
@@ -4673,6 +8097,45 @@
       "tags": [
         "ibc"
       ]
+    },
+    {
+      "name": "ide",
+      "label": "Ide",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "ide"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ide.svg"
+    },
+    {
+      "name": "ieee-computational-intelligence-society",
+      "label": "Ieee Computational Intelligence Society",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "ieee",
+        "computational",
+        "intelligence",
+        "society"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ieee-computational-intelligence-society.svg"
+    },
+    {
+      "name": "immutable-deployed-code-problem",
+      "label": "Immutable Deployed Code Problem",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "immutable",
+        "deployed",
+        "code",
+        "problem"
+      ],
+      "version": "1.3",
+      "svg": "/icons/immutable-deployed-code-problem.svg"
     },
     {
       "id": "AS-048",
@@ -4711,6 +8174,41 @@
       "svg": "/icons/incident-response-agent.svg"
     },
     {
+      "name": "incremental-learning",
+      "label": "Incremental Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "incremental",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/incremental-learning.svg"
+    },
+    {
+      "name": "index",
+      "label": "Index",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "index"
+      ],
+      "version": "1.3",
+      "svg": "/icons/index.svg"
+    },
+    {
+      "name": "inference-engine",
+      "label": "Inference Engine",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "inference",
+        "engine"
+      ],
+      "version": "1.3",
+      "svg": "/icons/inference-engine.svg"
+    },
+    {
       "id": "AS-013",
       "concept": "Inference",
       "definition": "Applying a trained AI model to generate a result from new input data",
@@ -4719,6 +8217,32 @@
       "tags": [
         "inference"
       ]
+    },
+    {
+      "name": "information-integration-ii",
+      "label": "Information Integration Ii",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "information",
+        "integration"
+      ],
+      "version": "1.3",
+      "svg": "/icons/information-integration-ii.svg"
+    },
+    {
+      "name": "information-processing-language-ipl",
+      "label": "Information Processing Language Ipl",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "information",
+        "processing",
+        "language",
+        "ipl"
+      ],
+      "version": "1.3",
+      "svg": "/icons/information-processing-language-ipl.svg"
     },
     {
       "name": "inspiration-retrieval",
@@ -4757,6 +8281,18 @@
       ]
     },
     {
+      "name": "intelligence-amplification-ia",
+      "label": "Intelligence Amplification Ia",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "intelligence",
+        "amplification"
+      ],
+      "version": "1.3",
+      "svg": "/icons/intelligence-amplification-ia.svg"
+    },
+    {
       "id": "AS-135",
       "slug": "intelligence-explosion",
       "concept": "Intelligence Explosion",
@@ -4778,6 +8314,43 @@
         "recursive",
         "AI"
       ]
+    },
+    {
+      "name": "intelligent-agent-ia",
+      "label": "Intelligent Agent Ia",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "intelligent",
+        "agent"
+      ],
+      "version": "1.3",
+      "svg": "/icons/intelligent-agent-ia.svg"
+    },
+    {
+      "name": "intelligent-control",
+      "label": "Intelligent Control",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "intelligent",
+        "control"
+      ],
+      "version": "1.3",
+      "svg": "/icons/intelligent-control.svg"
+    },
+    {
+      "name": "intelligent-personal-assistant",
+      "label": "Intelligent Personal Assistant",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "intelligent",
+        "personal",
+        "assistant"
+      ],
+      "version": "1.3",
+      "svg": "/icons/intelligent-personal-assistant.svg"
     },
     {
       "name": "intent-based-transaction",
@@ -4803,6 +8376,29 @@
       ],
       "version": "1.4",
       "svg": "/icons/intent-recognition.svg"
+    },
+    {
+      "name": "internal-transaction",
+      "label": "Internal Transaction",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "internal",
+        "transaction"
+      ],
+      "version": "1.3",
+      "svg": "/icons/internal-transaction.svg"
+    },
+    {
+      "name": "interpretation",
+      "label": "Interpretation",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "interpretation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/interpretation.svg"
     },
     {
       "name": "interrupt-handler",
@@ -4903,6 +8499,29 @@
       ]
     },
     {
+      "name": "issuance",
+      "label": "Issuance",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "issuance"
+      ],
+      "version": "1.3",
+      "svg": "/icons/issuance.svg"
+    },
+    {
+      "name": "issue-tree",
+      "label": "Issue Tree",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "issue",
+        "tree"
+      ],
+      "version": "1.3",
+      "svg": "/icons/issue-tree.svg"
+    },
+    {
       "name": "jailbreak",
       "label": "Jailbreak",
       "category": "ai",
@@ -4913,6 +8532,19 @@
       ],
       "version": "1.3",
       "svg": "/icons/jailbreak.svg"
+    },
+    {
+      "name": "junction-tree-algorithm",
+      "label": "Junction Tree Algorithm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "junction",
+        "tree",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/junction-tree-algorithm.svg"
     },
     {
       "name": "jupyter-agent",
@@ -4928,6 +8560,110 @@
       "svg": "/icons/jupyter-agent.svg"
     },
     {
+      "name": "k-means-clustering",
+      "label": "K Means Clustering",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "means",
+        "clustering"
+      ],
+      "version": "1.3",
+      "svg": "/icons/k-means-clustering.svg"
+    },
+    {
+      "name": "k-nearest-neighbors",
+      "label": "K Nearest Neighbors",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "nearest",
+        "neighbors"
+      ],
+      "version": "1.3",
+      "svg": "/icons/k-nearest-neighbors.svg"
+    },
+    {
+      "name": "kdf",
+      "label": "Kdf",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "kdf"
+      ],
+      "version": "1.3",
+      "svg": "/icons/kdf.svg"
+    },
+    {
+      "name": "keccak-256",
+      "label": "Keccak 256",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "keccak",
+        "256"
+      ],
+      "version": "1.3",
+      "svg": "/icons/keccak-256.svg"
+    },
+    {
+      "name": "kernel-method",
+      "label": "Kernel Method",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "kernel",
+        "method"
+      ],
+      "version": "1.3",
+      "svg": "/icons/kernel-method.svg"
+    },
+    {
+      "name": "key",
+      "label": "Key",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "key"
+      ],
+      "version": "1.3",
+      "svg": "/icons/key.svg"
+    },
+    {
+      "name": "keystore",
+      "label": "Keystore",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "keystore"
+      ],
+      "version": "1.3",
+      "svg": "/icons/keystore.svg"
+    },
+    {
+      "name": "kl-one",
+      "label": "Kl One",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "one"
+      ],
+      "version": "1.3",
+      "svg": "/icons/kl-one.svg"
+    },
+    {
+      "name": "knowledge-acquisition",
+      "label": "Knowledge Acquisition",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "knowledge",
+        "acquisition"
+      ],
+      "version": "1.3",
+      "svg": "/icons/knowledge-acquisition.svg"
+    },
+    {
       "name": "knowledge-base-agent",
       "label": "Knowledge Base Agent",
       "category": "agents",
@@ -4939,6 +8675,20 @@
       ],
       "version": "1.4",
       "svg": "/icons/knowledge-base-agent.svg"
+    },
+    {
+      "name": "knowledge-based-system-kbs",
+      "label": "Knowledge Based System Kbs",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "knowledge",
+        "based",
+        "system",
+        "kbs"
+      ],
+      "version": "1.3",
+      "svg": "/icons/knowledge-based-system-kbs.svg"
     },
     {
       "name": "knowledge-distillation",
@@ -4953,6 +8703,30 @@
       "svg": "/icons/knowledge-distillation.svg"
     },
     {
+      "name": "knowledge-engineering-ke",
+      "label": "Knowledge Engineering Ke",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "knowledge",
+        "engineering"
+      ],
+      "version": "1.3",
+      "svg": "/icons/knowledge-engineering-ke.svg"
+    },
+    {
+      "name": "knowledge-extraction",
+      "label": "Knowledge Extraction",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "knowledge",
+        "extraction"
+      ],
+      "version": "1.3",
+      "svg": "/icons/knowledge-extraction.svg"
+    },
+    {
       "name": "knowledge-graph-agent",
       "label": "Knowledge Graph Agent",
       "category": "agents",
@@ -4964,6 +8738,60 @@
       ],
       "version": "1.4",
       "svg": "/icons/knowledge-graph-agent.svg"
+    },
+    {
+      "name": "knowledge-interchange-format-kif",
+      "label": "Knowledge Interchange Format Kif",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "knowledge",
+        "interchange",
+        "format",
+        "kif"
+      ],
+      "version": "1.3",
+      "svg": "/icons/knowledge-interchange-format-kif.svg"
+    },
+    {
+      "name": "knowledge-representation-and-reasoning-kr\u00b2-or-krr",
+      "label": "Knowledge Representation And Reasoning Kr\u00b2 Or Krr",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "knowledge",
+        "representation",
+        "and",
+        "reasoning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/knowledge-representation-and-reasoning-kr\u00b2-or-krr.svg"
+    },
+    {
+      "name": "language-model",
+      "label": "Language Model",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "language",
+        "model"
+      ],
+      "version": "1.3",
+      "svg": "/icons/language-model.svg"
+    },
+    {
+      "name": "large-language-model-llm",
+      "label": "Large Language Model Llm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "large",
+        "language",
+        "model",
+        "llm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/large-language-model-llm.svg"
     },
     {
       "name": "latency-arbitrage",
@@ -4988,6 +8816,17 @@
       ],
       "version": "1.3",
       "svg": "/icons/latent-space.svg"
+    },
+    {
+      "name": "layer-1",
+      "label": "Layer 1",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "layer"
+      ],
+      "version": "1.3",
+      "svg": "/icons/layer-1.svg"
     },
     {
       "id": "AS-050",
@@ -5038,6 +8877,18 @@
       "svg": "/icons/layer-zero.svg"
     },
     {
+      "name": "lazy-learning",
+      "label": "Lazy Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "lazy",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/lazy-learning.svg"
+    },
+    {
       "name": "learning-rate",
       "label": "Learning Rate",
       "category": "ai",
@@ -5048,6 +8899,43 @@
       ],
       "version": "1.3",
       "svg": "/icons/learning-rate.svg"
+    },
+    {
+      "name": "lethal-autonomous-weapon-law",
+      "label": "Lethal Autonomous Weapon Law",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "lethal",
+        "autonomous",
+        "weapon",
+        "law"
+      ],
+      "version": "1.3",
+      "svg": "/icons/lethal-autonomous-weapon-law.svg"
+    },
+    {
+      "name": "library",
+      "label": "Library",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "library"
+      ],
+      "version": "1.3",
+      "svg": "/icons/library.svg"
+    },
+    {
+      "name": "light-client",
+      "label": "Light Client",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "light",
+        "client"
+      ],
+      "version": "1.3",
+      "svg": "/icons/light-client.svg"
     },
     {
       "name": "linear-vesting",
@@ -5118,6 +9006,42 @@
         "DeFi",
         "tokens"
       ]
+    },
+    {
+      "name": "liquidity-tokens",
+      "label": "Liquidity Tokens",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "liquidity",
+        "tokens"
+      ],
+      "version": "1.3",
+      "svg": "/icons/liquidity-tokens.svg"
+    },
+    {
+      "name": "liquidity",
+      "label": "Liquidity",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "liquidity"
+      ],
+      "version": "1.3",
+      "svg": "/icons/liquidity.svg"
+    },
+    {
+      "name": "lisp-programming-language-lisp",
+      "label": "Lisp Programming Language Lisp",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "lisp",
+        "programming",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/lisp-programming-language-lisp.svg"
     },
     {
       "name": "llm-agent",
@@ -5215,6 +9139,18 @@
       ]
     },
     {
+      "name": "lmd-ghost",
+      "label": "Lmd Ghost",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "lmd",
+        "ghost"
+      ],
+      "version": "1.3",
+      "svg": "/icons/lmd-ghost.svg"
+    },
+    {
       "name": "load-testing-agent",
       "label": "Load Testing Agent",
       "category": "agents",
@@ -5253,6 +9189,18 @@
       "svg": "/icons/log-analysis-agent.svg"
     },
     {
+      "name": "logic-programming",
+      "label": "Logic Programming",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "logic",
+        "programming"
+      ],
+      "version": "1.3",
+      "svg": "/icons/logic-programming.svg"
+    },
+    {
       "name": "long-context",
       "label": "Long-Context Modeling",
       "category": "llm",
@@ -5278,6 +9226,20 @@
       ]
     },
     {
+      "name": "long-short-term-memory-lstm",
+      "label": "Long Short Term Memory Lstm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "long",
+        "short",
+        "term",
+        "memory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/long-short-term-memory-lstm.svg"
+    },
+    {
       "name": "lora-fine-tuning",
       "label": "LoRA Fine-Tuning",
       "category": "training",
@@ -5291,6 +9253,17 @@
       "svg": "/icons/lora-fine-tuning.svg"
     },
     {
+      "name": "lora",
+      "label": "Lora",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "lora"
+      ],
+      "version": "1.3",
+      "svg": "/icons/lora.svg"
+    },
+    {
       "name": "loss-function",
       "label": "Loss Function",
       "category": "ai",
@@ -5301,6 +9274,42 @@
       ],
       "version": "1.3",
       "svg": "/icons/loss-function.svg"
+    },
+    {
+      "name": "machine-learning-ml",
+      "label": "Machine Learning Ml",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "machine",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/machine-learning-ml.svg"
+    },
+    {
+      "name": "machine-listening",
+      "label": "Machine Listening",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "machine",
+        "listening"
+      ],
+      "version": "1.3",
+      "svg": "/icons/machine-listening.svg"
+    },
+    {
+      "name": "machine-perception",
+      "label": "Machine Perception",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "machine",
+        "perception"
+      ],
+      "version": "1.3",
+      "svg": "/icons/machine-perception.svg"
     },
     {
       "id": "AS-179",
@@ -5319,6 +9328,29 @@
         "a16z",
         "agent input"
       ]
+    },
+    {
+      "name": "machine-vision-mv",
+      "label": "Machine Vision Mv",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "machine",
+        "vision"
+      ],
+      "version": "1.3",
+      "svg": "/icons/machine-vision-mv.svg"
+    },
+    {
+      "name": "mainnet",
+      "label": "Mainnet",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "mainnet"
+      ],
+      "version": "1.3",
+      "svg": "/icons/mainnet.svg"
     },
     {
       "name": "majority-voting",
@@ -5369,6 +9401,32 @@
       "svg": "/icons/market-reasoning.svg"
     },
     {
+      "name": "markov-chain",
+      "label": "Markov Chain",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "markov",
+        "chain"
+      ],
+      "version": "1.3",
+      "svg": "/icons/markov-chain.svg"
+    },
+    {
+      "name": "markov-decision-process-mdp",
+      "label": "Markov Decision Process Mdp",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "markov",
+        "decision",
+        "process",
+        "mdp"
+      ],
+      "version": "1.3",
+      "svg": "/icons/markov-decision-process-mdp.svg"
+    },
+    {
       "name": "masked-language-model",
       "label": "Masked Language Model",
       "category": "ai",
@@ -5402,6 +9460,32 @@
         "AI",
         "science"
       ]
+    },
+    {
+      "name": "mathematical-optimization",
+      "label": "Mathematical Optimization",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "mathematical",
+        "optimization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/mathematical-optimization.svg"
+    },
+    {
+      "name": "max-fee-per-gas",
+      "label": "Max Fee Per Gas",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "max",
+        "fee",
+        "per",
+        "gas"
+      ],
+      "version": "1.3",
+      "svg": "/icons/max-fee-per-gas.svg"
     },
     {
       "name": "maximum-extractable-value",
@@ -5439,6 +9523,17 @@
       "svg": "/icons/mechanism-design.svg"
     },
     {
+      "name": "mechatronics",
+      "label": "Mechatronics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "mechatronics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/mechatronics.svg"
+    },
+    {
       "name": "meeting-agent",
       "label": "Meeting Agent",
       "category": "agents",
@@ -5461,6 +9556,31 @@
         "memory",
         "agent"
       ]
+    },
+    {
+      "name": "merkle-patricia-tree",
+      "label": "Merkle Patricia Tree",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "merkle",
+        "patricia",
+        "tree"
+      ],
+      "version": "1.3",
+      "svg": "/icons/merkle-patricia-tree.svg"
+    },
+    {
+      "name": "merkle-root",
+      "label": "Merkle Root",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "merkle",
+        "root"
+      ],
+      "version": "1.3",
+      "svg": "/icons/merkle-root.svg"
     },
     {
       "id": "AS-051",
@@ -5486,6 +9606,29 @@
       ]
     },
     {
+      "name": "message-call",
+      "label": "Message Call",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "message",
+        "call"
+      ],
+      "version": "1.3",
+      "svg": "/icons/message-call.svg"
+    },
+    {
+      "name": "message",
+      "label": "Message",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "message"
+      ],
+      "version": "1.3",
+      "svg": "/icons/message.svg"
+    },
+    {
       "name": "meta-learning-agent",
       "label": "Meta-Learning Agent",
       "category": "agents",
@@ -5497,6 +9640,31 @@
       ],
       "version": "1.4",
       "svg": "/icons/meta-learning-agent.svg"
+    },
+    {
+      "name": "metabolic-network-reconstruction-and-simulation",
+      "label": "Metabolic Network Reconstruction And Simulation",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "metabolic",
+        "network",
+        "reconstruction",
+        "and"
+      ],
+      "version": "1.3",
+      "svg": "/icons/metabolic-network-reconstruction-and-simulation.svg"
+    },
+    {
+      "name": "metaheuristic",
+      "label": "Metaheuristic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "metaheuristic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/metaheuristic.svg"
     },
     {
       "id": "AS-143",
@@ -5558,6 +9726,17 @@
       ]
     },
     {
+      "name": "mev",
+      "label": "Mev",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "mev"
+      ],
+      "version": "1.3",
+      "svg": "/icons/mev.svg"
+    },
+    {
       "id": "AS-119",
       "slug": "microservice",
       "concept": "Microservice",
@@ -5602,6 +9781,39 @@
         "micro",
         "blockchain"
       ]
+    },
+    {
+      "name": "miner",
+      "label": "Miner",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "miner"
+      ],
+      "version": "1.3",
+      "svg": "/icons/miner.svg"
+    },
+    {
+      "name": "mining",
+      "label": "Mining",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "mining"
+      ],
+      "version": "1.3",
+      "svg": "/icons/mining.svg"
+    },
+    {
+      "name": "mint",
+      "label": "Mint",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "mint"
+      ],
+      "version": "1.3",
+      "svg": "/icons/mint.svg"
     },
     {
       "id": "AS-151",
@@ -5664,6 +9876,18 @@
       ],
       "version": "1.4",
       "svg": "/icons/model-based-rl.svg"
+    },
+    {
+      "name": "model-checking",
+      "label": "Model Checking",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "model",
+        "checking"
+      ],
+      "version": "1.3",
+      "svg": "/icons/model-checking.svg"
     },
     {
       "name": "model-collapse",
@@ -5740,6 +9964,30 @@
       "svg": "/icons/modular-blockchain.svg"
     },
     {
+      "name": "modus-ponens",
+      "label": "Modus Ponens",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "modus",
+        "ponens"
+      ],
+      "version": "1.3",
+      "svg": "/icons/modus-ponens.svg"
+    },
+    {
+      "name": "modus-tollens",
+      "label": "Modus Tollens",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "modus",
+        "tollens"
+      ],
+      "version": "1.3",
+      "svg": "/icons/modus-tollens.svg"
+    },
+    {
       "name": "momentum-optimizer",
       "label": "Momentum Optimizer",
       "category": "ai",
@@ -5763,6 +10011,20 @@
       ],
       "version": "1.4",
       "svg": "/icons/monitoring-agent.svg"
+    },
+    {
+      "name": "monte-carlo-tree-search",
+      "label": "Monte Carlo Tree Search",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "monte",
+        "carlo",
+        "tree",
+        "search"
+      ],
+      "version": "1.3",
+      "svg": "/icons/monte-carlo-tree-search.svg"
     },
     {
       "id": "AS-039",
@@ -5851,6 +10113,20 @@
       ],
       "version": "1.4",
       "svg": "/icons/multi-agent-rl.svg"
+    },
+    {
+      "name": "multi-agent-system-mas",
+      "label": "Multi Agent System Mas",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "multi",
+        "agent",
+        "system",
+        "mas"
+      ],
+      "version": "1.3",
+      "svg": "/icons/multi-agent-system-mas.svg"
     },
     {
       "id": "AS-005",
@@ -5963,6 +10239,19 @@
       "svg": "/icons/multi-sig.svg"
     },
     {
+      "name": "multi-swarm-optimization",
+      "label": "Multi Swarm Optimization",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "multi",
+        "swarm",
+        "optimization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/multi-swarm-optimization.svg"
+    },
+    {
       "id": "AS-084",
       "slug": "multichain-dao",
       "concept": "Multichain DAO",
@@ -5984,6 +10273,19 @@
         "governance",
         "NEAR"
       ]
+    },
+    {
+      "name": "multilayer-perceptron-mlp",
+      "label": "Multilayer Perceptron Mlp",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "multilayer",
+        "perceptron",
+        "mlp"
+      ],
+      "version": "1.3",
+      "svg": "/icons/multilayer-perceptron-mlp.svg"
     },
     {
       "name": "multimodal-agent",
@@ -6036,6 +10338,143 @@
       "svg": "/icons/multimodal-llms.svg"
     },
     {
+      "name": "multisig",
+      "label": "Multisig",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "multisig"
+      ],
+      "version": "1.3",
+      "svg": "/icons/multisig.svg"
+    },
+    {
+      "name": "mutation",
+      "label": "Mutation",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "mutation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/mutation.svg"
+    },
+    {
+      "name": "mycin",
+      "label": "Mycin",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "mycin"
+      ],
+      "version": "1.3",
+      "svg": "/icons/mycin.svg"
+    },
+    {
+      "name": "naive-bayes-classifier",
+      "label": "Naive Bayes Classifier",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "naive",
+        "bayes",
+        "classifier"
+      ],
+      "version": "1.3",
+      "svg": "/icons/naive-bayes-classifier.svg"
+    },
+    {
+      "name": "naive-semantics",
+      "label": "Naive Semantics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "naive",
+        "semantics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/naive-semantics.svg"
+    },
+    {
+      "name": "name-binding",
+      "label": "Name Binding",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "name",
+        "binding"
+      ],
+      "version": "1.3",
+      "svg": "/icons/name-binding.svg"
+    },
+    {
+      "name": "named-entity-recognition-ner",
+      "label": "Named Entity Recognition Ner",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "named",
+        "entity",
+        "recognition",
+        "ner"
+      ],
+      "version": "1.3",
+      "svg": "/icons/named-entity-recognition-ner.svg"
+    },
+    {
+      "name": "named-graph",
+      "label": "Named Graph",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "named",
+        "graph"
+      ],
+      "version": "1.3",
+      "svg": "/icons/named-graph.svg"
+    },
+    {
+      "name": "natural-language-generation-nlg",
+      "label": "Natural Language Generation Nlg",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "natural",
+        "language",
+        "generation",
+        "nlg"
+      ],
+      "version": "1.3",
+      "svg": "/icons/natural-language-generation-nlg.svg"
+    },
+    {
+      "name": "natural-language-processing-nlp",
+      "label": "Natural Language Processing Nlp",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "natural",
+        "language",
+        "processing",
+        "nlp"
+      ],
+      "version": "1.3",
+      "svg": "/icons/natural-language-processing-nlp.svg"
+    },
+    {
+      "name": "natural-language-programming",
+      "label": "Natural Language Programming",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "natural",
+        "language",
+        "programming"
+      ],
+      "version": "1.3",
+      "svg": "/icons/natural-language-programming.svg"
+    },
+    {
       "id": "AS-075",
       "slug": "near-intents",
       "concept": "NEAR Intents",
@@ -6072,6 +10511,41 @@
       "svg": "/icons/negotiation-agent.svg"
     },
     {
+      "name": "network-hashrate",
+      "label": "Network Hashrate",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "network",
+        "hashrate"
+      ],
+      "version": "1.3",
+      "svg": "/icons/network-hashrate.svg"
+    },
+    {
+      "name": "network-motif",
+      "label": "Network Motif",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "network",
+        "motif"
+      ],
+      "version": "1.3",
+      "svg": "/icons/network-motif.svg"
+    },
+    {
+      "name": "network",
+      "label": "Network",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "network"
+      ],
+      "version": "1.3",
+      "svg": "/icons/network.svg"
+    },
+    {
       "name": "neural-architecture-search",
       "label": "Neural Architecture Search",
       "category": "ai",
@@ -6082,6 +10556,20 @@
       ],
       "version": "1.3",
       "svg": "/icons/neural-architecture-search.svg"
+    },
+    {
+      "name": "neural-machine-translation-nmt",
+      "label": "Neural Machine Translation Nmt",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "neural",
+        "machine",
+        "translation",
+        "nmt"
+      ],
+      "version": "1.3",
+      "svg": "/icons/neural-machine-translation-nmt.svg"
     },
     {
       "name": "neural-network",
@@ -6134,6 +10622,43 @@
       "svg": "/icons/neural-symbolic.svg"
     },
     {
+      "name": "neural-turing-machine-ntm",
+      "label": "Neural Turing Machine Ntm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "neural",
+        "turing",
+        "machine",
+        "ntm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/neural-turing-machine-ntm.svg"
+    },
+    {
+      "name": "neuro-fuzzy",
+      "label": "Neuro Fuzzy",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "neuro",
+        "fuzzy"
+      ],
+      "version": "1.3",
+      "svg": "/icons/neuro-fuzzy.svg"
+    },
+    {
+      "name": "neurocybernetics",
+      "label": "Neurocybernetics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "neurocybernetics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/neurocybernetics.svg"
+    },
+    {
       "name": "neuromorphic-computing",
       "label": "Neuromorphic Computing",
       "category": "hardware",
@@ -6145,6 +10670,18 @@
       ],
       "version": "1.4",
       "svg": "/icons/neuromorphic-computing.svg"
+    },
+    {
+      "name": "neuromorphic-engineering",
+      "label": "Neuromorphic Engineering",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "neuromorphic",
+        "engineering"
+      ],
+      "version": "1.3",
+      "svg": "/icons/neuromorphic-engineering.svg"
     },
     {
       "id": "AS-110",
@@ -6182,6 +10719,17 @@
       "svg": "/icons/next-token-prediction.svg"
     },
     {
+      "name": "nft",
+      "label": "Nft",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "nft"
+      ],
+      "version": "1.3",
+      "svg": "/icons/nft.svg"
+    },
+    {
       "id": "AS-166",
       "concept": "NNS",
       "definition": "Network Nervous System: a decentralized autonomous governance system that controls and evolves a blockchain protocol",
@@ -6215,6 +10763,29 @@
       ]
     },
     {
+      "name": "nonce",
+      "label": "Nonce",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "nonce"
+      ],
+      "version": "1.3",
+      "svg": "/icons/nonce.svg"
+    },
+    {
+      "name": "nondeterministic-algorithm",
+      "label": "Nondeterministic Algorithm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "nondeterministic",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/nondeterministic-algorithm.svg"
+    },
+    {
       "name": "notification-agent",
       "label": "Notification Agent",
       "category": "agents",
@@ -6226,6 +10797,39 @@
       ],
       "version": "1.4",
       "svg": "/icons/notification-agent.svg"
+    },
+    {
+      "name": "nouvelle-ai",
+      "label": "Nouvelle Ai",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "nouvelle"
+      ],
+      "version": "1.3",
+      "svg": "/icons/nouvelle-ai.svg"
+    },
+    {
+      "name": "np-completeness",
+      "label": "Np Completeness",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "completeness"
+      ],
+      "version": "1.3",
+      "svg": "/icons/np-completeness.svg"
+    },
+    {
+      "name": "np-hardness",
+      "label": "Np Hardness",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "hardness"
+      ],
+      "version": "1.3",
+      "svg": "/icons/np-hardness.svg"
     },
     {
       "name": "observability-agent",
@@ -6264,6 +10868,18 @@
       "svg": "/icons/observability-platform.svg"
     },
     {
+      "name": "occams-razor",
+      "label": "Occams Razor",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "occams",
+        "razor"
+      ],
+      "version": "1.3",
+      "svg": "/icons/occams-razor.svg"
+    },
+    {
       "id": "AS-033",
       "concept": "Off-Ramp",
       "definition": "Converting cryptocurrency back to fiat currency to exit the blockchain ecosystem",
@@ -6273,6 +10889,29 @@
         "off",
         "ramp"
       ]
+    },
+    {
+      "name": "offchain",
+      "label": "Offchain",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "offchain"
+      ],
+      "version": "1.3",
+      "svg": "/icons/offchain.svg"
+    },
+    {
+      "name": "offline-learning",
+      "label": "Offline Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "offline",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/offline-learning.svg"
     },
     {
       "name": "offline-rl",
@@ -6286,6 +10925,17 @@
       ],
       "version": "1.4",
       "svg": "/icons/offline-rl.svg"
+    },
+    {
+      "name": "ommer",
+      "label": "Ommer",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "ommer"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ommer.svg"
     },
     {
       "name": "on-chain-yield",
@@ -6352,6 +11002,17 @@
       ]
     },
     {
+      "name": "onchain",
+      "label": "Onchain",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "onchain"
+      ],
+      "version": "1.3",
+      "svg": "/icons/onchain.svg"
+    },
+    {
       "name": "online-learning-agent",
       "label": "Online Learning Agent",
       "category": "agents",
@@ -6365,6 +11026,19 @@
       "svg": "/icons/online-learning-agent.svg"
     },
     {
+      "name": "online-machine-learning",
+      "label": "Online Machine Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "online",
+        "machine",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/online-machine-learning.svg"
+    },
+    {
       "name": "ontology-agent",
       "label": "Ontology Agent",
       "category": "agents",
@@ -6376,6 +11050,68 @@
       ],
       "version": "1.4",
       "svg": "/icons/ontology-agent.svg"
+    },
+    {
+      "name": "ontology-learning",
+      "label": "Ontology Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "ontology",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/ontology-learning.svg"
+    },
+    {
+      "name": "open-mind-common-sense",
+      "label": "Open Mind Common Sense",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "open",
+        "mind",
+        "common",
+        "sense"
+      ],
+      "version": "1.3",
+      "svg": "/icons/open-mind-common-sense.svg"
+    },
+    {
+      "name": "open-source-software-oss",
+      "label": "Open Source Software Oss",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "open",
+        "source",
+        "software",
+        "oss"
+      ],
+      "version": "1.3",
+      "svg": "/icons/open-source-software-oss.svg"
+    },
+    {
+      "name": "openai",
+      "label": "Openai",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "version": "1.3",
+      "svg": "/icons/openai.svg"
+    },
+    {
+      "name": "opencog",
+      "label": "Opencog",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "opencog"
+      ],
+      "version": "1.3",
+      "svg": "/icons/opencog.svg"
     },
     {
       "name": "optimistic-governance",
@@ -6423,6 +11159,17 @@
         "blockchain",
         "problem"
       ]
+    },
+    {
+      "name": "oracle",
+      "label": "Oracle",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "oracle"
+      ],
+      "version": "1.3",
+      "svg": "/icons/oracle.svg"
     },
     {
       "id": "AS-006",
@@ -6499,6 +11246,17 @@
       ]
     },
     {
+      "name": "overfitting",
+      "label": "Overfitting",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "overfitting"
+      ],
+      "version": "1.3",
+      "svg": "/icons/overfitting.svg"
+    },
+    {
       "id": "AS-137",
       "slug": "paperclip-maximizer",
       "concept": "Paperclip Maximizer",
@@ -6566,6 +11324,70 @@
       ]
     },
     {
+      "name": "partial-order-reduction",
+      "label": "Partial Order Reduction",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "partial",
+        "order",
+        "reduction"
+      ],
+      "version": "1.3",
+      "svg": "/icons/partial-order-reduction.svg"
+    },
+    {
+      "name": "partially-observable-markov-decision-process-pomdp",
+      "label": "Partially Observable Markov Decision Process Pomdp",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "partially",
+        "observable",
+        "markov",
+        "decision"
+      ],
+      "version": "1.3",
+      "svg": "/icons/partially-observable-markov-decision-process-pomdp.svg"
+    },
+    {
+      "name": "particle-swarm-optimization-pso",
+      "label": "Particle Swarm Optimization Pso",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "particle",
+        "swarm",
+        "optimization",
+        "pso"
+      ],
+      "version": "1.3",
+      "svg": "/icons/particle-swarm-optimization-pso.svg"
+    },
+    {
+      "name": "pathfinding",
+      "label": "Pathfinding",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "pathfinding"
+      ],
+      "version": "1.3",
+      "svg": "/icons/pathfinding.svg"
+    },
+    {
+      "name": "pattern-recognition",
+      "label": "Pattern Recognition",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "pattern",
+        "recognition"
+      ],
+      "version": "1.3",
+      "svg": "/icons/pattern-recognition.svg"
+    },
+    {
       "name": "pay-per-call",
       "label": "Pay-Per-Call",
       "category": "finance",
@@ -6614,6 +11436,51 @@
       ],
       "version": "1.4",
       "svg": "/icons/pdf-agent.svg"
+    },
+    {
+      "name": "peer-to-peer-network",
+      "label": "Peer To Peer Network",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "peer",
+        "network"
+      ],
+      "version": "1.3",
+      "svg": "/icons/peer-to-peer-network.svg"
+    },
+    {
+      "name": "peer",
+      "label": "Peer",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "peer"
+      ],
+      "version": "1.3",
+      "svg": "/icons/peer.svg"
+    },
+    {
+      "name": "perceptron",
+      "label": "Perceptron",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "perceptron"
+      ],
+      "version": "1.3",
+      "svg": "/icons/perceptron.svg"
+    },
+    {
+      "name": "permissionless",
+      "label": "Permissionless",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "permissionless"
+      ],
+      "version": "1.3",
+      "svg": "/icons/permissionless.svg"
     },
     {
       "id": "AS-102",
@@ -6779,6 +11646,17 @@
       "svg": "/icons/platform-economy.svg"
     },
     {
+      "name": "poap",
+      "label": "Poap",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "poap"
+      ],
+      "version": "1.3",
+      "svg": "/icons/poap.svg"
+    },
+    {
       "name": "points-program",
       "label": "Points Program",
       "category": "finance",
@@ -6817,6 +11695,17 @@
       "svg": "/icons/policy-network.svg"
     },
     {
+      "name": "pos",
+      "label": "Pos",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "pos"
+      ],
+      "version": "1.3",
+      "svg": "/icons/pos.svg"
+    },
+    {
       "name": "positional-encoding",
       "label": "Positional Encoding",
       "category": "ai",
@@ -6841,6 +11730,29 @@
       ]
     },
     {
+      "name": "pow",
+      "label": "Pow",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "pow"
+      ],
+      "version": "1.3",
+      "svg": "/icons/pow.svg"
+    },
+    {
+      "name": "predicate-logic",
+      "label": "Predicate Logic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "predicate",
+        "logic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/predicate-logic.svg"
+    },
+    {
       "id": "AS-040",
       "concept": "Prediction Market",
       "definition": "A market where participants trade contracts based on the outcome of future events",
@@ -6850,6 +11762,18 @@
         "prediction",
         "market"
       ]
+    },
+    {
+      "name": "predictive-analytics",
+      "label": "Predictive Analytics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "predictive",
+        "analytics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/predictive-analytics.svg"
     },
     {
       "name": "price-impact",
@@ -6862,6 +11786,32 @@
       ],
       "version": "1.3",
       "svg": "/icons/price-impact.svg"
+    },
+    {
+      "name": "principal-component-analysis-pca",
+      "label": "Principal Component Analysis Pca",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "principal",
+        "component",
+        "analysis",
+        "pca"
+      ],
+      "version": "1.3",
+      "svg": "/icons/principal-component-analysis-pca.svg"
+    },
+    {
+      "name": "principle-of-rationality",
+      "label": "Principle Of Rationality",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "principle",
+        "rationality"
+      ],
+      "version": "1.3",
+      "svg": "/icons/principle-of-rationality.svg"
     },
     {
       "id": "AS-202",
@@ -6880,6 +11830,30 @@
         "differential privacy",
         "homomorphic encryption"
       ]
+    },
+    {
+      "name": "private-chain",
+      "label": "Private Chain",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "private",
+        "chain"
+      ],
+      "version": "1.3",
+      "svg": "/icons/private-chain.svg"
+    },
+    {
+      "name": "private-key",
+      "label": "Private Key",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "private",
+        "key"
+      ],
+      "version": "1.3",
+      "svg": "/icons/private-key.svg"
     },
     {
       "name": "private-mempool",
@@ -6920,6 +11894,30 @@
       "svg": "/icons/probabilistic-inference.svg"
     },
     {
+      "name": "probabilistic-programming-pp",
+      "label": "Probabilistic Programming Pp",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "probabilistic",
+        "programming"
+      ],
+      "version": "1.3",
+      "svg": "/icons/probabilistic-programming-pp.svg"
+    },
+    {
+      "name": "production-system",
+      "label": "Production System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "production",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/production-system.svg"
+    },
+    {
       "id": "AS-181",
       "slug": "programmable-financial-system",
       "concept": "Programmable Financial System",
@@ -6949,6 +11947,29 @@
       ],
       "version": "1.4",
       "svg": "/icons/programmable-money.svg"
+    },
+    {
+      "name": "programming-language",
+      "label": "Programming Language",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "programming",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/programming-language.svg"
+    },
+    {
+      "name": "prolog",
+      "label": "Prolog",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "prolog"
+      ],
+      "version": "1.3",
+      "svg": "/icons/prolog.svg"
     },
     {
       "name": "prompt-chaining",
@@ -7041,6 +12062,18 @@
       "svg": "/icons/proposer-builder-separation.svg"
     },
     {
+      "name": "propositional-calculus",
+      "label": "Propositional Calculus",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "propositional",
+        "calculus"
+      ],
+      "version": "1.3",
+      "svg": "/icons/propositional-calculus.svg"
+    },
+    {
       "name": "proto-danksharding",
       "label": "Proto-Danksharding",
       "category": "blockchain",
@@ -7065,6 +12098,20 @@
       "svg": "/icons/protocol-revenue.svg"
     },
     {
+      "name": "proximal-policy-optimization-ppo",
+      "label": "Proximal Policy Optimization Ppo",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "proximal",
+        "policy",
+        "optimization",
+        "ppo"
+      ],
+      "version": "1.3",
+      "svg": "/icons/proximal-policy-optimization-ppo.svg"
+    },
+    {
       "name": "proximal-policy",
       "label": "Proximal Policy Optimization",
       "category": "rl",
@@ -7076,6 +12123,52 @@
       ],
       "version": "1.4",
       "svg": "/icons/proximal-policy.svg"
+    },
+    {
+      "name": "public-goods",
+      "label": "Public Goods",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "public",
+        "goods"
+      ],
+      "version": "1.3",
+      "svg": "/icons/public-goods.svg"
+    },
+    {
+      "name": "public-key",
+      "label": "Public Key",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "public",
+        "key"
+      ],
+      "version": "1.3",
+      "svg": "/icons/public-key.svg"
+    },
+    {
+      "name": "python",
+      "label": "Python",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "python"
+      ],
+      "version": "1.3",
+      "svg": "/icons/python.svg"
+    },
+    {
+      "name": "pytorch",
+      "label": "Pytorch",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "pytorch"
+      ],
+      "version": "1.3",
+      "svg": "/icons/pytorch.svg"
     },
     {
       "name": "q-learning",
@@ -7101,6 +12194,29 @@
       ],
       "version": "1.3",
       "svg": "/icons/quadratic-voting.svg"
+    },
+    {
+      "name": "qualification-problem",
+      "label": "Qualification Problem",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "qualification",
+        "problem"
+      ],
+      "version": "1.3",
+      "svg": "/icons/qualification-problem.svg"
+    },
+    {
+      "name": "quantifier",
+      "label": "Quantifier",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "quantifier"
+      ],
+      "version": "1.3",
+      "svg": "/icons/quantifier.svg"
     },
     {
       "id": "AS-129",
@@ -7185,6 +12301,18 @@
       ],
       "version": "1.3",
       "svg": "/icons/quantum-circuit.svg"
+    },
+    {
+      "name": "quantum-computing",
+      "label": "Quantum Computing",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "quantum",
+        "computing"
+      ],
+      "version": "1.3",
+      "svg": "/icons/quantum-computing.svg"
     },
     {
       "name": "quantum-cryptography",
@@ -7435,6 +12563,18 @@
       "svg": "/icons/query-expansion.svg"
     },
     {
+      "name": "query-language",
+      "label": "Query Language",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "query",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/query-language.svg"
+    },
+    {
       "name": "question-answering-agent",
       "label": "Question Answering Agent",
       "category": "agents",
@@ -7446,6 +12586,32 @@
       ],
       "version": "1.4",
       "svg": "/icons/question-answering-agent.svg"
+    },
+    {
+      "name": "r-programming-language",
+      "label": "R Programming Language",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "programming",
+        "language"
+      ],
+      "version": "1.3",
+      "svg": "/icons/r-programming-language.svg"
+    },
+    {
+      "name": "radial-basis-function-network",
+      "label": "Radial Basis Function Network",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "radial",
+        "basis",
+        "function",
+        "network"
+      ],
+      "version": "1.3",
+      "svg": "/icons/radial-basis-function-network.svg"
     },
     {
       "name": "rag-pipeline",
@@ -7471,6 +12637,18 @@
       ]
     },
     {
+      "name": "random-forest",
+      "label": "Random Forest",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "random",
+        "forest"
+      ],
+      "version": "1.3",
+      "svg": "/icons/random-forest.svg"
+    },
+    {
       "name": "rate-limiting",
       "label": "Rate Limiting",
       "category": "infrastructure",
@@ -7482,6 +12660,18 @@
       ],
       "version": "1.4",
       "svg": "/icons/rate-limiting.svg"
+    },
+    {
+      "name": "re-entrancy-attack",
+      "label": "Re Entrancy Attack",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "entrancy",
+        "attack"
+      ],
+      "version": "1.3",
+      "svg": "/icons/re-entrancy-attack.svg"
     },
     {
       "name": "react-prompting",
@@ -7570,6 +12760,18 @@
       "svg": "/icons/reasoning-aware.svg"
     },
     {
+      "name": "reasoning-engine",
+      "label": "Reasoning Engine",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "reasoning",
+        "engine"
+      ],
+      "version": "1.3",
+      "svg": "/icons/reasoning-engine.svg"
+    },
+    {
       "name": "reasoning-intensive",
       "label": "Reasoning-Intensive",
       "category": "ai",
@@ -7580,6 +12782,30 @@
       ],
       "version": "1.3",
       "svg": "/icons/reasoning-intensive.svg"
+    },
+    {
+      "name": "reasoning-model",
+      "label": "Reasoning Model",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "reasoning",
+        "model"
+      ],
+      "version": "1.3",
+      "svg": "/icons/reasoning-model.svg"
+    },
+    {
+      "name": "reasoning-system",
+      "label": "Reasoning System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "reasoning",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/reasoning-system.svg"
     },
     {
       "name": "reasoning-under",
@@ -7593,6 +12819,17 @@
       ],
       "version": "1.4",
       "svg": "/icons/reasoning-under.svg"
+    },
+    {
+      "name": "receipt",
+      "label": "Receipt",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "receipt"
+      ],
+      "version": "1.3",
+      "svg": "/icons/receipt.svg"
     },
     {
       "name": "recommendation-agent",
@@ -7618,6 +12855,45 @@
       ],
       "version": "1.3",
       "svg": "/icons/recommendation-agents.svg"
+    },
+    {
+      "name": "recovery-phrase",
+      "label": "Recovery Phrase",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "recovery",
+        "phrase"
+      ],
+      "version": "1.3",
+      "svg": "/icons/recovery-phrase.svg"
+    },
+    {
+      "name": "recurrent-neural-network-rnn",
+      "label": "Recurrent Neural Network Rnn",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "recurrent",
+        "neural",
+        "network",
+        "rnn"
+      ],
+      "version": "1.3",
+      "svg": "/icons/recurrent-neural-network-rnn.svg"
+    },
+    {
+      "name": "recursive-self-improvement",
+      "label": "Recursive Self Improvement",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "recursive",
+        "self",
+        "improvement"
+      ],
+      "version": "1.3",
+      "svg": "/icons/recursive-self-improvement.svg"
     },
     {
       "name": "red-teaming",
@@ -7655,6 +12931,18 @@
       ]
     },
     {
+      "name": "regression-analysis",
+      "label": "Regression Analysis",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "regression",
+        "analysis"
+      ],
+      "version": "1.3",
+      "svg": "/icons/regression-analysis.svg"
+    },
+    {
       "name": "regression-testing-agent",
       "label": "Regression Testing Agent",
       "category": "agents",
@@ -7666,6 +12954,17 @@
       ],
       "version": "1.4",
       "svg": "/icons/regression-testing-agent.svg"
+    },
+    {
+      "name": "regularization",
+      "label": "Regularization",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "regularization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/regularization.svg"
     },
     {
       "id": "AS-130",
@@ -7691,6 +12990,32 @@
       ]
     },
     {
+      "name": "reinforcement-learning-from-human-feedback-rlhf",
+      "label": "Reinforcement Learning From Human Feedback Rlhf",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "reinforcement",
+        "learning",
+        "from",
+        "human"
+      ],
+      "version": "1.3",
+      "svg": "/icons/reinforcement-learning-from-human-feedback-rlhf.svg"
+    },
+    {
+      "name": "reinforcement-learning-rl",
+      "label": "Reinforcement Learning Rl",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "reinforcement",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/reinforcement-learning-rl.svg"
+    },
+    {
       "id": "AS-036",
       "slug": "replit-agent",
       "concept": "Replit Agent",
@@ -7712,6 +13037,18 @@
         "agent",
         "cloud"
       ]
+    },
+    {
+      "name": "representation-learning",
+      "label": "Representation Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "representation",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/representation-learning.svg"
     },
     {
       "name": "reranking",
@@ -7739,6 +13076,18 @@
       "svg": "/icons/research-agents.svg"
     },
     {
+      "name": "reservoir-computing",
+      "label": "Reservoir Computing",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "reservoir",
+        "computing"
+      ],
+      "version": "1.3",
+      "svg": "/icons/reservoir-computing.svg"
+    },
+    {
       "name": "residual-connection",
       "label": "Residual Connection",
       "category": "ai",
@@ -7749,6 +13098,60 @@
       ],
       "version": "1.3",
       "svg": "/icons/residual-connection.svg"
+    },
+    {
+      "name": "resource-description-framework-rdf",
+      "label": "Resource Description Framework Rdf",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "resource",
+        "description",
+        "framework",
+        "rdf"
+      ],
+      "version": "1.3",
+      "svg": "/icons/resource-description-framework-rdf.svg"
+    },
+    {
+      "name": "restricted-boltzmann-machine-rbm",
+      "label": "Restricted Boltzmann Machine Rbm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "restricted",
+        "boltzmann",
+        "machine",
+        "rbm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/restricted-boltzmann-machine-rbm.svg"
+    },
+    {
+      "name": "rete-algorithm",
+      "label": "Rete Algorithm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "rete",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/rete-algorithm.svg"
+    },
+    {
+      "name": "retrieval-augmented-generation-rag",
+      "label": "Retrieval Augmented Generation Rag",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "retrieval",
+        "augmented",
+        "generation",
+        "rag"
+      ],
+      "version": "1.3",
+      "svg": "/icons/retrieval-augmented-generation-rag.svg"
     },
     {
       "name": "retrieval-augmented",
@@ -7874,6 +13277,39 @@
       "svg": "/icons/reward-shaping.svg"
     },
     {
+      "name": "reward",
+      "label": "Reward",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "reward"
+      ],
+      "version": "1.3",
+      "svg": "/icons/reward.svg"
+    },
+    {
+      "name": "rlp",
+      "label": "Rlp",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "rlp"
+      ],
+      "version": "1.3",
+      "svg": "/icons/rlp.svg"
+    },
+    {
+      "name": "robotics",
+      "label": "Robotics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "robotics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/robotics.svg"
+    },
+    {
       "name": "rollup",
       "label": "Rollup",
       "category": "blockchain",
@@ -7884,6 +13320,17 @@
       ],
       "version": "1.3",
       "svg": "/icons/rollup.svg"
+    },
+    {
+      "name": "rollups",
+      "label": "Rollups",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "rollups"
+      ],
+      "version": "1.3",
+      "svg": "/icons/rollups.svg"
     },
     {
       "name": "root-cause-analysis",
@@ -7909,6 +13356,30 @@
       ],
       "version": "1.3",
       "svg": "/icons/rouge-score.svg"
+    },
+    {
+      "name": "rpc",
+      "label": "Rpc",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "rpc"
+      ],
+      "version": "1.3",
+      "svg": "/icons/rpc.svg"
+    },
+    {
+      "name": "rule-based-system",
+      "label": "Rule Based System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "rule",
+        "based",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/rule-based-system.svg"
     },
     {
       "id": "AS-047",
@@ -7983,6 +13454,17 @@
       "svg": "/icons/sandboxing.svg"
     },
     {
+      "name": "satisfiability",
+      "label": "Satisfiability",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "satisfiability"
+      ],
+      "version": "1.3",
+      "svg": "/icons/satisfiability.svg"
+    },
+    {
       "name": "scaling-reasoning",
       "label": "Scaling Reasoning",
       "category": "ai",
@@ -8034,6 +13516,18 @@
       "svg": "/icons/search-agent.svg"
     },
     {
+      "name": "search-algorithm",
+      "label": "Search Algorithm",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "search",
+        "algorithm"
+      ],
+      "version": "1.3",
+      "svg": "/icons/search-algorithm.svg"
+    },
+    {
       "name": "secure-multiparty-computation",
       "label": "Secure Multi-Party Computation",
       "category": "cryptography",
@@ -8058,6 +13552,31 @@
       ],
       "version": "1.4",
       "svg": "/icons/security-scanning-agent.svg"
+    },
+    {
+      "name": "selection",
+      "label": "Selection",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "selection"
+      ],
+      "version": "1.3",
+      "svg": "/icons/selection.svg"
+    },
+    {
+      "name": "selective-linear-definite-clause-resolution",
+      "label": "Selective Linear Definite Clause Resolution",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "selective",
+        "linear",
+        "definite",
+        "clause"
+      ],
+      "version": "1.3",
+      "svg": "/icons/selective-linear-definite-clause-resolution.svg"
     },
     {
       "name": "self-attention",
@@ -8131,6 +13650,18 @@
       "svg": "/icons/self-improving.svg"
     },
     {
+      "name": "self-management",
+      "label": "Self Management",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "self",
+        "management"
+      ],
+      "version": "1.3",
+      "svg": "/icons/self-management.svg"
+    },
+    {
       "name": "self-rag",
       "label": "Self-RAG",
       "category": "rag",
@@ -8170,6 +13701,66 @@
       "svg": "/icons/semantic-caching.svg"
     },
     {
+      "name": "semantic-network",
+      "label": "Semantic Network",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "semantic",
+        "network"
+      ],
+      "version": "1.3",
+      "svg": "/icons/semantic-network.svg"
+    },
+    {
+      "name": "semantic-query",
+      "label": "Semantic Query",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "semantic",
+        "query"
+      ],
+      "version": "1.3",
+      "svg": "/icons/semantic-query.svg"
+    },
+    {
+      "name": "semantic-reasoner",
+      "label": "Semantic Reasoner",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "semantic",
+        "reasoner"
+      ],
+      "version": "1.3",
+      "svg": "/icons/semantic-reasoner.svg"
+    },
+    {
+      "name": "semantics",
+      "label": "Semantics",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "semantics"
+      ],
+      "version": "1.3",
+      "svg": "/icons/semantics.svg"
+    },
+    {
+      "name": "semi-supervised-learning",
+      "label": "Semi Supervised Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "semi",
+        "supervised",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/semi-supervised-learning.svg"
+    },
+    {
       "id": "AS-120",
       "slug": "semiconductor-fab",
       "concept": "Semiconductor Fab",
@@ -8193,6 +13784,18 @@
       ]
     },
     {
+      "name": "sensor-fusion",
+      "label": "Sensor Fusion",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "sensor",
+        "fusion"
+      ],
+      "version": "1.3",
+      "svg": "/icons/sensor-fusion.svg"
+    },
+    {
       "name": "sentiment-analysis-agent",
       "label": "Sentiment Analysis Agent",
       "category": "agents",
@@ -8206,6 +13809,29 @@
       "svg": "/icons/sentiment-analysis-agent.svg"
     },
     {
+      "name": "separation-logic",
+      "label": "Separation Logic",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "separation",
+        "logic"
+      ],
+      "version": "1.3",
+      "svg": "/icons/separation-logic.svg"
+    },
+    {
+      "name": "sequencer",
+      "label": "Sequencer",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "sequencer"
+      ],
+      "version": "1.3",
+      "svg": "/icons/sequencer.svg"
+    },
+    {
       "name": "sequential-reasoning",
       "label": "Sequential Reasoning",
       "category": "reasoning",
@@ -8217,6 +13843,17 @@
       ],
       "version": "1.4",
       "svg": "/icons/sequential-reasoning.svg"
+    },
+    {
+      "name": "serialization",
+      "label": "Serialization",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "serialization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/serialization.svg"
     },
     {
       "name": "service-mesh",
@@ -8266,6 +13903,17 @@
       "svg": "/icons/settlement-layer.svg"
     },
     {
+      "name": "sha",
+      "label": "Sha",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "sha"
+      ],
+      "version": "1.3",
+      "svg": "/icons/sha.svg"
+    },
+    {
       "id": "AS-024",
       "concept": "Shadow Mode",
       "definition": "An agent observing and processing silently before taking any action",
@@ -8275,6 +13923,17 @@
         "shadow",
         "mode"
       ]
+    },
+    {
+      "name": "shard",
+      "label": "Shard",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "shard"
+      ],
+      "version": "1.3",
+      "svg": "/icons/shard.svg"
     },
     {
       "id": "AS-082",
@@ -8336,6 +13995,41 @@
       "svg": "/icons/sidechain.svg"
     },
     {
+      "name": "signing",
+      "label": "Signing",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "signing"
+      ],
+      "version": "1.3",
+      "svg": "/icons/signing.svg"
+    },
+    {
+      "name": "similarity-learning",
+      "label": "Similarity Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "similarity",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/similarity-learning.svg"
+    },
+    {
+      "name": "simulated-annealing-sa",
+      "label": "Simulated Annealing Sa",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "simulated",
+        "annealing"
+      ],
+      "version": "1.3",
+      "svg": "/icons/simulated-annealing-sa.svg"
+    },
+    {
       "name": "simulation-agent",
       "label": "Simulation Agent",
       "category": "agents",
@@ -8349,6 +14043,17 @@
       "svg": "/icons/simulation-agent.svg"
     },
     {
+      "name": "singleton",
+      "label": "Singleton",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "singleton"
+      ],
+      "version": "1.3",
+      "svg": "/icons/singleton.svg"
+    },
+    {
       "id": "AS-038",
       "concept": "Singularity",
       "definition": "The hypothetical moment when AI surpasses human intelligence, causing irreversible civilizational change",
@@ -8357,6 +14062,52 @@
       "tags": [
         "singularity"
       ]
+    },
+    {
+      "name": "situated-approach",
+      "label": "Situated Approach",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "situated",
+        "approach"
+      ],
+      "version": "1.3",
+      "svg": "/icons/situated-approach.svg"
+    },
+    {
+      "name": "situation-calculus",
+      "label": "Situation Calculus",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "situation",
+        "calculus"
+      ],
+      "version": "1.3",
+      "svg": "/icons/situation-calculus.svg"
+    },
+    {
+      "name": "slasher",
+      "label": "Slasher",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "slasher"
+      ],
+      "version": "1.3",
+      "svg": "/icons/slasher.svg"
+    },
+    {
+      "name": "slot",
+      "label": "Slot",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "slot"
+      ],
+      "version": "1.3",
+      "svg": "/icons/slot.svg"
     },
     {
       "id": "AS-027",
@@ -8383,6 +14134,17 @@
       "svg": "/icons/smart-money.svg"
     },
     {
+      "name": "snark",
+      "label": "Snark",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "snark"
+      ],
+      "version": "1.3",
+      "svg": "/icons/snark.svg"
+    },
+    {
       "name": "social-recovery",
       "label": "Social Recovery",
       "category": "blockchain",
@@ -8393,6 +14155,65 @@
       ],
       "version": "1.3",
       "svg": "/icons/social-recovery.svg"
+    },
+    {
+      "name": "soft-fork",
+      "label": "Soft Fork",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "soft",
+        "fork"
+      ],
+      "version": "1.3",
+      "svg": "/icons/soft-fork.svg"
+    },
+    {
+      "name": "software-engineering",
+      "label": "Software Engineering",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "software",
+        "engineering"
+      ],
+      "version": "1.3",
+      "svg": "/icons/software-engineering.svg"
+    },
+    {
+      "name": "software",
+      "label": "Software",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "software"
+      ],
+      "version": "1.3",
+      "svg": "/icons/software.svg"
+    },
+    {
+      "name": "solidity-inline-assembly",
+      "label": "Solidity Inline Assembly",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "solidity",
+        "inline",
+        "assembly"
+      ],
+      "version": "1.3",
+      "svg": "/icons/solidity-inline-assembly.svg"
+    },
+    {
+      "name": "solidity",
+      "label": "Solidity",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "solidity"
+      ],
+      "version": "1.3",
+      "svg": "/icons/solidity.svg"
     },
     {
       "name": "solver",
@@ -8448,6 +14269,30 @@
       "svg": "/icons/sovereign-rollup.svg"
     },
     {
+      "name": "sparql",
+      "label": "Sparql",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "sparql"
+      ],
+      "version": "1.3",
+      "svg": "/icons/sparql.svg"
+    },
+    {
+      "name": "sparse-dictionary-learning",
+      "label": "Sparse Dictionary Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "sparse",
+        "dictionary",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/sparse-dictionary-learning.svg"
+    },
+    {
       "name": "sparse-reward",
       "label": "Sparse Reward",
       "category": "rl",
@@ -8472,6 +14317,19 @@
       ],
       "version": "1.4",
       "svg": "/icons/spatial-reasoning.svg"
+    },
+    {
+      "name": "spatial-temporal-reasoning",
+      "label": "Spatial Temporal Reasoning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "spatial",
+        "temporal",
+        "reasoning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/spatial-temporal-reasoning.svg"
     },
     {
       "name": "spatiotemporal-reasoning",
@@ -8499,6 +14357,18 @@
       "svg": "/icons/speculative-decoding.svg"
     },
     {
+      "name": "speech-recognition",
+      "label": "Speech Recognition",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "speech",
+        "recognition"
+      ],
+      "version": "1.3",
+      "svg": "/icons/speech-recognition.svg"
+    },
+    {
       "name": "spiking-agent",
       "label": "Spiking Agent",
       "category": "neuroscience",
@@ -8510,6 +14380,20 @@
       ],
       "version": "1.4",
       "svg": "/icons/spiking-agent.svg"
+    },
+    {
+      "name": "spiking-neural-network-snn",
+      "label": "Spiking Neural Network Snn",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "spiking",
+        "neural",
+        "network",
+        "snn"
+      ],
+      "version": "1.3",
+      "svg": "/icons/spiking-neural-network-snn.svg"
     },
     {
       "name": "sql-agent",
@@ -8543,6 +14427,17 @@
       ]
     },
     {
+      "name": "stablecoin",
+      "label": "Stablecoin",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "stablecoin"
+      ],
+      "version": "1.3",
+      "svg": "/icons/stablecoin.svg"
+    },
+    {
       "id": "AS-149",
       "slug": "stage-separation",
       "concept": "Stage Separation",
@@ -8564,6 +14459,18 @@
         "SpaceX",
         "staging"
       ]
+    },
+    {
+      "name": "staking-pool",
+      "label": "Staking Pool",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "staking",
+        "pool"
+      ],
+      "version": "1.3",
+      "svg": "/icons/staking-pool.svg"
     },
     {
       "id": "AS-053",
@@ -8589,6 +14496,31 @@
       ]
     },
     {
+      "name": "stanford-research-institute-problem-solver-strips",
+      "label": "Stanford Research Institute Problem Solver Strips",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "stanford",
+        "research",
+        "institute",
+        "problem"
+      ],
+      "version": "1.3",
+      "svg": "/icons/stanford-research-institute-problem-solver-strips.svg"
+    },
+    {
+      "name": "stark",
+      "label": "Stark",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "stark"
+      ],
+      "version": "1.3",
+      "svg": "/icons/stark.svg"
+    },
+    {
       "name": "state-channel",
       "label": "State Channel",
       "category": "blockchain",
@@ -8599,6 +14531,18 @@
       ],
       "version": "1.3",
       "svg": "/icons/state-channel.svg"
+    },
+    {
+      "name": "state-channels",
+      "label": "State Channels",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "state",
+        "channels"
+      ],
+      "version": "1.3",
+      "svg": "/icons/state-channels.svg"
     },
     {
       "name": "state-space",
@@ -8614,6 +14558,29 @@
       "svg": "/icons/state-space.svg"
     },
     {
+      "name": "state",
+      "label": "State",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "state"
+      ],
+      "version": "1.3",
+      "svg": "/icons/state.svg"
+    },
+    {
+      "name": "stateactionrewardstateaction-sarsa",
+      "label": "Stateactionrewardstateaction Sarsa",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "stateactionrewardstateaction",
+        "sarsa"
+      ],
+      "version": "1.3",
+      "svg": "/icons/stateactionrewardstateaction-sarsa.svg"
+    },
+    {
       "name": "statelessness",
       "label": "Statelessness",
       "category": "blockchain",
@@ -8624,6 +14591,32 @@
       ],
       "version": "1.3",
       "svg": "/icons/statelessness.svg"
+    },
+    {
+      "name": "statistical-classification",
+      "label": "Statistical Classification",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "statistical",
+        "classification"
+      ],
+      "version": "1.3",
+      "svg": "/icons/statistical-classification.svg"
+    },
+    {
+      "name": "statistical-relational-learning-srl",
+      "label": "Statistical Relational Learning Srl",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "statistical",
+        "relational",
+        "learning",
+        "srl"
+      ],
+      "version": "1.3",
+      "svg": "/icons/statistical-relational-learning-srl.svg"
     },
     {
       "name": "steering-llm",
@@ -8649,6 +14642,31 @@
       ],
       "version": "1.4",
       "svg": "/icons/stigmergy.svg"
+    },
+    {
+      "name": "stochastic-optimization-so",
+      "label": "Stochastic Optimization So",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "stochastic",
+        "optimization"
+      ],
+      "version": "1.3",
+      "svg": "/icons/stochastic-optimization-so.svg"
+    },
+    {
+      "name": "stochastic-semantic-analysis",
+      "label": "Stochastic Semantic Analysis",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "stochastic",
+        "semantic",
+        "analysis"
+      ],
+      "version": "1.3",
+      "svg": "/icons/stochastic-semantic-analysis.svg"
     },
     {
       "name": "streaming-inference",
@@ -8701,6 +14719,20 @@
       ]
     },
     {
+      "name": "subject-matter-expert-sme",
+      "label": "Subject Matter Expert Sme",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "subject",
+        "matter",
+        "expert",
+        "sme"
+      ],
+      "version": "1.3",
+      "svg": "/icons/subject-matter-expert-sme.svg"
+    },
+    {
       "name": "summarization-agent",
       "label": "Summarization Agent",
       "category": "agents",
@@ -8749,6 +14781,29 @@
       ]
     },
     {
+      "name": "supermajority",
+      "label": "Supermajority",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "supermajority"
+      ],
+      "version": "1.3",
+      "svg": "/icons/supermajority.svg"
+    },
+    {
+      "name": "supervised-learning",
+      "label": "Supervised Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "supervised",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/supervised-learning.svg"
+    },
+    {
       "name": "supervisor-agent",
       "label": "Supervisor Agent",
       "category": "patterns",
@@ -8778,6 +14833,19 @@
         "third-party risk",
         "CISA"
       ]
+    },
+    {
+      "name": "support-vector-machines",
+      "label": "Support Vector Machines",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "support",
+        "vector",
+        "machines"
+      ],
+      "version": "1.3",
+      "svg": "/icons/support-vector-machines.svg"
     },
     {
       "name": "surface-code",
@@ -8815,6 +14883,18 @@
       ]
     },
     {
+      "name": "swarm-intelligence-si",
+      "label": "Swarm Intelligence Si",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "swarm",
+        "intelligence"
+      ],
+      "version": "1.3",
+      "svg": "/icons/swarm-intelligence-si.svg"
+    },
+    {
       "name": "swarm-intelligence",
       "label": "Swarm Intelligence",
       "category": "multi-agent",
@@ -8826,6 +14906,31 @@
       ],
       "version": "1.4",
       "svg": "/icons/swarm-intelligence.svg"
+    },
+    {
+      "name": "sybil-attack",
+      "label": "Sybil Attack",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "sybil",
+        "attack"
+      ],
+      "version": "1.3",
+      "svg": "/icons/sybil-attack.svg"
+    },
+    {
+      "name": "symbolic-artificial-intelligence",
+      "label": "Symbolic Artificial Intelligence",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "symbolic",
+        "artificial",
+        "intelligence"
+      ],
+      "version": "1.3",
+      "svg": "/icons/symbolic-artificial-intelligence.svg"
     },
     {
       "name": "symbolic-reasoning",
@@ -8841,6 +14946,29 @@
       "svg": "/icons/symbolic-reasoning.svg"
     },
     {
+      "name": "sync-committee",
+      "label": "Sync Committee",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "sync",
+        "committee"
+      ],
+      "version": "1.3",
+      "svg": "/icons/sync-committee.svg"
+    },
+    {
+      "name": "syncing",
+      "label": "Syncing",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "syncing"
+      ],
+      "version": "1.3",
+      "svg": "/icons/syncing.svg"
+    },
+    {
       "name": "synthetic-data-generation",
       "label": "Synthetic Data Generation",
       "category": "data",
@@ -8852,6 +14980,41 @@
       ],
       "version": "1.4",
       "svg": "/icons/synthetic-data-generation.svg"
+    },
+    {
+      "name": "synthetic-intelligence-si",
+      "label": "Synthetic Intelligence Si",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "synthetic",
+        "intelligence"
+      ],
+      "version": "1.3",
+      "svg": "/icons/synthetic-intelligence-si.svg"
+    },
+    {
+      "name": "systems-neuroscience",
+      "label": "Systems Neuroscience",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "systems",
+        "neuroscience"
+      ],
+      "version": "1.3",
+      "svg": "/icons/systems-neuroscience.svg"
+    },
+    {
+      "name": "szabo",
+      "label": "Szabo",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "szabo"
+      ],
+      "version": "1.3",
+      "svg": "/icons/szabo.svg"
     },
     {
       "id": "AS-154",
@@ -8913,6 +15076,18 @@
       "svg": "/icons/task-decomposition.svg"
     },
     {
+      "name": "technological-singularity",
+      "label": "Technological Singularity",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "technological",
+        "singularity"
+      ],
+      "version": "1.3",
+      "svg": "/icons/technological-singularity.svg"
+    },
+    {
       "id": "AS-044",
       "concept": "TEE",
       "definition": "Trusted Execution Environment: a secure isolated hardware environment for confidential computation",
@@ -8933,6 +15108,19 @@
       ]
     },
     {
+      "name": "temporal-difference-learning",
+      "label": "Temporal Difference Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "temporal",
+        "difference",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/temporal-difference-learning.svg"
+    },
+    {
       "name": "temporal-reasoning",
       "label": "Temporal Reasoning",
       "category": "reasoning",
@@ -8944,6 +15132,30 @@
       ],
       "version": "1.4",
       "svg": "/icons/temporal-reasoning.svg"
+    },
+    {
+      "name": "tensor-network-theory",
+      "label": "Tensor Network Theory",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "tensor",
+        "network",
+        "theory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/tensor-network-theory.svg"
+    },
+    {
+      "name": "tensorflow",
+      "label": "Tensorflow",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "tensorflow"
+      ],
+      "version": "1.3",
+      "svg": "/icons/tensorflow.svg"
     },
     {
       "id": "AS-157",
@@ -8969,6 +15181,19 @@
       ]
     },
     {
+      "name": "terminal-total-difficulty",
+      "label": "Terminal Total Difficulty",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "terminal",
+        "total",
+        "difficulty"
+      ],
+      "version": "1.3",
+      "svg": "/icons/terminal-total-difficulty.svg"
+    },
+    {
       "name": "test-generation-agent",
       "label": "Test Generation Agent",
       "category": "agents",
@@ -8980,6 +15205,81 @@
       ],
       "version": "1.4",
       "svg": "/icons/test-generation-agent.svg"
+    },
+    {
+      "name": "testnet",
+      "label": "Testnet",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "testnet"
+      ],
+      "version": "1.3",
+      "svg": "/icons/testnet.svg"
+    },
+    {
+      "name": "the-age-of-spiritual-machines-when-computers-exceed-human-intelligence",
+      "label": "The Age Of Spiritual Machines When Computers Exceed Human Intelligence",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "the",
+        "age",
+        "spiritual",
+        "machines"
+      ],
+      "version": "1.3",
+      "svg": "/icons/the-age-of-spiritual-machines-when-computers-exceed-human-intelligence.svg"
+    },
+    {
+      "name": "theoretical-computer-science-tcs",
+      "label": "Theoretical Computer Science Tcs",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "theoretical",
+        "computer",
+        "science",
+        "tcs"
+      ],
+      "version": "1.3",
+      "svg": "/icons/theoretical-computer-science-tcs.svg"
+    },
+    {
+      "name": "theory-of-computation",
+      "label": "Theory Of Computation",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "theory",
+        "computation"
+      ],
+      "version": "1.3",
+      "svg": "/icons/theory-of-computation.svg"
+    },
+    {
+      "name": "thompson-sampling",
+      "label": "Thompson Sampling",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "thompson",
+        "sampling"
+      ],
+      "version": "1.3",
+      "svg": "/icons/thompson-sampling.svg"
+    },
+    {
+      "name": "time-complexity",
+      "label": "Time Complexity",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "time",
+        "complexity"
+      ],
+      "version": "1.3",
+      "svg": "/icons/time-complexity.svg"
     },
     {
       "name": "time-series-agent",
@@ -9031,6 +15331,18 @@
       "svg": "/icons/token-budget.svg"
     },
     {
+      "name": "token-factory",
+      "label": "Token Factory",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "token",
+        "factory"
+      ],
+      "version": "1.3",
+      "svg": "/icons/token-factory.svg"
+    },
+    {
       "name": "token-level",
       "label": "Token-Level Processing",
       "category": "llm",
@@ -9054,6 +15366,17 @@
       ],
       "version": "1.3",
       "svg": "/icons/token-vesting.svg"
+    },
+    {
+      "name": "token",
+      "label": "Token",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "token"
+      ],
+      "version": "1.3",
+      "svg": "/icons/token.svg"
     },
     {
       "id": "AS-026",
@@ -9139,6 +15462,18 @@
       "svg": "/icons/topological-qubit.svg"
     },
     {
+      "name": "transaction-fee",
+      "label": "Transaction Fee",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "transaction",
+        "fee"
+      ],
+      "version": "1.3",
+      "svg": "/icons/transaction-fee.svg"
+    },
+    {
       "id": "AS-092",
       "slug": "transaction-finality",
       "concept": "Transaction Finality",
@@ -9160,6 +15495,17 @@
         "irreversible",
         "confirmed"
       ]
+    },
+    {
+      "name": "transaction",
+      "label": "Transaction",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "transaction"
+      ],
+      "version": "1.3",
+      "svg": "/icons/transaction.svg"
     },
     {
       "name": "transfer-learning-agent",
@@ -9195,6 +15541,29 @@
       "tags": [
         "transformer"
       ]
+    },
+    {
+      "name": "transhumanism",
+      "label": "Transhumanism",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "transhumanism"
+      ],
+      "version": "1.3",
+      "svg": "/icons/transhumanism.svg"
+    },
+    {
+      "name": "transition-system",
+      "label": "Transition System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "transition",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/transition-system.svg"
     },
     {
       "name": "translation-workflows",
@@ -9246,6 +15615,18 @@
       "svg": "/icons/tree-of-thought.svg"
     },
     {
+      "name": "tree-traversal",
+      "label": "Tree Traversal",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "tree",
+        "traversal"
+      ],
+      "version": "1.3",
+      "svg": "/icons/tree-traversal.svg"
+    },
+    {
       "id": "AS-079",
       "slug": "triple-lockout",
       "concept": "Triple Lockout",
@@ -9267,6 +15648,43 @@
         "verification",
         "NEAR"
       ]
+    },
+    {
+      "name": "true-quantified-boolean-formula",
+      "label": "True Quantified Boolean Formula",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "true",
+        "quantified",
+        "boolean",
+        "formula"
+      ],
+      "version": "1.3",
+      "svg": "/icons/true-quantified-boolean-formula.svg"
+    },
+    {
+      "name": "trust-assumptions",
+      "label": "Trust Assumptions",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "trust",
+        "assumptions"
+      ],
+      "version": "1.3",
+      "svg": "/icons/trust-assumptions.svg"
+    },
+    {
+      "name": "trustlessness",
+      "label": "Trustlessness",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "trustlessness"
+      ],
+      "version": "1.3",
+      "svg": "/icons/trustlessness.svg"
     },
     {
       "id": "AS-093",
@@ -9292,6 +15710,53 @@
       ]
     },
     {
+      "name": "tsmc",
+      "label": "Tsmc",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "tsmc"
+      ],
+      "version": "1.3",
+      "svg": "/icons/tsmc.svg"
+    },
+    {
+      "name": "turing-complete",
+      "label": "Turing Complete",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "turing",
+        "complete"
+      ],
+      "version": "1.3",
+      "svg": "/icons/turing-complete.svg"
+    },
+    {
+      "name": "turing-machine",
+      "label": "Turing Machine",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "turing",
+        "machine"
+      ],
+      "version": "1.3",
+      "svg": "/icons/turing-machine.svg"
+    },
+    {
+      "name": "turing-test",
+      "label": "Turing Test",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "turing",
+        "test"
+      ],
+      "version": "1.3",
+      "svg": "/icons/turing-test.svg"
+    },
+    {
       "id": "AS-034",
       "slug": "two-tier-agent",
       "concept": "Two-Tier Agent",
@@ -9313,6 +15778,18 @@
         "planning",
         "reactive"
       ]
+    },
+    {
+      "name": "type-system",
+      "label": "Type System",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "type",
+        "system"
+      ],
+      "version": "1.3",
+      "svg": "/icons/type-system.svg"
     },
     {
       "name": "uncertainty-quantification",
@@ -9340,6 +15817,18 @@
       "svg": "/icons/unified-multimodal.svg"
     },
     {
+      "name": "unsupervised-learning",
+      "label": "Unsupervised Learning",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "unsupervised",
+        "learning"
+      ],
+      "version": "1.3",
+      "svg": "/icons/unsupervised-learning.svg"
+    },
+    {
       "name": "usage-based-pricing",
       "label": "Usage-Based Pricing",
       "category": "finance",
@@ -9365,6 +15854,18 @@
       "svg": "/icons/user-intent.svg"
     },
     {
+      "name": "validator-lifecycle",
+      "label": "Validator Lifecycle",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "validator",
+        "lifecycle"
+      ],
+      "version": "1.3",
+      "svg": "/icons/validator-lifecycle.svg"
+    },
+    {
       "id": "AS-040",
       "slug": "validator-node",
       "concept": "Validator Node",
@@ -9388,6 +15889,29 @@
       ]
     },
     {
+      "name": "validator",
+      "label": "Validator",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "validator"
+      ],
+      "version": "1.3",
+      "svg": "/icons/validator.svg"
+    },
+    {
+      "name": "validity-proof",
+      "label": "Validity Proof",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "validity",
+        "proof"
+      ],
+      "version": "1.3",
+      "svg": "/icons/validity-proof.svg"
+    },
+    {
       "name": "validium",
       "label": "Validium",
       "category": "blockchain",
@@ -9398,6 +15922,19 @@
       ],
       "version": "1.3",
       "svg": "/icons/validium.svg"
+    },
+    {
+      "name": "value-alignment-complete",
+      "label": "Value Alignment Complete",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "value",
+        "alignment",
+        "complete"
+      ],
+      "version": "1.3",
+      "svg": "/icons/value-alignment-complete.svg"
     },
     {
       "name": "value-function",
@@ -9634,6 +16171,20 @@
       "svg": "/icons/video-retrieval.svg"
     },
     {
+      "name": "vision-processing-unit-vpu",
+      "label": "Vision Processing Unit Vpu",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "vision",
+        "processing",
+        "unit",
+        "vpu"
+      ],
+      "version": "1.3",
+      "svg": "/icons/vision-processing-unit-vpu.svg"
+    },
+    {
       "name": "vllm-engine",
       "label": "vLLM Engine",
       "category": "infrastructure",
@@ -9677,6 +16228,17 @@
       "svg": "/icons/vote-delegation.svg"
     },
     {
+      "name": "vyper",
+      "label": "Vyper",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "vyper"
+      ],
+      "version": "1.3",
+      "svg": "/icons/vyper.svg"
+    },
+    {
       "id": "AS-059",
       "slug": "wallet-crypto",
       "concept": "Wallet (Crypto)",
@@ -9698,6 +16260,51 @@
         "crypto",
         "storage"
       ]
+    },
+    {
+      "name": "wallet",
+      "label": "Wallet",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "wallet"
+      ],
+      "version": "1.3",
+      "svg": "/icons/wallet.svg"
+    },
+    {
+      "name": "watson",
+      "label": "Watson",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "watson"
+      ],
+      "version": "1.3",
+      "svg": "/icons/watson.svg"
+    },
+    {
+      "name": "weak-ai",
+      "label": "Weak Ai",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "weak"
+      ],
+      "version": "1.3",
+      "svg": "/icons/weak-ai.svg"
+    },
+    {
+      "name": "weak-supervision",
+      "label": "Weak Supervision",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "weak",
+        "supervision"
+      ],
+      "version": "1.3",
+      "svg": "/icons/weak-supervision.svg"
     },
     {
       "name": "web-scraping-agent",
@@ -9736,6 +16343,17 @@
       ]
     },
     {
+      "name": "web3",
+      "label": "Web3",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "web3"
+      ],
+      "version": "1.3",
+      "svg": "/icons/web3.svg"
+    },
+    {
       "name": "webhook-agent",
       "label": "Webhook Agent",
       "category": "agents",
@@ -9772,6 +16390,17 @@
       ]
     },
     {
+      "name": "wei",
+      "label": "Wei",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "wei"
+      ],
+      "version": "1.3",
+      "svg": "/icons/wei.svg"
+    },
+    {
       "name": "weight-initialization",
       "label": "Weight Initialization",
       "category": "ai",
@@ -9782,6 +16411,18 @@
       ],
       "version": "1.3",
       "svg": "/icons/weight-initialization.svg"
+    },
+    {
+      "name": "word-embedding",
+      "label": "Word Embedding",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "word",
+        "embedding"
+      ],
+      "version": "1.3",
+      "svg": "/icons/word-embedding.svg"
     },
     {
       "name": "workflow-orchestration",
@@ -9810,6 +16451,18 @@
       "svg": "/icons/world-model.svg"
     },
     {
+      "name": "wrapped-token",
+      "label": "Wrapped Token",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "wrapped",
+        "token"
+      ],
+      "version": "1.3",
+      "svg": "/icons/wrapped-token.svg"
+    },
+    {
       "id": "AS-022",
       "concept": "x402",
       "definition": "An HTTP payment protocol enabling machine-to-machine micropayments in the agentic economy",
@@ -9818,6 +16471,17 @@
       "tags": [
         "x402"
       ]
+    },
+    {
+      "name": "xgboost",
+      "label": "Xgboost",
+      "category": "ai",
+      "tags": [
+        "ai",
+        "xgboost"
+      ],
+      "version": "1.3",
+      "svg": "/icons/xgboost.svg"
     },
     {
       "id": "AS-101",
@@ -9864,6 +16528,18 @@
         "recession",
         "bonds"
       ]
+    },
+    {
+      "name": "zero-address",
+      "label": "Zero Address",
+      "category": "blockchain",
+      "tags": [
+        "blockchain",
+        "zero",
+        "address"
+      ],
+      "version": "1.3",
+      "svg": "/icons/zero-address.svg"
     },
     {
       "name": "zero-knowledge-ml",
