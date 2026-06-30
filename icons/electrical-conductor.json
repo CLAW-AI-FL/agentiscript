@@ -1,0 +1,11 @@
+{
+  "name": "electrical-conductor",
+  "label": "Electrical Conductor",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electrical",
+    "conductor"
+  ],
+  "version": "1.3"
+}

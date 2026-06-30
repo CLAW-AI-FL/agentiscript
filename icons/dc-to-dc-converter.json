@@ -1,0 +1,10 @@
+{
+  "name": "dc-to-dc-converter",
+  "label": "Dc To Dc Converter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "converter"
+  ],
+  "version": "1.3"
+}

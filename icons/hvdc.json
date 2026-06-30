@@ -1,0 +1,10 @@
+{
+  "name": "hvdc",
+  "label": "Hvdc",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "hvdc"
+  ],
+  "version": "1.3"
+}

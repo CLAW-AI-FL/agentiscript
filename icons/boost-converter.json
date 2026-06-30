@@ -1,0 +1,11 @@
+{
+  "name": "boost-converter",
+  "label": "Boost Converter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "boost",
+    "converter"
+  ],
+  "version": "1.3"
+}

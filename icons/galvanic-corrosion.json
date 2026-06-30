@@ -1,0 +1,11 @@
+{
+  "name": "galvanic-corrosion",
+  "label": "Galvanic Corrosion",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "galvanic",
+    "corrosion"
+  ],
+  "version": "1.3"
+}

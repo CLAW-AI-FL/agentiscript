@@ -1,0 +1,11 @@
+{
+  "name": "data-warehouse",
+  "label": "Data Warehouse",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "data",
+    "warehouse"
+  ],
+  "version": "1.3"
+}

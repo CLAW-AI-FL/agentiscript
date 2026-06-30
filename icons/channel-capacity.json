@@ -1,0 +1,11 @@
+{
+  "name": "channel-capacity",
+  "label": "Channel Capacity",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "channel",
+    "capacity"
+  ],
+  "version": "1.3"
+}

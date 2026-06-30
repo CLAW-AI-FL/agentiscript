@@ -1,0 +1,10 @@
+{
+  "name": "concurrency",
+  "label": "Concurrency",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "concurrency"
+  ],
+  "version": "1.3"
+}

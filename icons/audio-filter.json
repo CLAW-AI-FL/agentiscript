@@ -1,0 +1,11 @@
+{
+  "name": "audio-filter",
+  "label": "Audio Filter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "audio",
+    "filter"
+  ],
+  "version": "1.3"
+}

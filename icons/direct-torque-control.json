@@ -1,0 +1,12 @@
+{
+  "name": "direct-torque-control",
+  "label": "Direct Torque Control",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "direct",
+    "torque",
+    "control"
+  ],
+  "version": "1.3"
+}

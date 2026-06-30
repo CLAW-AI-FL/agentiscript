@@ -1,0 +1,11 @@
+{
+  "name": "filter-capacitor",
+  "label": "Filter Capacitor",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "filter",
+    "capacitor"
+  ],
+  "version": "1.3"
+}

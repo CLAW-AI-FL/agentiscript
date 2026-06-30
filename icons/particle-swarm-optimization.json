@@ -1,0 +1,12 @@
+{
+  "name": "particle-swarm-optimization",
+  "label": "Particle Swarm Optimization",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "particle",
+    "swarm",
+    "optimization"
+  ],
+  "version": "1.3"
+}

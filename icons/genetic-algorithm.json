@@ -1,0 +1,11 @@
+{
+  "name": "genetic-algorithm",
+  "label": "Genetic Algorithm",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "genetic",
+    "algorithm"
+  ],
+  "version": "1.3"
+}

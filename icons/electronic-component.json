@@ -1,0 +1,11 @@
+{
+  "name": "electronic-component",
+  "label": "Electronic Component",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electronic",
+    "component"
+  ],
+  "version": "1.3"
+}

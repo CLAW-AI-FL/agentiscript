@@ -1,0 +1,11 @@
+{
+  "name": "evolutionary-algorithm",
+  "label": "Evolutionary Algorithm",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "evolutionary",
+    "algorithm"
+  ],
+  "version": "1.3"
+}

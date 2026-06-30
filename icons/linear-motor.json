@@ -1,0 +1,11 @@
+{
+  "name": "linear-motor",
+  "label": "Linear Motor",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "linear",
+    "motor"
+  ],
+  "version": "1.3"
+}

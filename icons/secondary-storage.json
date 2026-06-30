@@ -1,0 +1,11 @@
+{
+  "name": "secondary-storage",
+  "label": "Secondary Storage",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "secondary",
+    "storage"
+  ],
+  "version": "1.3"
+}

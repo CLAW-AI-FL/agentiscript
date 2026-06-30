@@ -1,0 +1,12 @@
+{
+  "name": "echo-state-network",
+  "label": "Echo State Network",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "echo",
+    "state",
+    "network"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "induction-regulator",
+  "label": "Induction Regulator",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "induction",
+    "regulator"
+  ],
+  "version": "1.3"
+}

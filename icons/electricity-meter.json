@@ -1,0 +1,11 @@
+{
+  "name": "electricity-meter",
+  "label": "Electricity Meter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electricity",
+    "meter"
+  ],
+  "version": "1.3"
+}

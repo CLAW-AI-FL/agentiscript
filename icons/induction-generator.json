@@ -1,0 +1,11 @@
+{
+  "name": "induction-generator",
+  "label": "Induction Generator",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "induction",
+    "generator"
+  ],
+  "version": "1.3"
+}

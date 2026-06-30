@@ -1,0 +1,11 @@
+{
+  "name": "electricity-pylon",
+  "label": "Electricity Pylon",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electricity",
+    "pylon"
+  ],
+  "version": "1.3"
+}

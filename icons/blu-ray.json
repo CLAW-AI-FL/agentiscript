@@ -1,0 +1,11 @@
+{
+  "name": "blu-ray",
+  "label": "Blu Ray",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "blu",
+    "ray"
+  ],
+  "version": "1.3"
+}

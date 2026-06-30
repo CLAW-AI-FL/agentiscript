@@ -1,0 +1,10 @@
+{
+  "name": "headphone",
+  "label": "Headphone",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "headphone"
+  ],
+  "version": "1.3"
+}

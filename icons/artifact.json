@@ -1,0 +1,10 @@
+{
+  "name": "artifact",
+  "label": "Artifact",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "artifact"
+  ],
+  "version": "1.3"
+}

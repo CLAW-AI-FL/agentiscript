@@ -1,0 +1,11 @@
+{
+  "name": "description-logic",
+  "label": "Description Logic",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "description",
+    "logic"
+  ],
+  "version": "1.3"
+}

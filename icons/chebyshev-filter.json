@@ -1,0 +1,11 @@
+{
+  "name": "chebyshev-filter",
+  "label": "Chebyshev Filter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "chebyshev",
+    "filter"
+  ],
+  "version": "1.3"
+}

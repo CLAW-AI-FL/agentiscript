@@ -1,0 +1,10 @@
+{
+  "name": "electronics",
+  "label": "Electronics",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electronics"
+  ],
+  "version": "1.3"
+}

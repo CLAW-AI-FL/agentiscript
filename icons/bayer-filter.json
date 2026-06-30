@@ -1,0 +1,11 @@
+{
+  "name": "bayer-filter",
+  "label": "Bayer Filter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "bayer",
+    "filter"
+  ],
+  "version": "1.3"
+}

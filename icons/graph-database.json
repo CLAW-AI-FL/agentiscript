@@ -1,0 +1,11 @@
+{
+  "name": "graph-database",
+  "label": "Graph Database",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "graph",
+    "database"
+  ],
+  "version": "1.3"
+}

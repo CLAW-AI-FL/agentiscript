@@ -1,0 +1,11 @@
+{
+  "name": "joule-heating",
+  "label": "Joule Heating",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "joule",
+    "heating"
+  ],
+  "version": "1.3"
+}

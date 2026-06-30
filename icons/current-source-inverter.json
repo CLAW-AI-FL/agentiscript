@@ -1,0 +1,12 @@
+{
+  "name": "current-source-inverter",
+  "label": "Current Source Inverter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "current",
+    "source",
+    "inverter"
+  ],
+  "version": "1.3"
+}

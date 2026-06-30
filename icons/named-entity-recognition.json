@@ -1,0 +1,12 @@
+{
+  "name": "named-entity-recognition",
+  "label": "Named Entity Recognition",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "named",
+    "entity",
+    "recognition"
+  ],
+  "version": "1.3"
+}

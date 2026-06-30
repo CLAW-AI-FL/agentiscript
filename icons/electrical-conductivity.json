@@ -1,0 +1,11 @@
+{
+  "name": "electrical-conductivity",
+  "label": "Electrical Conductivity",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electrical",
+    "conductivity"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ac-adapter",
+  "label": "Ac Adapter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "adapter"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "restricted-boltzmann-machine",
+  "label": "Restricted Boltzmann Machine",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "restricted",
+    "boltzmann",
+    "machine"
+  ],
+  "version": "1.3"
+}

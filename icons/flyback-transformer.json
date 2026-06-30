@@ -1,0 +1,11 @@
+{
+  "name": "flyback-transformer",
+  "label": "Flyback Transformer",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "flyback",
+    "transformer"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flyback-converter",
+  "label": "Flyback Converter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "flyback",
+    "converter"
+  ],
+  "version": "1.3"
+}

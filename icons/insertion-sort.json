@@ -1,0 +1,11 @@
+{
+  "name": "insertion-sort",
+  "label": "Insertion Sort",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "insertion",
+    "sort"
+  ],
+  "version": "1.3"
+}

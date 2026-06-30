@@ -1,0 +1,12 @@
+{
+  "name": "band-stop-filter",
+  "label": "Band Stop Filter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "band",
+    "stop",
+    "filter"
+  ],
+  "version": "1.3"
+}

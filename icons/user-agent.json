@@ -1,0 +1,11 @@
+{
+  "name": "user-agent",
+  "label": "User Agent",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "user",
+    "agent"
+  ],
+  "version": "1.3"
+}

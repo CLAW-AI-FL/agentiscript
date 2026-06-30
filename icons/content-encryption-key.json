@@ -1,0 +1,12 @@
+{
+  "name": "content-encryption-key",
+  "label": "Content Encryption Key",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "content",
+    "encryption",
+    "key"
+  ],
+  "version": "1.3"
+}

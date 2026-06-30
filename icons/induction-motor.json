@@ -1,0 +1,11 @@
+{
+  "name": "induction-motor",
+  "label": "Induction Motor",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "induction",
+    "motor"
+  ],
+  "version": "1.3"
+}

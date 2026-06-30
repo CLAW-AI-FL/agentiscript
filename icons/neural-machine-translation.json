@@ -1,0 +1,12 @@
+{
+  "name": "neural-machine-translation",
+  "label": "Neural Machine Translation",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "neural",
+    "machine",
+    "translation"
+  ],
+  "version": "1.3"
+}

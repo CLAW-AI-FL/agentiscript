@@ -1,0 +1,10 @@
+{
+  "name": "emulator",
+  "label": "Emulator",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "emulator"
+  ],
+  "version": "1.3"
+}

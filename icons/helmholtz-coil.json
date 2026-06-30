@@ -1,0 +1,11 @@
+{
+  "name": "helmholtz-coil",
+  "label": "Helmholtz Coil",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "helmholtz",
+    "coil"
+  ],
+  "version": "1.3"
+}

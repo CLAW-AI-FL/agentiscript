@@ -1,0 +1,11 @@
+{
+  "name": "kilovolt-ampere",
+  "label": "Kilovolt Ampere",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "kilovolt",
+    "ampere"
+  ],
+  "version": "1.3"
+}

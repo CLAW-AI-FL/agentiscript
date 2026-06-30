@@ -1,0 +1,11 @@
+{
+  "name": "butterworth-filter",
+  "label": "Butterworth Filter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "butterworth",
+    "filter"
+  ],
+  "version": "1.3"
+}

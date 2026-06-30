@@ -1,0 +1,12 @@
+{
+  "name": "digital-micromirror-device",
+  "label": "Digital Micromirror Device",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "digital",
+    "micromirror",
+    "device"
+  ],
+  "version": "1.3"
+}

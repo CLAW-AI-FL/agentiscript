@@ -1,0 +1,11 @@
+{
+  "name": "merge-sort",
+  "label": "Merge Sort",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "merge",
+    "sort"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "electrical-equipment",
+  "label": "Electrical Equipment",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electrical",
+    "equipment"
+  ],
+  "version": "1.3"
+}

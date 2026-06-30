@@ -1,0 +1,12 @@
+{
+  "name": "recurrent-neural-network",
+  "label": "Recurrent Neural Network",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "recurrent",
+    "neural",
+    "network"
+  ],
+  "version": "1.3"
+}

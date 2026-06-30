@@ -1,0 +1,11 @@
+{
+  "name": "priority-queue",
+  "label": "Priority Queue",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "priority",
+    "queue"
+  ],
+  "version": "1.3"
+}

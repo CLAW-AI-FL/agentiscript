@@ -1,0 +1,12 @@
+{
+  "name": "hvdc-converter-station",
+  "label": "Hvdc Converter Station",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "hvdc",
+    "converter",
+    "station"
+  ],
+  "version": "1.3"
+}

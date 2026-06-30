@@ -1,0 +1,9 @@
+{
+  "name": "ci-cd",
+  "label": "Ci/cd",
+  "category": "tech",
+  "tags": [
+    "tech"
+  ],
+  "version": "1.3"
+}

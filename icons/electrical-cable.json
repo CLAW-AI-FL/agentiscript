@@ -1,0 +1,11 @@
+{
+  "name": "electrical-cable",
+  "label": "Electrical Cable",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electrical",
+    "cable"
+  ],
+  "version": "1.3"
+}

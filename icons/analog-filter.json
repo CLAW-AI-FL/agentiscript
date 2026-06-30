@@ -1,0 +1,11 @@
+{
+  "name": "analog-filter",
+  "label": "Analog Filter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "analog",
+    "filter"
+  ],
+  "version": "1.3"
+}

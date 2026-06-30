@@ -1,0 +1,11 @@
+{
+  "name": "clamp-meter",
+  "label": "Clamp Meter",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "clamp",
+    "meter"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "electric-generator",
+  "label": "Electric Generator",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electric",
+    "generator"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "vision-processing-unit",
+  "label": "Vision Processing Unit",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "vision",
+    "processing",
+    "unit"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "battery",
+  "label": "Battery",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "battery"
+  ],
+  "version": "1.3"
+}

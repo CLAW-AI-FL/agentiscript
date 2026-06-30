@@ -1,0 +1,10 @@
+{
+  "name": "firmware",
+  "label": "Firmware",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "firmware"
+  ],
+  "version": "1.3"
+}

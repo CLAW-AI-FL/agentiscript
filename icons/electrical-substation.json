@@ -1,0 +1,11 @@
+{
+  "name": "electrical-substation",
+  "label": "Electrical Substation",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electrical",
+    "substation"
+  ],
+  "version": "1.3"
+}

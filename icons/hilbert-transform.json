@@ -1,0 +1,11 @@
+{
+  "name": "hilbert-transform",
+  "label": "Hilbert Transform",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "hilbert",
+    "transform"
+  ],
+  "version": "1.3"
+}

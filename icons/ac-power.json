@@ -1,0 +1,10 @@
+{
+  "name": "ac-power",
+  "label": "Ac Power",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "power"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "retrieval-augmented-generation",
+  "label": "Retrieval Augmented Generation",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "retrieval",
+    "augmented",
+    "generation"
+  ],
+  "version": "1.3"
+}

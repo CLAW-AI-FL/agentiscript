@@ -1,0 +1,11 @@
+{
+  "name": "electrical-element",
+  "label": "Electrical Element",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "electrical",
+    "element"
+  ],
+  "version": "1.3"
+}

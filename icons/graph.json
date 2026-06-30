@@ -1,0 +1,10 @@
+{
+  "name": "graph",
+  "label": "Graph",
+  "category": "ai",
+  "tags": [
+    "ai",
+    "graph"
+  ],
+  "version": "1.3"
+}

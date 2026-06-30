@@ -1,0 +1,11 @@
+{
+  "name": "authentication-key",
+  "label": "Authentication Key",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "authentication",
+    "key"
+  ],
+  "version": "1.3"
+}

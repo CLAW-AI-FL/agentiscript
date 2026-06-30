@@ -1,0 +1,10 @@
+{
+  "name": "dvd",
+  "label": "Dvd",
+  "category": "tech",
+  "tags": [
+    "tech",
+    "dvd"
+  ],
+  "version": "1.3"
+}
