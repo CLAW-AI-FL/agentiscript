@@ -1,0 +1,11 @@
+{
+  "name": "kriging-interpolation",
+  "label": "Kriging Interpolation",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "kriging",
+    "interpolation"
+  ],
+  "version": "1.7"
+}

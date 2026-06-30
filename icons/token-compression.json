@@ -1,0 +1,11 @@
+{
+  "name": "token-compression",
+  "label": "Token Compression",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "token",
+    "compression"
+  ],
+  "version": "1.7"
+}

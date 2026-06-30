@@ -1,0 +1,12 @@
+{
+  "name": "infrastructure-as-code",
+  "label": "Infrastructure As Code",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "infrastructure",
+    "as",
+    "code"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "density-estimation",
+  "label": "Density Estimation",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "density",
+    "estimation"
+  ],
+  "version": "1.7"
+}

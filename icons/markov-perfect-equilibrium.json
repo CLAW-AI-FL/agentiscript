@@ -1,0 +1,12 @@
+{
+  "name": "markov-perfect-equilibrium",
+  "label": "Markov Perfect Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "markov",
+    "perfect",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

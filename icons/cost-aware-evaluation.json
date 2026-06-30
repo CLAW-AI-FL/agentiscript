@@ -1,0 +1,12 @@
+{
+  "name": "cost-aware-evaluation",
+  "label": "Cost Aware Evaluation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "cost",
+    "aware",
+    "evaluation"
+  ],
+  "version": "1.7"
+}

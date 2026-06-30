@@ -1,0 +1,11 @@
+{
+  "name": "data-transformation",
+  "label": "Data Transformation",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "data",
+    "transformation"
+  ],
+  "version": "1.7"
+}

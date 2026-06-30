@@ -1,0 +1,11 @@
+{
+  "name": "recurrent-dropout",
+  "label": "Recurrent Dropout",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "recurrent",
+    "dropout"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "entropy-regularized-reinforcement-learning",
+  "label": "Entropy Regularized Reinforcement Learning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "entropy",
+    "regularized",
+    "reinforcement",
+    "learning"
+  ],
+  "version": "1.7"
+}

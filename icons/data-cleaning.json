@@ -1,0 +1,11 @@
+{
+  "name": "data-cleaning",
+  "label": "Data Cleaning",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "data",
+    "cleaning"
+  ],
+  "version": "1.7"
+}

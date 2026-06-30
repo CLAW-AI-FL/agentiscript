@@ -1,0 +1,11 @@
+{
+  "name": "virtual-valuation",
+  "label": "Virtual Valuation",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "virtual",
+    "valuation"
+  ],
+  "version": "1.7"
+}

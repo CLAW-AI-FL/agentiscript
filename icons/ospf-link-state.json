@@ -1,0 +1,12 @@
+{
+  "name": "ospf-link-state",
+  "label": "Ospf Link State",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "ospf",
+    "link",
+    "state"
+  ],
+  "version": "1.7"
+}

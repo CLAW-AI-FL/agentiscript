@@ -1,0 +1,11 @@
+{
+  "name": "derivative-pricing",
+  "label": "Derivative Pricing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "derivative",
+    "pricing"
+  ],
+  "version": "1.7"
+}

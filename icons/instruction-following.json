@@ -1,0 +1,11 @@
+{
+  "name": "instruction-following",
+  "label": "Instruction Following",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "instruction",
+    "following"
+  ],
+  "version": "1.7"
+}

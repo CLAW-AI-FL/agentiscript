@@ -1,0 +1,12 @@
+{
+  "name": "test-time-scaling",
+  "label": "Test Time Scaling",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "test",
+    "time",
+    "scaling"
+  ],
+  "version": "1.7"
+}

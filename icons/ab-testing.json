@@ -1,0 +1,11 @@
+{
+  "name": "ab-testing",
+  "label": "A/b Testing",
+  "category": "product",
+  "tags": [
+    "product",
+    "ab",
+    "testing"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "relational-reasoning",
+  "label": "Relational Reasoning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "relational",
+    "reasoning"
+  ],
+  "version": "1.7"
+}

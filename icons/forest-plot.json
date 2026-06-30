@@ -1,0 +1,11 @@
+{
+  "name": "forest-plot",
+  "label": "Forest Plot",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "forest",
+    "plot"
+  ],
+  "version": "1.7"
+}

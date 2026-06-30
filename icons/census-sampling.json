@@ -1,0 +1,11 @@
+{
+  "name": "census-sampling",
+  "label": "Census Sampling",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "census",
+    "sampling"
+  ],
+  "version": "1.7"
+}

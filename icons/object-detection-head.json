@@ -1,0 +1,12 @@
+{
+  "name": "object-detection-head",
+  "label": "Object Detection Head",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "object",
+    "detection",
+    "head"
+  ],
+  "version": "1.7"
+}

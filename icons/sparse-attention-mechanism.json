@@ -1,0 +1,12 @@
+{
+  "name": "sparse-attention-mechanism",
+  "label": "Sparse Attention Mechanism",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "sparse",
+    "attention",
+    "mechanism"
+  ],
+  "version": "1.7"
+}

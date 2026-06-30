@@ -1,0 +1,12 @@
+{
+  "name": "network-function-virtualization",
+  "label": "Network Function Virtualization",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "network",
+    "function",
+    "virtualization"
+  ],
+  "version": "1.7"
+}

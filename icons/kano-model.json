@@ -1,0 +1,11 @@
+{
+  "name": "kano-model",
+  "label": "Kano Model",
+  "category": "product",
+  "tags": [
+    "product",
+    "kano",
+    "model"
+  ],
+  "version": "1.7"
+}

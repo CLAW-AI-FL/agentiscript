@@ -1,0 +1,12 @@
+{
+  "name": "equivariant-graph-network",
+  "label": "Equivariant Graph Network",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "equivariant",
+    "graph",
+    "network"
+  ],
+  "version": "1.7"
+}

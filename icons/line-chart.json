@@ -1,0 +1,11 @@
+{
+  "name": "line-chart",
+  "label": "Line Chart",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "line",
+    "chart"
+  ],
+  "version": "1.7"
+}

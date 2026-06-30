@@ -1,0 +1,11 @@
+{
+  "name": "task-arithmetic",
+  "label": "Task Arithmetic",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "task",
+    "arithmetic"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flow-matching",
+  "label": "Flow Matching",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "flow",
+    "matching"
+  ],
+  "version": "1.7"
+}

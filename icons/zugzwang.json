@@ -1,0 +1,10 @@
+{
+  "name": "zugzwang",
+  "label": "Zugzwang",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "zugzwang"
+  ],
+  "version": "1.7"
+}

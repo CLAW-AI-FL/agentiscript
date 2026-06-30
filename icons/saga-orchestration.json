@@ -1,0 +1,11 @@
+{
+  "name": "saga-orchestration",
+  "label": "Saga Orchestration",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "saga",
+    "orchestration"
+  ],
+  "version": "1.7"
+}

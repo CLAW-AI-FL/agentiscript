@@ -1,0 +1,12 @@
+{
+  "name": "vision-transformer-adaptation",
+  "label": "Vision Transformer Adaptation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "vision",
+    "transformer",
+    "adaptation"
+  ],
+  "version": "1.7"
+}

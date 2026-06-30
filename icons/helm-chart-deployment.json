@@ -1,0 +1,12 @@
+{
+  "name": "helm-chart-deployment",
+  "label": "Helm Chart Deployment",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "helm",
+    "chart",
+    "deployment"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gini-coefficient",
+  "label": "Gini Coefficient",
+  "category": "economics",
+  "tags": [
+    "economics",
+    "gini",
+    "coefficient"
+  ],
+  "version": "1.7"
+}

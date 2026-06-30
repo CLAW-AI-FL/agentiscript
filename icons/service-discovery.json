@@ -1,0 +1,11 @@
+{
+  "name": "service-discovery",
+  "label": "Service Discovery",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "service",
+    "discovery"
+  ],
+  "version": "1.7"
+}

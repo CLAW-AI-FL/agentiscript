@@ -1,0 +1,11 @@
+{
+  "name": "streaming-join",
+  "label": "Streaming Join",
+  "category": "data",
+  "tags": [
+    "data",
+    "streaming",
+    "join"
+  ],
+  "version": "1.7"
+}

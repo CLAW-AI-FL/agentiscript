@@ -1,0 +1,11 @@
+{
+  "name": "molecular-docking",
+  "label": "Molecular Docking",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "molecular",
+    "docking"
+  ],
+  "version": "1.7"
+}

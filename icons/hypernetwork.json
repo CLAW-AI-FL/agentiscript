@@ -1,0 +1,10 @@
+{
+  "name": "hypernetwork",
+  "label": "Hypernetwork",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "hypernetwork"
+  ],
+  "version": "1.7"
+}

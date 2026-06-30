@@ -1,0 +1,11 @@
+{
+  "name": "revenue-equivalence",
+  "label": "Revenue Equivalence",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "revenue",
+    "equivalence"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "group-relative-policy-optimization",
+  "label": "Group Relative Policy Optimization",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "group",
+    "relative",
+    "policy",
+    "optimization"
+  ],
+  "version": "1.7"
+}

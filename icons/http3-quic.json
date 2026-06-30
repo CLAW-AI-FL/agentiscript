@@ -1,0 +1,11 @@
+{
+  "name": "http3-quic",
+  "label": "Http3 Quic",
+  "category": "web",
+  "tags": [
+    "web",
+    "http3",
+    "quic"
+  ],
+  "version": "1.7"
+}

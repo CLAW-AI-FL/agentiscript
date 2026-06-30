@@ -1,0 +1,11 @@
+{
+  "name": "latent-diffusion",
+  "label": "Latent Diffusion",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "latent",
+    "diffusion"
+  ],
+  "version": "1.7"
+}

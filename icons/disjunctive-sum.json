@@ -1,0 +1,11 @@
+{
+  "name": "disjunctive-sum",
+  "label": "Disjunctive Sum",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "disjunctive",
+    "sum"
+  ],
+  "version": "1.7"
+}

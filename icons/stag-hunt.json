@@ -1,0 +1,11 @@
+{
+  "name": "stag-hunt",
+  "label": "Stag Hunt",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "stag",
+    "hunt"
+  ],
+  "version": "1.7"
+}

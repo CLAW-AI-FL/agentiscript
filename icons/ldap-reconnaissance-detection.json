@@ -1,0 +1,12 @@
+{
+  "name": "ldap-reconnaissance-detection",
+  "label": "Ldap Reconnaissance Detection",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "ldap",
+    "reconnaissance",
+    "detection"
+  ],
+  "version": "1.7"
+}

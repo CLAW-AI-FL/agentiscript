@@ -1,0 +1,11 @@
+{
+  "name": "dummy-player",
+  "label": "Dummy Player",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "dummy",
+    "player"
+  ],
+  "version": "1.7"
+}

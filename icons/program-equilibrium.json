@@ -1,0 +1,11 @@
+{
+  "name": "program-equilibrium",
+  "label": "Program Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "program",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

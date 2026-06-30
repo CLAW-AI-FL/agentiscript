@@ -1,0 +1,11 @@
+{
+  "name": "contrastive-pretraining",
+  "label": "Contrastive Pretraining",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "contrastive",
+    "pretraining"
+  ],
+  "version": "1.7"
+}

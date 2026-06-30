@@ -1,0 +1,12 @@
+{
+  "name": "debt-service-coverage",
+  "label": "Debt Service Coverage",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "debt",
+    "service",
+    "coverage"
+  ],
+  "version": "1.7"
+}

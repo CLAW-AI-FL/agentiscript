@@ -1,0 +1,11 @@
+{
+  "name": "nucleus-sampling",
+  "label": "Nucleus Sampling",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "nucleus",
+    "sampling"
+  ],
+  "version": "1.7"
+}

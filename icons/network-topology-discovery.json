@@ -1,0 +1,12 @@
+{
+  "name": "network-topology-discovery",
+  "label": "Network Topology Discovery",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "network",
+    "topology",
+    "discovery"
+  ],
+  "version": "1.7"
+}

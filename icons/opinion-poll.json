@@ -1,0 +1,11 @@
+{
+  "name": "opinion-poll",
+  "label": "Opinion Poll",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "opinion",
+    "poll"
+  ],
+  "version": "1.7"
+}

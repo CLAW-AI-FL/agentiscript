@@ -1,0 +1,12 @@
+{
+  "name": "bio-inspired-robot",
+  "label": "Bio Inspired Robot",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "bio",
+    "inspired",
+    "robot"
+  ],
+  "version": "1.7"
+}

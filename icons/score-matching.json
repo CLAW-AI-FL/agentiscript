@@ -1,0 +1,11 @@
+{
+  "name": "score-matching",
+  "label": "Score Matching",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "score",
+    "matching"
+  ],
+  "version": "1.7"
+}

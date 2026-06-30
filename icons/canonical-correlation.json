@@ -1,0 +1,11 @@
+{
+  "name": "canonical-correlation",
+  "label": "Canonical Correlation",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "canonical",
+    "correlation"
+  ],
+  "version": "1.7"
+}

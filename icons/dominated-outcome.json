@@ -1,0 +1,11 @@
+{
+  "name": "dominated-outcome",
+  "label": "Dominated Outcome",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "dominated",
+    "outcome"
+  ],
+  "version": "1.7"
+}

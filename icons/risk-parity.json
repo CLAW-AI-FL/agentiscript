@@ -1,0 +1,11 @@
+{
+  "name": "risk-parity",
+  "label": "Risk Parity",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "risk",
+    "parity"
+  ],
+  "version": "1.7"
+}

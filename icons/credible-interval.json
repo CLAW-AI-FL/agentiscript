@@ -1,0 +1,11 @@
+{
+  "name": "credible-interval",
+  "label": "Credible Interval",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "credible",
+    "interval"
+  ],
+  "version": "1.7"
+}

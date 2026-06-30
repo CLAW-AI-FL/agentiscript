@@ -1,0 +1,11 @@
+{
+  "name": "pairs-trading",
+  "label": "Pairs Trading",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "pairs",
+    "trading"
+  ],
+  "version": "1.7"
+}

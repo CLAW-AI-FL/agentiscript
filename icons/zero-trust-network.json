@@ -1,0 +1,12 @@
+{
+  "name": "zero-trust-network",
+  "label": "Zero Trust Network",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "zero",
+    "trust",
+    "network"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "online-hard-mining",
+  "label": "Online Hard Mining",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "online",
+    "hard",
+    "mining"
+  ],
+  "version": "1.7"
+}

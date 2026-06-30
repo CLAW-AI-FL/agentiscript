@@ -1,0 +1,12 @@
+{
+  "name": "zero-shot-generalization",
+  "label": "Zero Shot Generalization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "zero",
+    "shot",
+    "generalization"
+  ],
+  "version": "1.7"
+}

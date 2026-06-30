@@ -1,0 +1,13 @@
+{
+  "name": "graph-neural-network-detection",
+  "label": "Graph Neural Network Detection",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "graph",
+    "neural",
+    "network",
+    "detection"
+  ],
+  "version": "1.7"
+}

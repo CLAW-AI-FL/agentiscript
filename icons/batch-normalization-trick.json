@@ -1,0 +1,12 @@
+{
+  "name": "batch-normalization-trick",
+  "label": "Batch Normalization Trick",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "batch",
+    "normalization",
+    "trick"
+  ],
+  "version": "1.7"
+}

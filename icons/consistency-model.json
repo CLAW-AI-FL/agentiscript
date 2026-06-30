@@ -1,0 +1,11 @@
+{
+  "name": "consistency-model",
+  "label": "Consistency Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "consistency",
+    "model"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dynamic-graph-masked-learning",
+  "label": "Dynamic Graph Masked Learning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "dynamic",
+    "graph",
+    "masked",
+    "learning"
+  ],
+  "version": "1.7"
+}

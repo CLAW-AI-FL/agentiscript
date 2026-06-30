@@ -1,0 +1,11 @@
+{
+  "name": "rational-agent",
+  "label": "Rational Agent",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "rational",
+    "agent"
+  ],
+  "version": "1.7"
+}

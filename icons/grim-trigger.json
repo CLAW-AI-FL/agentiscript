@@ -1,0 +1,11 @@
+{
+  "name": "grim-trigger",
+  "label": "Grim Trigger",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "grim",
+    "trigger"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "causal-inference",
+  "label": "Causal Inference",
+  "category": "economics",
+  "tags": [
+    "economics",
+    "causal",
+    "inference"
+  ],
+  "version": "1.7"
+}

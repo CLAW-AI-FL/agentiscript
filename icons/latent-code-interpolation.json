@@ -1,0 +1,12 @@
+{
+  "name": "latent-code-interpolation",
+  "label": "Latent Code Interpolation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "latent",
+    "code",
+    "interpolation"
+  ],
+  "version": "1.7"
+}

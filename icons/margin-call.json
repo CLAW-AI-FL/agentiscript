@@ -1,0 +1,11 @@
+{
+  "name": "margin-call",
+  "label": "Margin Call",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "margin",
+    "call"
+  ],
+  "version": "1.7"
+}

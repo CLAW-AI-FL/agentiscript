@@ -1,0 +1,11 @@
+{
+  "name": "semiparametric-model",
+  "label": "Semiparametric Model",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "semiparametric",
+    "model"
+  ],
+  "version": "1.7"
+}

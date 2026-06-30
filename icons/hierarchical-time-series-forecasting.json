@@ -1,0 +1,13 @@
+{
+  "name": "hierarchical-time-series-forecasting",
+  "label": "Hierarchical Time Series Forecasting",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "hierarchical",
+    "time",
+    "series",
+    "forecasting"
+  ],
+  "version": "1.7"
+}

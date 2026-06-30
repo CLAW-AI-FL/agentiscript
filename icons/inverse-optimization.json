@@ -1,0 +1,11 @@
+{
+  "name": "inverse-optimization",
+  "label": "Inverse Optimization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "inverse",
+    "optimization"
+  ],
+  "version": "1.7"
+}

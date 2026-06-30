@@ -1,0 +1,11 @@
+{
+  "name": "shannon-number",
+  "label": "Shannon Number",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "shannon",
+    "number"
+  ],
+  "version": "1.7"
+}

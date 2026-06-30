@@ -1,0 +1,12 @@
+{
+  "name": "learning-rate-warmup",
+  "label": "Learning Rate Warmup",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "learning",
+    "rate",
+    "warmup"
+  ],
+  "version": "1.7"
+}

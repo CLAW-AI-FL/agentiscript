@@ -1,0 +1,12 @@
+{
+  "name": "point-cloud-processing",
+  "label": "Point Cloud Processing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "point",
+    "cloud",
+    "processing"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "manifold-hypothesis",
+  "label": "Manifold Hypothesis",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "manifold",
+    "hypothesis"
+  ],
+  "version": "1.7"
+}

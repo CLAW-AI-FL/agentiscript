@@ -1,0 +1,12 @@
+{
+  "name": "largest-contentful-paint",
+  "label": "Largest Contentful Paint",
+  "category": "web",
+  "tags": [
+    "web",
+    "largest",
+    "contentful",
+    "paint"
+  ],
+  "version": "1.7"
+}

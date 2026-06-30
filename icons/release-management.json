@@ -1,0 +1,11 @@
+{
+  "name": "release-management",
+  "label": "Release Management",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "release",
+    "management"
+  ],
+  "version": "1.7"
+}

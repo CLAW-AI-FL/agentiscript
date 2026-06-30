@@ -1,0 +1,12 @@
+{
+  "name": "endpoint-detection-response",
+  "label": "Endpoint Detection Response",
+  "category": "security",
+  "tags": [
+    "security",
+    "endpoint",
+    "detection",
+    "response"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "gated-recurrent-unit",
+  "label": "Gated Recurrent Unit",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "gated",
+    "recurrent",
+    "unit"
+  ],
+  "version": "1.7"
+}

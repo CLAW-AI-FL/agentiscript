@@ -1,0 +1,11 @@
+{
+  "name": "box-plot",
+  "label": "Box Plot",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "box",
+    "plot"
+  ],
+  "version": "1.7"
+}

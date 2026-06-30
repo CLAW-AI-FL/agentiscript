@@ -1,0 +1,12 @@
+{
+  "name": "agentic-ai-pipeline",
+  "label": "Agentic Ai Pipeline",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "agentic",
+    "ai",
+    "pipeline"
+  ],
+  "version": "1.7"
+}

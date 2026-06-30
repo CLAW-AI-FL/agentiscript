@@ -1,0 +1,12 @@
+{
+  "name": "linear-probe-evaluation",
+  "label": "Linear Probe Evaluation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "linear",
+    "probe",
+    "evaluation"
+  ],
+  "version": "1.7"
+}

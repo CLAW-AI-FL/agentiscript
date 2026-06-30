@@ -1,0 +1,12 @@
+{
+  "name": "quantum-transport-learning",
+  "label": "Quantum Transport Learning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "quantum",
+    "transport",
+    "learning"
+  ],
+  "version": "1.7"
+}

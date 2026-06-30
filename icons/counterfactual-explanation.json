@@ -1,0 +1,11 @@
+{
+  "name": "counterfactual-explanation",
+  "label": "Counterfactual Explanation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "counterfactual",
+    "explanation"
+  ],
+  "version": "1.7"
+}

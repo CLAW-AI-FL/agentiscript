@@ -1,0 +1,11 @@
+{
+  "name": "experiment-tracking",
+  "label": "Experiment Tracking",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "experiment",
+    "tracking"
+  ],
+  "version": "1.7"
+}

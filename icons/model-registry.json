@@ -1,0 +1,11 @@
+{
+  "name": "model-registry",
+  "label": "Model Registry",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "model",
+    "registry"
+  ],
+  "version": "1.7"
+}

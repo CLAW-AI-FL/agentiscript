@@ -1,0 +1,11 @@
+{
+  "name": "prefix-tuning",
+  "label": "Prefix Tuning",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "prefix",
+    "tuning"
+  ],
+  "version": "1.7"
+}

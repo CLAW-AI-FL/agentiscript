@@ -1,0 +1,10 @@
+{
+  "name": "rank-statistics",
+  "label": "Rank Statistics",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "rank"
+  ],
+  "version": "1.7"
+}

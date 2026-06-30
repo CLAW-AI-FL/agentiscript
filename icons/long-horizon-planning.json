@@ -1,0 +1,12 @@
+{
+  "name": "long-horizon-planning",
+  "label": "Long Horizon Planning",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "long",
+    "horizon",
+    "planning"
+  ],
+  "version": "1.7"
+}

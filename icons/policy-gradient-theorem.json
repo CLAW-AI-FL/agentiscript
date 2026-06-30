@@ -1,0 +1,12 @@
+{
+  "name": "policy-gradient-theorem",
+  "label": "Policy Gradient Theorem",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "policy",
+    "gradient",
+    "theorem"
+  ],
+  "version": "1.7"
+}

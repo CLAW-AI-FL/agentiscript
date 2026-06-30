@@ -1,0 +1,11 @@
+{
+  "name": "contrastive-learning",
+  "label": "Contrastive Learning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "contrastive",
+    "learning"
+  ],
+  "version": "1.7"
+}

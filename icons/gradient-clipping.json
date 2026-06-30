@@ -1,0 +1,11 @@
+{
+  "name": "gradient-clipping",
+  "label": "Gradient Clipping",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "gradient",
+    "clipping"
+  ],
+  "version": "1.7"
+}

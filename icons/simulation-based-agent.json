@@ -1,0 +1,12 @@
+{
+  "name": "simulation-based-agent",
+  "label": "Simulation Based Agent",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "simulation",
+    "based",
+    "agent"
+  ],
+  "version": "1.7"
+}

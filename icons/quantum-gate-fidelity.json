@@ -1,0 +1,11 @@
+{
+  "name": "quantum-gate-fidelity",
+  "label": "Quantum Gate Fidelity",
+  "category": "quantum",
+  "tags": [
+    "quantum",
+    "gate",
+    "fidelity"
+  ],
+  "version": "1.7"
+}

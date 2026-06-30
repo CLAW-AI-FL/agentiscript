@@ -1,0 +1,12 @@
+{
+  "name": "change-advisory-board",
+  "label": "Change Advisory Board",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "change",
+    "advisory",
+    "board"
+  ],
+  "version": "1.7"
+}

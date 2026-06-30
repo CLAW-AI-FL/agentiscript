@@ -1,0 +1,11 @@
+{
+  "name": "chainstore-paradox",
+  "label": "Chainstore Paradox",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "chainstore",
+    "paradox"
+  ],
+  "version": "1.7"
+}

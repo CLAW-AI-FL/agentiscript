@@ -1,0 +1,11 @@
+{
+  "name": "serverless-architecture",
+  "label": "Serverless Architecture",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "serverless",
+    "architecture"
+  ],
+  "version": "1.7"
+}

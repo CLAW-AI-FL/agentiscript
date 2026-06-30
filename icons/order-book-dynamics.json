@@ -1,0 +1,12 @@
+{
+  "name": "order-book-dynamics",
+  "label": "Order Book Dynamics",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "order",
+    "book",
+    "dynamics"
+  ],
+  "version": "1.7"
+}

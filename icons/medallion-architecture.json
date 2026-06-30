@@ -1,0 +1,11 @@
+{
+  "name": "medallion-architecture",
+  "label": "Medallion Architecture",
+  "category": "data",
+  "tags": [
+    "data",
+    "medallion",
+    "architecture"
+  ],
+  "version": "1.7"
+}

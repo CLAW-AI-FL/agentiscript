@@ -1,0 +1,11 @@
+{
+  "name": "factor-investing",
+  "label": "Factor Investing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "factor",
+    "investing"
+  ],
+  "version": "1.7"
+}

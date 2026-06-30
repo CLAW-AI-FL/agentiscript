@@ -1,0 +1,12 @@
+{
+  "name": "sliding-window-attention",
+  "label": "Sliding Window Attention",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "sliding",
+    "window",
+    "attention"
+  ],
+  "version": "1.7"
+}

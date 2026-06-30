@@ -1,0 +1,11 @@
+{
+  "name": "agent-grounding",
+  "label": "Agent Grounding",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "agent",
+    "grounding"
+  ],
+  "version": "1.7"
+}

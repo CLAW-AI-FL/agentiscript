@@ -1,0 +1,13 @@
+{
+  "name": "plan-and-execute-agent",
+  "label": "Plan And Execute Agent",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "plan",
+    "and",
+    "execute",
+    "agent"
+  ],
+  "version": "1.7"
+}

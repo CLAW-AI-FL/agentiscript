@@ -1,0 +1,11 @@
+{
+  "name": "teleoperation-system",
+  "label": "Teleoperation System",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "teleoperation",
+    "system"
+  ],
+  "version": "1.7"
+}

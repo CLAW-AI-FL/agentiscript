@@ -1,0 +1,11 @@
+{
+  "name": "gaussian-splatting",
+  "label": "Gaussian Splatting",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "gaussian",
+    "splatting"
+  ],
+  "version": "1.7"
+}

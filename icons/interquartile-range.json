@@ -1,0 +1,11 @@
+{
+  "name": "interquartile-range",
+  "label": "Interquartile Range",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "interquartile",
+    "range"
+  ],
+  "version": "1.7"
+}

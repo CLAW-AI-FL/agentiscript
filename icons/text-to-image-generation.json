@@ -1,0 +1,13 @@
+{
+  "name": "text-to-image-generation",
+  "label": "Text To Image Generation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "text",
+    "to",
+    "image",
+    "generation"
+  ],
+  "version": "1.7"
+}

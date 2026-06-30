@@ -1,0 +1,12 @@
+{
+  "name": "context-window-extension",
+  "label": "Context Window Extension",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "context",
+    "window",
+    "extension"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "content-delivery-network",
+  "label": "Content Delivery Network",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "content",
+    "delivery",
+    "network"
+  ],
+  "version": "1.7"
+}

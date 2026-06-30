@@ -1,0 +1,12 @@
+{
+  "name": "site-reliability-engineering",
+  "label": "Site Reliability Engineering",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "site",
+    "reliability",
+    "engineering"
+  ],
+  "version": "1.7"
+}

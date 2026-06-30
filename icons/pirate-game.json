@@ -1,0 +1,11 @@
+{
+  "name": "pirate-game",
+  "label": "Pirate Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "pirate",
+    "game"
+  ],
+  "version": "1.7"
+}

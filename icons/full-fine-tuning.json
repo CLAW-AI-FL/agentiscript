@@ -1,0 +1,12 @@
+{
+  "name": "full-fine-tuning",
+  "label": "Full Fine Tuning",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "full",
+    "fine",
+    "tuning"
+  ],
+  "version": "1.7"
+}

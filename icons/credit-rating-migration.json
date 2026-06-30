@@ -1,0 +1,12 @@
+{
+  "name": "credit-rating-migration",
+  "label": "Credit Rating Migration",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "credit",
+    "rating",
+    "migration"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "consistent-hashing",
+  "label": "Consistent Hashing",
+  "category": "database",
+  "tags": [
+    "database",
+    "consistent",
+    "hashing"
+  ],
+  "version": "1.7"
+}

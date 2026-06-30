@@ -1,0 +1,11 @@
+{
+  "name": "myerson-ironing",
+  "label": "Myerson Ironing",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "myerson",
+    "ironing"
+  ],
+  "version": "1.7"
+}

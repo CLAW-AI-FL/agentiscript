@@ -1,0 +1,12 @@
+{
+  "name": "columnar-storage-format",
+  "label": "Columnar Storage Format",
+  "category": "data",
+  "tags": [
+    "data",
+    "columnar",
+    "storage",
+    "format"
+  ],
+  "version": "1.7"
+}

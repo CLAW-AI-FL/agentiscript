@@ -1,0 +1,12 @@
+{
+  "name": "multi-factor-authentication",
+  "label": "Multi Factor Authentication",
+  "category": "security",
+  "tags": [
+    "security",
+    "multi",
+    "factor",
+    "authentication"
+  ],
+  "version": "1.7"
+}

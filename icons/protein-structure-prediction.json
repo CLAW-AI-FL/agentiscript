@@ -1,0 +1,12 @@
+{
+  "name": "protein-structure-prediction",
+  "label": "Protein Structure Prediction",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "protein",
+    "structure",
+    "prediction"
+  ],
+  "version": "1.7"
+}

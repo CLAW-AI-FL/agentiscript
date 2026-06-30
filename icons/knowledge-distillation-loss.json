@@ -1,0 +1,12 @@
+{
+  "name": "knowledge-distillation-loss",
+  "label": "Knowledge Distillation Loss",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "knowledge",
+    "distillation",
+    "loss"
+  ],
+  "version": "1.7"
+}

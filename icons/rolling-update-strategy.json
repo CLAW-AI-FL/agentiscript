@@ -1,0 +1,12 @@
+{
+  "name": "rolling-update-strategy",
+  "label": "Rolling Update Strategy",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "rolling",
+    "update",
+    "strategy"
+  ],
+  "version": "1.7"
+}

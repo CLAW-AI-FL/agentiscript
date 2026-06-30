@@ -1,0 +1,11 @@
+{
+  "name": "lilliefors-test",
+  "label": "Lilliefors Test",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "lilliefors",
+    "test"
+  ],
+  "version": "1.7"
+}

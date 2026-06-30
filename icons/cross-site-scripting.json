@@ -1,0 +1,12 @@
+{
+  "name": "cross-site-scripting",
+  "label": "Cross Site Scripting",
+  "category": "web",
+  "tags": [
+    "web",
+    "cross",
+    "site",
+    "scripting"
+  ],
+  "version": "1.7"
+}

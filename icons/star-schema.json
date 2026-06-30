@@ -1,0 +1,11 @@
+{
+  "name": "star-schema",
+  "label": "Star Schema",
+  "category": "data",
+  "tags": [
+    "data",
+    "star",
+    "schema"
+  ],
+  "version": "1.7"
+}

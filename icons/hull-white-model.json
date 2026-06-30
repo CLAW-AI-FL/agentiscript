@@ -1,0 +1,12 @@
+{
+  "name": "hull-white-model",
+  "label": "Hull White Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "hull",
+    "white",
+    "model"
+  ],
+  "version": "1.7"
+}

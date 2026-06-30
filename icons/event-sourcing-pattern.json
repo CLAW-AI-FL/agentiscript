@@ -1,0 +1,12 @@
+{
+  "name": "event-sourcing-pattern",
+  "label": "Event Sourcing Pattern",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "event",
+    "sourcing",
+    "pattern"
+  ],
+  "version": "1.7"
+}

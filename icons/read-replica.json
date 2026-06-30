@@ -1,0 +1,11 @@
+{
+  "name": "read-replica",
+  "label": "Read Replica",
+  "category": "database",
+  "tags": [
+    "database",
+    "read",
+    "replica"
+  ],
+  "version": "1.7"
+}

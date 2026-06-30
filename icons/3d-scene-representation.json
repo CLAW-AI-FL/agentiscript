@@ -1,0 +1,12 @@
+{
+  "name": "3d-scene-representation",
+  "label": "3d Scene Representation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "3d",
+    "scene",
+    "representation"
+  ],
+  "version": "1.7"
+}

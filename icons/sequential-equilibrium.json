@@ -1,0 +1,11 @@
+{
+  "name": "sequential-equilibrium",
+  "label": "Sequential Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "sequential",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

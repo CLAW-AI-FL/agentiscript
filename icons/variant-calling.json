@@ -1,0 +1,11 @@
+{
+  "name": "variant-calling",
+  "label": "Variant Calling",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "variant",
+    "calling"
+  ],
+  "version": "1.7"
+}

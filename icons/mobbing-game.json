@@ -1,0 +1,11 @@
+{
+  "name": "mobbing-game",
+  "label": "Mobbing Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "mobbing",
+    "game"
+  ],
+  "version": "1.7"
+}

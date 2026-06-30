@@ -1,0 +1,13 @@
+{
+  "name": "interaction-to-next-paint",
+  "label": "Interaction To Next Paint",
+  "category": "web",
+  "tags": [
+    "web",
+    "interaction",
+    "to",
+    "next",
+    "paint"
+  ],
+  "version": "1.7"
+}

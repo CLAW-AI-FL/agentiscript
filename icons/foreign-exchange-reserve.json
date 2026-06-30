@@ -1,0 +1,12 @@
+{
+  "name": "foreign-exchange-reserve",
+  "label": "Foreign Exchange Reserve",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "foreign",
+    "exchange",
+    "reserve"
+  ],
+  "version": "1.7"
+}

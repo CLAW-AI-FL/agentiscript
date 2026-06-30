@@ -1,0 +1,11 @@
+{
+  "name": "data-mesh-architecture",
+  "label": "Data Mesh Architecture",
+  "category": "data",
+  "tags": [
+    "data",
+    "mesh",
+    "architecture"
+  ],
+  "version": "1.7"
+}

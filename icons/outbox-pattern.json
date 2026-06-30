@@ -1,0 +1,11 @@
+{
+  "name": "outbox-pattern",
+  "label": "Outbox Pattern",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "outbox",
+    "pattern"
+  ],
+  "version": "1.7"
+}

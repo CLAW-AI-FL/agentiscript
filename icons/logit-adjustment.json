@@ -1,0 +1,11 @@
+{
+  "name": "logit-adjustment",
+  "label": "Logit Adjustment",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "logit",
+    "adjustment"
+  ],
+  "version": "1.7"
+}

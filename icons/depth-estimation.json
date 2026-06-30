@@ -1,0 +1,11 @@
+{
+  "name": "depth-estimation",
+  "label": "Depth Estimation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "depth",
+    "estimation"
+  ],
+  "version": "1.7"
+}

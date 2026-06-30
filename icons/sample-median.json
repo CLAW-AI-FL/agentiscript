@@ -1,0 +1,11 @@
+{
+  "name": "sample-median",
+  "label": "Sample Median",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "sample",
+    "median"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bayes-estimator",
+  "label": "Bayes Estimator",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "bayes",
+    "estimator"
+  ],
+  "version": "1.7"
+}

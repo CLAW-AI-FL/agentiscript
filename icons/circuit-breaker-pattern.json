@@ -1,0 +1,12 @@
+{
+  "name": "circuit-breaker-pattern",
+  "label": "Circuit Breaker Pattern",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "circuit",
+    "breaker",
+    "pattern"
+  ],
+  "version": "1.7"
+}

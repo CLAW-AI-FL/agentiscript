@@ -1,0 +1,12 @@
+{
+  "name": "linear-bandit-exploration",
+  "label": "Linear Bandit Exploration",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "linear",
+    "bandit",
+    "exploration"
+  ],
+  "version": "1.7"
+}

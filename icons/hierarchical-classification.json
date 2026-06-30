@@ -1,0 +1,11 @@
+{
+  "name": "hierarchical-classification",
+  "label": "Hierarchical Classification",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "hierarchical",
+    "classification"
+  ],
+  "version": "1.7"
+}

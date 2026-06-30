@@ -1,0 +1,12 @@
+{
+  "name": "paasche-price-index",
+  "label": "Paasche Price Index",
+  "category": "economics",
+  "tags": [
+    "economics",
+    "paasche",
+    "price",
+    "index"
+  ],
+  "version": "1.7"
+}

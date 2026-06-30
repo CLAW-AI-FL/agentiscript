@@ -1,0 +1,12 @@
+{
+  "name": "random-feature-approximation",
+  "label": "Random Feature Approximation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "random",
+    "feature",
+    "approximation"
+  ],
+  "version": "1.7"
+}

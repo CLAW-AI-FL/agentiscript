@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain-security",
+  "label": "Supply Chain Security",
+  "category": "security",
+  "tags": [
+    "security",
+    "supply",
+    "chain"
+  ],
+  "version": "1.7"
+}

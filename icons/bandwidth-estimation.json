@@ -1,0 +1,11 @@
+{
+  "name": "bandwidth-estimation",
+  "label": "Bandwidth Estimation",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "bandwidth",
+    "estimation"
+  ],
+  "version": "1.7"
+}

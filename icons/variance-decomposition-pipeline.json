@@ -1,0 +1,12 @@
+{
+  "name": "variance-decomposition-pipeline",
+  "label": "Variance Decomposition Pipeline",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "variance",
+    "decomposition",
+    "pipeline"
+  ],
+  "version": "1.7"
+}

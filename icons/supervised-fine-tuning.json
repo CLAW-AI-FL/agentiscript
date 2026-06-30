@@ -1,0 +1,12 @@
+{
+  "name": "supervised-fine-tuning",
+  "label": "Supervised Fine Tuning",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "supervised",
+    "fine",
+    "tuning"
+  ],
+  "version": "1.7"
+}

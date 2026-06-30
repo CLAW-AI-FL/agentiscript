@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-rebalancing",
+  "label": "Portfolio Rebalancing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "portfolio",
+    "rebalancing"
+  ],
+  "version": "1.7"
+}

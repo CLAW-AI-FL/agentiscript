@@ -1,0 +1,12 @@
+{
+  "name": "emotional-body-motion",
+  "label": "Emotional Body Motion",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "emotional",
+    "body",
+    "motion"
+  ],
+  "version": "1.7"
+}

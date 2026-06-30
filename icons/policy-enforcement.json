@@ -1,0 +1,11 @@
+{
+  "name": "policy-enforcement",
+  "label": "Policy Enforcement",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "policy",
+    "enforcement"
+  ],
+  "version": "1.7"
+}

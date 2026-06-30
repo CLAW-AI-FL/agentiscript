@@ -1,0 +1,12 @@
+{
+  "name": "world-model-prediction",
+  "label": "World Model Prediction",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "world",
+    "model",
+    "prediction"
+  ],
+  "version": "1.7"
+}

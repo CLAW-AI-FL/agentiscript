@@ -1,0 +1,11 @@
+{
+  "name": "merger-arbitrage",
+  "label": "Merger Arbitrage",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "merger",
+    "arbitrage"
+  ],
+  "version": "1.7"
+}

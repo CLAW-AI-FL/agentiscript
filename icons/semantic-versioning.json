@@ -1,0 +1,11 @@
+{
+  "name": "semantic-versioning",
+  "label": "Semantic Versioning",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "semantic",
+    "versioning"
+  ],
+  "version": "1.7"
+}

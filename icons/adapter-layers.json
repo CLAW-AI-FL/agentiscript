@@ -1,0 +1,11 @@
+{
+  "name": "adapter-layers",
+  "label": "Adapter Layers",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "adapter",
+    "layers"
+  ],
+  "version": "1.7"
+}

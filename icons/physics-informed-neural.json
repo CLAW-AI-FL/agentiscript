@@ -1,0 +1,12 @@
+{
+  "name": "physics-informed-neural",
+  "label": "Physics Informed Neural",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "physics",
+    "informed",
+    "neural"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "continuous-integration",
+  "label": "Continuous Integration",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "continuous",
+    "integration"
+  ],
+  "version": "1.7"
+}

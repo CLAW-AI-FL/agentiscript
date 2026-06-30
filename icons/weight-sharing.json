@@ -1,0 +1,11 @@
+{
+  "name": "weight-sharing",
+  "label": "Weight Sharing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "weight",
+    "sharing"
+  ],
+  "version": "1.7"
+}

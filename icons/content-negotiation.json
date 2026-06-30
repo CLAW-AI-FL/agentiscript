@@ -1,0 +1,11 @@
+{
+  "name": "content-negotiation",
+  "label": "Content Negotiation",
+  "category": "web",
+  "tags": [
+    "web",
+    "content",
+    "negotiation"
+  ],
+  "version": "1.7"
+}

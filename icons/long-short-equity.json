@@ -1,0 +1,12 @@
+{
+  "name": "long-short-equity",
+  "label": "Long Short Equity",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "long",
+    "short",
+    "equity"
+  ],
+  "version": "1.7"
+}

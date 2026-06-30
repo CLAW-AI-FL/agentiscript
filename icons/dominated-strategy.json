@@ -1,0 +1,11 @@
+{
+  "name": "dominated-strategy",
+  "label": "Dominated Strategy",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "dominated",
+    "strategy"
+  ],
+  "version": "1.7"
+}

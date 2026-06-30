@@ -1,0 +1,10 @@
+{
+  "name": "quantum-entanglement",
+  "label": "Quantum Entanglement",
+  "category": "quantum",
+  "tags": [
+    "quantum",
+    "entanglement"
+  ],
+  "version": "1.7"
+}

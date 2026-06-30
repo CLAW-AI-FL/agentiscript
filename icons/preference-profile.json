@@ -1,0 +1,11 @@
+{
+  "name": "preference-profile",
+  "label": "Preference Profile",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "preference",
+    "profile"
+  ],
+  "version": "1.7"
+}

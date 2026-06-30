@@ -1,0 +1,11 @@
+{
+  "name": "acceptable-game",
+  "label": "Acceptable Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "acceptable",
+    "game"
+  ],
+  "version": "1.7"
+}

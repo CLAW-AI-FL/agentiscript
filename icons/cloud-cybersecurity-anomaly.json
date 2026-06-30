@@ -1,0 +1,12 @@
+{
+  "name": "cloud-cybersecurity-anomaly",
+  "label": "Cloud Cybersecurity Anomaly",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "cloud",
+    "cybersecurity",
+    "anomaly"
+  ],
+  "version": "1.7"
+}

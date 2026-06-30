@@ -1,0 +1,12 @@
+{
+  "name": "replica-symmetry-breaking",
+  "label": "Replica Symmetry Breaking",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "replica",
+    "symmetry",
+    "breaking"
+  ],
+  "version": "1.7"
+}

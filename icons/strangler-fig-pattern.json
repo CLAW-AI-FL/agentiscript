@@ -1,0 +1,12 @@
+{
+  "name": "strangler-fig-pattern",
+  "label": "Strangler Fig Pattern",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "strangler",
+    "fig",
+    "pattern"
+  ],
+  "version": "1.7"
+}

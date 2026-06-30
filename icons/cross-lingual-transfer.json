@@ -1,0 +1,12 @@
+{
+  "name": "cross-lingual-transfer",
+  "label": "Cross Lingual Transfer",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "cross",
+    "lingual",
+    "transfer"
+  ],
+  "version": "1.7"
+}

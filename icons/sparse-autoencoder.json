@@ -1,0 +1,11 @@
+{
+  "name": "sparse-autoencoder",
+  "label": "Sparse Autoencoder",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "sparse",
+    "autoencoder"
+  ],
+  "version": "1.7"
+}

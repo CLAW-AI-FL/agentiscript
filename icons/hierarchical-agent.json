@@ -1,0 +1,11 @@
+{
+  "name": "hierarchical-agent",
+  "label": "Hierarchical Agent",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "hierarchical",
+    "agent"
+  ],
+  "version": "1.7"
+}

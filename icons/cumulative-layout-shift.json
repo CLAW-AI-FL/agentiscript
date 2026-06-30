@@ -1,0 +1,12 @@
+{
+  "name": "cumulative-layout-shift",
+  "label": "Cumulative Layout Shift",
+  "category": "web",
+  "tags": [
+    "web",
+    "cumulative",
+    "layout",
+    "shift"
+  ],
+  "version": "1.7"
+}

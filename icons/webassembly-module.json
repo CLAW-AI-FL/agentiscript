@@ -1,0 +1,11 @@
+{
+  "name": "webassembly-module",
+  "label": "Webassembly Module",
+  "category": "web",
+  "tags": [
+    "web",
+    "webassembly",
+    "module"
+  ],
+  "version": "1.7"
+}

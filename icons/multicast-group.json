@@ -1,0 +1,11 @@
+{
+  "name": "multicast-group",
+  "label": "Multicast Group",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "multicast",
+    "group"
+  ],
+  "version": "1.7"
+}

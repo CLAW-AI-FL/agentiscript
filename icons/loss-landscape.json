@@ -1,0 +1,11 @@
+{
+  "name": "loss-landscape",
+  "label": "Loss Landscape",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "loss",
+    "landscape"
+  ],
+  "version": "1.7"
+}

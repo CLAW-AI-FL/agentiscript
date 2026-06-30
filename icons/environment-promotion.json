@@ -1,0 +1,11 @@
+{
+  "name": "environment-promotion",
+  "label": "Environment Promotion",
+  "category": "devops",
+  "tags": [
+    "devops",
+    "environment",
+    "promotion"
+  ],
+  "version": "1.7"
+}

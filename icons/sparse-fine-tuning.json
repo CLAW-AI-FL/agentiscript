@@ -1,0 +1,12 @@
+{
+  "name": "sparse-fine-tuning",
+  "label": "Sparse Fine Tuning",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "sparse",
+    "fine",
+    "tuning"
+  ],
+  "version": "1.7"
+}

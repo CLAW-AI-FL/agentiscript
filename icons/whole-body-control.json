@@ -1,0 +1,12 @@
+{
+  "name": "whole-body-control",
+  "label": "Whole Body Control",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "whole",
+    "body",
+    "control"
+  ],
+  "version": "1.7"
+}

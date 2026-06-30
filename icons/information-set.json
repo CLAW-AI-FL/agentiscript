@@ -1,0 +1,11 @@
+{
+  "name": "information-set",
+  "label": "Information Set",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "information",
+    "set"
+  ],
+  "version": "1.7"
+}

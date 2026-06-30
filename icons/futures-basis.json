@@ -1,0 +1,11 @@
+{
+  "name": "futures-basis",
+  "label": "Futures Basis",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "futures",
+    "basis"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "time-domain-analysis",
+  "label": "Time Domain Analysis",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "time",
+    "domain",
+    "analysis"
+  ],
+  "version": "1.7"
+}

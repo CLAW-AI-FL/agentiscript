@@ -1,0 +1,11 @@
+{
+  "name": "commitment-device",
+  "label": "Commitment Device",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "commitment",
+    "device"
+  ],
+  "version": "1.7"
+}

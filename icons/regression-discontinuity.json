@@ -1,0 +1,11 @@
+{
+  "name": "regression-discontinuity",
+  "label": "Regression Discontinuity",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "regression",
+    "discontinuity"
+  ],
+  "version": "1.7"
+}

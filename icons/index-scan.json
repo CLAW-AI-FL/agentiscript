@@ -1,0 +1,11 @@
+{
+  "name": "index-scan",
+  "label": "Index Scan",
+  "category": "database",
+  "tags": [
+    "database",
+    "index",
+    "scan"
+  ],
+  "version": "1.7"
+}

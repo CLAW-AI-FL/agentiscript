@@ -1,0 +1,11 @@
+{
+  "name": "finite-game",
+  "label": "Finite Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "finite",
+    "game"
+  ],
+  "version": "1.7"
+}

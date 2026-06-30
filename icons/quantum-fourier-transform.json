@@ -1,0 +1,11 @@
+{
+  "name": "quantum-fourier-transform",
+  "label": "Quantum Fourier Transform",
+  "category": "quantum",
+  "tags": [
+    "quantum",
+    "fourier",
+    "transform"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stochastic-depth",
+  "label": "Stochastic Depth",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "stochastic",
+    "depth"
+  ],
+  "version": "1.7"
+}

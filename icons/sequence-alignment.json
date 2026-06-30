@@ -1,0 +1,11 @@
+{
+  "name": "sequence-alignment",
+  "label": "Sequence Alignment",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "sequence",
+    "alignment"
+  ],
+  "version": "1.7"
+}

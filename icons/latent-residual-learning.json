@@ -1,0 +1,12 @@
+{
+  "name": "latent-residual-learning",
+  "label": "Latent Residual Learning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "latent",
+    "residual",
+    "learning"
+  ],
+  "version": "1.7"
+}

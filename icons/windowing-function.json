@@ -1,0 +1,11 @@
+{
+  "name": "windowing-function",
+  "label": "Windowing Function",
+  "category": "data",
+  "tags": [
+    "data",
+    "windowing",
+    "function"
+  ],
+  "version": "1.7"
+}

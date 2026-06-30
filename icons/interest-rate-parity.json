@@ -1,0 +1,12 @@
+{
+  "name": "interest-rate-parity",
+  "label": "Interest Rate Parity",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "interest",
+    "rate",
+    "parity"
+  ],
+  "version": "1.7"
+}

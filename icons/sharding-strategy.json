@@ -1,0 +1,11 @@
+{
+  "name": "sharding-strategy",
+  "label": "Sharding Strategy",
+  "category": "database",
+  "tags": [
+    "database",
+    "sharding",
+    "strategy"
+  ],
+  "version": "1.7"
+}

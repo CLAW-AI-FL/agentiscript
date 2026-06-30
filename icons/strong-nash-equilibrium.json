@@ -1,0 +1,12 @@
+{
+  "name": "strong-nash-equilibrium",
+  "label": "Strong Nash Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "strong",
+    "nash",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

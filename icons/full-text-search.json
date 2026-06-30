@@ -1,0 +1,12 @@
+{
+  "name": "full-text-search",
+  "label": "Full Text Search",
+  "category": "database",
+  "tags": [
+    "database",
+    "full",
+    "text",
+    "search"
+  ],
+  "version": "1.7"
+}

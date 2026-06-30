@@ -1,0 +1,11 @@
+{
+  "name": "auxiliary-loss",
+  "label": "Auxiliary Loss",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "auxiliary",
+    "loss"
+  ],
+  "version": "1.7"
+}

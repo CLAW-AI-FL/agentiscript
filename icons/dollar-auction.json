@@ -1,0 +1,11 @@
+{
+  "name": "dollar-auction",
+  "label": "Dollar Auction",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "dollar",
+    "auction"
+  ],
+  "version": "1.7"
+}

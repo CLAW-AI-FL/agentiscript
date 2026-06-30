@@ -1,0 +1,11 @@
+{
+  "name": "base-consistency",
+  "label": "Base Consistency",
+  "category": "database",
+  "tags": [
+    "database",
+    "base",
+    "consistency"
+  ],
+  "version": "1.7"
+}

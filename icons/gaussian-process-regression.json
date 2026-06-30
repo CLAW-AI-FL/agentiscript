@@ -1,0 +1,12 @@
+{
+  "name": "gaussian-process-regression",
+  "label": "Gaussian Process Regression",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "gaussian",
+    "process",
+    "regression"
+  ],
+  "version": "1.7"
+}

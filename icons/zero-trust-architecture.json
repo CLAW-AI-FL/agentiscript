@@ -1,0 +1,12 @@
+{
+  "name": "zero-trust-architecture",
+  "label": "Zero Trust Architecture",
+  "category": "security",
+  "tags": [
+    "security",
+    "zero",
+    "trust",
+    "architecture"
+  ],
+  "version": "1.7"
+}

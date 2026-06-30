@@ -1,0 +1,12 @@
+{
+  "name": "simultaneous-localization-mapping",
+  "label": "Simultaneous Localization Mapping",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "simultaneous",
+    "localization",
+    "mapping"
+  ],
+  "version": "1.7"
+}

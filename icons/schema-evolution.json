@@ -1,0 +1,11 @@
+{
+  "name": "schema-evolution",
+  "label": "Schema Evolution",
+  "category": "data",
+  "tags": [
+    "data",
+    "schema",
+    "evolution"
+  ],
+  "version": "1.7"
+}

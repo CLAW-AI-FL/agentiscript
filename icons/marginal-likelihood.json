@@ -1,0 +1,11 @@
+{
+  "name": "marginal-likelihood",
+  "label": "Marginal Likelihood",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "marginal",
+    "likelihood"
+  ],
+  "version": "1.7"
+}

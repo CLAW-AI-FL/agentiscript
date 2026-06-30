@@ -1,0 +1,12 @@
+{
+  "name": "linear-quadratic-stackelberg",
+  "label": "Linear Quadratic Stackelberg",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "linear",
+    "quadratic",
+    "stackelberg"
+  ],
+  "version": "1.7"
+}

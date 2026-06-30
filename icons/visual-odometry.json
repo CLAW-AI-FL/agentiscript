@@ -1,0 +1,11 @@
+{
+  "name": "visual-odometry",
+  "label": "Visual Odometry",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "visual",
+    "odometry"
+  ],
+  "version": "1.7"
+}

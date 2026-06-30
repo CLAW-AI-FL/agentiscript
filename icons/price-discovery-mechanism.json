@@ -1,0 +1,12 @@
+{
+  "name": "price-discovery-mechanism",
+  "label": "Price Discovery Mechanism",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "price",
+    "discovery",
+    "mechanism"
+  ],
+  "version": "1.7"
+}

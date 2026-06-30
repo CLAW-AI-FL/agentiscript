@@ -1,0 +1,11 @@
+{
+  "name": "inference-optimization",
+  "label": "Inference Optimization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "inference",
+    "optimization"
+  ],
+  "version": "1.7"
+}

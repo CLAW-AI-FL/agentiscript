@@ -1,0 +1,12 @@
+{
+  "name": "structured-output-generation",
+  "label": "Structured Output Generation",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "structured",
+    "output",
+    "generation"
+  ],
+  "version": "1.7"
+}

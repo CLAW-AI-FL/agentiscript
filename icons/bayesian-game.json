@@ -1,0 +1,11 @@
+{
+  "name": "bayesian-game",
+  "label": "Bayesian Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "bayesian",
+    "game"
+  ],
+  "version": "1.7"
+}

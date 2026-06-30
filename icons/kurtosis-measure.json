@@ -1,0 +1,11 @@
+{
+  "name": "kurtosis-measure",
+  "label": "Kurtosis Measure",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "kurtosis",
+    "measure"
+  ],
+  "version": "1.7"
+}

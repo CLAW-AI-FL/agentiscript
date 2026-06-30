@@ -1,0 +1,11 @@
+{
+  "name": "autoregressive-flow",
+  "label": "Autoregressive Flow",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "autoregressive",
+    "flow"
+  ],
+  "version": "1.7"
+}

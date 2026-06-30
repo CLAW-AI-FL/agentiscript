@@ -1,0 +1,12 @@
+{
+  "name": "pure-nash-equilibrium",
+  "label": "Pure Nash Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "pure",
+    "nash",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

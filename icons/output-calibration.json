@@ -1,0 +1,11 @@
+{
+  "name": "output-calibration",
+  "label": "Output Calibration",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "output",
+    "calibration"
+  ],
+  "version": "1.7"
+}

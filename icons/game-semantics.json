@@ -1,0 +1,11 @@
+{
+  "name": "game-semantics",
+  "label": "Game Semantics",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "game",
+    "semantics"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "model-serving-architecture",
+  "label": "Model Serving Architecture",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "model",
+    "serving",
+    "architecture"
+  ],
+  "version": "1.7"
+}

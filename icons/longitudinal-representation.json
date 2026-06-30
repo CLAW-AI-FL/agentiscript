@@ -1,0 +1,11 @@
+{
+  "name": "longitudinal-representation",
+  "label": "Longitudinal Representation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "longitudinal",
+    "representation"
+  ],
+  "version": "1.7"
+}

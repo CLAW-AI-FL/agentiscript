@@ -1,0 +1,11 @@
+{
+  "name": "underwater-robot",
+  "label": "Underwater Robot",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "underwater",
+    "robot"
+  ],
+  "version": "1.7"
+}

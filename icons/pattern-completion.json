@@ -1,0 +1,11 @@
+{
+  "name": "pattern-completion",
+  "label": "Pattern Completion",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "pattern",
+    "completion"
+  ],
+  "version": "1.7"
+}

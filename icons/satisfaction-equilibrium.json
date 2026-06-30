@@ -1,0 +1,11 @@
+{
+  "name": "satisfaction-equilibrium",
+  "label": "Satisfaction Equilibrium",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "satisfaction",
+    "equilibrium"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "label-propagation",
+  "label": "Label Propagation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "label",
+    "propagation"
+  ],
+  "version": "1.7"
+}

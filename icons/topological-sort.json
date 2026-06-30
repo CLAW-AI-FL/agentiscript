@@ -1,0 +1,11 @@
+{
+  "name": "topological-sort",
+  "label": "Topological Sort",
+  "category": "math",
+  "tags": [
+    "math",
+    "topological",
+    "sort"
+  ],
+  "version": "1.7"
+}

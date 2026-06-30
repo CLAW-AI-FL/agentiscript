@@ -1,0 +1,11 @@
+{
+  "name": "codebook-learning",
+  "label": "Codebook Learning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "codebook",
+    "learning"
+  ],
+  "version": "1.7"
+}

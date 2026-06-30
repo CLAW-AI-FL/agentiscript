@@ -1,0 +1,11 @@
+{
+  "name": "neural-scaling",
+  "label": "Neural Scaling",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "neural",
+    "scaling"
+  ],
+  "version": "1.7"
+}

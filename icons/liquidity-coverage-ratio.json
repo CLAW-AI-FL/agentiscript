@@ -1,0 +1,12 @@
+{
+  "name": "liquidity-coverage-ratio",
+  "label": "Liquidity Coverage Ratio",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "liquidity",
+    "coverage",
+    "ratio"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "meta-gradient",
+  "label": "Meta Gradient",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "meta",
+    "gradient"
+  ],
+  "version": "1.7"
+}

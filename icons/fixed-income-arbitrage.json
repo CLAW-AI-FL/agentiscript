@@ -1,0 +1,12 @@
+{
+  "name": "fixed-income-arbitrage",
+  "label": "Fixed Income Arbitrage",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "fixed",
+    "income",
+    "arbitrage"
+  ],
+  "version": "1.7"
+}

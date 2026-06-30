@@ -1,0 +1,12 @@
+{
+  "name": "packet-loss-mitigation",
+  "label": "Packet Loss Mitigation",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "packet",
+    "loss",
+    "mitigation"
+  ],
+  "version": "1.7"
+}

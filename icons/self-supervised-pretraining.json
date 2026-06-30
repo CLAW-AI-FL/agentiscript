@@ -1,0 +1,12 @@
+{
+  "name": "self-supervised-pretraining",
+  "label": "Self Supervised Pretraining",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "self",
+    "supervised",
+    "pretraining"
+  ],
+  "version": "1.7"
+}

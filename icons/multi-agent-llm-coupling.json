@@ -1,0 +1,13 @@
+{
+  "name": "multi-agent-llm-coupling",
+  "label": "Multi Agent Llm Coupling",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "multi",
+    "agent",
+    "llm",
+    "coupling"
+  ],
+  "version": "1.7"
+}

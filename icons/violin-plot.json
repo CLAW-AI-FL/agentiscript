@@ -1,0 +1,11 @@
+{
+  "name": "violin-plot",
+  "label": "Violin Plot",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "violin",
+    "plot"
+  ],
+  "version": "1.7"
+}

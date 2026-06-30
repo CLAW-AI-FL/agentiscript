@@ -1,0 +1,12 @@
+{
+  "name": "side-channel-attack",
+  "label": "Side Channel Attack",
+  "category": "security",
+  "tags": [
+    "security",
+    "side",
+    "channel",
+    "attack"
+  ],
+  "version": "1.7"
+}

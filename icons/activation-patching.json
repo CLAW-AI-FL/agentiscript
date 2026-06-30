@@ -1,0 +1,11 @@
+{
+  "name": "activation-patching",
+  "label": "Activation Patching",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "activation",
+    "patching"
+  ],
+  "version": "1.7"
+}

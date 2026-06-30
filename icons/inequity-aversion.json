@@ -1,0 +1,11 @@
+{
+  "name": "inequity-aversion",
+  "label": "Inequity Aversion",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "inequity",
+    "aversion"
+  ],
+  "version": "1.7"
+}

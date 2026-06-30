@@ -1,0 +1,12 @@
+{
+  "name": "raft-consensus-algorithm",
+  "label": "Raft Consensus Algorithm",
+  "category": "database",
+  "tags": [
+    "database",
+    "raft",
+    "consensus",
+    "algorithm"
+  ],
+  "version": "1.7"
+}

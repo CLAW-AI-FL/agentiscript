@@ -1,0 +1,12 @@
+{
+  "name": "message-queue-system",
+  "label": "Message Queue System",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "message",
+    "queue",
+    "system"
+  ],
+  "version": "1.7"
+}

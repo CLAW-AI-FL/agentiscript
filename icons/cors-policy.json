@@ -1,0 +1,11 @@
+{
+  "name": "cors-policy",
+  "label": "Cors Policy",
+  "category": "web",
+  "tags": [
+    "web",
+    "cors",
+    "policy"
+  ],
+  "version": "1.7"
+}

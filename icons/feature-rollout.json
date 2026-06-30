@@ -1,0 +1,11 @@
+{
+  "name": "feature-rollout",
+  "label": "Feature Rollout",
+  "category": "product",
+  "tags": [
+    "product",
+    "feature",
+    "rollout"
+  ],
+  "version": "1.7"
+}

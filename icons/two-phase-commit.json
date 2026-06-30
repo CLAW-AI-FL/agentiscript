@@ -1,0 +1,12 @@
+{
+  "name": "two-phase-commit",
+  "label": "Two Phase Commit",
+  "category": "database",
+  "tags": [
+    "database",
+    "two",
+    "phase",
+    "commit"
+  ],
+  "version": "1.7"
+}

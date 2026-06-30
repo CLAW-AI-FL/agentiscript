@@ -1,0 +1,11 @@
+{
+  "name": "legged-locomotion",
+  "label": "Legged Locomotion",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "legged",
+    "locomotion"
+  ],
+  "version": "1.7"
+}

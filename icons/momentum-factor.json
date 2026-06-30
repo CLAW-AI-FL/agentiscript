@@ -1,0 +1,11 @@
+{
+  "name": "momentum-factor",
+  "label": "Momentum Factor",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "momentum",
+    "factor"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bayesian-inference",
+  "label": "Bayesian Inference",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "bayesian",
+    "inference"
+  ],
+  "version": "1.7"
+}

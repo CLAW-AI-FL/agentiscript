@@ -1,0 +1,11 @@
+{
+  "name": "randomized-exploration",
+  "label": "Randomized Exploration",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "randomized",
+    "exploration"
+  ],
+  "version": "1.7"
+}

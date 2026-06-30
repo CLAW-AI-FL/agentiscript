@@ -1,0 +1,11 @@
+{
+  "name": "mesh-intelligence",
+  "label": "Mesh Intelligence",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "mesh",
+    "intelligence"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "self-distillation",
+  "label": "Self Distillation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "self",
+    "distillation"
+  ],
+  "version": "1.7"
+}

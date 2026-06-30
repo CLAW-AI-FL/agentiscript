@@ -1,0 +1,11 @@
+{
+  "name": "deformable-model",
+  "label": "Deformable Model",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "deformable",
+    "model"
+  ],
+  "version": "1.7"
+}

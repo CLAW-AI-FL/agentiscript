@@ -1,0 +1,12 @@
+{
+  "name": "load-balancer-algorithm",
+  "label": "Load Balancer Algorithm",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "load",
+    "balancer",
+    "algorithm"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bias-variance-tradeoff",
+  "label": "Bias Variance Tradeoff",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "bias",
+    "variance",
+    "tradeoff"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "neural-radiance-field",
+  "label": "Neural Radiance Field",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "neural",
+    "radiance",
+    "field"
+  ],
+  "version": "1.7"
+}

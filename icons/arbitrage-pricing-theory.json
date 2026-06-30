@@ -1,0 +1,12 @@
+{
+  "name": "arbitrage-pricing-theory",
+  "label": "Arbitrage Pricing Theory",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "arbitrage",
+    "pricing",
+    "theory"
+  ],
+  "version": "1.7"
+}

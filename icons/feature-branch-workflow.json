@@ -1,0 +1,12 @@
+{
+  "name": "feature-branch-workflow",
+  "label": "Feature Branch Workflow",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "feature",
+    "branch",
+    "workflow"
+  ],
+  "version": "1.7"
+}

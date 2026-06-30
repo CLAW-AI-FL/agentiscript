@@ -1,0 +1,11 @@
+{
+  "name": "embedding-collapse",
+  "label": "Embedding Collapse",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "embedding",
+    "collapse"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "reward-model-training",
+  "label": "Reward Model Training",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "reward",
+    "model",
+    "training"
+  ],
+  "version": "1.7"
+}

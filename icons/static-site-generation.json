@@ -1,0 +1,12 @@
+{
+  "name": "static-site-generation",
+  "label": "Static Site Generation",
+  "category": "web",
+  "tags": [
+    "web",
+    "static",
+    "site",
+    "generation"
+  ],
+  "version": "1.7"
+}

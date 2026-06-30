@@ -1,0 +1,11 @@
+{
+  "name": "algorithmic-threshold",
+  "label": "Algorithmic Threshold",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "algorithmic",
+    "threshold"
+  ],
+  "version": "1.7"
+}

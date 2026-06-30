@@ -1,0 +1,11 @@
+{
+  "name": "token-merging",
+  "label": "Token Merging",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "token",
+    "merging"
+  ],
+  "version": "1.7"
+}

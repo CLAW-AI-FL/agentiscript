@@ -1,0 +1,13 @@
+{
+  "name": "low-rank-pre-training",
+  "label": "Low Rank Pre Training",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "low",
+    "rank",
+    "pre",
+    "training"
+  ],
+  "version": "1.7"
+}

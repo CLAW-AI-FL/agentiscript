@@ -1,0 +1,11 @@
+{
+  "name": "react-reasoning",
+  "label": "React Reasoning",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "react",
+    "reasoning"
+  ],
+  "version": "1.7"
+}

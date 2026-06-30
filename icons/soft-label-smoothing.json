@@ -1,0 +1,12 @@
+{
+  "name": "soft-label-smoothing",
+  "label": "Soft Label Smoothing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "soft",
+    "label",
+    "smoothing"
+  ],
+  "version": "1.7"
+}

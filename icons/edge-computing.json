@@ -1,0 +1,11 @@
+{
+  "name": "edge-computing",
+  "label": "Edge Computing",
+  "category": "web",
+  "tags": [
+    "web",
+    "edge",
+    "computing"
+  ],
+  "version": "1.7"
+}

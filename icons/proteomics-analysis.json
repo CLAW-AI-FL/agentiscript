@@ -1,0 +1,11 @@
+{
+  "name": "proteomics-analysis",
+  "label": "Proteomics Analysis",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "proteomics",
+    "analysis"
+  ],
+  "version": "1.7"
+}

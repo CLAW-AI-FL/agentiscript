@@ -1,0 +1,10 @@
+{
+  "name": "aerial-robotics",
+  "label": "Aerial Robotics",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "aerial"
+  ],
+  "version": "1.7"
+}

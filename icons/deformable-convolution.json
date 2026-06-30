@@ -1,0 +1,11 @@
+{
+  "name": "deformable-convolution",
+  "label": "Deformable Convolution",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "deformable",
+    "convolution"
+  ],
+  "version": "1.7"
+}

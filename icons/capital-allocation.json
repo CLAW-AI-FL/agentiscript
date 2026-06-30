@@ -1,0 +1,11 @@
+{
+  "name": "capital-allocation",
+  "label": "Capital Allocation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "capital",
+    "allocation"
+  ],
+  "version": "1.7"
+}

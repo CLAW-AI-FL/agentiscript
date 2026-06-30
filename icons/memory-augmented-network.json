@@ -1,0 +1,12 @@
+{
+  "name": "memory-augmented-network",
+  "label": "Memory Augmented Network",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "memory",
+    "augmented",
+    "network"
+  ],
+  "version": "1.7"
+}

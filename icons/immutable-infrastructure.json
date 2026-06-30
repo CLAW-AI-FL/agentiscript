@@ -1,0 +1,11 @@
+{
+  "name": "immutable-infrastructure",
+  "label": "Immutable Infrastructure",
+  "category": "cloud",
+  "tags": [
+    "cloud",
+    "immutable",
+    "infrastructure"
+  ],
+  "version": "1.7"
+}

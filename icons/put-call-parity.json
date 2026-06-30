@@ -1,0 +1,12 @@
+{
+  "name": "put-call-parity",
+  "label": "Put Call Parity",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "put",
+    "call",
+    "parity"
+  ],
+  "version": "1.7"
+}

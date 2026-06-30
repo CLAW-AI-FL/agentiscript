@@ -1,0 +1,12 @@
+{
+  "name": "user-journey-mapping",
+  "label": "User Journey Mapping",
+  "category": "product",
+  "tags": [
+    "product",
+    "user",
+    "journey",
+    "mapping"
+  ],
+  "version": "1.7"
+}

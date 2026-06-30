@@ -1,0 +1,11 @@
+{
+  "name": "flash-attention",
+  "label": "Flash Attention",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "flash",
+    "attention"
+  ],
+  "version": "1.7"
+}

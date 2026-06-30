@@ -1,0 +1,12 @@
+{
+  "name": "signed-distance-function",
+  "label": "Signed Distance Function",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "signed",
+    "distance",
+    "function"
+  ],
+  "version": "1.7"
+}

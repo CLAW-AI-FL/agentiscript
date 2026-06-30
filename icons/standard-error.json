@@ -1,0 +1,11 @@
+{
+  "name": "standard-error",
+  "label": "Standard Error",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "standard",
+    "error"
+  ],
+  "version": "1.7"
+}

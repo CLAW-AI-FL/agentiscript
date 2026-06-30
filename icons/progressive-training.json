@@ -1,0 +1,11 @@
+{
+  "name": "progressive-training",
+  "label": "Progressive Training",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "progressive",
+    "training"
+  ],
+  "version": "1.7"
+}

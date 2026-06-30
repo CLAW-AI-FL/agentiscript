@@ -1,0 +1,11 @@
+{
+  "name": "prompt-tuning",
+  "label": "Prompt Tuning",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "prompt",
+    "tuning"
+  ],
+  "version": "1.7"
+}

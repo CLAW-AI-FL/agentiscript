@@ -1,0 +1,11 @@
+{
+  "name": "temperature-annealing",
+  "label": "Temperature Annealing",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "temperature",
+    "annealing"
+  ],
+  "version": "1.7"
+}

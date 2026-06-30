@@ -1,0 +1,11 @@
+{
+  "name": "linear-representation",
+  "label": "Linear Representation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "linear",
+    "representation"
+  ],
+  "version": "1.7"
+}

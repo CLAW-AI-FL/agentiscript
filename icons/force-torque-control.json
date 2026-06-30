@@ -1,0 +1,12 @@
+{
+  "name": "force-torque-control",
+  "label": "Force Torque Control",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "force",
+    "torque",
+    "control"
+  ],
+  "version": "1.7"
+}

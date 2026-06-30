@@ -1,0 +1,11 @@
+{
+  "name": "correlation-ceiling",
+  "label": "Correlation Ceiling",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "correlation",
+    "ceiling"
+  ],
+  "version": "1.7"
+}

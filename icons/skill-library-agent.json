@@ -1,0 +1,12 @@
+{
+  "name": "skill-library-agent",
+  "label": "Skill Library Agent",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "skill",
+    "library",
+    "agent"
+  ],
+  "version": "1.7"
+}

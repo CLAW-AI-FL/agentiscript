@@ -1,0 +1,11 @@
+{
+  "name": "bipartite-matching",
+  "label": "Bipartite Matching",
+  "category": "math",
+  "tags": [
+    "math",
+    "bipartite",
+    "matching"
+  ],
+  "version": "1.7"
+}

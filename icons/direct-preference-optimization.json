@@ -1,0 +1,12 @@
+{
+  "name": "direct-preference-optimization",
+  "label": "Direct Preference Optimization",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "direct",
+    "preference",
+    "optimization"
+  ],
+  "version": "1.7"
+}

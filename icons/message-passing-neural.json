@@ -1,0 +1,12 @@
+{
+  "name": "message-passing-neural",
+  "label": "Message Passing Neural",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "message",
+    "passing",
+    "neural"
+  ],
+  "version": "1.7"
+}

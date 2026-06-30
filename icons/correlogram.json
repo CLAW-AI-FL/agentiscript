@@ -1,0 +1,10 @@
+{
+  "name": "correlogram",
+  "label": "Correlogram",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "correlogram"
+  ],
+  "version": "1.7"
+}

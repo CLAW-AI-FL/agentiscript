@@ -1,0 +1,11 @@
+{
+  "name": "dense-prediction",
+  "label": "Dense Prediction",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "dense",
+    "prediction"
+  ],
+  "version": "1.7"
+}

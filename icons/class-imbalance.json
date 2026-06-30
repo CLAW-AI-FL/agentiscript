@@ -1,0 +1,11 @@
+{
+  "name": "class-imbalance",
+  "label": "Class Imbalance",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "class",
+    "imbalance"
+  ],
+  "version": "1.7"
+}

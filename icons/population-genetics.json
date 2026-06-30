@@ -1,0 +1,11 @@
+{
+  "name": "population-genetics",
+  "label": "Population Genetics",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "population",
+    "genetics"
+  ],
+  "version": "1.7"
+}

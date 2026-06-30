@@ -1,0 +1,11 @@
+{
+  "name": "multimodal-alignment",
+  "label": "Multimodal Alignment",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "multimodal",
+    "alignment"
+  ],
+  "version": "1.7"
+}

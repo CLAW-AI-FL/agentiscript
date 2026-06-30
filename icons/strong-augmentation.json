@@ -1,0 +1,11 @@
+{
+  "name": "strong-augmentation",
+  "label": "Strong Augmentation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "strong",
+    "augmentation"
+  ],
+  "version": "1.7"
+}

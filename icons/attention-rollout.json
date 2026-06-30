@@ -1,0 +1,11 @@
+{
+  "name": "attention-rollout",
+  "label": "Attention Rollout",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "attention",
+    "rollout"
+  ],
+  "version": "1.7"
+}

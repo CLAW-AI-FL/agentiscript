@@ -1,0 +1,11 @@
+{
+  "name": "model-versioning",
+  "label": "Model Versioning",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "model",
+    "versioning"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "risk-dominance",
+  "label": "Risk Dominance",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "risk",
+    "dominance"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "feature-flag-system",
+  "label": "Feature Flag System",
+  "category": "architecture",
+  "tags": [
+    "architecture",
+    "feature",
+    "flag",
+    "system"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "path-integral-sampling",
+  "label": "Path Integral Sampling",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "path",
+    "integral",
+    "sampling"
+  ],
+  "version": "1.7"
+}

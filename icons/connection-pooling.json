@@ -1,0 +1,11 @@
+{
+  "name": "connection-pooling",
+  "label": "Connection Pooling",
+  "category": "database",
+  "tags": [
+    "database",
+    "connection",
+    "pooling"
+  ],
+  "version": "1.7"
+}

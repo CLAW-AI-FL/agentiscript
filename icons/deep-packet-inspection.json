@@ -1,0 +1,12 @@
+{
+  "name": "deep-packet-inspection",
+  "label": "Deep Packet Inspection",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "deep",
+    "packet",
+    "inspection"
+  ],
+  "version": "1.7"
+}

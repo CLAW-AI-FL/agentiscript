@@ -1,0 +1,12 @@
+{
+  "name": "slowly-changing-dimension",
+  "label": "Slowly Changing Dimension",
+  "category": "data",
+  "tags": [
+    "data",
+    "slowly",
+    "changing",
+    "dimension"
+  ],
+  "version": "1.7"
+}

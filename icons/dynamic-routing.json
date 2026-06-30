@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-routing",
+  "label": "Dynamic Routing",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "dynamic",
+    "routing"
+  ],
+  "version": "1.7"
+}

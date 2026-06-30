@@ -1,0 +1,12 @@
+{
+  "name": "single-cell-sequencing",
+  "label": "Single Cell Sequencing",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "single",
+    "cell",
+    "sequencing"
+  ],
+  "version": "1.7"
+}

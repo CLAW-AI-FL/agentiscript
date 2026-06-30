@@ -1,0 +1,12 @@
+{
+  "name": "churn-prediction-model",
+  "label": "Churn Prediction Model",
+  "category": "product",
+  "tags": [
+    "product",
+    "churn",
+    "prediction",
+    "model"
+  ],
+  "version": "1.7"
+}

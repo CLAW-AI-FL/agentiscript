@@ -1,0 +1,11 @@
+{
+  "name": "parquet-compression",
+  "label": "Parquet Compression",
+  "category": "data",
+  "tags": [
+    "data",
+    "parquet",
+    "compression"
+  ],
+  "version": "1.7"
+}

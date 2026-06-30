@@ -1,0 +1,11 @@
+{
+  "name": "succinct-game",
+  "label": "Succinct Game",
+  "category": "game-theory",
+  "tags": [
+    "game-theory",
+    "succinct",
+    "game"
+  ],
+  "version": "1.7"
+}

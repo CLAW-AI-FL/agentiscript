@@ -1,0 +1,11 @@
+{
+  "name": "hopfield-network",
+  "label": "Hopfield Network",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "hopfield",
+    "network"
+  ],
+  "version": "1.7"
+}

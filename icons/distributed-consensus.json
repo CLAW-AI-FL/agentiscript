@@ -1,0 +1,11 @@
+{
+  "name": "distributed-consensus",
+  "label": "Distributed Consensus",
+  "category": "database",
+  "tags": [
+    "database",
+    "distributed",
+    "consensus"
+  ],
+  "version": "1.7"
+}

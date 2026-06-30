@@ -1,0 +1,12 @@
+{
+  "name": "cross-architecture-distillation",
+  "label": "Cross Architecture Distillation",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "cross",
+    "architecture",
+    "distillation"
+  ],
+  "version": "1.7"
+}

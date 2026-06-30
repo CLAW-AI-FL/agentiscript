@@ -1,0 +1,12 @@
+{
+  "name": "empirical-risk-minimization",
+  "label": "Empirical Risk Minimization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "empirical",
+    "risk",
+    "minimization"
+  ],
+  "version": "1.7"
+}

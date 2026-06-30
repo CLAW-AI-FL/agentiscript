@@ -1,0 +1,11 @@
+{
+  "name": "change-data-capture",
+  "label": "Change Data Capture",
+  "category": "data",
+  "tags": [
+    "data",
+    "change",
+    "capture"
+  ],
+  "version": "1.7"
+}

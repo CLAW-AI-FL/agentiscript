@@ -1,0 +1,12 @@
+{
+  "name": "spectral-geometry-initialization",
+  "label": "Spectral Geometry Initialization",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "spectral",
+    "geometry",
+    "initialization"
+  ],
+  "version": "1.7"
+}

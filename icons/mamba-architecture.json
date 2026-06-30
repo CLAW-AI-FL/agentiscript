@@ -1,0 +1,11 @@
+{
+  "name": "mamba-architecture",
+  "label": "Mamba Architecture",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "mamba",
+    "architecture"
+  ],
+  "version": "1.7"
+}

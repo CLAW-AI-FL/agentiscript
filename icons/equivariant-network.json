@@ -1,0 +1,11 @@
+{
+  "name": "equivariant-network",
+  "label": "Equivariant Network",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "equivariant",
+    "network"
+  ],
+  "version": "1.7"
+}

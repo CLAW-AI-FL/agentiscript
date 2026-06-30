@@ -1,0 +1,11 @@
+{
+  "name": "model-specification",
+  "label": "Model Specification",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "model",
+    "specification"
+  ],
+  "version": "1.7"
+}

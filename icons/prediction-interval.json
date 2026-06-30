@@ -1,0 +1,11 @@
+{
+  "name": "prediction-interval",
+  "label": "Prediction Interval",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "prediction",
+    "interval"
+  ],
+  "version": "1.7"
+}

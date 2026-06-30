@@ -1,0 +1,11 @@
+{
+  "name": "proxy-task",
+  "label": "Proxy Task",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "proxy",
+    "task"
+  ],
+  "version": "1.7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "semiparametric-efficiency",
+  "label": "Semiparametric Efficiency",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "semiparametric",
+    "efficiency"
+  ],
+  "version": "1.7"
+}

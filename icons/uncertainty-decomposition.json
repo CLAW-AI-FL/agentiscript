@@ -1,0 +1,11 @@
+{
+  "name": "uncertainty-decomposition",
+  "label": "Uncertainty Decomposition",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "uncertainty",
+    "decomposition"
+  ],
+  "version": "1.7"
+}

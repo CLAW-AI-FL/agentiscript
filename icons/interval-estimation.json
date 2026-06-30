@@ -1,0 +1,11 @@
+{
+  "name": "interval-estimation",
+  "label": "Interval Estimation",
+  "category": "statistics",
+  "tags": [
+    "statistics",
+    "interval",
+    "estimation"
+  ],
+  "version": "1.7"
+}

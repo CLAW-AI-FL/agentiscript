@@ -1,0 +1,11 @@
+{
+  "name": "statistical-arbitrage",
+  "label": "Statistical Arbitrage",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "statistical",
+    "arbitrage"
+  ],
+  "version": "1.7"
+}

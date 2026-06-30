@@ -1,0 +1,11 @@
+{
+  "name": "commodity-futures",
+  "label": "Commodity Futures",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "commodity",
+    "futures"
+  ],
+  "version": "1.7"
+}

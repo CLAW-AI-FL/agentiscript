@@ -1,0 +1,12 @@
+{
+  "name": "low-rank-adaptation",
+  "label": "Low Rank Adaptation",
+  "category": "nlp",
+  "tags": [
+    "nlp",
+    "low",
+    "rank",
+    "adaptation"
+  ],
+  "version": "1.7"
+}

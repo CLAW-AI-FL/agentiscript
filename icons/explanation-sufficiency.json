@@ -1,0 +1,11 @@
+{
+  "name": "explanation-sufficiency",
+  "label": "Explanation Sufficiency",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "explanation",
+    "sufficiency"
+  ],
+  "version": "1.7"
+}

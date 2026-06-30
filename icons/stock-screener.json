@@ -1,0 +1,11 @@
+{
+  "name": "stock-screener",
+  "label": "Stock Screener",
+  "category": "ml",
+  "tags": [
+    "ml",
+    "stock",
+    "screener"
+  ],
+  "version": "1.7"
+}

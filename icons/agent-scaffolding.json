@@ -1,0 +1,11 @@
+{
+  "name": "agent-scaffolding",
+  "label": "Agent Scaffolding",
+  "category": "agents",
+  "tags": [
+    "agents",
+    "agent",
+    "scaffolding"
+  ],
+  "version": "1.7"
+}

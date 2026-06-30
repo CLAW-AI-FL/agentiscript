@@ -1,0 +1,11 @@
+{
+  "name": "network-slicing",
+  "label": "Network Slicing",
+  "category": "networking",
+  "tags": [
+    "networking",
+    "network",
+    "slicing"
+  ],
+  "version": "1.7"
+}
