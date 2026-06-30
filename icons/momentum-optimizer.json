@@ -1,0 +1,11 @@
+{
+  "name": "momentum-optimizer",
+  "label": "Momentum Optimizer",
+  "category": "ai",
+  "tags": [
+    "momentum",
+    "SGD",
+    "optimizer"
+  ],
+  "version": "1.3"
+}

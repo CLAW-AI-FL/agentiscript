@@ -1,0 +1,11 @@
+{
+  "name": "agent-loop-termination",
+  "label": "Agent Loop Termination",
+  "category": "agentic",
+  "tags": [
+    "termination",
+    "loop",
+    "stop condition"
+  ],
+  "version": "1.3"
+}

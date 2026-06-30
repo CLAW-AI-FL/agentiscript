@@ -1,0 +1,11 @@
+{
+  "name": "diffusion-model",
+  "label": "Diffusion Model",
+  "category": "ai",
+  "tags": [
+    "diffusion",
+    "generative",
+    "noise"
+  ],
+  "version": "1.3"
+}

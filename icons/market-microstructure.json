@@ -1,0 +1,11 @@
+{
+  "name": "market-microstructure",
+  "label": "Market Microstructure",
+  "category": "finance",
+  "tags": [
+    "microstructure",
+    "bid-ask",
+    "market making"
+  ],
+  "version": "1.3"
+}

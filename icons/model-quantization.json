@@ -1,0 +1,11 @@
+{
+  "name": "model-quantization",
+  "label": "Model Quantization",
+  "category": "ai",
+  "tags": [
+    "quantization",
+    "int8",
+    "compression"
+  ],
+  "version": "1.3"
+}

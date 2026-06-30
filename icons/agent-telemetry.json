@@ -1,0 +1,11 @@
+{
+  "name": "agent-telemetry",
+  "label": "Agent Telemetry",
+  "category": "agentic",
+  "tags": [
+    "telemetry",
+    "metrics",
+    "monitoring"
+  ],
+  "version": "1.3"
+}

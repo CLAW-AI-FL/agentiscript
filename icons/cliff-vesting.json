@@ -1,0 +1,11 @@
+{
+  "name": "cliff-vesting",
+  "label": "Cliff Vesting",
+  "category": "finance",
+  "tags": [
+    "cliff",
+    "vesting",
+    "lockup"
+  ],
+  "version": "1.3"
+}

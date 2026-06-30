@@ -1,0 +1,11 @@
+{
+  "name": "consensus-layer",
+  "label": "Consensus Layer",
+  "category": "blockchain",
+  "tags": [
+    "consensus",
+    "PoS",
+    "validators"
+  ],
+  "version": "1.3"
+}

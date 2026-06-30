@@ -1,0 +1,11 @@
+{
+  "name": "agent-federation",
+  "label": "Agent Federation",
+  "category": "agentic",
+  "tags": [
+    "federation",
+    "network",
+    "distributed"
+  ],
+  "version": "1.3"
+}

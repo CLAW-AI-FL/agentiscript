@@ -1,0 +1,11 @@
+{
+  "name": "solver",
+  "label": "Solver",
+  "category": "blockchain",
+  "tags": [
+    "solver",
+    "intent",
+    "optimizer"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "constitutional-agent",
+  "label": "Constitutional Agent",
+  "category": "agentic",
+  "tags": [
+    "constitutional AI",
+    "rules",
+    "alignment"
+  ],
+  "version": "1.3"
+}

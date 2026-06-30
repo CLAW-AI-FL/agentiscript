@@ -1,0 +1,11 @@
+{
+  "name": "grover-algorithm",
+  "label": "Grover's Algorithm",
+  "category": "quantum",
+  "tags": [
+    "Grover",
+    "search",
+    "quadratic speedup"
+  ],
+  "version": "1.3"
+}

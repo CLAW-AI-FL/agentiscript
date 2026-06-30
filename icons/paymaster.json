@@ -1,0 +1,11 @@
+{
+  "name": "paymaster",
+  "label": "Paymaster",
+  "category": "blockchain",
+  "tags": [
+    "paymaster",
+    "gas abstraction",
+    "ERC-4337"
+  ],
+  "version": "1.3"
+}

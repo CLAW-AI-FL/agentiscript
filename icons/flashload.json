@@ -1,0 +1,11 @@
+{
+  "name": "flashload",
+  "label": "Flashloan",
+  "category": "blockchain",
+  "tags": [
+    "flashloan",
+    "DeFi",
+    "arbitrage"
+  ],
+  "version": "1.3"
+}

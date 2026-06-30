@@ -1,0 +1,11 @@
+{
+  "name": "atomic-swap",
+  "label": "Atomic Swap",
+  "category": "blockchain",
+  "tags": [
+    "atomic swap",
+    "exchange",
+    "trustless"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quantum-cryptography",
+  "label": "Quantum Cryptography",
+  "category": "quantum",
+  "tags": [
+    "quantum crypto",
+    "security",
+    "post-quantum"
+  ],
+  "version": "1.3"
+}

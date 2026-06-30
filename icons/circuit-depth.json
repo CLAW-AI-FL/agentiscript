@@ -1,0 +1,11 @@
+{
+  "name": "circuit-depth",
+  "label": "Circuit Depth",
+  "category": "quantum",
+  "tags": [
+    "circuit depth",
+    "gates",
+    "quantum circuit"
+  ],
+  "version": "1.3"
+}

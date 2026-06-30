@@ -1,0 +1,11 @@
+{
+  "name": "sovereign-rollup",
+  "label": "Sovereign Rollup",
+  "category": "blockchain",
+  "tags": [
+    "sovereign rollup",
+    "independent",
+    "Celestia"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-failover",
+  "label": "Agent Failover",
+  "category": "agentic",
+  "tags": [
+    "failover",
+    "redundancy",
+    "HA"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emergent-misalignment",
+  "label": "Emergent Misalignment",
+  "category": "ai",
+  "tags": [
+    "misalignment",
+    "emergent",
+    "safety"
+  ],
+  "version": "1.3"
+}

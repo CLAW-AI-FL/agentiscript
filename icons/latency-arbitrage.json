@@ -1,0 +1,11 @@
+{
+  "name": "latency-arbitrage",
+  "label": "Latency Arbitrage",
+  "category": "finance",
+  "tags": [
+    "arbitrage",
+    "HFT",
+    "latency"
+  ],
+  "version": "1.3"
+}

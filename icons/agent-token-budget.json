@@ -1,0 +1,11 @@
+{
+  "name": "agent-token-budget",
+  "label": "Agent Token Budget",
+  "category": "agentic",
+  "tags": [
+    "token budget",
+    "context limit",
+    "tokens"
+  ],
+  "version": "1.3"
+}

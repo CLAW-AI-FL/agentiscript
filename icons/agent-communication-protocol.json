@@ -1,0 +1,11 @@
+{
+  "name": "agent-communication-protocol",
+  "label": "Agent Communication Protocol",
+  "category": "agentic",
+  "tags": [
+    "protocol",
+    "communication",
+    "messaging"
+  ],
+  "version": "1.3"
+}

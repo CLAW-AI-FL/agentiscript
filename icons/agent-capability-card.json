@@ -1,0 +1,11 @@
+{
+  "name": "agent-capability-card",
+  "label": "Agent Capability Card",
+  "category": "agentic",
+  "tags": [
+    "capability",
+    "card",
+    "profile"
+  ],
+  "version": "1.3"
+}

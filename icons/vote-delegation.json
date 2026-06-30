@@ -1,0 +1,11 @@
+{
+  "name": "vote-delegation",
+  "label": "Vote Delegation",
+  "category": "blockchain",
+  "tags": [
+    "delegation",
+    "voting",
+    "DAO"
+  ],
+  "version": "1.3"
+}

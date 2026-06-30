@@ -1,0 +1,11 @@
+{
+  "name": "agent-reflection",
+  "label": "Agent Reflection",
+  "category": "agentic",
+  "tags": [
+    "reflection",
+    "introspection",
+    "self-analysis"
+  ],
+  "version": "1.3"
+}

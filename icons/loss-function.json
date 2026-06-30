@@ -1,0 +1,11 @@
+{
+  "name": "loss-function",
+  "label": "Loss Function",
+  "category": "ai",
+  "tags": [
+    "loss",
+    "cross-entropy",
+    "training"
+  ],
+  "version": "1.3"
+}

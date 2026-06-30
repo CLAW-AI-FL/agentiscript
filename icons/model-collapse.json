@@ -1,0 +1,11 @@
+{
+  "name": "model-collapse",
+  "label": "Model Collapse",
+  "category": "ai",
+  "tags": [
+    "model collapse",
+    "synthetic data",
+    "degeneration"
+  ],
+  "version": "1.3"
+}

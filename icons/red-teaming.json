@@ -1,0 +1,11 @@
+{
+  "name": "red-teaming",
+  "label": "Red Teaming",
+  "category": "ai",
+  "tags": [
+    "red team",
+    "adversarial",
+    "safety"
+  ],
+  "version": "1.3"
+}

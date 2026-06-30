@@ -1,0 +1,11 @@
+{
+  "name": "based-rollup",
+  "label": "Based Rollup",
+  "category": "blockchain",
+  "tags": [
+    "based rollup",
+    "sequencer",
+    "Ethereum"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dark-pool",
+  "label": "Dark Pool",
+  "category": "blockchain",
+  "tags": [
+    "dark pool",
+    "private trading",
+    "OTC"
+  ],
+  "version": "1.3"
+}

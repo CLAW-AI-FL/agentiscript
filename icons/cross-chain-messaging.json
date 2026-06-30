@@ -1,0 +1,11 @@
+{
+  "name": "cross-chain-messaging",
+  "label": "Cross-Chain Messaging",
+  "category": "blockchain",
+  "tags": [
+    "cross-chain",
+    "bridge",
+    "IBC"
+  ],
+  "version": "1.3"
+}

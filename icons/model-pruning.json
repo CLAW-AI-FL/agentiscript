@@ -1,0 +1,11 @@
+{
+  "name": "model-pruning",
+  "label": "Model Pruning",
+  "category": "ai",
+  "tags": [
+    "pruning",
+    "sparsity",
+    "compression"
+  ],
+  "version": "1.3"
+}

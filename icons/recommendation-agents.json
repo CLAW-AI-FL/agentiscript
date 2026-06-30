@@ -1,0 +1,11 @@
+{
+  "name": "recommendation-agents",
+  "label": "Recommendation Agents",
+  "category": "agentic",
+  "tags": [
+    "recommendation",
+    "personalization",
+    "agent"
+  ],
+  "version": "1.3"
+}

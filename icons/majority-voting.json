@@ -1,0 +1,11 @@
+{
+  "name": "majority-voting",
+  "label": "Majority Voting",
+  "category": "ai",
+  "tags": [
+    "majority vote",
+    "ensemble",
+    "self-consistency"
+  ],
+  "version": "1.3"
+}

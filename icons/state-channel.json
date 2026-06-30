@@ -1,0 +1,11 @@
+{
+  "name": "state-channel",
+  "label": "State Channel",
+  "category": "blockchain",
+  "tags": [
+    "state channel",
+    "L2",
+    "payment"
+  ],
+  "version": "1.3"
+}

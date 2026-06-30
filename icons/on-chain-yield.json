@@ -1,0 +1,11 @@
+{
+  "name": "on-chain-yield",
+  "label": "On-Chain Yield",
+  "category": "finance",
+  "tags": [
+    "yield",
+    "DeFi",
+    "staking"
+  ],
+  "version": "1.3"
+}

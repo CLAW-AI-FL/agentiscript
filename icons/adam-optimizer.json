@@ -1,0 +1,11 @@
+{
+  "name": "adam-optimizer",
+  "label": "Adam Optimizer",
+  "category": "ai",
+  "tags": [
+    "Adam",
+    "optimizer",
+    "adaptive"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quantum-error-mitigation",
+  "label": "Quantum Error Mitigation",
+  "category": "quantum",
+  "tags": [
+    "error mitigation",
+    "ZNE",
+    "NISQ"
+  ],
+  "version": "1.3"
+}

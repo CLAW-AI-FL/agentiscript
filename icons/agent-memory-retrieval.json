@@ -1,0 +1,11 @@
+{
+  "name": "agent-memory-retrieval",
+  "label": "Agent Memory Retrieval",
+  "category": "agentic",
+  "tags": [
+    "memory",
+    "retrieval",
+    "recall"
+  ],
+  "version": "1.3"
+}

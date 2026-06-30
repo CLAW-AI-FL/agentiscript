@@ -1,0 +1,11 @@
+{
+  "name": "layer-zero",
+  "label": "Layer Zero",
+  "category": "blockchain",
+  "tags": [
+    "layer zero",
+    "interoperability",
+    "base layer"
+  ],
+  "version": "1.3"
+}

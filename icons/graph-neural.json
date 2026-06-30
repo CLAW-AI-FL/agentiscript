@@ -1,0 +1,11 @@
+{
+  "name": "graph-neural",
+  "label": "Graph Neural",
+  "category": "ai",
+  "tags": [
+    "GNN",
+    "graph",
+    "message passing"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "self-attention",
+  "label": "Self-Attention",
+  "category": "ai",
+  "tags": [
+    "self-attention",
+    "transformer",
+    "attention"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "positional-encoding",
+  "label": "Positional Encoding",
+  "category": "ai",
+  "tags": [
+    "positional encoding",
+    "sequence",
+    "transformer"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quantum-circuit",
+  "label": "Quantum Circuit",
+  "category": "quantum",
+  "tags": [
+    "circuit",
+    "gates",
+    "quantum computing"
+  ],
+  "version": "1.3"
+}

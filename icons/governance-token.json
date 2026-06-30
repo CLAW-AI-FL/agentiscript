@@ -1,0 +1,11 @@
+{
+  "name": "governance-token",
+  "label": "Governance Token",
+  "category": "blockchain",
+  "tags": [
+    "governance",
+    "voting",
+    "DAO"
+  ],
+  "version": "1.3"
+}

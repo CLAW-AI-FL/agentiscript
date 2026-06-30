@@ -1,0 +1,11 @@
+{
+  "name": "quantum-teleportation",
+  "label": "Quantum Teleportation",
+  "category": "quantum",
+  "tags": [
+    "teleportation",
+    "entanglement",
+    "quantum communication"
+  ],
+  "version": "1.3"
+}

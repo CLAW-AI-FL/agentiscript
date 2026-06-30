@@ -1,0 +1,11 @@
+{
+  "name": "agentic-skills",
+  "label": "Agentic Skills",
+  "category": "agentic",
+  "tags": [
+    "skills",
+    "capabilities",
+    "agent"
+  ],
+  "version": "1.3"
+}

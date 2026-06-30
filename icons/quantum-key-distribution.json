@@ -1,0 +1,11 @@
+{
+  "name": "quantum-key-distribution",
+  "label": "Quantum Key Distribution",
+  "category": "quantum",
+  "tags": [
+    "QKD",
+    "cryptography",
+    "BB84"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "photonic-qubit",
+  "label": "Photonic Qubit",
+  "category": "quantum",
+  "tags": [
+    "photonic",
+    "qubit",
+    "linear optics"
+  ],
+  "version": "1.3"
+}

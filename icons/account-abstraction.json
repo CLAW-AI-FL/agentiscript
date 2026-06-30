@@ -1,0 +1,11 @@
+{
+  "name": "account-abstraction",
+  "label": "Account Abstraction",
+  "category": "blockchain",
+  "tags": [
+    "ERC-4337",
+    "smart wallet",
+    "AA"
+  ],
+  "version": "1.3"
+}

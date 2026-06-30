@@ -1,0 +1,11 @@
+{
+  "name": "modular-blockchain",
+  "label": "Modular Blockchain",
+  "category": "blockchain",
+  "tags": [
+    "modular",
+    "composable",
+    "layers"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-batch-processing",
+  "label": "Agent Batch Processing",
+  "category": "agentic",
+  "tags": [
+    "batch",
+    "bulk",
+    "queue"
+  ],
+  "version": "1.3"
+}

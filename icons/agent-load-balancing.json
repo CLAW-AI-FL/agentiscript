@@ -1,0 +1,11 @@
+{
+  "name": "agent-load-balancing",
+  "label": "Agent Load Balancing",
+  "category": "agentic",
+  "tags": [
+    "load balancing",
+    "distribution",
+    "scaling"
+  ],
+  "version": "1.3"
+}

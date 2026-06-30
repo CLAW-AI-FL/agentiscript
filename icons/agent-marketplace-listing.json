@@ -1,0 +1,11 @@
+{
+  "name": "agent-marketplace-listing",
+  "label": "Agent Marketplace Listing",
+  "category": "agentic",
+  "tags": [
+    "marketplace",
+    "listing",
+    "catalog"
+  ],
+  "version": "1.3"
+}

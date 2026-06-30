@@ -1,0 +1,11 @@
+{
+  "name": "quantum-sensing",
+  "label": "Quantum Sensing",
+  "category": "quantum",
+  "tags": [
+    "quantum sensing",
+    "magnetometer",
+    "gravimeter"
+  ],
+  "version": "1.3"
+}

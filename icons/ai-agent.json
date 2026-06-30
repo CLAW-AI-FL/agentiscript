@@ -1,0 +1,11 @@
+{
+  "name": "ai-agent",
+  "label": "AI Agent",
+  "category": "agentic",
+  "tags": [
+    "AI agent",
+    "autonomous",
+    "LLM agent"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "next-token-prediction",
+  "label": "Next Token Prediction",
+  "category": "ai",
+  "tags": [
+    "next token",
+    "autoregressive",
+    "LM"
+  ],
+  "version": "1.3"
+}

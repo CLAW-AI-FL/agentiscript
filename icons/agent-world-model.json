@@ -1,0 +1,11 @@
+{
+  "name": "agent-world-model",
+  "label": "Agent World Model",
+  "category": "agentic",
+  "tags": [
+    "world model",
+    "environment",
+    "simulation"
+  ],
+  "version": "1.3"
+}

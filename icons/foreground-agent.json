@@ -1,0 +1,11 @@
+{
+  "name": "foreground-agent",
+  "label": "Foreground Agent",
+  "category": "agentic",
+  "tags": [
+    "foreground",
+    "interactive",
+    "sync"
+  ],
+  "version": "1.3"
+}

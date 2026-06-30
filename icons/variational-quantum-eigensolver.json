@@ -1,0 +1,11 @@
+{
+  "name": "variational-quantum-eigensolver",
+  "label": "VQE",
+  "category": "quantum",
+  "tags": [
+    "VQE",
+    "variational",
+    "chemistry"
+  ],
+  "version": "1.3"
+}

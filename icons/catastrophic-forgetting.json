@@ -1,0 +1,11 @@
+{
+  "name": "catastrophic-forgetting",
+  "label": "Catastrophic Forgetting",
+  "category": "ai",
+  "tags": [
+    "catastrophic forgetting",
+    "continual learning",
+    "neural network"
+  ],
+  "version": "1.3"
+}

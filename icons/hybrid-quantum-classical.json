@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-quantum-classical",
+  "label": "Hybrid Quantum-Classical",
+  "category": "quantum",
+  "tags": [
+    "hybrid",
+    "NISQ",
+    "variational"
+  ],
+  "version": "1.3"
+}

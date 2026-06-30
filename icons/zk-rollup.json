@@ -1,0 +1,11 @@
+{
+  "name": "zk-rollup",
+  "label": "ZK-Rollup",
+  "category": "blockchain",
+  "tags": [
+    "ZK rollup",
+    "zero knowledge",
+    "L2"
+  ],
+  "version": "1.3"
+}

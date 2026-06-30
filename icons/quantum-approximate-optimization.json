@@ -1,0 +1,11 @@
+{
+  "name": "quantum-approximate-optimization",
+  "label": "QAOA",
+  "category": "quantum",
+  "tags": [
+    "QAOA",
+    "optimization",
+    "combinatorics"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "settlement-layer",
+  "label": "Settlement Layer",
+  "category": "blockchain",
+  "tags": [
+    "settlement",
+    "finality",
+    "layer"
+  ],
+  "version": "1.3"
+}

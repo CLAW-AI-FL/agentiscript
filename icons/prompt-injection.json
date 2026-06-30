@@ -1,0 +1,11 @@
+{
+  "name": "prompt-injection",
+  "label": "Prompt Injection",
+  "category": "ai",
+  "tags": [
+    "prompt injection",
+    "attack",
+    "security"
+  ],
+  "version": "1.3"
+}

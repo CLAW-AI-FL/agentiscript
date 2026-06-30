@@ -1,0 +1,11 @@
+{
+  "name": "neural-network",
+  "label": "Neural Network",
+  "category": "ai",
+  "tags": [
+    "neural network",
+    "deep learning",
+    "MLP"
+  ],
+  "version": "1.3"
+}

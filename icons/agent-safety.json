@@ -1,0 +1,11 @@
+{
+  "name": "agent-safety",
+  "label": "Agent Safety",
+  "category": "agentic",
+  "tags": [
+    "safety",
+    "guardrails",
+    "alignment"
+  ],
+  "version": "1.3"
+}

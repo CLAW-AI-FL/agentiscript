@@ -1,0 +1,11 @@
+{
+  "name": "agent-escrow",
+  "label": "Agent Escrow",
+  "category": "agentic",
+  "tags": [
+    "escrow",
+    "payment",
+    "trust"
+  ],
+  "version": "1.3"
+}

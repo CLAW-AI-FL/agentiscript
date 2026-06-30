@@ -1,0 +1,11 @@
+{
+  "name": "agent-benchmark",
+  "label": "Agent Benchmark",
+  "category": "agentic",
+  "tags": [
+    "benchmark",
+    "evaluation",
+    "performance"
+  ],
+  "version": "1.3"
+}

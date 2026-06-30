@@ -1,0 +1,11 @@
+{
+  "name": "user-intent",
+  "label": "User Intent",
+  "category": "blockchain",
+  "tags": [
+    "user intent",
+    "UX",
+    "abstraction"
+  ],
+  "version": "1.3"
+}

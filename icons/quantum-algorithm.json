@@ -1,0 +1,11 @@
+{
+  "name": "quantum-algorithm",
+  "label": "Quantum Algorithm",
+  "category": "quantum",
+  "tags": [
+    "algorithm",
+    "quantum speedup",
+    "complexity"
+  ],
+  "version": "1.3"
+}

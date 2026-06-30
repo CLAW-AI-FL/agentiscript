@@ -1,0 +1,11 @@
+{
+  "name": "proposer-builder-separation",
+  "label": "Proposer-Builder Separation",
+  "category": "blockchain",
+  "tags": [
+    "PBS",
+    "MEV",
+    "Ethereum"
+  ],
+  "version": "1.3"
+}

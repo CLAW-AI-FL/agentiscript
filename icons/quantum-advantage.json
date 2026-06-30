@@ -1,0 +1,11 @@
+{
+  "name": "quantum-advantage",
+  "label": "Quantum Advantage",
+  "category": "quantum",
+  "tags": [
+    "quantum advantage",
+    "supremacy",
+    "speedup"
+  ],
+  "version": "1.3"
+}

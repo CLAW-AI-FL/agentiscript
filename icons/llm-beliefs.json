@@ -1,0 +1,11 @@
+{
+  "name": "llm-beliefs",
+  "label": "LLM Beliefs",
+  "category": "ai",
+  "tags": [
+    "beliefs",
+    "representation",
+    "LLM"
+  ],
+  "version": "1.3"
+}

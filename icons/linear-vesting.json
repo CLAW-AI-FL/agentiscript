@@ -1,0 +1,11 @@
+{
+  "name": "linear-vesting",
+  "label": "Linear Vesting",
+  "category": "finance",
+  "tags": [
+    "linear vesting",
+    "unlock",
+    "schedule"
+  ],
+  "version": "1.3"
+}

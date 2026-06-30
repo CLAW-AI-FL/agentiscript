@@ -1,0 +1,11 @@
+{
+  "name": "entry-point",
+  "label": "Entry Point",
+  "category": "blockchain",
+  "tags": [
+    "entry point",
+    "ERC-4337",
+    "contract"
+  ],
+  "version": "1.3"
+}

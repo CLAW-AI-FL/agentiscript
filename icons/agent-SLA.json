@@ -1,0 +1,11 @@
+{
+  "name": "agent-SLA",
+  "label": "Agent SLA",
+  "category": "agentic",
+  "tags": [
+    "SLA",
+    "agreement",
+    "uptime"
+  ],
+  "version": "1.3"
+}

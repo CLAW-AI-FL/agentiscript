@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-bridge",
+  "label": "Blockchain Bridge",
+  "category": "blockchain",
+  "tags": [
+    "bridge",
+    "cross-chain",
+    "interop"
+  ],
+  "version": "1.3"
+}

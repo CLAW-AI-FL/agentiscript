@@ -1,0 +1,11 @@
+{
+  "name": "residual-connection",
+  "label": "Residual Connection",
+  "category": "ai",
+  "tags": [
+    "residual",
+    "skip connection",
+    "ResNet"
+  ],
+  "version": "1.3"
+}

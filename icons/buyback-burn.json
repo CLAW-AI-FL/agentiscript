@@ -1,0 +1,11 @@
+{
+  "name": "buyback-burn",
+  "label": "Buyback-Burn",
+  "category": "finance",
+  "tags": [
+    "buyback",
+    "burn",
+    "tokenomics"
+  ],
+  "version": "1.3"
+}

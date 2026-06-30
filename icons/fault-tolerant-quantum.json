@@ -1,0 +1,11 @@
+{
+  "name": "fault-tolerant-quantum",
+  "label": "Fault-Tolerant Quantum",
+  "category": "quantum",
+  "tags": [
+    "fault tolerant",
+    "FTQC",
+    "error correction"
+  ],
+  "version": "1.3"
+}

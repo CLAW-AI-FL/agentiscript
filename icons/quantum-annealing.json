@@ -1,0 +1,11 @@
+{
+  "name": "quantum-annealing",
+  "label": "Quantum Annealing",
+  "category": "quantum",
+  "tags": [
+    "annealing",
+    "optimization",
+    "D-Wave"
+  ],
+  "version": "1.3"
+}

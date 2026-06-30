@@ -1,0 +1,11 @@
+{
+  "name": "llm-agents",
+  "label": "LLM Agents",
+  "category": "agentic",
+  "tags": [
+    "LLM agents",
+    "tool use",
+    "autonomous"
+  ],
+  "version": "1.3"
+}

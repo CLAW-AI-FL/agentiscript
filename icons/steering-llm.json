@@ -1,0 +1,11 @@
+{
+  "name": "steering-llm",
+  "label": "Steering LLM",
+  "category": "ai",
+  "tags": [
+    "steering",
+    "representation engineering",
+    "LLM"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neural-architecture-search",
+  "label": "Neural Architecture Search",
+  "category": "ai",
+  "tags": [
+    "NAS",
+    "architecture",
+    "AutoML"
+  ],
+  "version": "1.3"
+}

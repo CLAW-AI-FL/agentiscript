@@ -1,0 +1,11 @@
+{
+  "name": "quantum-neural-network",
+  "label": "Quantum Neural Network",
+  "category": "quantum",
+  "tags": [
+    "QNN",
+    "quantum ML",
+    "variational"
+  ],
+  "version": "1.3"
+}

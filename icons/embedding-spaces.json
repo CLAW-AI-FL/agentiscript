@@ -1,0 +1,11 @@
+{
+  "name": "embedding-spaces",
+  "label": "Embedding Spaces",
+  "category": "ai",
+  "tags": [
+    "embeddings",
+    "vector space",
+    "representation"
+  ],
+  "version": "1.3"
+}

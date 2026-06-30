@@ -1,0 +1,11 @@
+{
+  "name": "layer-normalization",
+  "label": "Layer Normalization",
+  "category": "ai",
+  "tags": [
+    "layer norm",
+    "normalization",
+    "transformer"
+  ],
+  "version": "1.3"
+}

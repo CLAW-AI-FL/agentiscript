@@ -1,0 +1,11 @@
+{
+  "name": "learning-rate",
+  "label": "Learning Rate",
+  "category": "ai",
+  "tags": [
+    "learning rate",
+    "hyperparameter",
+    "training"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "context-compression",
+  "label": "Context Compression",
+  "category": "agentic",
+  "tags": [
+    "compression",
+    "context",
+    "memory"
+  ],
+  "version": "1.3"
+}

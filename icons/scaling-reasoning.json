@@ -1,0 +1,11 @@
+{
+  "name": "scaling-reasoning",
+  "label": "Scaling Reasoning",
+  "category": "ai",
+  "tags": [
+    "scaling",
+    "reasoning",
+    "compute"
+  ],
+  "version": "1.3"
+}

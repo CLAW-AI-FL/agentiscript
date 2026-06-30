@@ -1,0 +1,11 @@
+{
+  "name": "statelessness",
+  "label": "Statelessness",
+  "category": "blockchain",
+  "tags": [
+    "stateless client",
+    "Ethereum",
+    "witnesses"
+  ],
+  "version": "1.3"
+}

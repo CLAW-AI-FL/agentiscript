@@ -1,0 +1,11 @@
+{
+  "name": "transfer-learning",
+  "label": "Transfer Learning",
+  "category": "ai",
+  "tags": [
+    "transfer learning",
+    "fine-tuning",
+    "domain adaptation"
+  ],
+  "version": "1.3"
+}

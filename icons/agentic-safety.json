@@ -1,0 +1,11 @@
+{
+  "name": "agentic-safety",
+  "label": "Agentic Safety",
+  "category": "agentic",
+  "tags": [
+    "safety",
+    "agent",
+    "alignment"
+  ],
+  "version": "1.3"
+}

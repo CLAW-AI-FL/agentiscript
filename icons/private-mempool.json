@@ -1,0 +1,11 @@
+{
+  "name": "private-mempool",
+  "label": "Private Mempool",
+  "category": "blockchain",
+  "tags": [
+    "private mempool",
+    "MEV protection",
+    "dark pool"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "protocol-revenue",
+  "label": "Protocol Revenue",
+  "category": "finance",
+  "tags": [
+    "revenue",
+    "fees",
+    "protocol"
+  ],
+  "version": "1.3"
+}

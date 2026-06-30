@@ -1,0 +1,11 @@
+{
+  "name": "agent-uptime",
+  "label": "Agent Uptime",
+  "category": "agentic",
+  "tags": [
+    "uptime",
+    "availability",
+    "reliability"
+  ],
+  "version": "1.3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lockup-period",
+  "label": "Lockup Period",
+  "category": "finance",
+  "tags": [
+    "lockup",
+    "vesting",
+    "unlock"
+  ],
+  "version": "1.3"
+}

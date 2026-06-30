@@ -1,0 +1,11 @@
+{
+  "name": "quantum-volume",
+  "label": "Quantum Volume",
+  "category": "quantum",
+  "tags": [
+    "quantum volume",
+    "benchmark",
+    "IBM"
+  ],
+  "version": "1.3"
+}

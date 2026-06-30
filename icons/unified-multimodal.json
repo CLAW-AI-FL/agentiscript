@@ -1,0 +1,11 @@
+{
+  "name": "unified-multimodal",
+  "label": "Unified Multimodal",
+  "category": "ai",
+  "tags": [
+    "unified model",
+    "multimodal",
+    "any-to-any"
+  ],
+  "version": "1.3"
+}

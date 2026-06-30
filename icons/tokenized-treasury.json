@@ -1,0 +1,11 @@
+{
+  "name": "tokenized-treasury",
+  "label": "Tokenized Treasury",
+  "category": "finance",
+  "tags": [
+    "T-bills",
+    "RWA",
+    "tokenization"
+  ],
+  "version": "1.3"
+}

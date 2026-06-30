@@ -1,0 +1,11 @@
+{
+  "name": "agent-permission-scope",
+  "label": "Agent Permission Scope",
+  "category": "agentic",
+  "tags": [
+    "permissions",
+    "scope",
+    "access control"
+  ],
+  "version": "1.3"
+}
