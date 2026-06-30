@@ -1,0 +1,12 @@
+{
+  "name": "daughter product",
+  "slug": "daughter-product",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "daughter product \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "agricultural extension",
+  "slug": "agricultural-extension",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "agricultural extension \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

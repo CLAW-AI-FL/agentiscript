@@ -1,0 +1,12 @@
+{
+  "name": "porker",
+  "slug": "porker",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "porker \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

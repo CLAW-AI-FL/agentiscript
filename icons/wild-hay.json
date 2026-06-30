@@ -1,0 +1,12 @@
+{
+  "name": "wild hay",
+  "slug": "wild-hay",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "wild hay \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

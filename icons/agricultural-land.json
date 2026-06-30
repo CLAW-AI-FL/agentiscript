@@ -1,0 +1,12 @@
+{
+  "name": "agricultural land",
+  "slug": "agricultural-land",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "agricultural land \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

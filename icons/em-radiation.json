@@ -1,0 +1,12 @@
+{
+  "name": "EM radiation",
+  "slug": "em-radiation",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "EM radiation \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

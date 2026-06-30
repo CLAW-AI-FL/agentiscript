@@ -1,0 +1,12 @@
+{
+  "name": "U-Pick",
+  "slug": "u-pick",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "U-Pick \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "crop weed",
+  "slug": "crop-weed",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "crop weed \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

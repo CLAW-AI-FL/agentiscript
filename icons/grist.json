@@ -1,0 +1,12 @@
+{
+  "name": "grist",
+  "slug": "grist",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "grist \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

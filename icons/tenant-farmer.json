@@ -1,0 +1,12 @@
+{
+  "name": "tenant farmer",
+  "slug": "tenant-farmer",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "tenant farmer \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

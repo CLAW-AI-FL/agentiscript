@@ -1,0 +1,12 @@
+{
+  "name": "gardening",
+  "slug": "gardening",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "gardening \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "slaughterhouse",
+  "slug": "slaughterhouse",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "slaughterhouse \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

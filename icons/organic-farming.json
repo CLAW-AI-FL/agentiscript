@@ -1,0 +1,12 @@
+{
+  "name": "organic farming",
+  "slug": "organic-farming",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "organic farming \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

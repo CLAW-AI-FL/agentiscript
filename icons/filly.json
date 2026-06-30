@@ -1,0 +1,12 @@
+{
+  "name": "filly",
+  "slug": "filly",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "filly \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

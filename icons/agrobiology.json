@@ -1,0 +1,12 @@
+{
+  "name": "agrobiology",
+  "slug": "agrobiology",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "agrobiology \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

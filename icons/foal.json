@@ -1,0 +1,12 @@
+{
+  "name": "foal",
+  "slug": "foal",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "foal \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

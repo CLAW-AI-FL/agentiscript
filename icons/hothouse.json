@@ -1,0 +1,12 @@
+{
+  "name": "hothouse",
+  "slug": "hothouse",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "hothouse \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "cotton gin",
+  "slug": "cotton-gin",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "cotton gin \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

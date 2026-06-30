@@ -1,0 +1,12 @@
+{
+  "name": "growing degree-days (GDD)",
+  "slug": "growing-degree-days-gdd",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "growing degree-days (GDD) \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

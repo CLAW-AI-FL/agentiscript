@@ -1,0 +1,12 @@
+{
+  "name": "wether",
+  "slug": "wether",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "wether \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

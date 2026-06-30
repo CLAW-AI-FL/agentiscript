@@ -1,0 +1,12 @@
+{
+  "name": "basic rock",
+  "slug": "basic-rock",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "basic rock \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

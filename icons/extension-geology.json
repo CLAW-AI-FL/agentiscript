@@ -1,0 +1,12 @@
+{
+  "name": "Extension (geology)",
+  "slug": "extension-geology",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "Extension (geology) \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

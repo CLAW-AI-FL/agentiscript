@@ -1,0 +1,12 @@
+{
+  "name": "EM field",
+  "slug": "em-field",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "EM field \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

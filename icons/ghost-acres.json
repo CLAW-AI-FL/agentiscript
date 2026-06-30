@@ -1,0 +1,12 @@
+{
+  "name": "ghost acres",
+  "slug": "ghost-acres",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "ghost acres \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

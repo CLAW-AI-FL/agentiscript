@@ -1,0 +1,12 @@
+{
+  "name": "tree farm",
+  "slug": "tree-farm",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "tree farm \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rainfed field",
+  "slug": "rainfed-field",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "rainfed field \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

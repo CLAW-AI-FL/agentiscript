@@ -1,0 +1,12 @@
+{
+  "name": "atmospheric density",
+  "slug": "atmospheric-density",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "atmospheric density \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

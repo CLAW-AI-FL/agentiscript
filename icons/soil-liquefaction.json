@@ -1,0 +1,12 @@
+{
+  "name": "soil liquefaction",
+  "slug": "soil-liquefaction",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "soil liquefaction \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

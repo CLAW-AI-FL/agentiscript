@@ -1,0 +1,12 @@
+{
+  "name": "nurse crop",
+  "slug": "nurse-crop",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "nurse crop \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

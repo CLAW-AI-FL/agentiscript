@@ -1,0 +1,12 @@
+{
+  "name": "raise JSONDecodeError(\"Expecting value\", s, err.value) from None",
+  "slug": "raise-jsondecodeerrorexpecting-value-s-errvalue-from-none",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "raise JSONDecodeError(\"Expecting value\", s, err.value) from None \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

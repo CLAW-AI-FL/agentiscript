@@ -1,0 +1,12 @@
+{
+  "name": "cropping (animal)",
+  "slug": "cropping-animal",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "cropping (animal) \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

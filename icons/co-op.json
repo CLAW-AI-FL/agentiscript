@@ -1,0 +1,12 @@
+{
+  "name": "co-op",
+  "slug": "co-op",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "co-op \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

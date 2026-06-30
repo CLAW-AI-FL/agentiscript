@@ -1,0 +1,12 @@
+{
+  "name": "seedlot",
+  "slug": "seedlot",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "seedlot \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

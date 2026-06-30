@@ -1,0 +1,12 @@
+{
+  "name": "cattle prod",
+  "slug": "cattle-prod",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "cattle prod \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

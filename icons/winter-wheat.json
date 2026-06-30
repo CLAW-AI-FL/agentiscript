@@ -1,0 +1,12 @@
+{
+  "name": "winter wheat",
+  "slug": "winter-wheat",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "winter wheat \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

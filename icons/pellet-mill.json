@@ -1,0 +1,12 @@
+{
+  "name": "pellet mill",
+  "slug": "pellet-mill",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "pellet mill \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "hake bar",
+  "slug": "hake-bar",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "hake bar \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

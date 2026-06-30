@@ -1,0 +1,12 @@
+{
+  "name": "cereal",
+  "slug": "cereal",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "cereal \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ground (electricity)",
+  "slug": "ground-electricity",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "Ground (electricity) \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

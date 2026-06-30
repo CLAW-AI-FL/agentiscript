@@ -1,0 +1,12 @@
+{
+  "name": "truck farm",
+  "slug": "truck-farm",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "truck farm \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

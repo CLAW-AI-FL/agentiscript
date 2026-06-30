@@ -1,0 +1,12 @@
+{
+  "name": "minimum tillage",
+  "slug": "minimum-tillage",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "minimum tillage \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "liquid manure",
+  "slug": "liquid-manure",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "liquid manure \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

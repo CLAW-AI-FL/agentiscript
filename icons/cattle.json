@@ -1,0 +1,12 @@
+{
+  "name": "cattle",
+  "slug": "cattle",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "cattle \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Tethys Ocean",
+  "slug": "tethys-ocean",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "Tethys Ocean \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

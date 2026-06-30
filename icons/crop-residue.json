@@ -1,0 +1,12 @@
+{
+  "name": "crop residue",
+  "slug": "crop-residue",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "crop residue \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

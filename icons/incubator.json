@@ -1,0 +1,12 @@
+{
+  "name": "incubator",
+  "slug": "incubator",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "incubator \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

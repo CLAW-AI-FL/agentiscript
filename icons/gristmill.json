@@ -1,0 +1,12 @@
+{
+  "name": "gristmill",
+  "slug": "gristmill",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "gristmill \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

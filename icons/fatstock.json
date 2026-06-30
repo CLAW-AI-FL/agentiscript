@@ -1,0 +1,12 @@
+{
+  "name": "fatstock",
+  "slug": "fatstock",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "fatstock \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "field crop",
+  "slug": "field-crop",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "field crop \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

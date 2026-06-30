@@ -1,0 +1,12 @@
+{
+  "name": "farm-to-table",
+  "slug": "farm-to-table",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "farm-to-table \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "drinker",
+  "slug": "drinker",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "drinker \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

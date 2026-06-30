@@ -1,0 +1,12 @@
+{
+  "name": "manure",
+  "slug": "manure",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "manure \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

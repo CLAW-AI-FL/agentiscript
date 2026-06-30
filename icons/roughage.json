@@ -1,0 +1,12 @@
+{
+  "name": "roughage",
+  "slug": "roughage",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "roughage \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

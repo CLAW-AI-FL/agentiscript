@@ -1,0 +1,12 @@
+{
+  "name": "hydrothermal",
+  "slug": "hydrothermal",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "hydrothermal \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

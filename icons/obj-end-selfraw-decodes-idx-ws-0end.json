@@ -1,0 +1,12 @@
+{
+  "name": "obj, end = self.raw_decode(s, idx=_w(s, 0).end())",
+  "slug": "obj-end-selfraw-decodes-idx-ws-0end",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "obj, end = self.raw_decode(s, idx=_w(s, 0).end()) \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

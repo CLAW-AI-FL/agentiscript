@@ -1,0 +1,12 @@
+{
+  "name": "receiver (radio)",
+  "slug": "receiver-radio",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "receiver (radio) \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

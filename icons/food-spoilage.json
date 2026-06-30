@@ -1,0 +1,12 @@
+{
+  "name": "food spoilage",
+  "slug": "food-spoilage",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "food spoilage \u2014 a concept in agriculture.",
+  "version": "2.2"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "agriculture",
+  "slug": "agriculture",
+  "tags": [
+    "agriculture",
+    "farming"
+  ],
+  "category": "agriculture",
+  "source": "Agriculture_glossary",
+  "description": "agriculture \u2014 a concept in agriculture.",
+  "version": "2.2"
+}
