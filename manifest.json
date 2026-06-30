@@ -1,0 +1,15 @@
+{
+  "name": "AgentiScript",
+  "description": "The visual language of the agentic economy",
+  "version": "3.0",
+  "pricing": {
+    "single_icon": {"usd": 0.001, "xrp": 0.001},
+    "pro_pack": {"usd": 49},
+    "enterprise": {"usd": 499}
+  },
+  "endpoints": {
+    "icons": "https://agentiscript.com/agentiscript.json",
+    "payment": "https://agentiscript.com/store/"
+  },
+  "license": "CC0 free tier, commercial license at agentiscript.com/store"
+}
