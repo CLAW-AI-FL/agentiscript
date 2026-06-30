@@ -1,0 +1,12 @@
+{
+  "name": "self-rag",
+  "label": "Self-RAG",
+  "category": "rag",
+  "tags": [
+    "self-rag",
+    "reflection",
+    "selective-retrieval",
+    "adaptive"
+  ],
+  "version": "1.4"
+}

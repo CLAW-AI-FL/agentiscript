@@ -1,0 +1,12 @@
+{
+  "name": "email-agent",
+  "label": "Email Agent",
+  "category": "agents",
+  "tags": [
+    "email",
+    "communication",
+    "automation",
+    "inbox"
+  ],
+  "version": "1.4"
+}

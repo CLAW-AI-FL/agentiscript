@@ -1,0 +1,12 @@
+{
+  "name": "graph-of-thought",
+  "label": "Graph of Thought",
+  "category": "reasoning",
+  "tags": [
+    "graph",
+    "reasoning",
+    "knowledge-graph",
+    "nonlinear"
+  ],
+  "version": "1.4"
+}

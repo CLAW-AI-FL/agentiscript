@@ -1,0 +1,12 @@
+{
+  "name": "critic-agent",
+  "label": "Critic Agent",
+  "category": "patterns",
+  "tags": [
+    "critic",
+    "evaluation",
+    "feedback",
+    "quality"
+  ],
+  "version": "1.4"
+}

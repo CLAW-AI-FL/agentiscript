@@ -1,0 +1,12 @@
+{
+  "name": "symbolic-reasoning",
+  "label": "Symbolic Reasoning",
+  "category": "reasoning",
+  "tags": [
+    "symbolic",
+    "logic",
+    "rules",
+    "knowledge-base"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "incident-response-agent",
+  "label": "Incident Response Agent",
+  "category": "agents",
+  "tags": [
+    "incident",
+    "response",
+    "devops",
+    "reliability"
+  ],
+  "version": "1.4"
+}

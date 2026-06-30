@@ -1,0 +1,12 @@
+{
+  "name": "policy-gradient",
+  "label": "Policy Gradient",
+  "category": "rl",
+  "tags": [
+    "policy-gradient",
+    "reinforcement-learning",
+    "ppo",
+    "actor-critic"
+  ],
+  "version": "1.4"
+}

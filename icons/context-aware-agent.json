@@ -1,0 +1,12 @@
+{
+  "name": "context-aware-agent",
+  "label": "Context-Aware Agent",
+  "category": "agents",
+  "tags": [
+    "context",
+    "awareness",
+    "adaptation",
+    "personalization"
+  ],
+  "version": "1.4"
+}

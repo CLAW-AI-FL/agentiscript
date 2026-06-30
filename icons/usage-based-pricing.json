@@ -1,0 +1,12 @@
+{
+  "name": "usage-based-pricing",
+  "label": "Usage-Based Pricing",
+  "category": "finance",
+  "tags": [
+    "pricing",
+    "usage",
+    "consumption",
+    "saas"
+  ],
+  "version": "1.4"
+}

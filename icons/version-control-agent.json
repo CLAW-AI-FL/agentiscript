@@ -1,0 +1,12 @@
+{
+  "name": "version-control-agent",
+  "label": "Version Control Agent",
+  "category": "agents",
+  "tags": [
+    "git",
+    "version-control",
+    "collaboration",
+    "devops"
+  ],
+  "version": "1.4"
+}

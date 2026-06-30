@@ -1,0 +1,12 @@
+{
+  "name": "batch-inference",
+  "label": "Batch Inference",
+  "category": "optimization",
+  "tags": [
+    "batch",
+    "inference",
+    "gpu",
+    "throughput"
+  ],
+  "version": "1.4"
+}

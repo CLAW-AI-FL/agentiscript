@@ -1,0 +1,12 @@
+{
+  "name": "api-agent",
+  "label": "API Agent",
+  "category": "agents",
+  "tags": [
+    "api",
+    "integration",
+    "web-services",
+    "http"
+  ],
+  "version": "1.4"
+}

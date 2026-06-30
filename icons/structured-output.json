@@ -1,0 +1,12 @@
+{
+  "name": "structured-output",
+  "label": "Structured Output",
+  "category": "patterns",
+  "tags": [
+    "structured",
+    "json",
+    "schema",
+    "output"
+  ],
+  "version": "1.4"
+}

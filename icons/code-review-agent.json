@@ -1,0 +1,12 @@
+{
+  "name": "code-review-agent",
+  "label": "Code Review Agent",
+  "category": "agents",
+  "tags": [
+    "code-review",
+    "quality",
+    "static-analysis",
+    "agent"
+  ],
+  "version": "1.4"
+}

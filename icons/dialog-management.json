@@ -1,0 +1,12 @@
+{
+  "name": "dialog-management",
+  "label": "Dialog Management",
+  "category": "agents",
+  "tags": [
+    "dialog",
+    "conversation",
+    "nlu",
+    "state-machine"
+  ],
+  "version": "1.4"
+}

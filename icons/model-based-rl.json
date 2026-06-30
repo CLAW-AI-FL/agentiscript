@@ -1,0 +1,12 @@
+{
+  "name": "model-based-rl",
+  "label": "Model-Based RL",
+  "category": "rl",
+  "tags": [
+    "model-based",
+    "reinforcement-learning",
+    "planning",
+    "simulation"
+  ],
+  "version": "1.4"
+}

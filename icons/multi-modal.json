@@ -1,0 +1,12 @@
+{
+  "name": "multi-modal",
+  "label": "Multi-Modal",
+  "category": "agents",
+  "tags": [
+    "multimodal",
+    "vision",
+    "audio",
+    "cross-modal"
+  ],
+  "version": "1.4"
+}

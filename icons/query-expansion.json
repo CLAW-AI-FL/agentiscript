@@ -1,0 +1,12 @@
+{
+  "name": "query-expansion",
+  "label": "Query Expansion",
+  "category": "retrieval",
+  "tags": [
+    "query-expansion",
+    "retrieval",
+    "synonyms",
+    "recall"
+  ],
+  "version": "1.4"
+}

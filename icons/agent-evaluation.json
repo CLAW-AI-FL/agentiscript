@@ -1,0 +1,12 @@
+{
+  "name": "agent-evaluation",
+  "label": "Agent Evaluation",
+  "category": "evaluation",
+  "tags": [
+    "evaluation",
+    "benchmark",
+    "assessment",
+    "metrics"
+  ],
+  "version": "1.4"
+}

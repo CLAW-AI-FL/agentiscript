@@ -1,0 +1,12 @@
+{
+  "name": "mixture-of-experts",
+  "label": "Mixture of Experts",
+  "category": "architecture",
+  "tags": [
+    "moe",
+    "routing",
+    "experts",
+    "architecture"
+  ],
+  "version": "1.4"
+}

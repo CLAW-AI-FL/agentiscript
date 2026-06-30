@@ -1,0 +1,12 @@
+{
+  "name": "approval-workflow",
+  "label": "Approval Workflow",
+  "category": "workflow",
+  "tags": [
+    "approval",
+    "workflow",
+    "governance",
+    "human-oversight"
+  ],
+  "version": "1.4"
+}

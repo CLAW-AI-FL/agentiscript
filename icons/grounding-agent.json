@@ -1,0 +1,12 @@
+{
+  "name": "grounding-agent",
+  "label": "Grounding Agent",
+  "category": "agents",
+  "tags": [
+    "grounding",
+    "embodied",
+    "perception",
+    "physical"
+  ],
+  "version": "1.4"
+}

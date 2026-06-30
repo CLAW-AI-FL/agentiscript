@@ -1,0 +1,12 @@
+{
+  "name": "notification-agent",
+  "label": "Notification Agent",
+  "category": "agents",
+  "tags": [
+    "notifications",
+    "alerts",
+    "monitoring",
+    "push"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ontology-agent",
+  "label": "Ontology Agent",
+  "category": "agents",
+  "tags": [
+    "ontology",
+    "knowledge-representation",
+    "semantics",
+    "taxonomy"
+  ],
+  "version": "1.4"
+}

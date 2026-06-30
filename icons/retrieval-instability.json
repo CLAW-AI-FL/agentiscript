@@ -1,0 +1,12 @@
+{
+  "name": "retrieval-instability",
+  "label": "Retrieval Instability",
+  "category": "retrieval",
+  "tags": [
+    "instability",
+    "consistency",
+    "retrieval",
+    "robustness"
+  ],
+  "version": "1.4"
+}

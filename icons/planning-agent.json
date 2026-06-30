@@ -1,0 +1,12 @@
+{
+  "name": "planning-agent",
+  "label": "Planning Agent",
+  "category": "agents",
+  "tags": [
+    "planning",
+    "goal-directed",
+    "htl",
+    "task-decomposition"
+  ],
+  "version": "1.4"
+}

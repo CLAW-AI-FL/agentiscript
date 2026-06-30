@@ -1,0 +1,12 @@
+{
+  "name": "agentic-rag",
+  "label": "Agentic RAG",
+  "category": "rag",
+  "tags": [
+    "agentic-rag",
+    "retrieval",
+    "autonomous",
+    "generation"
+  ],
+  "version": "1.4"
+}

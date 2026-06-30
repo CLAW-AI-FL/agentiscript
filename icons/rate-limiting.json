@@ -1,0 +1,12 @@
+{
+  "name": "rate-limiting",
+  "label": "Rate Limiting",
+  "category": "infrastructure",
+  "tags": [
+    "rate-limiting",
+    "throttling",
+    "quota",
+    "api"
+  ],
+  "version": "1.4"
+}

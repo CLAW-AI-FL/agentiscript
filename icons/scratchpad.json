@@ -1,0 +1,12 @@
+{
+  "name": "scratchpad",
+  "label": "Scratchpad",
+  "category": "patterns",
+  "tags": [
+    "scratchpad",
+    "working-memory",
+    "reasoning",
+    "chain-of-thought"
+  ],
+  "version": "1.4"
+}

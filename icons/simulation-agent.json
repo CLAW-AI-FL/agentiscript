@@ -1,0 +1,12 @@
+{
+  "name": "simulation-agent",
+  "label": "Simulation Agent",
+  "category": "agents",
+  "tags": [
+    "simulation",
+    "modeling",
+    "synthetic",
+    "prediction"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "security-scanning-agent",
+  "label": "Security Scanning Agent",
+  "category": "agents",
+  "tags": [
+    "security",
+    "scanning",
+    "vulnerability",
+    "compliance"
+  ],
+  "version": "1.4"
+}

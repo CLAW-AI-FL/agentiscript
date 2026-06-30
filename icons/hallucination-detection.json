@@ -1,0 +1,12 @@
+{
+  "name": "hallucination-detection",
+  "label": "Hallucination Detection",
+  "category": "evaluation",
+  "tags": [
+    "hallucination",
+    "factuality",
+    "detection",
+    "grounding"
+  ],
+  "version": "1.4"
+}

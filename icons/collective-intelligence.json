@@ -1,0 +1,12 @@
+{
+  "name": "collective-intelligence",
+  "label": "Collective Intelligence",
+  "category": "multi-agent",
+  "tags": [
+    "collective",
+    "intelligence",
+    "wisdom",
+    "crowd"
+  ],
+  "version": "1.4"
+}

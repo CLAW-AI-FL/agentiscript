@@ -1,0 +1,12 @@
+{
+  "name": "vector-search",
+  "label": "Vector Search",
+  "category": "retrieval",
+  "tags": [
+    "vector-search",
+    "similarity",
+    "embeddings",
+    "ann"
+  ],
+  "version": "1.4"
+}

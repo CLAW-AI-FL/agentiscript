@@ -1,0 +1,12 @@
+{
+  "name": "data-pipeline-agent",
+  "label": "Data Pipeline Agent",
+  "category": "agents",
+  "tags": [
+    "data-pipeline",
+    "etl",
+    "orchestration",
+    "engineering"
+  ],
+  "version": "1.4"
+}

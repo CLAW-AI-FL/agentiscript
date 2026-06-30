@@ -1,0 +1,12 @@
+{
+  "name": "comparing-retrieval",
+  "label": "Comparing Retrieval Methods",
+  "category": "retrieval",
+  "tags": [
+    "benchmark",
+    "retrieval",
+    "evaluation",
+    "comparison"
+  ],
+  "version": "1.4"
+}

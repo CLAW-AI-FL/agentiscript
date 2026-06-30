@@ -1,0 +1,12 @@
+{
+  "name": "offline-rl",
+  "label": "Offline RL",
+  "category": "rl",
+  "tags": [
+    "offline-rl",
+    "batch-rl",
+    "data-driven",
+    "no-exploration"
+  ],
+  "version": "1.4"
+}

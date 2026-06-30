@@ -1,0 +1,12 @@
+{
+  "name": "jupyter-agent",
+  "label": "Jupyter Agent",
+  "category": "agents",
+  "tags": [
+    "jupyter",
+    "notebook",
+    "data-science",
+    "python"
+  ],
+  "version": "1.4"
+}

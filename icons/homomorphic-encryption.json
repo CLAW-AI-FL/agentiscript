@@ -1,0 +1,12 @@
+{
+  "name": "homomorphic-encryption",
+  "label": "Homomorphic Encryption",
+  "category": "cryptography",
+  "tags": [
+    "encryption",
+    "cryptography",
+    "privacy",
+    "computation"
+  ],
+  "version": "1.4"
+}

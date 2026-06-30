@@ -1,0 +1,12 @@
+{
+  "name": "gpu-cluster",
+  "label": "GPU Cluster",
+  "category": "infrastructure",
+  "tags": [
+    "gpu",
+    "cluster",
+    "compute",
+    "parallel"
+  ],
+  "version": "1.4"
+}

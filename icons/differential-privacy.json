@@ -1,0 +1,12 @@
+{
+  "name": "differential-privacy",
+  "label": "Differential Privacy",
+  "category": "privacy",
+  "tags": [
+    "privacy",
+    "mathematics",
+    "security",
+    "statistics"
+  ],
+  "version": "1.4"
+}

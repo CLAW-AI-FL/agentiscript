@@ -1,0 +1,12 @@
+{
+  "name": "state-space",
+  "label": "State Space",
+  "category": "rl",
+  "tags": [
+    "state-space",
+    "rl",
+    "environment",
+    "representation"
+  ],
+  "version": "1.4"
+}

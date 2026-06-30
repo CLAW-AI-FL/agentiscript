@@ -1,0 +1,12 @@
+{
+  "name": "calendar-agent",
+  "label": "Calendar Agent",
+  "category": "agents",
+  "tags": [
+    "calendar",
+    "scheduling",
+    "time-management",
+    "meetings"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "doctor-agents",
+  "label": "Doctor Agents",
+  "category": "agents",
+  "tags": [
+    "medical",
+    "healthcare",
+    "diagnosis",
+    "clinical"
+  ],
+  "version": "1.4"
+}

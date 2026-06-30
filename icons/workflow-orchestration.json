@@ -1,0 +1,12 @@
+{
+  "name": "workflow-orchestration",
+  "label": "Workflow Orchestration",
+  "category": "workflow",
+  "tags": [
+    "workflow",
+    "orchestration",
+    "coordination",
+    "pipeline"
+  ],
+  "version": "1.4"
+}

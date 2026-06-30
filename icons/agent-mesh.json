@@ -1,0 +1,12 @@
+{
+  "name": "agent-mesh",
+  "label": "Agent Mesh",
+  "category": "infrastructure",
+  "tags": [
+    "mesh",
+    "network",
+    "distributed",
+    "topology"
+  ],
+  "version": "1.4"
+}

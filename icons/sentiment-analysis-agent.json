@@ -1,0 +1,12 @@
+{
+  "name": "sentiment-analysis-agent",
+  "label": "Sentiment Analysis Agent",
+  "category": "agents",
+  "tags": [
+    "sentiment",
+    "emotion",
+    "opinion-mining",
+    "nlp"
+  ],
+  "version": "1.4"
+}

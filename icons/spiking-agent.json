@@ -1,0 +1,12 @@
+{
+  "name": "spiking-agent",
+  "label": "Spiking Agent",
+  "category": "neuroscience",
+  "tags": [
+    "spiking",
+    "neuromorphic",
+    "biological",
+    "neural"
+  ],
+  "version": "1.4"
+}

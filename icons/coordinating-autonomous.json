@@ -1,0 +1,12 @@
+{
+  "name": "coordinating-autonomous",
+  "label": "Coordinating Autonomous Agents",
+  "category": "multi-agent",
+  "tags": [
+    "coordination",
+    "autonomous",
+    "multi-agent",
+    "collaboration"
+  ],
+  "version": "1.4"
+}

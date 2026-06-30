@@ -1,0 +1,12 @@
+{
+  "name": "reranking",
+  "label": "Reranking",
+  "category": "retrieval",
+  "tags": [
+    "reranking",
+    "retrieval",
+    "ranking",
+    "cross-encoder"
+  ],
+  "version": "1.4"
+}

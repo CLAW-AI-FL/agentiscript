@@ -1,0 +1,12 @@
+{
+  "name": "proactive-agent",
+  "label": "Proactive Agent",
+  "category": "agents",
+  "tags": [
+    "proactive",
+    "anticipation",
+    "initiative",
+    "autonomous"
+  ],
+  "version": "1.4"
+}

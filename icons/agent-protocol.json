@@ -1,0 +1,12 @@
+{
+  "name": "agent-protocol",
+  "label": "Agent Protocol",
+  "category": "standards",
+  "tags": [
+    "protocol",
+    "standards",
+    "communication",
+    "interoperability"
+  ],
+  "version": "1.4"
+}

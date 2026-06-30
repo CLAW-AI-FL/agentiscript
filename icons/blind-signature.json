@@ -1,0 +1,12 @@
+{
+  "name": "blind-signature",
+  "label": "Blind Signature",
+  "category": "cryptography",
+  "tags": [
+    "blind",
+    "signature",
+    "cryptography",
+    "anonymity"
+  ],
+  "version": "1.4"
+}

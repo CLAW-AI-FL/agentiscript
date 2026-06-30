@@ -1,0 +1,12 @@
+{
+  "name": "prompt-optimization",
+  "label": "Prompt Optimization",
+  "category": "llm",
+  "tags": [
+    "prompt-optimization",
+    "dspy",
+    "prompt-engineering",
+    "automatic"
+  ],
+  "version": "1.4"
+}

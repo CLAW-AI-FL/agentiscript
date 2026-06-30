@@ -1,0 +1,12 @@
+{
+  "name": "explainable-ai",
+  "label": "Explainable AI",
+  "category": "alignment",
+  "tags": [
+    "explainability",
+    "interpretability",
+    "transparency",
+    "xai"
+  ],
+  "version": "1.4"
+}

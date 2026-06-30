@@ -1,0 +1,12 @@
+{
+  "name": "intent-recognition",
+  "label": "Intent Recognition",
+  "category": "nlp",
+  "tags": [
+    "intent",
+    "nlu",
+    "classification",
+    "dialogue"
+  ],
+  "version": "1.4"
+}

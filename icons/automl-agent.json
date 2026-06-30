@@ -1,0 +1,12 @@
+{
+  "name": "automl-agent",
+  "label": "AutoML Agent",
+  "category": "agents",
+  "tags": [
+    "automl",
+    "automation",
+    "hyperparameter",
+    "neural-architecture-search"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "q-learning",
+  "label": "Q-Learning",
+  "category": "rl",
+  "tags": [
+    "q-learning",
+    "reinforcement-learning",
+    "tabular",
+    "bellman"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "safe-rl",
+  "label": "Safe Reinforcement Learning",
+  "category": "rl",
+  "tags": [
+    "safe-rl",
+    "safety",
+    "constraints",
+    "alignment"
+  ],
+  "version": "1.4"
+}

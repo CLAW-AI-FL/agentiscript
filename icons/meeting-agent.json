@@ -1,0 +1,12 @@
+{
+  "name": "meeting-agent",
+  "label": "Meeting Agent",
+  "category": "agents",
+  "tags": [
+    "meetings",
+    "notes",
+    "action-items",
+    "scheduling"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "curiosity-driven",
+  "label": "Curiosity-Driven Exploration",
+  "category": "rl",
+  "tags": [
+    "curiosity",
+    "exploration",
+    "intrinsic",
+    "reinforcement-learning"
+  ],
+  "version": "1.4"
+}

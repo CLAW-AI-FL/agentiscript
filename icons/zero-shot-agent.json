@@ -1,0 +1,12 @@
+{
+  "name": "zero-shot-agent",
+  "label": "Zero-Shot Agent",
+  "category": "agents",
+  "tags": [
+    "zero-shot",
+    "generalization",
+    "transfer",
+    "few-shot"
+  ],
+  "version": "1.4"
+}

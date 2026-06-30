@@ -1,0 +1,12 @@
+{
+  "name": "credit-assignment",
+  "label": "Credit Assignment",
+  "category": "rl",
+  "tags": [
+    "credit-assignment",
+    "temporal",
+    "attribution",
+    "reinforcement-learning"
+  ],
+  "version": "1.4"
+}

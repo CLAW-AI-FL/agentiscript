@@ -1,0 +1,12 @@
+{
+  "name": "code-interpreter",
+  "label": "Code Interpreter",
+  "category": "tools",
+  "tags": [
+    "code",
+    "execution",
+    "python",
+    "interpreter"
+  ],
+  "version": "1.4"
+}

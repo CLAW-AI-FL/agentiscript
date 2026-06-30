@@ -1,0 +1,12 @@
+{
+  "name": "dense-retrieval",
+  "label": "Dense Retrieval",
+  "category": "retrieval",
+  "tags": [
+    "dense-retrieval",
+    "embeddings",
+    "bi-encoder",
+    "semantic-search"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bridge-retrieval",
+  "label": "Bridge Retrieval",
+  "category": "retrieval",
+  "tags": [
+    "bridge",
+    "retrieval",
+    "cross-modal",
+    "connection"
+  ],
+  "version": "1.4"
+}

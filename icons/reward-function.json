@@ -1,0 +1,12 @@
+{
+  "name": "reward-function",
+  "label": "Reward Function",
+  "category": "rl",
+  "tags": [
+    "reward",
+    "reinforcement-learning",
+    "objective",
+    "signal"
+  ],
+  "version": "1.4"
+}

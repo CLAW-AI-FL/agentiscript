@@ -1,0 +1,12 @@
+{
+  "name": "video-retrieval",
+  "label": "Video Retrieval",
+  "category": "retrieval",
+  "tags": [
+    "video",
+    "retrieval",
+    "search",
+    "visual"
+  ],
+  "version": "1.4"
+}

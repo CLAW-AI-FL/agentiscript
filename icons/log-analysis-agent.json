@@ -1,0 +1,12 @@
+{
+  "name": "log-analysis-agent",
+  "label": "Log Analysis Agent",
+  "category": "agents",
+  "tags": [
+    "logs",
+    "analysis",
+    "debugging",
+    "observability"
+  ],
+  "version": "1.4"
+}

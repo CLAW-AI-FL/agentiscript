@@ -1,0 +1,12 @@
+{
+  "name": "multi-hop-reasoning",
+  "label": "Multi-Hop Reasoning",
+  "category": "reasoning",
+  "tags": [
+    "multi-hop",
+    "reasoning",
+    "chaining",
+    "inference"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "dependency-resolution",
+  "label": "Dependency Resolution",
+  "category": "infrastructure",
+  "tags": [
+    "dependencies",
+    "packages",
+    "resolution",
+    "build"
+  ],
+  "version": "1.4"
+}

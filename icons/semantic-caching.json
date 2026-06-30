@@ -1,0 +1,12 @@
+{
+  "name": "semantic-caching",
+  "label": "Semantic Caching",
+  "category": "optimization",
+  "tags": [
+    "caching",
+    "semantic",
+    "similarity",
+    "optimization"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "synthetic-data-generation",
+  "label": "Synthetic Data Generation",
+  "category": "data",
+  "tags": [
+    "synthetic",
+    "data",
+    "generation",
+    "privacy"
+  ],
+  "version": "1.4"
+}

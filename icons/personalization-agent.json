@@ -1,0 +1,12 @@
+{
+  "name": "personalization-agent",
+  "label": "Personalization Agent",
+  "category": "agents",
+  "tags": [
+    "personalization",
+    "user-modeling",
+    "preferences",
+    "adaptation"
+  ],
+  "version": "1.4"
+}

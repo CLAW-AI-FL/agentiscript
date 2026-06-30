@@ -1,0 +1,12 @@
+{
+  "name": "root-cause-analysis",
+  "label": "Root Cause Analysis",
+  "category": "debugging",
+  "tags": [
+    "root-cause",
+    "debugging",
+    "analysis",
+    "reliability"
+  ],
+  "version": "1.4"
+}

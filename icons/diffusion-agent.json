@@ -1,0 +1,12 @@
+{
+  "name": "diffusion-agent",
+  "label": "Diffusion Agent",
+  "category": "agents",
+  "tags": [
+    "diffusion",
+    "generation",
+    "denoising",
+    "generative"
+  ],
+  "version": "1.4"
+}

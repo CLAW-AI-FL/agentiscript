@@ -1,0 +1,12 @@
+{
+  "name": "summarization-agent",
+  "label": "Summarization Agent",
+  "category": "agents",
+  "tags": [
+    "summarization",
+    "nlp",
+    "compression",
+    "extraction"
+  ],
+  "version": "1.4"
+}

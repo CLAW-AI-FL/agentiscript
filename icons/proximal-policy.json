@@ -1,0 +1,12 @@
+{
+  "name": "proximal-policy",
+  "label": "Proximal Policy Optimization",
+  "category": "rl",
+  "tags": [
+    "ppo",
+    "reinforcement-learning",
+    "policy-gradient",
+    "openai"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "agent-loop",
+  "label": "Agent Loop",
+  "category": "patterns",
+  "tags": [
+    "loop",
+    "react",
+    "cycle",
+    "execution"
+  ],
+  "version": "1.4"
+}

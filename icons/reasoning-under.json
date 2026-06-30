@@ -1,0 +1,12 @@
+{
+  "name": "reasoning-under",
+  "label": "Reasoning Under Uncertainty",
+  "category": "reasoning",
+  "tags": [
+    "uncertainty",
+    "probabilistic",
+    "inference",
+    "decision"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "embedding-model",
+  "label": "Embedding Model",
+  "category": "nlp",
+  "tags": [
+    "embeddings",
+    "vector",
+    "semantic",
+    "representation"
+  ],
+  "version": "1.4"
+}

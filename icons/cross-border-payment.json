@@ -1,0 +1,12 @@
+{
+  "name": "cross-border-payment",
+  "label": "Cross-Border Payment",
+  "category": "finance",
+  "tags": [
+    "payments",
+    "international",
+    "currency",
+    "remittance"
+  ],
+  "version": "1.4"
+}

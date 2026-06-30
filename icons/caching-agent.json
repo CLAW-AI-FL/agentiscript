@@ -1,0 +1,12 @@
+{
+  "name": "caching-agent",
+  "label": "Caching Agent",
+  "category": "infrastructure",
+  "tags": [
+    "cache",
+    "memoization",
+    "performance",
+    "storage"
+  ],
+  "version": "1.4"
+}

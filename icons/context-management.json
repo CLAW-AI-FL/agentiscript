@@ -1,0 +1,12 @@
+{
+  "name": "context-management",
+  "label": "Context Management",
+  "category": "llm",
+  "tags": [
+    "context",
+    "memory",
+    "compression",
+    "window"
+  ],
+  "version": "1.4"
+}

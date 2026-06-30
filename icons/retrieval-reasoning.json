@@ -1,0 +1,12 @@
+{
+  "name": "retrieval-reasoning",
+  "label": "Retrieval-Reasoning Integration",
+  "category": "retrieval",
+  "tags": [
+    "retrieval",
+    "reasoning",
+    "integration",
+    "evidence"
+  ],
+  "version": "1.4"
+}

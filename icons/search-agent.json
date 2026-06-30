@@ -1,0 +1,12 @@
+{
+  "name": "search-agent",
+  "label": "Search Agent",
+  "category": "agents",
+  "tags": [
+    "search",
+    "retrieval",
+    "query",
+    "information"
+  ],
+  "version": "1.4"
+}

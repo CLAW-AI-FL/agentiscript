@@ -1,0 +1,12 @@
+{
+  "name": "form-filling-agent",
+  "label": "Form Filling Agent",
+  "category": "agents",
+  "tags": [
+    "forms",
+    "automation",
+    "web",
+    "data-entry"
+  ],
+  "version": "1.4"
+}

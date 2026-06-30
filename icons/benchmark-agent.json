@@ -1,0 +1,12 @@
+{
+  "name": "benchmark-agent",
+  "label": "Benchmark Agent",
+  "category": "evaluation",
+  "tags": [
+    "benchmark",
+    "evaluation",
+    "testing",
+    "comparison"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "abductive-reasoning",
+  "label": "Abductive Reasoning",
+  "category": "reasoning",
+  "tags": [
+    "abduction",
+    "inference",
+    "explanation",
+    "diagnosis"
+  ],
+  "version": "1.4"
+}

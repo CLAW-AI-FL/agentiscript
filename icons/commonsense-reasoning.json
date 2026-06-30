@@ -1,0 +1,12 @@
+{
+  "name": "commonsense-reasoning",
+  "label": "Commonsense Reasoning",
+  "category": "reasoning",
+  "tags": [
+    "commonsense",
+    "world-knowledge",
+    "reasoning",
+    "inference"
+  ],
+  "version": "1.4"
+}

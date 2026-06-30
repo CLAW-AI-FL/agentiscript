@@ -1,0 +1,12 @@
+{
+  "name": "tokenizer",
+  "label": "Tokenizer",
+  "category": "nlp",
+  "tags": [
+    "tokenizer",
+    "nlp",
+    "preprocessing",
+    "tokens"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "agent-swarm",
+  "label": "Agent Swarm",
+  "category": "multi-agent",
+  "tags": [
+    "swarm",
+    "collective",
+    "multi-agent",
+    "emergent"
+  ],
+  "version": "1.4"
+}

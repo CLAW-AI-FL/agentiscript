@@ -1,0 +1,12 @@
+{
+  "name": "document-chunking",
+  "label": "Document Chunking",
+  "category": "rag",
+  "tags": [
+    "chunking",
+    "rag",
+    "splitting",
+    "documents"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "agentic-platform",
+  "label": "Agentic Platform",
+  "category": "infrastructure",
+  "tags": [
+    "platform",
+    "infrastructure",
+    "deployment",
+    "orchestration"
+  ],
+  "version": "1.4"
+}

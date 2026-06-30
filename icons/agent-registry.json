@@ -1,0 +1,12 @@
+{
+  "name": "agent-registry",
+  "label": "Agent Registry",
+  "category": "infrastructure",
+  "tags": [
+    "registry",
+    "discovery",
+    "catalog",
+    "services"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "recommendation-agent",
+  "label": "Recommendation Agent",
+  "category": "agents",
+  "tags": [
+    "recommendation",
+    "personalization",
+    "collaborative-filtering",
+    "content-based"
+  ],
+  "version": "1.4"
+}

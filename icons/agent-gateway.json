@@ -1,0 +1,12 @@
+{
+  "name": "agent-gateway",
+  "label": "Agent Gateway",
+  "category": "infrastructure",
+  "tags": [
+    "gateway",
+    "routing",
+    "api-gateway",
+    "load-balancing"
+  ],
+  "version": "1.4"
+}
