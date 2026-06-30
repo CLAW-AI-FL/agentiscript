@@ -1,0 +1,12 @@
+{
+  "name": "long-context",
+  "label": "Long-Context Modeling",
+  "category": "llm",
+  "tags": [
+    "long-context",
+    "context-window",
+    "attention",
+    "memory"
+  ],
+  "version": "1.4"
+}

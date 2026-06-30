@@ -1,0 +1,12 @@
+{
+  "name": "token-budget",
+  "label": "Token Budget",
+  "category": "llm",
+  "tags": [
+    "tokens",
+    "budget",
+    "context-window",
+    "efficiency"
+  ],
+  "version": "1.4"
+}

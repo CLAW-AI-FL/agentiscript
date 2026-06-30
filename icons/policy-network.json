@@ -1,0 +1,12 @@
+{
+  "name": "policy-network",
+  "label": "Policy Network",
+  "category": "rl",
+  "tags": [
+    "policy",
+    "rl",
+    "neural-network",
+    "actor"
+  ],
+  "version": "1.4"
+}

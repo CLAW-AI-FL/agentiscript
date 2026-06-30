@@ -1,0 +1,12 @@
+{
+  "name": "agent-colony",
+  "label": "Agent Colony",
+  "category": "multi-agent",
+  "tags": [
+    "colony",
+    "organization",
+    "hierarchy",
+    "multi-agent"
+  ],
+  "version": "1.4"
+}

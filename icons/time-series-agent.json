@@ -1,0 +1,12 @@
+{
+  "name": "time-series-agent",
+  "label": "Time Series Agent",
+  "category": "agents",
+  "tags": [
+    "time-series",
+    "forecasting",
+    "temporal",
+    "data"
+  ],
+  "version": "1.4"
+}

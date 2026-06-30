@@ -1,0 +1,12 @@
+{
+  "name": "computer-use-agent",
+  "label": "Computer Use Agent",
+  "category": "agents",
+  "tags": [
+    "computer-use",
+    "gui",
+    "automation",
+    "desktop"
+  ],
+  "version": "1.4"
+}

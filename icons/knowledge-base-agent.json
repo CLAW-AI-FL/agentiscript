@@ -1,0 +1,12 @@
+{
+  "name": "knowledge-base-agent",
+  "label": "Knowledge Base Agent",
+  "category": "agents",
+  "tags": [
+    "knowledge-base",
+    "qa",
+    "retrieval",
+    "structured-data"
+  ],
+  "version": "1.4"
+}

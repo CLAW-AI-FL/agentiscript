@@ -1,0 +1,12 @@
+{
+  "name": "federated-learning",
+  "label": "Federated Learning",
+  "category": "privacy",
+  "tags": [
+    "federated",
+    "privacy",
+    "distributed-training",
+    "data-privacy"
+  ],
+  "version": "1.4"
+}

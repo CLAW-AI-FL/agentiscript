@@ -1,0 +1,12 @@
+{
+  "name": "code-generation-agent",
+  "label": "Code Generation Agent",
+  "category": "agents",
+  "tags": [
+    "code-generation",
+    "programming",
+    "synthesis",
+    "copilot"
+  ],
+  "version": "1.4"
+}

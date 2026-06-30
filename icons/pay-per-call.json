@@ -1,0 +1,12 @@
+{
+  "name": "pay-per-call",
+  "label": "Pay-Per-Call",
+  "category": "finance",
+  "tags": [
+    "api",
+    "billing",
+    "monetization",
+    "pricing"
+  ],
+  "version": "1.4"
+}

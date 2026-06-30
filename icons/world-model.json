@@ -1,0 +1,12 @@
+{
+  "name": "world-model",
+  "label": "World Model",
+  "category": "agents",
+  "tags": [
+    "world-model",
+    "simulation",
+    "planning",
+    "model-based-rl"
+  ],
+  "version": "1.4"
+}

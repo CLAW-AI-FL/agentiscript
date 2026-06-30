@@ -1,0 +1,12 @@
+{
+  "name": "question-answering-agent",
+  "label": "Question Answering Agent",
+  "category": "agents",
+  "tags": [
+    "qa",
+    "question-answering",
+    "reading-comprehension",
+    "knowledge"
+  ],
+  "version": "1.4"
+}

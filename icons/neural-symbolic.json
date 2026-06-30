@@ -1,0 +1,12 @@
+{
+  "name": "neural-symbolic",
+  "label": "Neural-Symbolic Integration",
+  "category": "architecture",
+  "tags": [
+    "neural",
+    "symbolic",
+    "hybrid",
+    "integration"
+  ],
+  "version": "1.4"
+}

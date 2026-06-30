@@ -1,0 +1,12 @@
+{
+  "name": "causal-reasoning",
+  "label": "Causal Reasoning",
+  "category": "reasoning",
+  "tags": [
+    "causal",
+    "causality",
+    "counterfactual",
+    "inference"
+  ],
+  "version": "1.4"
+}

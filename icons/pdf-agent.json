@@ -1,0 +1,12 @@
+{
+  "name": "pdf-agent",
+  "label": "PDF Agent",
+  "category": "agents",
+  "tags": [
+    "pdf",
+    "document",
+    "extraction",
+    "agent"
+  ],
+  "version": "1.4"
+}

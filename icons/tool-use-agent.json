@@ -1,0 +1,12 @@
+{
+  "name": "tool-use-agent",
+  "label": "Tool-Use Agent",
+  "category": "agents",
+  "tags": [
+    "tool-use",
+    "plugins",
+    "function-calling",
+    "augmentation"
+  ],
+  "version": "1.4"
+}

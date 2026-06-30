@@ -1,0 +1,12 @@
+{
+  "name": "intrinsic-motivation",
+  "label": "Intrinsic Motivation",
+  "category": "rl",
+  "tags": [
+    "motivation",
+    "internal-reward",
+    "exploration",
+    "rl"
+  ],
+  "version": "1.4"
+}

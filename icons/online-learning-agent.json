@@ -1,0 +1,12 @@
+{
+  "name": "online-learning-agent",
+  "label": "Online Learning Agent",
+  "category": "agents",
+  "tags": [
+    "online-learning",
+    "streaming",
+    "adaptation",
+    "real-time"
+  ],
+  "version": "1.4"
+}

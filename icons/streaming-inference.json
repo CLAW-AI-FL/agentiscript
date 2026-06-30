@@ -1,0 +1,12 @@
+{
+  "name": "streaming-inference",
+  "label": "Streaming Inference",
+  "category": "llm",
+  "tags": [
+    "streaming",
+    "latency",
+    "tokens",
+    "real-time"
+  ],
+  "version": "1.4"
+}

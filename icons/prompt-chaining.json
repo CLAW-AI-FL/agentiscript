@@ -1,0 +1,12 @@
+{
+  "name": "prompt-chaining",
+  "label": "Prompt Chaining",
+  "category": "patterns",
+  "tags": [
+    "prompt-chaining",
+    "pipeline",
+    "composition",
+    "sequence"
+  ],
+  "version": "1.4"
+}

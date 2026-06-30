@@ -1,0 +1,12 @@
+{
+  "name": "constraint-satisfaction",
+  "label": "Constraint Satisfaction",
+  "category": "reasoning",
+  "tags": [
+    "constraints",
+    "csp",
+    "optimization",
+    "satisfiability"
+  ],
+  "version": "1.4"
+}

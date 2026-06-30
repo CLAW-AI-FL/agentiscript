@@ -1,0 +1,12 @@
+{
+  "name": "deployment-agent",
+  "label": "Deployment Agent",
+  "category": "agents",
+  "tags": [
+    "deployment",
+    "devops",
+    "cicd",
+    "automation"
+  ],
+  "version": "1.4"
+}

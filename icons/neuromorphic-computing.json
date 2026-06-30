@@ -1,0 +1,12 @@
+{
+  "name": "neuromorphic-computing",
+  "label": "Neuromorphic Computing",
+  "category": "hardware",
+  "tags": [
+    "neuromorphic",
+    "hardware",
+    "bio-inspired",
+    "chips"
+  ],
+  "version": "1.4"
+}

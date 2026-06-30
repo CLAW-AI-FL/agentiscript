@@ -1,0 +1,12 @@
+{
+  "name": "counterfactual-reasoning",
+  "label": "Counterfactual Reasoning",
+  "category": "reasoning",
+  "tags": [
+    "counterfactual",
+    "what-if",
+    "causal",
+    "simulation"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "compute-marketplace",
+  "label": "Compute Marketplace",
+  "category": "infrastructure",
+  "tags": [
+    "compute",
+    "gpu",
+    "marketplace",
+    "cloud"
+  ],
+  "version": "1.4"
+}

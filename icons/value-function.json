@@ -1,0 +1,12 @@
+{
+  "name": "value-function",
+  "label": "Value Function",
+  "category": "rl",
+  "tags": [
+    "value-function",
+    "rl",
+    "q-learning",
+    "critic"
+  ],
+  "version": "1.4"
+}

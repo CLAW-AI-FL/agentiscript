@@ -1,0 +1,12 @@
+{
+  "name": "retrieval-bounds",
+  "label": "Retrieval Bounds",
+  "category": "retrieval",
+  "tags": [
+    "bounds",
+    "limits",
+    "theory",
+    "retrieval"
+  ],
+  "version": "1.4"
+}

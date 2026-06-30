@@ -1,0 +1,12 @@
+{
+  "name": "self-reflection-agent",
+  "label": "Self-Reflection Agent",
+  "category": "agents",
+  "tags": [
+    "reflection",
+    "self-critique",
+    "refinement",
+    "metacognition"
+  ],
+  "version": "1.4"
+}

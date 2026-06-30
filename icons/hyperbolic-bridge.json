@@ -1,0 +1,12 @@
+{
+  "name": "hyperbolic-bridge",
+  "label": "Hyperbolic Bridge",
+  "category": "embeddings",
+  "tags": [
+    "hyperbolic",
+    "embeddings",
+    "geometry",
+    "bridge"
+  ],
+  "version": "1.4"
+}

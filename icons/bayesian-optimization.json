@@ -1,0 +1,12 @@
+{
+  "name": "bayesian-optimization",
+  "label": "Bayesian Optimization",
+  "category": "optimization",
+  "tags": [
+    "bayesian",
+    "optimization",
+    "hyperparameter",
+    "search"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "load-testing-agent",
+  "label": "Load Testing Agent",
+  "category": "agents",
+  "tags": [
+    "load-testing",
+    "performance",
+    "scalability",
+    "testing"
+  ],
+  "version": "1.4"
+}

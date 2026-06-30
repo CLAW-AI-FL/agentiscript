@@ -1,0 +1,12 @@
+{
+  "name": "negotiation-agent",
+  "label": "Negotiation Agent",
+  "category": "agents",
+  "tags": [
+    "negotiation",
+    "bargaining",
+    "game-theory",
+    "multi-agent"
+  ],
+  "version": "1.4"
+}

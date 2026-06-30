@@ -1,0 +1,12 @@
+{
+  "name": "multimodal-llm",
+  "label": "Multimodal LLM",
+  "category": "llm",
+  "tags": [
+    "multimodal",
+    "llm",
+    "vision-language",
+    "cross-modal"
+  ],
+  "version": "1.4"
+}

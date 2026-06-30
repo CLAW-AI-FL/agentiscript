@@ -1,0 +1,12 @@
+{
+  "name": "human-in-the-loop",
+  "label": "Human-in-the-Loop",
+  "category": "alignment",
+  "tags": [
+    "hitl",
+    "human-oversight",
+    "review",
+    "safety"
+  ],
+  "version": "1.4"
+}

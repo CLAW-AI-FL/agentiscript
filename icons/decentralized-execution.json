@@ -1,0 +1,12 @@
+{
+  "name": "decentralized-execution",
+  "label": "Decentralized Execution",
+  "category": "distributed",
+  "tags": [
+    "decentralized",
+    "distributed",
+    "p2p",
+    "nodes"
+  ],
+  "version": "1.4"
+}

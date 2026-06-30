@@ -1,0 +1,12 @@
+{
+  "name": "inverse-constitutional",
+  "label": "Inverse Constitutional AI",
+  "category": "alignment",
+  "tags": [
+    "constitutional-ai",
+    "alignment",
+    "values",
+    "inference"
+  ],
+  "version": "1.4"
+}

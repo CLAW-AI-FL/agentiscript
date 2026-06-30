@@ -1,0 +1,12 @@
+{
+  "name": "agentic-translation",
+  "label": "Agentic Translation",
+  "category": "agents",
+  "tags": [
+    "translation",
+    "language",
+    "multilingual",
+    "localization"
+  ],
+  "version": "1.4"
+}

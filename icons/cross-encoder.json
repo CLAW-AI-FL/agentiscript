@@ -1,0 +1,12 @@
+{
+  "name": "cross-encoder",
+  "label": "Cross-Encoder",
+  "category": "retrieval",
+  "tags": [
+    "cross-encoder",
+    "reranking",
+    "relevance",
+    "bi-encoder"
+  ],
+  "version": "1.4"
+}

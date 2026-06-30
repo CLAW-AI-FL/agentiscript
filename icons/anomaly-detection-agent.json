@@ -1,0 +1,12 @@
+{
+  "name": "anomaly-detection-agent",
+  "label": "Anomaly Detection Agent",
+  "category": "agents",
+  "tags": [
+    "anomaly",
+    "detection",
+    "outlier",
+    "monitoring"
+  ],
+  "version": "1.4"
+}

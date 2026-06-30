@@ -1,0 +1,12 @@
+{
+  "name": "uncertainty-quantification",
+  "label": "Uncertainty Quantification",
+  "category": "evaluation",
+  "tags": [
+    "uncertainty",
+    "confidence",
+    "calibration",
+    "reliability"
+  ],
+  "version": "1.4"
+}

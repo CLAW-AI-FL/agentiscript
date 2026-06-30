@@ -1,0 +1,12 @@
+{
+  "name": "inverse-rl",
+  "label": "Inverse Reinforcement Learning",
+  "category": "rl",
+  "tags": [
+    "irl",
+    "imitation-learning",
+    "reward-learning",
+    "demonstration"
+  ],
+  "version": "1.4"
+}

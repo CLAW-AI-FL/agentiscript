@@ -1,0 +1,12 @@
+{
+  "name": "cost-optimization-agent",
+  "label": "Cost Optimization Agent",
+  "category": "agents",
+  "tags": [
+    "cost",
+    "optimization",
+    "efficiency",
+    "savings"
+  ],
+  "version": "1.4"
+}

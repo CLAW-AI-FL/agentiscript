@@ -1,0 +1,12 @@
+{
+  "name": "autonomous-browser",
+  "label": "Autonomous Browser",
+  "category": "agents",
+  "tags": [
+    "browser",
+    "autonomous",
+    "web-navigation",
+    "scraping"
+  ],
+  "version": "1.4"
+}

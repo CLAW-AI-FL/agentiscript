@@ -1,0 +1,12 @@
+{
+  "name": "hybrid-search",
+  "label": "Hybrid Search",
+  "category": "retrieval",
+  "tags": [
+    "hybrid-search",
+    "bm25",
+    "dense-retrieval",
+    "fusion"
+  ],
+  "version": "1.4"
+}

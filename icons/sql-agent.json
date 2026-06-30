@@ -1,0 +1,12 @@
+{
+  "name": "sql-agent",
+  "label": "SQL Agent",
+  "category": "agents",
+  "tags": [
+    "sql",
+    "database",
+    "query",
+    "data"
+  ],
+  "version": "1.4"
+}

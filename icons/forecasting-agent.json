@@ -1,0 +1,12 @@
+{
+  "name": "forecasting-agent",
+  "label": "Forecasting Agent",
+  "category": "agents",
+  "tags": [
+    "forecasting",
+    "prediction",
+    "time-series",
+    "analytics"
+  ],
+  "version": "1.4"
+}

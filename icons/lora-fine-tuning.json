@@ -1,0 +1,12 @@
+{
+  "name": "lora-fine-tuning",
+  "label": "LoRA Fine-Tuning",
+  "category": "training",
+  "tags": [
+    "lora",
+    "fine-tuning",
+    "efficiency",
+    "peft"
+  ],
+  "version": "1.4"
+}

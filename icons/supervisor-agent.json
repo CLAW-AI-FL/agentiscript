@@ -1,0 +1,12 @@
+{
+  "name": "supervisor-agent",
+  "label": "Supervisor Agent",
+  "category": "patterns",
+  "tags": [
+    "supervisor",
+    "orchestration",
+    "coordination",
+    "multi-agent"
+  ],
+  "version": "1.4"
+}

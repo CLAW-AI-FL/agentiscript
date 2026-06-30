@@ -1,0 +1,12 @@
+{
+  "name": "reasoning-aware",
+  "label": "Reasoning-Aware Systems",
+  "category": "reasoning",
+  "tags": [
+    "reasoning",
+    "awareness",
+    "inference",
+    "decision"
+  ],
+  "version": "1.4"
+}

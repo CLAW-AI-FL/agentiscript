@@ -1,0 +1,12 @@
+{
+  "name": "reward-shaping",
+  "label": "Reward Shaping",
+  "category": "rl",
+  "tags": [
+    "reward",
+    "reinforcement-learning",
+    "shaping",
+    "training"
+  ],
+  "version": "1.4"
+}

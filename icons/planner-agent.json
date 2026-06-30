@@ -1,0 +1,12 @@
+{
+  "name": "planner-agent",
+  "label": "Planner Agent",
+  "category": "patterns",
+  "tags": [
+    "planner",
+    "planning",
+    "orchestration",
+    "goal-decomposition"
+  ],
+  "version": "1.4"
+}

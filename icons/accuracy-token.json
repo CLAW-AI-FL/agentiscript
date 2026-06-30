@@ -1,0 +1,12 @@
+{
+  "name": "accuracy-token",
+  "label": "Accuracy Token",
+  "category": "evaluation",
+  "tags": [
+    "accuracy",
+    "evaluation",
+    "metrics",
+    "tokens"
+  ],
+  "version": "1.4"
+}

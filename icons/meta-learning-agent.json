@@ -1,0 +1,12 @@
+{
+  "name": "meta-learning-agent",
+  "label": "Meta-Learning Agent",
+  "category": "agents",
+  "tags": [
+    "meta-learning",
+    "learning-to-learn",
+    "few-shot",
+    "adaptation"
+  ],
+  "version": "1.4"
+}

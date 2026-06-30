@@ -1,0 +1,12 @@
+{
+  "name": "vllm-engine",
+  "label": "vLLM Engine",
+  "category": "infrastructure",
+  "tags": [
+    "vllm",
+    "inference",
+    "throughput",
+    "pageattention"
+  ],
+  "version": "1.4"
+}

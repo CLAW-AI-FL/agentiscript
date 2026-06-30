@@ -1,0 +1,12 @@
+{
+  "name": "etl-agent",
+  "label": "ETL Agent",
+  "category": "agents",
+  "tags": [
+    "etl",
+    "data-engineering",
+    "transform",
+    "pipeline"
+  ],
+  "version": "1.4"
+}

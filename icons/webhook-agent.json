@@ -1,0 +1,12 @@
+{
+  "name": "webhook-agent",
+  "label": "Webhook Agent",
+  "category": "agents",
+  "tags": [
+    "webhook",
+    "event-driven",
+    "http",
+    "trigger"
+  ],
+  "version": "1.4"
+}

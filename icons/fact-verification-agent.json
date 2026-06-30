@@ -1,0 +1,12 @@
+{
+  "name": "fact-verification-agent",
+  "label": "Fact Verification Agent",
+  "category": "agents",
+  "tags": [
+    "fact-checking",
+    "verification",
+    "grounding",
+    "truthfulness"
+  ],
+  "version": "1.4"
+}

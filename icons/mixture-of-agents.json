@@ -1,0 +1,12 @@
+{
+  "name": "mixture-of-agents",
+  "label": "Mixture of Agents",
+  "category": "architecture",
+  "tags": [
+    "moa",
+    "routing",
+    "ensemble",
+    "specialization"
+  ],
+  "version": "1.4"
+}

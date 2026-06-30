@@ -1,0 +1,12 @@
+{
+  "name": "game-theoretic-agent",
+  "label": "Game-Theoretic Agent",
+  "category": "agents",
+  "tags": [
+    "game-theory",
+    "nash-equilibrium",
+    "strategy",
+    "multi-agent"
+  ],
+  "version": "1.4"
+}

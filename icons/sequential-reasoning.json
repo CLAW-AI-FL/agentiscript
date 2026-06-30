@@ -1,0 +1,12 @@
+{
+  "name": "sequential-reasoning",
+  "label": "Sequential Reasoning",
+  "category": "reasoning",
+  "tags": [
+    "sequential",
+    "chain",
+    "logic",
+    "inference"
+  ],
+  "version": "1.4"
+}

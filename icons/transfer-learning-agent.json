@@ -1,0 +1,12 @@
+{
+  "name": "transfer-learning-agent",
+  "label": "Transfer Learning Agent",
+  "category": "agents",
+  "tags": [
+    "transfer-learning",
+    "domain-adaptation",
+    "knowledge-transfer",
+    "fine-tuning"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "reasoning-augmented",
+  "label": "Reasoning-Augmented Retrieval",
+  "category": "retrieval",
+  "tags": [
+    "reasoning",
+    "retrieval",
+    "augmented",
+    "complex-query"
+  ],
+  "version": "1.4"
+}

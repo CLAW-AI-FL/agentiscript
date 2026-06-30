@@ -1,0 +1,12 @@
+{
+  "name": "translation-workflows",
+  "label": "Translation Workflows",
+  "category": "workflow",
+  "tags": [
+    "translation",
+    "pipeline",
+    "workflow",
+    "localization"
+  ],
+  "version": "1.4"
+}

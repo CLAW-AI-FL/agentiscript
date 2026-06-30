@@ -1,0 +1,12 @@
+{
+  "name": "knowledge-graph-agent",
+  "label": "Knowledge Graph Agent",
+  "category": "agents",
+  "tags": [
+    "knowledge-graph",
+    "graph",
+    "reasoning",
+    "entities"
+  ],
+  "version": "1.4"
+}

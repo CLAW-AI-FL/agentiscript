@@ -1,0 +1,12 @@
+{
+  "name": "graceful-degradation",
+  "label": "Graceful Degradation",
+  "category": "resilience",
+  "tags": [
+    "resilience",
+    "fallback",
+    "reliability",
+    "fault-tolerance"
+  ],
+  "version": "1.4"
+}

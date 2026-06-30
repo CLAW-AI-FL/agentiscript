@@ -1,0 +1,12 @@
+{
+  "name": "sandboxing",
+  "label": "Sandboxing",
+  "category": "security",
+  "tags": [
+    "sandbox",
+    "isolation",
+    "security",
+    "containment"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "speculative-decoding",
+  "label": "Speculative Decoding",
+  "category": "optimization",
+  "tags": [
+    "speculative-decoding",
+    "inference",
+    "efficiency",
+    "parallelism"
+  ],
+  "version": "1.4"
+}

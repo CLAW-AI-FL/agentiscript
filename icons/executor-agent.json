@@ -1,0 +1,12 @@
+{
+  "name": "executor-agent",
+  "label": "Executor Agent",
+  "category": "patterns",
+  "tags": [
+    "executor",
+    "implementation",
+    "action",
+    "pattern"
+  ],
+  "version": "1.4"
+}

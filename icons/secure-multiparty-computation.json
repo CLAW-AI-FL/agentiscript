@@ -1,0 +1,12 @@
+{
+  "name": "secure-multiparty-computation",
+  "label": "Secure Multi-Party Computation",
+  "category": "cryptography",
+  "tags": [
+    "smpc",
+    "cryptography",
+    "privacy",
+    "protocol"
+  ],
+  "version": "1.4"
+}

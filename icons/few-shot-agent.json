@@ -1,0 +1,12 @@
+{
+  "name": "few-shot-agent",
+  "label": "Few-Shot Agent",
+  "category": "agents",
+  "tags": [
+    "few-shot",
+    "in-context-learning",
+    "examples",
+    "prompting"
+  ],
+  "version": "1.4"
+}

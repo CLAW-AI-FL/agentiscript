@@ -1,0 +1,12 @@
+{
+  "name": "multi-objective-optimization",
+  "label": "Multi-Objective Optimization",
+  "category": "optimization",
+  "tags": [
+    "multi-objective",
+    "pareto",
+    "optimization",
+    "tradeoff"
+  ],
+  "version": "1.4"
+}

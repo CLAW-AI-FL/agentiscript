@@ -1,0 +1,12 @@
+{
+  "name": "test-generation-agent",
+  "label": "Test Generation Agent",
+  "category": "agents",
+  "tags": [
+    "testing",
+    "unit-tests",
+    "qa",
+    "automation"
+  ],
+  "version": "1.4"
+}

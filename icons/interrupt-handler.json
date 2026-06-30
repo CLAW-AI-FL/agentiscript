@@ -1,0 +1,12 @@
+{
+  "name": "interrupt-handler",
+  "label": "Interrupt Handler",
+  "category": "system",
+  "tags": [
+    "interrupt",
+    "pause",
+    "human-oversight",
+    "error"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "hyde",
+  "label": "HyDE Retrieval",
+  "category": "rag",
+  "tags": [
+    "hyde",
+    "retrieval",
+    "hypothetical",
+    "embedding"
+  ],
+  "version": "1.4"
+}

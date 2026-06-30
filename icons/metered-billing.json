@@ -1,0 +1,12 @@
+{
+  "name": "metered-billing",
+  "label": "Metered Billing",
+  "category": "finance",
+  "tags": [
+    "billing",
+    "usage",
+    "metering",
+    "saas"
+  ],
+  "version": "1.4"
+}

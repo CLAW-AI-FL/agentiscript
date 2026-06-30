@@ -1,0 +1,12 @@
+{
+  "name": "swarm-intelligence",
+  "label": "Swarm Intelligence",
+  "category": "multi-agent",
+  "tags": [
+    "swarm",
+    "collective",
+    "intelligence",
+    "emergence"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "temporal-reasoning",
+  "label": "Temporal Reasoning",
+  "category": "reasoning",
+  "tags": [
+    "temporal",
+    "time",
+    "sequence",
+    "reasoning"
+  ],
+  "version": "1.4"
+}

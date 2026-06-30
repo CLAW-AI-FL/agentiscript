@@ -1,0 +1,12 @@
+{
+  "name": "streaming-payment",
+  "label": "Streaming Payment",
+  "category": "finance",
+  "tags": [
+    "streaming",
+    "payment",
+    "realtime",
+    "micropayment"
+  ],
+  "version": "1.4"
+}

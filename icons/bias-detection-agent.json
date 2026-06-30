@@ -1,0 +1,12 @@
+{
+  "name": "bias-detection-agent",
+  "label": "Bias Detection Agent",
+  "category": "alignment",
+  "tags": [
+    "bias",
+    "fairness",
+    "detection",
+    "alignment"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "action-space",
+  "label": "Action Space",
+  "category": "rl",
+  "tags": [
+    "action-space",
+    "rl",
+    "environment",
+    "actions"
+  ],
+  "version": "1.4"
+}

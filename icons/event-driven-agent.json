@@ -1,0 +1,12 @@
+{
+  "name": "event-driven-agent",
+  "label": "Event-Driven Agent",
+  "category": "agents",
+  "tags": [
+    "event-driven",
+    "reactive",
+    "triggers",
+    "asynchronous"
+  ],
+  "version": "1.4"
+}

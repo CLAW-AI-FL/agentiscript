@@ -1,0 +1,12 @@
+{
+  "name": "continual-rl",
+  "label": "Continual RL",
+  "category": "rl",
+  "tags": [
+    "continual",
+    "lifelong-rl",
+    "catastrophic-forgetting",
+    "plasticity"
+  ],
+  "version": "1.4"
+}

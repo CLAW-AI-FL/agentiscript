@@ -1,0 +1,12 @@
+{
+  "name": "multi-agent-rl",
+  "label": "Multi-Agent RL",
+  "category": "rl",
+  "tags": [
+    "multi-agent",
+    "reinforcement-learning",
+    "cooperative",
+    "competitive"
+  ],
+  "version": "1.4"
+}

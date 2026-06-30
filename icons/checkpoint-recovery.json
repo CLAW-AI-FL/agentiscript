@@ -1,0 +1,12 @@
+{
+  "name": "checkpoint-recovery",
+  "label": "Checkpoint Recovery",
+  "category": "resilience",
+  "tags": [
+    "checkpoint",
+    "recovery",
+    "resilience",
+    "state"
+  ],
+  "version": "1.4"
+}

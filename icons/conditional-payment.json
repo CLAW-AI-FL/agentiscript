@@ -1,0 +1,12 @@
+{
+  "name": "conditional-payment",
+  "label": "Conditional Payment",
+  "category": "finance",
+  "tags": [
+    "conditional",
+    "payment",
+    "escrow",
+    "smart-contracts"
+  ],
+  "version": "1.4"
+}

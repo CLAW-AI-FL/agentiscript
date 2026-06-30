@@ -1,0 +1,12 @@
+{
+  "name": "sparse-reward",
+  "label": "Sparse Reward",
+  "category": "rl",
+  "tags": [
+    "sparse-reward",
+    "reinforcement-learning",
+    "exploration",
+    "hardness"
+  ],
+  "version": "1.4"
+}

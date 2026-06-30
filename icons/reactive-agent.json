@@ -1,0 +1,12 @@
+{
+  "name": "reactive-agent",
+  "label": "Reactive Agent",
+  "category": "agents",
+  "tags": [
+    "reactive",
+    "reflex",
+    "stimulus-response",
+    "simple"
+  ],
+  "version": "1.4"
+}

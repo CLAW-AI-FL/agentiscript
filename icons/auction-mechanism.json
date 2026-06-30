@@ -1,0 +1,12 @@
+{
+  "name": "auction-mechanism",
+  "label": "Auction Mechanism",
+  "category": "economics",
+  "tags": [
+    "auction",
+    "bidding",
+    "mechanism",
+    "economics"
+  ],
+  "version": "1.4"
+}

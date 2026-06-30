@@ -1,0 +1,12 @@
+{
+  "name": "screen-reader-agent",
+  "label": "Screen Reader Agent",
+  "category": "agents",
+  "tags": [
+    "screen-reader",
+    "accessibility",
+    "vision",
+    "ocr"
+  ],
+  "version": "1.4"
+}

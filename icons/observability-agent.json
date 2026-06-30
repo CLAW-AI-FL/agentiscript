@@ -1,0 +1,12 @@
+{
+  "name": "observability-agent",
+  "label": "Observability Agent",
+  "category": "agents",
+  "tags": [
+    "observability",
+    "monitoring",
+    "tracing",
+    "metrics"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "agent-transparency",
+  "label": "Agent Transparency",
+  "category": "alignment",
+  "tags": [
+    "transparency",
+    "explainability",
+    "trust",
+    "accountability"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "active-learning-agent",
+  "label": "Active Learning Agent",
+  "category": "agents",
+  "tags": [
+    "active-learning",
+    "annotation",
+    "efficiency",
+    "labeling"
+  ],
+  "version": "1.4"
+}

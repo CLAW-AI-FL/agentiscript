@@ -1,0 +1,12 @@
+{
+  "name": "web-scraping-agent",
+  "label": "Web Scraping Agent",
+  "category": "agents",
+  "tags": [
+    "scraping",
+    "extraction",
+    "web",
+    "data"
+  ],
+  "version": "1.4"
+}

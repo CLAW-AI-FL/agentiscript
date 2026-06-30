@@ -1,0 +1,12 @@
+{
+  "name": "graph-rag",
+  "label": "Graph RAG",
+  "category": "rag",
+  "tags": [
+    "graph-rag",
+    "knowledge-graph",
+    "retrieval",
+    "multi-hop"
+  ],
+  "version": "1.4"
+}

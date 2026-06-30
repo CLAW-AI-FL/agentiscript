@@ -1,0 +1,12 @@
+{
+  "name": "agent-communication",
+  "label": "Agent Communication",
+  "category": "multi-agent",
+  "tags": [
+    "communication",
+    "protocol",
+    "negotiation",
+    "multi-agent"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fairness-agent",
+  "label": "Fairness Agent",
+  "category": "alignment",
+  "tags": [
+    "fairness",
+    "equity",
+    "bias",
+    "discrimination"
+  ],
+  "version": "1.4"
+}

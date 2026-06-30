@@ -1,0 +1,12 @@
+{
+  "name": "moral-reasoning",
+  "label": "Moral Reasoning",
+  "category": "alignment",
+  "tags": [
+    "ethics",
+    "moral",
+    "alignment",
+    "values"
+  ],
+  "version": "1.4"
+}

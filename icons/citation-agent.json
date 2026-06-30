@@ -1,0 +1,12 @@
+{
+  "name": "citation-agent",
+  "label": "Citation Agent",
+  "category": "agents",
+  "tags": [
+    "citations",
+    "references",
+    "grounding",
+    "academic"
+  ],
+  "version": "1.4"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "regression-testing-agent",
+  "label": "Regression Testing Agent",
+  "category": "agents",
+  "tags": [
+    "regression",
+    "testing",
+    "cicd",
+    "quality"
+  ],
+  "version": "1.4"
+}

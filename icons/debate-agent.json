@@ -1,0 +1,12 @@
+{
+  "name": "debate-agent",
+  "label": "Debate Agent",
+  "category": "patterns",
+  "tags": [
+    "debate",
+    "multi-agent",
+    "adversarial",
+    "reasoning"
+  ],
+  "version": "1.4"
+}

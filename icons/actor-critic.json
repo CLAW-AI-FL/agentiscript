@@ -1,0 +1,12 @@
+{
+  "name": "actor-critic",
+  "label": "Actor-Critic",
+  "category": "rl",
+  "tags": [
+    "actor-critic",
+    "rl",
+    "a3c",
+    "ppo"
+  ],
+  "version": "1.4"
+}
