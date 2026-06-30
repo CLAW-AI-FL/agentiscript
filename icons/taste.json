@@ -1,0 +1,10 @@
+{
+  "name": "taste",
+  "label": "Taste",
+  "category": "science",
+  "tags": [
+    "science",
+    "taste"
+  ],
+  "version": "1.9"
+}

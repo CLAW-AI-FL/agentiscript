@@ -1,0 +1,11 @@
+{
+  "name": "reaction-rate",
+  "label": "reaction rate",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "reaction",
+    "rate"
+  ],
+  "version": "1.9"
+}

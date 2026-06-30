@@ -1,0 +1,11 @@
+{
+  "name": "geocentric-zenith",
+  "label": "geocentric zenith",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "geocentric",
+    "zenith"
+  ],
+  "version": "1.9"
+}

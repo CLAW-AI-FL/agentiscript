@@ -1,0 +1,11 @@
+{
+  "name": "organic-compound",
+  "label": "organic compound",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "organic",
+    "compound"
+  ],
+  "version": "1.9"
+}

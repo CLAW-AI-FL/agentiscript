@@ -1,0 +1,11 @@
+{
+  "name": "back-pain",
+  "label": "Back pain",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "back",
+    "pain"
+  ],
+  "version": "1.9"
+}

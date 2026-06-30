@@ -1,0 +1,11 @@
+{
+  "name": "atrial-fibrillation",
+  "label": "Atrial fibrillation",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "atrial",
+    "fibrillation"
+  ],
+  "version": "1.9"
+}

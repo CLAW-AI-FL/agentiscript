@@ -1,0 +1,11 @@
+{
+  "name": "medical-biology",
+  "label": "Medical biology",
+  "category": "science",
+  "tags": [
+    "science",
+    "medical",
+    "biology"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reversible-reaction",
+  "label": "reversible reaction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "reversible",
+    "reaction"
+  ],
+  "version": "1.9"
+}

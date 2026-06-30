@@ -1,0 +1,12 @@
+{
+  "name": "atomic-mass-number",
+  "label": "atomic mass number",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "atomic",
+    "mass",
+    "number"
+  ],
+  "version": "1.9"
+}

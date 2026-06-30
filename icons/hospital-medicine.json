@@ -1,0 +1,10 @@
+{
+  "name": "hospital-medicine",
+  "label": "Hospital medicine",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "hospital"
+  ],
+  "version": "1.9"
+}

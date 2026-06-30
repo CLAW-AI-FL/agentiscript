@@ -1,0 +1,11 @@
+{
+  "name": "astrometric-binary",
+  "label": "astrometric binary",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "astrometric",
+    "binary"
+  ],
+  "version": "1.9"
+}

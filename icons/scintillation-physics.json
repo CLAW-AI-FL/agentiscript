@@ -1,0 +1,11 @@
+{
+  "name": "scintillation-physics",
+  "label": "Scintillation",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "scintillation",
+    "physics"
+  ],
+  "version": "1.9"
+}

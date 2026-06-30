@@ -1,0 +1,11 @@
+{
+  "name": "coeliac-disease",
+  "label": "Coeliac disease",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "coeliac",
+    "disease"
+  ],
+  "version": "1.9"
+}

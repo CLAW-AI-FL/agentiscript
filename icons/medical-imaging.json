@@ -1,0 +1,11 @@
+{
+  "name": "medical-imaging",
+  "label": "Medical imaging",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "medical",
+    "imaging"
+  ],
+  "version": "1.9"
+}

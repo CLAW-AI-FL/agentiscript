@@ -1,0 +1,11 @@
+{
+  "name": "hill-sphere",
+  "label": "Hill sphere",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "hill",
+    "sphere"
+  ],
+  "version": "1.9"
+}

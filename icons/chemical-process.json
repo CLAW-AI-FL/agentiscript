@@ -1,0 +1,11 @@
+{
+  "name": "chemical-process",
+  "label": "chemical process",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "chemical",
+    "process"
+  ],
+  "version": "1.9"
+}

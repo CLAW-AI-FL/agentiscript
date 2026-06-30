@@ -1,0 +1,11 @@
+{
+  "name": "chemical-element",
+  "label": "chemical element",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "chemical",
+    "element"
+  ],
+  "version": "1.9"
+}

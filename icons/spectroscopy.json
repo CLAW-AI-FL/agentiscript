@@ -1,0 +1,10 @@
+{
+  "name": "spectroscopy",
+  "label": "spectroscopy",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "spectroscopy"
+  ],
+  "version": "1.9"
+}

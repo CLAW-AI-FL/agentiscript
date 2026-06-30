@@ -1,0 +1,11 @@
+{
+  "name": "osculating-orbit",
+  "label": "osculating orbit",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "osculating",
+    "orbit"
+  ],
+  "version": "1.9"
+}

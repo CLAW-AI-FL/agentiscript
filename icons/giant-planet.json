@@ -1,0 +1,11 @@
+{
+  "name": "giant-planet",
+  "label": "giant planet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "giant",
+    "planet"
+  ],
+  "version": "1.9"
+}

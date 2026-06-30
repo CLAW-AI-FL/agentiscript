@@ -1,0 +1,10 @@
+{
+  "name": "conductivity",
+  "label": "conductivity",
+  "category": "science",
+  "tags": [
+    "science",
+    "conductivity"
+  ],
+  "version": "1.9"
+}

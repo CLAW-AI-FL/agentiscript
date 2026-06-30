@@ -1,0 +1,11 @@
+{
+  "name": "geometric-albedo",
+  "label": "geometric albedo",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "geometric",
+    "albedo"
+  ],
+  "version": "1.9"
+}

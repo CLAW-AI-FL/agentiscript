@@ -1,0 +1,11 @@
+{
+  "name": "gene-duplication",
+  "label": "gene duplication",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "gene",
+    "duplication"
+  ],
+  "version": "1.9"
+}

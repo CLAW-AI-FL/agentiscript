@@ -1,0 +1,11 @@
+{
+  "name": "ocular-surgery",
+  "label": "Ocular surgery",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "ocular",
+    "surgery"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "precipitation-chemistry",
+  "label": "precipitation",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "precipitation"
+  ],
+  "version": "1.9"
+}

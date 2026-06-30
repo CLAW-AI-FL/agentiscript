@@ -1,0 +1,11 @@
+{
+  "name": "planetary-body",
+  "label": "planetary body",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "planetary",
+    "body"
+  ],
+  "version": "1.9"
+}

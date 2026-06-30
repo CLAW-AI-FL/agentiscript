@@ -1,0 +1,10 @@
+{
+  "name": "c-rdap",
+  "label": "C-RDAP",
+  "category": "science",
+  "tags": [
+    "science",
+    "rdap"
+  ],
+  "version": "1.9"
+}

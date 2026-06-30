@@ -1,0 +1,11 @@
+{
+  "name": "peak-magnitude",
+  "label": "peak magnitude",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "peak",
+    "magnitude"
+  ],
+  "version": "1.9"
+}

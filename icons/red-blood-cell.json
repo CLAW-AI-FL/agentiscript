@@ -1,0 +1,12 @@
+{
+  "name": "red-blood-cell",
+  "label": "Red blood cell",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "red",
+    "blood",
+    "cell"
+  ],
+  "version": "1.9"
+}

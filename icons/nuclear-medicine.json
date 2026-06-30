@@ -1,0 +1,11 @@
+{
+  "name": "nuclear-medicine",
+  "label": "Nuclear medicine",
+  "category": "science",
+  "tags": [
+    "science",
+    "nuclear",
+    "medicine"
+  ],
+  "version": "1.9"
+}

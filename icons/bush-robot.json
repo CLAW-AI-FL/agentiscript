@@ -1,0 +1,11 @@
+{
+  "name": "bush-robot",
+  "label": "Bush robot",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "bush",
+    "robot"
+  ],
+  "version": "1.9"
+}

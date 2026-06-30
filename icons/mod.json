@@ -1,0 +1,10 @@
+{
+  "name": "mod",
+  "label": "MoD",
+  "category": "science",
+  "tags": [
+    "science",
+    "mod"
+  ],
+  "version": "1.9"
+}

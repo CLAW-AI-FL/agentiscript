@@ -1,0 +1,11 @@
+{
+  "name": "stellar-classification",
+  "label": "stellar classification",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "stellar",
+    "classification"
+  ],
+  "version": "1.9"
+}

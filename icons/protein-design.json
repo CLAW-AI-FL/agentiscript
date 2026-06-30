@@ -1,0 +1,11 @@
+{
+  "name": "protein-design",
+  "label": "Protein Design",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "protein",
+    "design"
+  ],
+  "version": "1.9"
+}

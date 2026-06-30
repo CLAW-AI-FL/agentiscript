@@ -1,0 +1,10 @@
+{
+  "name": "absorption-chemistry",
+  "label": "absorption",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "absorption"
+  ],
+  "version": "1.9"
+}

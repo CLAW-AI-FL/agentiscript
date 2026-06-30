@@ -1,0 +1,12 @@
+{
+  "name": "operational-taxonomic-unit",
+  "label": "operational taxonomic unit",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "operational",
+    "taxonomic",
+    "unit"
+  ],
+  "version": "1.9"
+}

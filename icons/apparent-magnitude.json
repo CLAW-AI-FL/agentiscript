@@ -1,0 +1,11 @@
+{
+  "name": "apparent-magnitude",
+  "label": "apparent magnitude",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "apparent",
+    "magnitude"
+  ],
+  "version": "1.9"
+}

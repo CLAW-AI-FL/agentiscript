@@ -1,0 +1,11 @@
+{
+  "name": "electron-shell",
+  "label": "electron shell",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "electron",
+    "shell"
+  ],
+  "version": "1.9"
+}

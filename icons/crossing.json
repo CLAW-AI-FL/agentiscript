@@ -1,0 +1,10 @@
+{
+  "name": "crossing",
+  "label": "crossing",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "crossing"
+  ],
+  "version": "1.9"
+}

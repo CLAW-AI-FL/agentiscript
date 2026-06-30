@@ -1,0 +1,10 @@
+{
+  "name": "radiology",
+  "label": "Radiology",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "radiology"
+  ],
+  "version": "1.9"
+}

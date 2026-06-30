@@ -1,0 +1,12 @@
+{
+  "name": "minor-planet-moon",
+  "label": "minor-planet moon",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "minor",
+    "planet",
+    "moon"
+  ],
+  "version": "1.9"
+}

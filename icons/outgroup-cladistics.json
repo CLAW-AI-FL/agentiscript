@@ -1,0 +1,11 @@
+{
+  "name": "outgroup-cladistics",
+  "label": "outgroup",
+  "category": "science",
+  "tags": [
+    "science",
+    "outgroup",
+    "cladistics"
+  ],
+  "version": "1.9"
+}

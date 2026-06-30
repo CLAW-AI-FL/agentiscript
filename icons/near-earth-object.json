@@ -1,0 +1,12 @@
+{
+  "name": "near-earth-object",
+  "label": "near-Earth object",
+  "category": "science",
+  "tags": [
+    "science",
+    "near",
+    "earth",
+    "object"
+  ],
+  "version": "1.9"
+}

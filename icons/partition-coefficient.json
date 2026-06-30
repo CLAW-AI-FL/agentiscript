@@ -1,0 +1,11 @@
+{
+  "name": "partition-coefficient",
+  "label": "partition coefficient",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "partition",
+    "coefficient"
+  ],
+  "version": "1.9"
+}

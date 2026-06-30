@@ -1,0 +1,11 @@
+{
+  "name": "oort-cloud",
+  "label": "Oort cloud",
+  "category": "science",
+  "tags": [
+    "science",
+    "oort",
+    "cloud"
+  ],
+  "version": "1.9"
+}

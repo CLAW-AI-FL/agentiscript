@@ -1,0 +1,11 @@
+{
+  "name": "inferior-planet",
+  "label": "inferior planet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "inferior",
+    "planet"
+  ],
+  "version": "1.9"
+}

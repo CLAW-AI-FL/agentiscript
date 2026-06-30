@@ -1,0 +1,11 @@
+{
+  "name": "periodic-table",
+  "label": "periodic table",
+  "category": "science",
+  "tags": [
+    "science",
+    "periodic",
+    "table"
+  ],
+  "version": "1.9"
+}

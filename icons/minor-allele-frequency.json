@@ -1,0 +1,12 @@
+{
+  "name": "minor-allele-frequency",
+  "label": "minor allele frequency",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "minor",
+    "allele",
+    "frequency"
+  ],
+  "version": "1.9"
+}

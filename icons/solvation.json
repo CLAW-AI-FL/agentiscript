@@ -1,0 +1,10 @@
+{
+  "name": "solvation",
+  "label": "solvation",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "solvation"
+  ],
+  "version": "1.9"
+}

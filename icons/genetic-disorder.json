@@ -1,0 +1,11 @@
+{
+  "name": "genetic-disorder",
+  "label": "genetic disorder",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "genetic",
+    "disorder"
+  ],
+  "version": "1.9"
+}

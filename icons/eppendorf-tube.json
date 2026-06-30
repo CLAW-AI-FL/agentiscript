@@ -1,0 +1,11 @@
+{
+  "name": "eppendorf-tube",
+  "label": "Eppendorf tube",
+  "category": "science",
+  "tags": [
+    "science",
+    "eppendorf",
+    "tube"
+  ],
+  "version": "1.9"
+}

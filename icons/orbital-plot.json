@@ -1,0 +1,11 @@
+{
+  "name": "orbital-plot",
+  "label": "orbital plot",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "orbital",
+    "plot"
+  ],
+  "version": "1.9"
+}

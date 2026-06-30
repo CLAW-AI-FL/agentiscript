@@ -1,0 +1,11 @@
+{
+  "name": "expedition-medicine",
+  "label": "Expedition medicine",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "expedition",
+    "medicine"
+  ],
+  "version": "1.9"
+}

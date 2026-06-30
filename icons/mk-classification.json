@@ -1,0 +1,10 @@
+{
+  "name": "mk-classification",
+  "label": "MK classification",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "classification"
+  ],
+  "version": "1.9"
+}

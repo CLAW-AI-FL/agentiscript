@@ -1,0 +1,11 @@
+{
+  "name": "lung-cancer",
+  "label": "Lung cancer",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "lung",
+    "cancer"
+  ],
+  "version": "1.9"
+}

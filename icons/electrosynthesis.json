@@ -1,0 +1,10 @@
+{
+  "name": "electrosynthesis",
+  "label": "electrosynthesis",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "electrosynthesis"
+  ],
+  "version": "1.9"
+}

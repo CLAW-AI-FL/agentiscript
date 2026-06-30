@@ -1,0 +1,10 @@
+{
+  "name": "auscultation",
+  "label": "Auscultation",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "auscultation"
+  ],
+  "version": "1.9"
+}

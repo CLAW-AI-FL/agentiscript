@@ -1,0 +1,11 @@
+{
+  "name": "emergency-medicine",
+  "label": "Emergency medicine",
+  "category": "science",
+  "tags": [
+    "science",
+    "emergency",
+    "medicine"
+  ],
+  "version": "1.9"
+}

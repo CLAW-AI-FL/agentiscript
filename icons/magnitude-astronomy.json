@@ -1,0 +1,10 @@
+{
+  "name": "magnitude-astronomy",
+  "label": "magnitude",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "magnitude"
+  ],
+  "version": "1.9"
+}

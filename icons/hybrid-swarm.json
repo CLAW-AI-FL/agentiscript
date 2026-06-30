@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-swarm",
+  "label": "hybrid swarm",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "hybrid",
+    "swarm"
+  ],
+  "version": "1.9"
+}

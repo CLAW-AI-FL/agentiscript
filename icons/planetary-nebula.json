@@ -1,0 +1,11 @@
+{
+  "name": "planetary-nebula",
+  "label": "planetary nebula",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "planetary",
+    "nebula"
+  ],
+  "version": "1.9"
+}

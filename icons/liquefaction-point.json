@@ -1,0 +1,11 @@
+{
+  "name": "liquefaction-point",
+  "label": "liquefaction point",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "liquefaction",
+    "point"
+  ],
+  "version": "1.9"
+}

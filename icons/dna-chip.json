@@ -1,0 +1,11 @@
+{
+  "name": "dna-chip",
+  "label": "DNA Chip",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "dna",
+    "chip"
+  ],
+  "version": "1.9"
+}

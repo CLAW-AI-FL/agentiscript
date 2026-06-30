@@ -1,0 +1,10 @@
+{
+  "name": "meteoroid",
+  "label": "meteoroid",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "meteoroid"
+  ],
+  "version": "1.9"
+}

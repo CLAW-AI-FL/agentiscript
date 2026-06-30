@@ -1,0 +1,11 @@
+{
+  "name": "phase-diagram",
+  "label": "phase diagram",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "phase",
+    "diagram"
+  ],
+  "version": "1.9"
+}

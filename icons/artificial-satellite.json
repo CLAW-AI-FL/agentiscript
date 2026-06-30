@@ -1,0 +1,11 @@
+{
+  "name": "artificial-satellite",
+  "label": "artificial satellite",
+  "category": "science",
+  "tags": [
+    "science",
+    "artificial",
+    "satellite"
+  ],
+  "version": "1.9"
+}

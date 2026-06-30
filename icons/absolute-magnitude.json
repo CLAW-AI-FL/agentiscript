@@ -1,0 +1,11 @@
+{
+  "name": "absolute-magnitude",
+  "label": "absolute magnitude",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "absolute",
+    "magnitude"
+  ],
+  "version": "1.9"
+}

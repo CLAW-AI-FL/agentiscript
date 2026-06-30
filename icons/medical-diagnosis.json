@@ -1,0 +1,11 @@
+{
+  "name": "medical-diagnosis",
+  "label": "Medical diagnosis",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "medical",
+    "diagnosis"
+  ],
+  "version": "1.9"
+}

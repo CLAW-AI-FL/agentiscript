@@ -1,0 +1,10 @@
+{
+  "name": "ephemeris",
+  "label": "ephemeris",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "ephemeris"
+  ],
+  "version": "1.9"
+}

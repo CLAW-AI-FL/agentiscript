@@ -1,0 +1,10 @@
+{
+  "name": "medication",
+  "label": "Medication",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "medication"
+  ],
+  "version": "1.9"
+}

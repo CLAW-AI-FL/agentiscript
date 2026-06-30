@@ -1,0 +1,10 @@
+{
+  "name": "extraction-chemistry",
+  "label": "extraction",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "extraction"
+  ],
+  "version": "1.9"
+}

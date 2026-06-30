@@ -1,0 +1,11 @@
+{
+  "name": "sas-eas",
+  "label": "SAS-EAS",
+  "category": "science",
+  "tags": [
+    "science",
+    "sas",
+    "eas"
+  ],
+  "version": "1.9"
+}

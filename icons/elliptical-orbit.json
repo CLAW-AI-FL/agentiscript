@@ -1,0 +1,11 @@
+{
+  "name": "elliptical-orbit",
+  "label": "elliptical orbit",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "elliptical",
+    "orbit"
+  ],
+  "version": "1.9"
+}

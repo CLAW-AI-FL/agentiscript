@@ -1,0 +1,11 @@
+{
+  "name": "blood-vessel",
+  "label": "Blood vessel",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "blood",
+    "vessel"
+  ],
+  "version": "1.9"
+}

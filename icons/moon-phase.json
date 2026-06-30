@@ -1,0 +1,11 @@
+{
+  "name": "moon-phase",
+  "label": "Moon phase",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "moon",
+    "phase"
+  ],
+  "version": "1.9"
+}

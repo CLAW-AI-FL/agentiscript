@@ -1,0 +1,11 @@
+{
+  "name": "differential-diagnosis",
+  "label": "Differential diagnosis",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "differential",
+    "diagnosis"
+  ],
+  "version": "1.9"
+}

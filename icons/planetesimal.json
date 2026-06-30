@@ -1,0 +1,10 @@
+{
+  "name": "planetesimal",
+  "label": "planetesimal",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "planetesimal"
+  ],
+  "version": "1.9"
+}

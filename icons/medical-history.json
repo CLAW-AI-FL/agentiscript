@@ -1,0 +1,11 @@
+{
+  "name": "medical-history",
+  "label": "Medical history",
+  "category": "science",
+  "tags": [
+    "science",
+    "medical",
+    "history"
+  ],
+  "version": "1.9"
+}

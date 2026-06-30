@@ -1,0 +1,11 @@
+{
+  "name": "osmotic-concentration",
+  "label": "osmotic concentration",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "osmotic",
+    "concentration"
+  ],
+  "version": "1.9"
+}

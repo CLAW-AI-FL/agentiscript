@@ -1,0 +1,11 @@
+{
+  "name": "starless-planet",
+  "label": "starless planet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "starless",
+    "planet"
+  ],
+  "version": "1.9"
+}

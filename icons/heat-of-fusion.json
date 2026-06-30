@@ -1,0 +1,11 @@
+{
+  "name": "heat-of-fusion",
+  "label": "heat of fusion",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "heat",
+    "fusion"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ph-indicator",
+  "label": "pH indicator",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "indicator"
+  ],
+  "version": "1.9"
+}

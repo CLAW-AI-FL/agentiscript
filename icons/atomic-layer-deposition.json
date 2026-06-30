@@ -1,0 +1,12 @@
+{
+  "name": "atomic-layer-deposition",
+  "label": "Atomic layer deposition",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "atomic",
+    "layer",
+    "deposition"
+  ],
+  "version": "1.9"
+}

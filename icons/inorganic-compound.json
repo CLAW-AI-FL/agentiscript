@@ -1,0 +1,11 @@
+{
+  "name": "inorganic-compound",
+  "label": "inorganic compound",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "inorganic",
+    "compound"
+  ],
+  "version": "1.9"
+}

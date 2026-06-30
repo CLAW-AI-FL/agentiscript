@@ -1,0 +1,11 @@
+{
+  "name": "paired-electron",
+  "label": "paired electron",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "paired",
+    "electron"
+  ],
+  "version": "1.9"
+}

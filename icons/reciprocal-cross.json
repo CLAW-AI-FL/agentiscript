@@ -1,0 +1,11 @@
+{
+  "name": "reciprocal-cross",
+  "label": "reciprocal cross",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "reciprocal",
+    "cross"
+  ],
+  "version": "1.9"
+}

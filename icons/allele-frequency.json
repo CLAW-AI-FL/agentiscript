@@ -1,0 +1,11 @@
+{
+  "name": "allele-frequency",
+  "label": "allele frequency",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "allele",
+    "frequency"
+  ],
+  "version": "1.9"
+}

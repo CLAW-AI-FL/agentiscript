@@ -1,0 +1,10 @@
+{
+  "name": "planet",
+  "label": "planet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "planet"
+  ],
+  "version": "1.9"
+}

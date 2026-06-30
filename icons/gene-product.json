@@ -1,0 +1,11 @@
+{
+  "name": "gene-product",
+  "label": "gene product",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "gene",
+    "product"
+  ],
+  "version": "1.9"
+}

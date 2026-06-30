@@ -1,0 +1,11 @@
+{
+  "name": "respiratory-system",
+  "label": "Respiratory system",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "respiratory",
+    "system"
+  ],
+  "version": "1.9"
+}

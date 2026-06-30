@@ -1,0 +1,11 @@
+{
+  "name": "autoignition-temperature",
+  "label": "autoignition temperature",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "autoignition",
+    "temperature"
+  ],
+  "version": "1.9"
+}

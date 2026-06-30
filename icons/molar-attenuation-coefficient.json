@@ -1,0 +1,12 @@
+{
+  "name": "molar-attenuation-coefficient",
+  "label": "molar attenuation coefficient",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "molar",
+    "attenuation",
+    "coefficient"
+  ],
+  "version": "1.9"
+}

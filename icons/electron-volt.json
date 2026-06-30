@@ -1,0 +1,11 @@
+{
+  "name": "electron-volt",
+  "label": "electron-volt",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "electron",
+    "volt"
+  ],
+  "version": "1.9"
+}

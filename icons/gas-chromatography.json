@@ -1,0 +1,11 @@
+{
+  "name": "gas-chromatography",
+  "label": "gas chromatography",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "gas",
+    "chromatography"
+  ],
+  "version": "1.9"
+}

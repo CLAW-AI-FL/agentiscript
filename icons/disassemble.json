@@ -1,0 +1,10 @@
+{
+  "name": "disassemble",
+  "label": "Disassemble",
+  "category": "science",
+  "tags": [
+    "science",
+    "disassemble"
+  ],
+  "version": "1.9"
+}

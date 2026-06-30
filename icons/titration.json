@@ -1,0 +1,10 @@
+{
+  "name": "titration",
+  "label": "titration",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "titration"
+  ],
+  "version": "1.9"
+}

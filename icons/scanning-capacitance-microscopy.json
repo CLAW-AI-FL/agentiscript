@@ -1,0 +1,12 @@
+{
+  "name": "scanning-capacitance-microscopy",
+  "label": "Scanning Capacitance Microscopy",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "scanning",
+    "capacitance",
+    "microscopy"
+  ],
+  "version": "1.9"
+}

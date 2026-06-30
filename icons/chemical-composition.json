@@ -1,0 +1,11 @@
+{
+  "name": "chemical-composition",
+  "label": "chemical composition",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "chemical",
+    "composition"
+  ],
+  "version": "1.9"
+}

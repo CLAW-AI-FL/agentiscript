@@ -1,0 +1,10 @@
+{
+  "name": "hygroscopy",
+  "label": "hygroscopy",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "hygroscopy"
+  ],
+  "version": "1.9"
+}

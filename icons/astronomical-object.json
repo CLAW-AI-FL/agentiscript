@@ -1,0 +1,11 @@
+{
+  "name": "astronomical-object",
+  "label": "astronomical object",
+  "category": "science",
+  "tags": [
+    "science",
+    "astronomical",
+    "object"
+  ],
+  "version": "1.9"
+}

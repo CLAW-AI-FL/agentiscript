@@ -1,0 +1,11 @@
+{
+  "name": "rogue-planet",
+  "label": "rogue planet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "rogue",
+    "planet"
+  ],
+  "version": "1.9"
+}

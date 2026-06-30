@@ -1,0 +1,12 @@
+{
+  "name": "molecular-beam-epitaxy",
+  "label": "Molecular Beam Epitaxy",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "molecular",
+    "beam",
+    "epitaxy"
+  ],
+  "version": "1.9"
+}

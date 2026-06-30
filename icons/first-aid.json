@@ -1,0 +1,11 @@
+{
+  "name": "first-aid",
+  "label": "First aid",
+  "category": "science",
+  "tags": [
+    "science",
+    "first",
+    "aid"
+  ],
+  "version": "1.9"
+}

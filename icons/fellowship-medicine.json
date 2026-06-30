@@ -1,0 +1,11 @@
+{
+  "name": "fellowship-medicine",
+  "label": "Fellowship",
+  "category": "science",
+  "tags": [
+    "science",
+    "fellowship",
+    "medicine"
+  ],
+  "version": "1.9"
+}

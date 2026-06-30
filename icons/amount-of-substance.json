@@ -1,0 +1,11 @@
+{
+  "name": "amount-of-substance",
+  "label": "amount of substance",
+  "category": "science",
+  "tags": [
+    "science",
+    "amount",
+    "substance"
+  ],
+  "version": "1.9"
+}

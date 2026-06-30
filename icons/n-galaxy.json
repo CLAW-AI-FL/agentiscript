@@ -1,0 +1,10 @@
+{
+  "name": "n-galaxy",
+  "label": "N galaxy",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "galaxy"
+  ],
+  "version": "1.9"
+}

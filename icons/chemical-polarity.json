@@ -1,0 +1,11 @@
+{
+  "name": "chemical-polarity",
+  "label": "chemical polarity",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "chemical",
+    "polarity"
+  ],
+  "version": "1.9"
+}

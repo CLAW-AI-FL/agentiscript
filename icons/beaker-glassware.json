@@ -1,0 +1,11 @@
+{
+  "name": "beaker-glassware",
+  "label": "beaker",
+  "category": "science",
+  "tags": [
+    "science",
+    "beaker",
+    "glassware"
+  ],
+  "version": "1.9"
+}

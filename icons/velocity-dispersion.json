@@ -1,0 +1,11 @@
+{
+  "name": "velocity-dispersion",
+  "label": "velocity dispersion",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "velocity",
+    "dispersion"
+  ],
+  "version": "1.9"
+}

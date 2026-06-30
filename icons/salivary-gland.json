@@ -1,0 +1,11 @@
+{
+  "name": "salivary-gland",
+  "label": "Salivary gland",
+  "category": "science",
+  "tags": [
+    "science",
+    "salivary",
+    "gland"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cytogenetics",
+  "label": "Cytogenetics",
+  "category": "biology",
+  "tags": [
+    "biology",
+    "cytogenetics"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "clinic",
+  "label": "Clinic",
+  "category": "science",
+  "tags": [
+    "science",
+    "clinic"
+  ],
+  "version": "1.9"
+}

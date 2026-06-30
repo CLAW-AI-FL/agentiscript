@@ -1,0 +1,11 @@
+{
+  "name": "yellow-fever",
+  "label": "Yellow fever",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "yellow",
+    "fever"
+  ],
+  "version": "1.9"
+}

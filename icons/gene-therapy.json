@@ -1,0 +1,11 @@
+{
+  "name": "gene-therapy",
+  "label": "Gene therapy",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "gene",
+    "therapy"
+  ],
+  "version": "1.9"
+}

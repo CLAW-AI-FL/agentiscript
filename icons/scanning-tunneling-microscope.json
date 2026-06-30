@@ -1,0 +1,12 @@
+{
+  "name": "scanning-tunneling-microscope",
+  "label": "Scanning Tunneling Microscope",
+  "category": "nanotechnology",
+  "tags": [
+    "nanotechnology",
+    "scanning",
+    "tunneling",
+    "microscope"
+  ],
+  "version": "1.9"
+}

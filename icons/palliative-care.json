@@ -1,0 +1,11 @@
+{
+  "name": "palliative-care",
+  "label": "Palliative care",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "palliative",
+    "care"
+  ],
+  "version": "1.9"
+}

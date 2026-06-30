@@ -1,0 +1,11 @@
+{
+  "name": "missense-mutation",
+  "label": "missense mutation",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "missense",
+    "mutation"
+  ],
+  "version": "1.9"
+}

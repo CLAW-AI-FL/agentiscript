@@ -1,0 +1,10 @@
+{
+  "name": "base-chemistry",
+  "label": "base",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "base"
+  ],
+  "version": "1.9"
+}

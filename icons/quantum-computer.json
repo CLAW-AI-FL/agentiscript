@@ -1,0 +1,11 @@
+{
+  "name": "quantum-computer",
+  "label": "Quantum Computer",
+  "category": "science",
+  "tags": [
+    "science",
+    "quantum",
+    "computer"
+  ],
+  "version": "1.9"
+}

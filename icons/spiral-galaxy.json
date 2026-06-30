@@ -1,0 +1,11 @@
+{
+  "name": "spiral-galaxy",
+  "label": "spiral galaxy",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "spiral",
+    "galaxy"
+  ],
+  "version": "1.9"
+}

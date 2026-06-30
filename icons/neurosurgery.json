@@ -1,0 +1,10 @@
+{
+  "name": "neurosurgery",
+  "label": "Neurosurgery",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "neurosurgery"
+  ],
+  "version": "1.9"
+}

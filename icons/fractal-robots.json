@@ -1,0 +1,11 @@
+{
+  "name": "fractal-robots",
+  "label": "Fractal Robots",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "fractal",
+    "robots"
+  ],
+  "version": "1.9"
+}

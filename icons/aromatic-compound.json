@@ -1,0 +1,11 @@
+{
+  "name": "aromatic-compound",
+  "label": "aromatic compound",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "aromatic",
+    "compound"
+  ],
+  "version": "1.9"
+}

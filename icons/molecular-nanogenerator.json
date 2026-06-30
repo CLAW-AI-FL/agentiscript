@@ -1,0 +1,11 @@
+{
+  "name": "molecular-nanogenerator",
+  "label": "Molecular Nanogenerator",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "molecular",
+    "nanogenerator"
+  ],
+  "version": "1.9"
+}

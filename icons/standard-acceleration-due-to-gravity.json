@@ -1,0 +1,13 @@
+{
+  "name": "standard-acceleration-due-to-gravity",
+  "label": "standard acceleration due to gravity",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "standard",
+    "acceleration",
+    "due",
+    "gravity"
+  ],
+  "version": "1.9"
+}

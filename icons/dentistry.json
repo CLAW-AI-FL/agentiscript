@@ -1,0 +1,10 @@
+{
+  "name": "dentistry",
+  "label": "Dentistry",
+  "category": "science",
+  "tags": [
+    "science",
+    "dentistry"
+  ],
+  "version": "1.9"
+}

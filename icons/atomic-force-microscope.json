@@ -1,0 +1,12 @@
+{
+  "name": "atomic-force-microscope",
+  "label": "Atomic force microscope",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "atomic",
+    "force",
+    "microscope"
+  ],
+  "version": "1.9"
+}

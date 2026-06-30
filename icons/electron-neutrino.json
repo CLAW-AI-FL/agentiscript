@@ -1,0 +1,11 @@
+{
+  "name": "electron-neutrino",
+  "label": "electron neutrino",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "electron",
+    "neutrino"
+  ],
+  "version": "1.9"
+}

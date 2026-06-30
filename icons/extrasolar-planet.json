@@ -1,0 +1,11 @@
+{
+  "name": "extrasolar-planet",
+  "label": "extrasolar planet",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "extrasolar",
+    "planet"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "maintenance-repair-and-operations",
+  "label": "Maintenance, repair, and operations",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "maintenance",
+    "repair",
+    "operations"
+  ],
+  "version": "1.9"
+}

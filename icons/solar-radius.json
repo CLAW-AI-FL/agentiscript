@@ -1,0 +1,11 @@
+{
+  "name": "solar-radius",
+  "label": "solar radius",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "solar",
+    "radius"
+  ],
+  "version": "1.9"
+}

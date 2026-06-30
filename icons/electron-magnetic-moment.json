@@ -1,0 +1,12 @@
+{
+  "name": "electron-magnetic-moment",
+  "label": "electron magnetic moment",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "electron",
+    "magnetic",
+    "moment"
+  ],
+  "version": "1.9"
+}

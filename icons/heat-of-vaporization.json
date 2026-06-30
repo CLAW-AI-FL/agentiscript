@@ -1,0 +1,11 @@
+{
+  "name": "heat-of-vaporization",
+  "label": "heat of vaporization",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "heat",
+    "vaporization"
+  ],
+  "version": "1.9"
+}

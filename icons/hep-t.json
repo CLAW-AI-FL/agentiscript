@@ -1,0 +1,10 @@
+{
+  "name": "hep-t",
+  "label": "HEP-T",
+  "category": "science",
+  "tags": [
+    "science",
+    "hep"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plane-of-the-ecliptic",
+  "label": "plane of the ecliptic",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "plane",
+    "ecliptic"
+  ],
+  "version": "1.9"
+}

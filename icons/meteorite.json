@@ -1,0 +1,10 @@
+{
+  "name": "meteorite",
+  "label": "meteorite",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "meteorite"
+  ],
+  "version": "1.9"
+}

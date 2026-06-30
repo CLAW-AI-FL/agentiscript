@@ -1,0 +1,11 @@
+{
+  "name": "medical-research",
+  "label": "Medical research",
+  "category": "science",
+  "tags": [
+    "science",
+    "medical",
+    "research"
+  ],
+  "version": "1.9"
+}

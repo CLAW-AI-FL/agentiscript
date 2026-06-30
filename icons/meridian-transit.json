@@ -1,0 +1,11 @@
+{
+  "name": "meridian-transit",
+  "label": "meridian transit",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "meridian",
+    "transit"
+  ],
+  "version": "1.9"
+}

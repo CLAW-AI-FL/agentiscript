@@ -1,0 +1,11 @@
+{
+  "name": "colorectal-surgery",
+  "label": "Colorectal surgery",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "colorectal",
+    "surgery"
+  ],
+  "version": "1.9"
+}

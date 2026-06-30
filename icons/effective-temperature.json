@@ -1,0 +1,11 @@
+{
+  "name": "effective-temperature",
+  "label": "effective temperature",
+  "category": "science",
+  "tags": [
+    "science",
+    "effective",
+    "temperature"
+  ],
+  "version": "1.9"
+}

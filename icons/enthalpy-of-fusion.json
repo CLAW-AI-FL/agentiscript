@@ -1,0 +1,11 @@
+{
+  "name": "enthalpy-of-fusion",
+  "label": "enthalpy of fusion",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "enthalpy",
+    "fusion"
+  ],
+  "version": "1.9"
+}

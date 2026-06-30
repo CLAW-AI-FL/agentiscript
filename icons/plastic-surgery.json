@@ -1,0 +1,11 @@
+{
+  "name": "plastic-surgery",
+  "label": "Plastic surgery",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "plastic",
+    "surgery"
+  ],
+  "version": "1.9"
+}

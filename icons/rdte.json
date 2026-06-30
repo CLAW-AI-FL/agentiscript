@@ -1,0 +1,10 @@
+{
+  "name": "rdte",
+  "label": "RDT&E",
+  "category": "science",
+  "tags": [
+    "science",
+    "rdt"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "acid-ionization-constant",
+  "label": "acid ionization constant",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "acid",
+    "ionization",
+    "constant"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "residency-medicine",
+  "label": "Residency",
+  "category": "science",
+  "tags": [
+    "science",
+    "residency",
+    "medicine"
+  ],
+  "version": "1.9"
+}

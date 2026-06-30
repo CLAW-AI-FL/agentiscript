@@ -1,0 +1,12 @@
+{
+  "name": "geosynchronous-equatorial-orbit",
+  "label": "geosynchronous equatorial orbit",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "geosynchronous",
+    "equatorial",
+    "orbit"
+  ],
+  "version": "1.9"
+}

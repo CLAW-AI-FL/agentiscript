@@ -1,0 +1,11 @@
+{
+  "name": "mutation-distance",
+  "label": "mutation distance",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "mutation",
+    "distance"
+  ],
+  "version": "1.9"
+}

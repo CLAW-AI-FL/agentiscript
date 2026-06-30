@@ -1,0 +1,11 @@
+{
+  "name": "synchronous-orbit",
+  "label": "synchronous orbit",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "synchronous",
+    "orbit"
+  ],
+  "version": "1.9"
+}

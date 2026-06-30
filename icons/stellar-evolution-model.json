@@ -1,0 +1,12 @@
+{
+  "name": "stellar-evolution-model",
+  "label": "stellar evolution model",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "stellar",
+    "evolution",
+    "model"
+  ],
+  "version": "1.9"
+}

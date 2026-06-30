@@ -1,0 +1,10 @@
+{
+  "name": "telescope",
+  "label": "telescope",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "telescope"
+  ],
+  "version": "1.9"
+}

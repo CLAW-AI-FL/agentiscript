@@ -1,0 +1,12 @@
+{
+  "name": "scanning-thermal-microscopy",
+  "label": "Scanning Thermal Microscopy",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "scanning",
+    "thermal",
+    "microscopy"
+  ],
+  "version": "1.9"
+}

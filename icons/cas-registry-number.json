@@ -1,0 +1,12 @@
+{
+  "name": "cas-registry-number",
+  "label": "CAS Registry Number",
+  "category": "science",
+  "tags": [
+    "science",
+    "cas",
+    "registry",
+    "number"
+  ],
+  "version": "1.9"
+}

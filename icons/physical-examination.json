@@ -1,0 +1,11 @@
+{
+  "name": "physical-examination",
+  "label": "Physical examination",
+  "category": "chemistry",
+  "tags": [
+    "chemistry",
+    "physical",
+    "examination"
+  ],
+  "version": "1.9"
+}

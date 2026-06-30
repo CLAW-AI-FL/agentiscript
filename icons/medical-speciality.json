@@ -1,0 +1,11 @@
+{
+  "name": "medical-speciality",
+  "label": "Medical speciality",
+  "category": "science",
+  "tags": [
+    "science",
+    "medical",
+    "speciality"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "thermal-conductivity",
+  "label": "thermal conductivity",
+  "category": "science",
+  "tags": [
+    "science",
+    "thermal",
+    "conductivity"
+  ],
+  "version": "1.9"
+}

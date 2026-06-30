@@ -1,0 +1,11 @@
+{
+  "name": "osmotic-pressure",
+  "label": "osmotic pressure",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "osmotic",
+    "pressure"
+  ],
+  "version": "1.9"
+}

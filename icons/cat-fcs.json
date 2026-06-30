@@ -1,0 +1,11 @@
+{
+  "name": "cat-fcs",
+  "label": "CAT-FCS",
+  "category": "science",
+  "tags": [
+    "science",
+    "cat",
+    "fcs"
+  ],
+  "version": "1.9"
+}

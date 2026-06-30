@@ -1,0 +1,11 @@
+{
+  "name": "spectroscopic-binary",
+  "label": "spectroscopic binary",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "spectroscopic",
+    "binary"
+  ],
+  "version": "1.9"
+}

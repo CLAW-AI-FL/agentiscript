@@ -1,0 +1,10 @@
+{
+  "name": "symptom",
+  "label": "Symptom",
+  "category": "medicine",
+  "tags": [
+    "medicine",
+    "symptom"
+  ],
+  "version": "1.9"
+}

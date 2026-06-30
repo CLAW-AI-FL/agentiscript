@@ -1,0 +1,13 @@
+{
+  "name": "scanning-force-microscope-sfm",
+  "label": "Scanning Force Microscope",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "scanning",
+    "force",
+    "microscope",
+    "sfm"
+  ],
+  "version": "1.9"
+}

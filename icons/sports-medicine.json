@@ -1,0 +1,11 @@
+{
+  "name": "sports-medicine",
+  "label": "Sports medicine",
+  "category": "science",
+  "tags": [
+    "science",
+    "sports",
+    "medicine"
+  ],
+  "version": "1.9"
+}

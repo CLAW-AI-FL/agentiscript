@@ -1,0 +1,10 @@
+{
+  "name": "star",
+  "label": "star",
+  "category": "astronomy",
+  "tags": [
+    "astronomy",
+    "star"
+  ],
+  "version": "1.9"
+}

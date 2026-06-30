@@ -1,0 +1,10 @@
+{
+  "name": "adc-b",
+  "label": "ADC-B",
+  "category": "science",
+  "tags": [
+    "science",
+    "adc"
+  ],
+  "version": "1.9"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "weber-test",
+  "label": "Weber test",
+  "category": "science",
+  "tags": [
+    "science",
+    "weber",
+    "test"
+  ],
+  "version": "1.9"
+}

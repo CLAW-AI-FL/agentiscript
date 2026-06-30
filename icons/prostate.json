@@ -1,0 +1,10 @@
+{
+  "name": "prostate",
+  "label": "Prostate",
+  "category": "robotics",
+  "tags": [
+    "robotics",
+    "prostate"
+  ],
+  "version": "1.9"
+}
