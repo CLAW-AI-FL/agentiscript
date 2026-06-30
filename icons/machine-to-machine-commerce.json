@@ -1,0 +1,21 @@
+{
+  "id": "AS-206",
+  "slug": "machine-to-machine-commerce",
+  "concept": "Machine-to-Machine Commerce",
+  "definition": "Fully autonomous economic transactions between AI agents without human intermediation, forming the basis of an agent-native economy.",
+  "aliases": [
+    "M2M commerce",
+    "agent economy"
+  ],
+  "category": "agentic-commerce",
+  "category_name": "Agentic Commerce",
+  "sources": [],
+  "svg": "machine-to-machine-commerce.svg",
+  "tags": [
+    "machine",
+    "commerce",
+    "agent",
+    "autonomous",
+    "transaction"
+  ]
+}

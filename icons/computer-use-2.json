@@ -1,0 +1,21 @@
+{
+  "id": "AS-222",
+  "slug": "computer-use-2",
+  "concept": "Computer Use 2.0",
+  "definition": "Next-generation browser automation with multiple parallel cursors enabling AI agents to operate many browser sessions concurrently on the same machine.",
+  "aliases": [
+    "parallel browser agents",
+    "multi-cursor agents"
+  ],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "computer-use-2.svg",
+  "tags": [
+    "computer-use",
+    "browser",
+    "parallel",
+    "multi-cursor",
+    "agent"
+  ]
+}

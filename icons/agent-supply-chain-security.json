@@ -1,0 +1,21 @@
+{
+  "id": "AS-214",
+  "slug": "agent-supply-chain-security",
+  "concept": "Agent Supply Chain Security",
+  "definition": "Provenance tracking and integrity verification through multi-agent pipelines, ensuring trust and auditability from data ingestion through action execution.",
+  "aliases": [
+    "agent SBOM",
+    "pipeline provenance"
+  ],
+  "category": "agent-security",
+  "category_name": "Agent Security",
+  "sources": [],
+  "svg": "agent-supply-chain-security.svg",
+  "tags": [
+    "security",
+    "supply-chain",
+    "provenance",
+    "agent",
+    "pipeline"
+  ]
+}

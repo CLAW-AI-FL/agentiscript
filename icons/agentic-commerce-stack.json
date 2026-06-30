@@ -1,0 +1,21 @@
+{
+  "id": "AS-216",
+  "slug": "agentic-commerce-stack",
+  "concept": "Agentic Commerce Stack",
+  "definition": "The complete layered protocol stack enabling autonomous purchasing \u2014 spanning identity, payment rails, policy enforcement, and settlement for AI agents.",
+  "aliases": [
+    "agent commerce stack",
+    "autonomous purchasing stack"
+  ],
+  "category": "agentic-commerce",
+  "category_name": "Agentic Commerce",
+  "sources": [],
+  "svg": "agentic-commerce-stack.svg",
+  "tags": [
+    "commerce",
+    "stack",
+    "protocol",
+    "agent",
+    "purchasing"
+  ]
+}

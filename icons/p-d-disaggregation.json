@@ -1,0 +1,21 @@
+{
+  "id": "AS-224",
+  "slug": "p-d-disaggregation",
+  "concept": "P/D Disaggregation",
+  "definition": "Separating the prefill and decode phases of LLM inference onto specialized hardware instances to optimize throughput and resource utilization independently.",
+  "aliases": [
+    "prefill-decode split",
+    "inference disaggregation"
+  ],
+  "category": "llm-inference",
+  "category_name": "LLM Inference",
+  "sources": [],
+  "svg": "p-d-disaggregation.svg",
+  "tags": [
+    "prefill",
+    "decode",
+    "inference",
+    "disaggregation",
+    "llm"
+  ]
+}

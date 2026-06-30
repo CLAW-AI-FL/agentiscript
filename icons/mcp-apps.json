@@ -1,0 +1,21 @@
+{
+  "id": "AS-213",
+  "slug": "mcp-apps",
+  "concept": "MCP Apps",
+  "definition": "User interfaces and interactive applications returned directly from MCP tool calls, enabling agents to surface rich UI components inline in responses.",
+  "aliases": [
+    "tool-call UIs",
+    "MCP UI"
+  ],
+  "category": "mcp",
+  "category_name": "MCP",
+  "sources": [],
+  "svg": "mcp-apps.svg",
+  "tags": [
+    "mcp",
+    "ui",
+    "tools",
+    "interface",
+    "apps"
+  ]
+}

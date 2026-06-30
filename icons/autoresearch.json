@@ -1,0 +1,21 @@
+{
+  "id": "AS-221",
+  "slug": "autoresearch",
+  "concept": "Autoresearch",
+  "definition": "AI agents that autonomously design, run, and interpret scientific or ML experiments, compressing the research cycle without human direction.",
+  "aliases": [
+    "autonomous research",
+    "self-directed research"
+  ],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "autoresearch.svg",
+  "tags": [
+    "research",
+    "autonomous",
+    "agent",
+    "science",
+    "ml"
+  ]
+}

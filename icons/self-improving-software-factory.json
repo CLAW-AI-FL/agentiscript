@@ -1,0 +1,21 @@
+{
+  "id": "AS-215",
+  "slug": "self-improving-software-factory",
+  "concept": "Self-Improving Software Factory",
+  "definition": "A recursive loop where AI agents write, test, and deploy code that improves the agents themselves, creating compounding autonomous software development.",
+  "aliases": [
+    "recursive factory",
+    "agent-improves-agent"
+  ],
+  "category": "ai-agents",
+  "category_name": "AI Agents",
+  "sources": [],
+  "svg": "self-improving-software-factory.svg",
+  "tags": [
+    "self-improvement",
+    "factory",
+    "recursive",
+    "agent",
+    "software"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "AS-205",
+  "slug": "agent-wallet",
+  "concept": "Agent Wallet",
+  "definition": "A cryptographically secured spending capability held by an AI agent, enabling it to autonomously authorize and execute financial transactions.",
+  "aliases": [
+    "agent treasury"
+  ],
+  "category": "agentic-commerce",
+  "category_name": "Agentic Commerce",
+  "sources": [],
+  "svg": "agent-wallet.svg",
+  "tags": [
+    "wallet",
+    "payment",
+    "agent",
+    "spending",
+    "crypto"
+  ]
+}

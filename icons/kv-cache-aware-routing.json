@@ -1,0 +1,21 @@
+{
+  "id": "AS-225",
+  "slug": "kv-cache-aware-routing",
+  "concept": "KV Cache-Aware Routing",
+  "definition": "Intelligent inference request routing that directs queries to the instance holding the most relevant KV cache state, minimizing recomputation and latency.",
+  "aliases": [
+    "cache-aware routing",
+    "KV routing"
+  ],
+  "category": "llm-inference",
+  "category_name": "LLM Inference",
+  "sources": [],
+  "svg": "kv-cache-aware-routing.svg",
+  "tags": [
+    "kv-cache",
+    "routing",
+    "inference",
+    "llm",
+    "optimization"
+  ]
+}
