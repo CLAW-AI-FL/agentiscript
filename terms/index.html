@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Terms of Service — AgentiScript</title>
+<link rel="icon" href="data:,">
+<meta name="description" content="AgentiScript Terms of Service — icon library, CC0 free tier, Pro commercial license, NFT terms, x402 API.">
+<link rel="canonical" href="https://agentiscript.com/terms/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: #060610;
+  color: #fff;
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  min-height: 100vh;
+}
+:root {
+  --bg: #060610;
+  --bg-card: rgba(255,255,255,0.03);
+  --border: rgba(255,255,255,0.08);
+  --gold: #9F792C;
+  --gold-light: #C4A35A;
+  --silver: #C0C0C0;
+  --silver-dim: #888899;
+}
+
+/* NAV */
+#nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 1000;
+  padding: 0 40px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(6,6,16,0.92);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+}
+.nav-logo {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  list-style: none;
+}
+.nav-links a {
+  color: var(--silver-dim);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.nav-links a:hover { color: var(--silver); }
+.nav-cta {
+  background: var(--gold);
+  color: #000 !important;
+  padding: 8px 20px;
+  border-radius: 6px;
+  font-weight: 700 !important;
+  font-size: 0.85rem !important;
+}
+@media (max-width: 768px) {
+  #nav { padding: 0 20px; }
+  .nav-links { display: none; }
+}
+
+/* MAIN CONTENT */
+.legal-wrap {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 100px 40px 80px;
+}
+.legal-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(192,192,192,0.08);
+  border: 1px solid rgba(192,192,192,0.2);
+  color: var(--silver);
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 5px 14px;
+  border-radius: 100px;
+  margin-bottom: 24px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.legal-title {
+  font-size: clamp(32px, 5vw, 52px);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  background: linear-gradient(135deg, var(--gold-light) 0%, var(--silver) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 8px;
+}
+.legal-effective {
+  font-size: 0.85rem;
+  color: var(--silver-dim);
+  margin-bottom: 48px;
+}
+.legal-section {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--border);
+}
+.legal-section:last-child { border-bottom: none; }
+.legal-section h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  margin-bottom: 16px;
+  letter-spacing: -0.01em;
+}
+.legal-section p {
+  font-size: 0.92rem;
+  color: var(--silver-dim);
+  line-height: 1.75;
+  margin-bottom: 12px;
+}
+.legal-section p:last-child { margin-bottom: 0; }
+.legal-section ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 8px;
+}
+.legal-section li {
+  font-size: 0.92rem;
+  color: var(--silver-dim);
+  line-height: 1.65;
+  padding-left: 20px;
+  position: relative;
+}
+.legal-section li::before {
+  content: '•';
+  color: var(--gold);
+  position: absolute;
+  left: 0;
+}
+.legal-section strong { color: var(--silver); }
+
+/* FOOTER */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 32px 40px;
+  text-align: center;
+}
+.footer-links {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.footer-links a {
+  color: var(--silver-dim);
+  text-decoration: none;
+  font-size: 0.82rem;
+  transition: color 0.2s;
+}
+.footer-links a:hover { color: var(--gold-light); }
+.footer-copy {
+  font-size: 0.75rem;
+  color: rgba(136,136,153,0.5);
+}
+.footer-copy strong { color: var(--silver-dim); }
+
+@media (max-width: 600px) {
+  .legal-wrap { padding: 88px 20px 60px; }
+}
+</style>
+</head>
+<body>
+
+<nav id="nav">
+  <a href="/" class="nav-logo">AgentiScript</a>
+  <ul class="nav-links">
+    <li><a href="/#showcase">Icons</a></li>
+    <li><a href="/#propack">Pro Pack</a></li>
+    <li><a href="/docs/">Docs</a></li>
+    <li><a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a></li>
+    <li><a href="/store/" class="nav-cta">Get Pro Pack →</a></li>
+  </ul>
+</nav>
+
+<main class="legal-wrap">
+  <div class="legal-badge">Legal</div>
+  <h1 class="legal-title">Terms of Service</h1>
+  <p class="legal-effective">Effective Date: July 1, 2026 &nbsp;·&nbsp; Governing Law: State of Florida, USA</p>
+
+  <div class="legal-section">
+    <h2>1. Service Description</h2>
+    <p>AgentiScript ("we," "us," or "our") provides a visual icon library designed for the agentic economy. Our services include:</p>
+    <ul>
+      <li><strong>Free CC0 Tier</strong> — 20,520+ SVG icons available at no cost for personal and non-commercial use under the Creative Commons Zero (CC0) license.</li>
+      <li><strong>Pro Pack</strong> — A one-time commercial license granting rights to use all icons in commercial projects.</li>
+      <li><strong>XRPL NFTs</strong> — Flagship icons minted as Non-Fungible Tokens on the XRP Ledger, granting commercial rights to the specific icon represented by each NFT.</li>
+      <li><strong>x402 Micropayment API</strong> — A machine-readable API enabling autonomous agents and bots to purchase icon access via XRPL micropayments using the HTTP 402 Payment Required protocol.</li>
+    </ul>
+    <p>By accessing or using any AgentiScript service, you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the service.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>2. CC0 Free Tier License</h2>
+    <p>Icons designated as CC0 are released to the public domain under the <strong>Creative Commons Zero 1.0 Universal</strong> license. This means:</p>
+    <ul>
+      <li>You may copy, modify, distribute, and perform the icons, even for commercial purposes, without asking permission.</li>
+      <li>No warranty is provided. Icons are offered "as-is" with no guarantee of fitness for any particular purpose.</li>
+      <li>Attribution is not required, though appreciated.</li>
+      <li>AgentiScript makes no warranties regarding the completeness, accuracy, or suitability of CC0 icons.</li>
+    </ul>
+  </div>
+
+  <div class="legal-section">
+    <h2>3. Pro Pack — Commercial License</h2>
+    <p>Purchase of the Pro Pack grants you a <strong>non-exclusive, perpetual, worldwide commercial license</strong> to use all AgentiScript icons in your projects, subject to these restrictions:</p>
+    <ul>
+      <li>You may use icons in commercial products, applications, websites, and marketing materials.</li>
+      <li>You may NOT resell, sublicense, or redistribute the Pro Pack itself or its raw files as a competing icon product.</li>
+      <li>You may NOT claim ownership of the AgentiScript standard, brand, or trademarks.</li>
+      <li>License is granted to the purchasing entity only and is non-transferable without written permission.</li>
+    </ul>
+    <p>All sales are final. No refunds on Pro Pack purchases.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>4. XRPL NFT Terms</h2>
+    <p>AgentiScript flagship icons are minted as Non-Fungible Tokens (NFTs) on the XRP Ledger (XRPL). Purchasing an AgentiScript NFT grants you:</p>
+    <ul>
+      <li>A <strong>commercial license</strong> for the specific icon represented by that NFT.</li>
+      <li>The right to use that icon in commercial projects, subject to the same restrictions as the Pro Pack (no resale of the raw asset as a standalone competing product).</li>
+      <li>Participation in revenue share distributions as documented, paid in XRP.</li>
+      <li>A 10% royalty applies automatically to all secondary market resales, enforced by the XRPL protocol.</li>
+    </ul>
+    <p>NFTs are digital collectibles. They are <strong>not</strong> securities, investment contracts, or financial instruments. Purchasing an NFT does not guarantee any return on investment. See our <a href="/disclaimer/" style="color:var(--gold-light)">Disclaimer</a> for full details.</p>
+    <p>XRPL transactions are irreversible by nature. AgentiScript cannot reverse, cancel, or refund completed blockchain transactions.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>5. x402 Micropayment API</h2>
+    <p>The x402 API enables autonomous payment for icon access using XRPL micropayments. By using the API:</p>
+    <ul>
+      <li>Each API call is a <strong>pay-per-use transaction</strong>. Completed payments are final and non-refundable.</li>
+      <li>You are responsible for ensuring your payment wallet has sufficient funds before initiating requests.</li>
+      <li>AgentiScript logs API calls anonymously for operational purposes. No personal data is associated with x402 transactions.</li>
+      <li>We reserve the right to modify pricing, rate limits, or discontinue the API with reasonable notice.</li>
+    </ul>
+  </div>
+
+  <div class="legal-section">
+    <h2>6. Intellectual Property</h2>
+    <p>AgentiScript owns and controls:</p>
+    <ul>
+      <li>The <strong>AgentiScript standard</strong> — the system, schema, and methodology for agentic economy iconography.</li>
+      <li>The <strong>AgentiScript trademark</strong> and brand identity.</li>
+      <li>All non-CC0 commercial assets, documentation, and tooling.</li>
+    </ul>
+    <p>Nothing in these Terms transfers ownership of the AgentiScript standard, name, or intellectual property to you. CC0 icons are released to the public domain as described in Section 2.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>7. Disclaimer of Warranties</h2>
+    <p>ALL SERVICES, ICONS, AND APIS ARE PROVIDED <strong>"AS IS"</strong> WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, OR NON-INFRINGEMENT.</p>
+    <p>AgentiScript does not warrant that the service will be uninterrupted, error-free, or that any defects will be corrected. You use the service at your sole risk.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>8. Limitation of Liability</h2>
+    <p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AGENTISCRIPT'S TOTAL LIABILITY TO YOU FOR ANY CLAIMS ARISING FROM OR RELATED TO THESE TERMS OR THE SERVICES SHALL NOT EXCEED THE TOTAL AMOUNT YOU PAID TO AGENTISCRIPT IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.</p>
+    <p>AGENTISCRIPT SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, DATA, OR GOODWILL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>9. Governing Law &amp; Dispute Resolution</h2>
+    <p>These Terms are governed by the laws of the <strong>State of Florida, United States of America</strong>, without regard to conflict of law principles.</p>
+    <p>Any dispute arising from or relating to these Terms shall be resolved through binding individual arbitration. <strong>You waive your right to participate in any class action lawsuit or class-wide arbitration</strong> related to AgentiScript services.</p>
+    <p>Nothing in this section prevents either party from seeking emergency injunctive relief from a court of competent jurisdiction.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>10. Changes to Terms</h2>
+    <p>We may update these Terms at any time. Material changes will be reflected by an updated effective date posted on this page. Continued use of AgentiScript services after changes constitutes acceptance of the revised Terms.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>11. Contact</h2>
+    <p>For legal inquiries, questions, or notices, please open an issue on our GitHub repository:</p>
+    <p><a href="https://github.com/CLAW-AI-FL/agentiscript/issues" target="_blank" style="color:var(--gold-light);text-decoration:none;font-weight:600">github.com/CLAW-AI-FL/agentiscript/issues →</a></p>
+  </div>
+</main>
+
+<footer>
+  <div class="footer-links">
+    <a href="/">Home</a>
+    <a href="/store/">Pro Pack</a>
+    <a href="/docs/">Docs</a>
+    <a href="/terms/">Terms</a>
+    <a href="/privacy/">Privacy</a>
+    <a href="/disclaimer/">Disclaimer</a>
+    <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a>
+  </div>
+  <p class="footer-copy">&copy; 2026 <strong>AgentiScript</strong> &nbsp;·&nbsp; Governing Law: State of Florida, USA</p>
+</footer>
+
+</body>
+</html>
