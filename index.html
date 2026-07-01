@@ -5,152 +5,1530 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AgentiScript — The Visual Language of the Agentic Economy</title>
 <link rel="icon" href="data:,">
-<meta name="description" content="AgentiScript: the first icon system for every concept the agentic economy speaks but cannot show. Free. Open source. Machine-readable.">
+<meta name="description" content="20,520 icons for the agentic economy. x402 micropayments. XRPL NFTs. MCP. npm. Machine-readable. Free forever.">
 <link rel="canonical" href="https://agentiscript.com/">
+<meta property="og:title" content="AgentiScript — The Visual Language of the Agentic Economy">
+<meta property="og:description" content="20,520 icons for every concept the agentic economy speaks. x402 · XRPL · MCP · npm. Free & open source.">
+<meta property="og:image" content="https://agentiscript.com/og-image.png">
+<meta property="og:url" content="https://agentiscript.com/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QYFEV9J581"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-QYFEV9J581');</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "AgentiScript",
+  "url": "https://agentiscript.com",
+  "description": "The visual language of the agentic economy — 20,520 SVG icons with x402 micropayment API, XRPL NFTs, npm, and MCP support."
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "AgentiScript",
+  "applicationCategory": "DeveloperApplication",
+  "operatingSystem": "All",
+  "offers": [
+    {"@type": "Offer", "price": "0", "priceCurrency": "USD", "description": "Free CC0 tier"},
+    {"@type": "Offer", "price": "49", "priceCurrency": "USD", "description": "Pro Pack — commercial license"}
+  ],
+  "url": "https://agentiscript.com"
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
 <style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{background:#0a0a0a;color:#fff;font-family:system-ui,sans-serif;min-height:100vh}
-header{padding:32px 24px 20px;text-align:center}
-.logo{font-size:2.8rem;font-weight:800;color:#9F792C;letter-spacing:-0.02em;display:block}
-.tagline{font-size:1.1rem;color:#C0C0C0;margin-top:8px}
-.subline{font-size:0.9rem;color:rgba(192,192,192,0.55);margin-top:6px}
-.fun{font-size:0.85rem;color:rgba(192,192,192,0.6);margin-top:10px;font-style:italic}
-.stats{display:flex;gap:32px;justify-content:center;padding:24px;border-top:1px solid rgba(192,192,192,0.15);border-bottom:1px solid rgba(192,192,192,0.15);margin:24px 0;flex-wrap:wrap}
-.stat{text-align:center}
-.stat-num{font-size:1.6rem;font-weight:700;color:#C0C0C0}
-.stat-label{font-size:0.75rem;color:#9F792C;margin-top:2px}
-.section{padding:40px 24px;max-width:1200px;margin:0 auto}
-h2{font-size:1.4rem;color:#9F792C;margin-bottom:16px}
-.search-wrap{margin-bottom:20px;position:relative}
-.search-wrap input{width:100%;max-width:480px;padding:10px 14px 10px 36px;background:#111111;border:1px solid rgba(192,192,192,0.3);border-radius:8px;color:#fff;font-size:0.9rem;outline:none;transition:border-color 0.2s}
-.search-wrap input:focus{border-color:#9F792C;box-shadow:0 0 0 2px rgba(159,121,44,0.2)}
-.search-wrap input::placeholder{color:rgba(192,192,192,0.3)}
-.search-icon{position:absolute;left:10px;top:50%;transform:translateY(-50%);color:rgba(192,192,192,0.4);font-size:1rem;pointer-events:none}
-.search-count{font-size:0.78rem;color:rgba(192,192,192,0.45);margin-bottom:12px;min-height:18px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px}
-.icon-card{background:#111111;border:1px solid rgba(192,192,192,0.2);border-radius:10px;padding:16px 12px;text-align:center;cursor:pointer;transition:all 0.2s}
-.icon-card:hover{border-color:#9F792C;background:#1a1a1a;transform:translateY(-2px);box-shadow:0 4px 12px rgba(159,121,44,0.15)}
-.icon-preview{width:48px;height:48px;margin:0 auto 10px;background:rgba(192,192,192,0.06);border-radius:8px;display:flex;align-items:center;justify-content:center}
-.icon-preview img{width:40px;height:40px}
-.icon-name{font-size:0.75rem;color:rgba(255,255,255,0.85);font-weight:600;line-height:1.3}
-.icon-cat{font-size:0.62rem;color:#C0C0C0;margin-top:4px;font-style:italic;opacity:0.8}
-.no-results{color:rgba(192,192,192,0.35);font-size:0.9rem;padding:24px 0;text-align:center;grid-column:1/-1}
-.capture{background:#111111;border:1px solid rgba(192,192,192,0.2);border-radius:12px;padding:32px 24px;text-align:center;margin:40px auto;max-width:520px}
-.capture h3{color:#9F792C;margin-bottom:8px;font-size:1.1rem}
-.capture p{color:rgba(192,192,192,0.55);font-size:0.85rem;margin-bottom:20px}
-.capture-form{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
-.capture-form input{flex:1;min-width:220px;padding:10px 14px;background:#0a0a0a;border:1px solid rgba(192,192,192,0.25);border-radius:6px;color:#fff;font-size:0.9rem}
-.capture-form button{padding:10px 20px;background:#9F792C;border:none;border-radius:6px;color:#000;font-weight:700;cursor:pointer;font-size:0.9rem}
-.capture-form button:hover{background:#b8892f}
-.success-msg{color:#C0C0C0;margin-top:12px;font-size:0.85rem;display:none}
-nav{display:flex;gap:20px;justify-content:center;padding:16px;border-bottom:1px solid rgba(192,192,192,0.08);flex-wrap:wrap}
-nav a{color:rgba(192,192,192,0.55);text-decoration:none;font-size:0.85rem;transition:color 0.2s}
-nav a:hover{color:#9F792C}
-.view-all{display:block;text-align:center;margin:20px auto;color:#C0C0C0;text-decoration:none;font-size:0.9rem;border:1px solid rgba(192,192,192,0.3);border-radius:6px;padding:10px 24px;width:fit-content;transition:all 0.2s}
-.view-all:hover{background:rgba(192,192,192,0.08);border-color:#C0C0C0}
-footer{padding:40px 24px;text-align:center;border-top:1px solid rgba(192,192,192,0.08);margin-top:40px}
-.footer-links{display:flex;gap:20px;justify-content:center;flex-wrap:wrap;margin-bottom:16px}
-.footer-links a{color:rgba(192,192,192,0.45);font-size:0.8rem;text-decoration:none}
-.footer-links a:hover{color:#9F792C}
-.footer-copy{color:rgba(192,192,192,0.35);font-size:0.75rem}
-@media(max-width:600px){.stats{gap:20px}.logo{font-size:2rem}}
+/* ─── RESET & BASE ─── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: #060610;
+  color: #fff;
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ─── PALETTE ─── */
+:root {
+  --bg: #060610;
+  --bg-card: rgba(255,255,255,0.03);
+  --border: rgba(255,255,255,0.08);
+  --gold: #9F792C;
+  --gold-light: #C4A35A;
+  --silver: #C0C0C0;
+  --silver-dim: #888899;
+  --strip: #0b0b1a;
+}
+
+/* ─── SCROLL ANIMATIONS ─── */
+.fade-in {
+  opacity: 0;
+  transform: translateY(32px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.fade-in-delay-1 { transition-delay: 0.1s; }
+.fade-in-delay-2 { transition-delay: 0.2s; }
+.fade-in-delay-3 { transition-delay: 0.3s; }
+.fade-in-delay-4 { transition-delay: 0.4s; }
+.fade-in-delay-5 { transition-delay: 0.5s; }
+
+/* ─── NAV ─── */
+#nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 1000;
+  padding: 0 40px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: background 0.3s, backdrop-filter 0.3s, border-color 0.3s;
+  border-bottom: 1px solid transparent;
+}
+#nav.scrolled {
+  background: rgba(6,6,16,0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-color: var(--border);
+}
+.nav-logo {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+  flex-shrink: 0;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  list-style: none;
+}
+.nav-links a {
+  color: var(--silver-dim);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.nav-links a:hover { color: var(--silver); }
+.nav-cta {
+  background: var(--gold);
+  color: #000 !important;
+  padding: 8px 20px;
+  border-radius: 6px;
+  font-weight: 700 !important;
+  font-size: 0.85rem !important;
+  transition: background 0.2s !important;
+}
+.nav-cta:hover { background: var(--gold-light) !important; color: #000 !important; }
+
+/* Hamburger */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+  padding: 4px;
+}
+.hamburger span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: var(--silver);
+  border-radius: 2px;
+  transition: all 0.3s;
+}
+.mobile-menu {
+  display: none;
+  position: fixed;
+  top: 64px; left: 0; right: 0;
+  background: rgba(6,6,16,0.97);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  padding: 20px;
+  z-index: 999;
+  flex-direction: column;
+  gap: 16px;
+}
+.mobile-menu a {
+  color: var(--silver);
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+.mobile-menu.open { display: flex; }
+
+@media (max-width: 768px) {
+  #nav { padding: 0 20px; }
+  .nav-links { display: none; }
+  .hamburger { display: flex; }
+}
+
+/* ─── HERO ─── */
+#hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 100px 24px 60px;
+  position: relative;
+  overflow: hidden;
+}
+#hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, rgba(159,121,44,0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+#hero::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 200px;
+  background: linear-gradient(transparent, #060610);
+  pointer-events: none;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(192,192,192,0.08);
+  border: 1px solid rgba(192,192,192,0.2);
+  color: var(--silver);
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 6px 16px;
+  border-radius: 100px;
+  margin-bottom: 32px;
+  letter-spacing: 0.02em;
+}
+.hero-badge-dot {
+  width: 6px;
+  height: 6px;
+  background: var(--gold);
+  border-radius: 50%;
+  animation: pulse-dot 2s infinite;
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
+
+.hero-headline {
+  font-size: clamp(48px, 7vw, 80px);
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: -0.04em;
+  color: #fff;
+  margin-bottom: 24px;
+  max-width: 900px;
+}
+.hero-headline .gradient-text {
+  background: linear-gradient(135deg, var(--gold-light) 0%, var(--silver) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-subhead {
+  font-size: clamp(16px, 2.5vw, 20px);
+  color: var(--silver-dim);
+  max-width: 600px;
+  line-height: 1.6;
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+
+.hero-ctas {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 48px;
+}
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--gold);
+  color: #000;
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 14px 28px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.2s;
+}
+.btn-primary:hover { background: var(--gold-light); transform: translateY(-2px); }
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid rgba(192,192,192,0.35);
+  color: var(--silver);
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 14px 28px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: border-color 0.2s, color 0.2s, transform 0.2s;
+}
+.btn-secondary:hover { border-color: var(--silver); color: #fff; transform: translateY(-2px); }
+
+.hero-stats {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 64px;
+}
+.hero-stat {
+  text-align: center;
+}
+.hero-stat-num {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  line-height: 1;
+}
+.hero-stat-label {
+  font-size: 0.75rem;
+  color: var(--silver-dim);
+  margin-top: 4px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* Hero icon grid */
+.hero-icons-title {
+  font-size: 0.75rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--silver-dim);
+  margin-bottom: 20px;
+}
+.hero-icon-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 12px;
+  max-width: 800px;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+.hero-icon-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  transition: border-color 0.2s, background 0.2s, transform 0.2s;
+  cursor: default;
+  position: relative;
+  overflow: hidden;
+  animation: float-card 4s ease-in-out infinite;
+}
+.hero-icon-card:nth-child(2) { animation-delay: 0.3s; }
+.hero-icon-card:nth-child(3) { animation-delay: 0.6s; }
+.hero-icon-card:nth-child(4) { animation-delay: 0.9s; }
+.hero-icon-card:nth-child(5) { animation-delay: 1.2s; }
+.hero-icon-card:nth-child(6) { animation-delay: 1.5s; }
+.hero-icon-card:nth-child(7) { animation-delay: 0.15s; }
+.hero-icon-card:nth-child(8) { animation-delay: 0.45s; }
+.hero-icon-card:nth-child(9) { animation-delay: 0.75s; }
+.hero-icon-card:nth-child(10) { animation-delay: 1.05s; }
+.hero-icon-card:nth-child(11) { animation-delay: 1.35s; }
+.hero-icon-card:nth-child(12) { animation-delay: 1.65s; }
+@keyframes float-card {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+.hero-icon-card:hover {
+  border-color: var(--gold);
+  background: rgba(159,121,44,0.06);
+}
+.hero-icon-card img {
+  width: 40px;
+  height: 40px;
+}
+.hero-icon-name {
+  font-size: 0.62rem;
+  color: var(--silver-dim);
+  text-align: center;
+  line-height: 1.3;
+  font-weight: 500;
+}
+.hero-icon-tooltip {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(10,10,20,0.95);
+  border: 1px solid var(--border);
+  color: var(--silver);
+  font-size: 0.72rem;
+  padding: 6px 10px;
+  border-radius: 6px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+  z-index: 10;
+}
+.hero-icon-card:hover .hero-icon-tooltip { opacity: 1; }
+
+@media (max-width: 600px) {
+  .hero-icon-grid { grid-template-columns: repeat(4, 1fr); }
+  .hero-icon-card:nth-child(n+9) { display: none; }
+  .hero-stats { gap: 24px; }
+}
+
+/* ─── MARQUEE ─── */
+#marquee {
+  background: var(--strip);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.marquee-track {
+  display: inline-block;
+  animation: marquee-scroll 40s linear infinite;
+}
+.marquee-track:hover { animation-play-state: paused; }
+.marquee-text {
+  display: inline-block;
+  color: var(--gold);
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  padding-right: 40px;
+}
+@keyframes marquee-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+/* ─── SECTIONS COMMON ─── */
+.section {
+  padding: 100px 40px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.section-title {
+  font-size: clamp(28px, 4vw, 44px);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  margin-bottom: 12px;
+}
+.section-title.gold { color: var(--gold-light); }
+.section-title.silver { color: var(--silver); }
+.section-title.gradient {
+  background: linear-gradient(135deg, var(--gold-light), var(--silver));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.section-subtitle {
+  font-size: 1.05rem;
+  color: var(--silver-dim);
+  max-width: 560px;
+  line-height: 1.6;
+  margin-bottom: 56px;
+}
+
+/* ─── BENTO GRID ─── */
+#bento { padding: 80px 40px; max-width: 1280px; margin: 0 auto; }
+.bento-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: auto auto auto;
+  gap: 16px;
+}
+.bcard {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 32px 28px;
+  transition: border-color 0.3s, background 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+.bcard:hover {
+  border-color: rgba(159,121,44,0.3);
+  background: rgba(255,255,255,0.04);
+}
+.bcard-A { grid-column: span 5; grid-row: span 2; }
+.bcard-B { grid-column: span 4; }
+.bcard-C { grid-column: span 3; }
+.bcard-D { grid-column: span 7; }
+.bcard-E { grid-column: span 4; }
+.bcard-F { grid-column: span 4; }
+
+.bcard-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+.bcard h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 12px;
+  letter-spacing: -0.02em;
+}
+.bcard p {
+  font-size: 0.88rem;
+  color: var(--silver-dim);
+  line-height: 1.65;
+}
+
+/* Flow diagram */
+.flow-diagram {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 24px;
+  flex-wrap: wrap;
+}
+.flow-node {
+  background: rgba(159,121,44,0.12);
+  border: 1px solid rgba(159,121,44,0.3);
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 0.75rem;
+  color: var(--gold-light);
+  font-weight: 600;
+  white-space: nowrap;
+}
+.flow-arrow {
+  color: var(--gold);
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+/* Code snippet */
+.code-snippet {
+  background: rgba(0,0,0,0.5);
+  border: 1px solid rgba(159,121,44,0.2);
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-top: 16px;
+  font-family: 'Courier New', monospace;
+  font-size: 0.8rem;
+  color: var(--gold-light);
+  overflow-x: auto;
+}
+
+/* Stat pills */
+.stat-pills {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.stat-pill {
+  background: rgba(159,121,44,0.12);
+  border: 1px solid rgba(159,121,44,0.25);
+  color: var(--gold);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 100px;
+}
+
+/* Large accent number */
+.bcard-big-num {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--gold);
+  line-height: 1;
+  margin: 16px 0 8px;
+}
+
+@media (max-width: 900px) {
+  .bento-grid { grid-template-columns: 1fr 1fr; }
+  .bcard-A, .bcard-B, .bcard-C, .bcard-D, .bcard-E, .bcard-F {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+}
+@media (max-width: 560px) {
+  .bento-grid { grid-template-columns: 1fr; }
+  .bcard { padding: 24px 20px; }
+}
+
+/* ─── HOW x402 WORKS ─── */
+#how402 {
+  padding: 80px 40px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.steps-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  position: relative;
+  margin-top: 48px;
+}
+.steps-grid::before {
+  content: '';
+  position: absolute;
+  top: 28px;
+  left: calc(12.5%);
+  right: calc(12.5%);
+  height: 2px;
+  background: linear-gradient(90deg, var(--gold), var(--gold-light));
+  z-index: 0;
+}
+.step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0 16px;
+  position: relative;
+  z-index: 1;
+}
+.step-circle {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 2px solid var(--gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  margin-bottom: 20px;
+  flex-shrink: 0;
+}
+.step-icon {
+  font-size: 1.6rem;
+  margin-bottom: 12px;
+}
+.step h4 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 8px;
+}
+.step p {
+  font-size: 0.8rem;
+  color: var(--silver-dim);
+  line-height: 1.5;
+}
+
+@media (max-width: 700px) {
+  .steps-grid { grid-template-columns: 1fr 1fr; }
+  .steps-grid::before { display: none; }
+}
+@media (max-width: 400px) {
+  .steps-grid { grid-template-columns: 1fr; }
+}
+
+/* ─── ICON SHOWCASE ─── */
+#showcase { padding: 80px 40px; max-width: 1280px; margin: 0 auto; }
+.search-row {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+.search-box {
+  flex: 1;
+  min-width: 240px;
+  max-width: 400px;
+  position: relative;
+}
+.search-box input {
+  width: 100%;
+  padding: 12px 16px 12px 40px;
+  background: var(--bg-card);
+  border: 1px solid rgba(192,192,192,0.25);
+  border-radius: 8px;
+  color: #fff;
+  font-size: 0.9rem;
+  font-family: 'Space Grotesk', sans-serif;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.search-box input:focus {
+  border-color: var(--gold);
+  box-shadow: 0 0 0 2px rgba(159,121,44,0.15);
+}
+.search-box input::placeholder { color: var(--silver-dim); }
+.search-box .search-icon {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--silver-dim);
+  font-size: 1rem;
+  pointer-events: none;
+}
+.search-count {
+  font-size: 0.8rem;
+  color: var(--silver-dim);
+  margin-bottom: 16px;
+  min-height: 20px;
+}
+
+.cat-pills {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+}
+.cat-pill {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--silver-dim);
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 6px 14px;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: 'Space Grotesk', sans-serif;
+}
+.cat-pill:hover { border-color: var(--gold); color: var(--gold); }
+.cat-pill.active {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: #000;
+  font-weight: 700;
+}
+
+.icon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: 12px;
+  margin-bottom: 32px;
+}
+.icon-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px 12px 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  cursor: default;
+  transition: border-color 0.2s, background 0.2s, transform 0.15s;
+  text-align: center;
+}
+.icon-card:hover {
+  border-color: var(--gold);
+  background: rgba(159,121,44,0.04);
+  transform: translateY(-2px);
+}
+.icon-card img {
+  width: 44px;
+  height: 44px;
+}
+.icon-card-name {
+  font-size: 0.7rem;
+  color: #fff;
+  font-weight: 600;
+  line-height: 1.3;
+}
+.icon-card-cat {
+  font-size: 0.6rem;
+  color: var(--silver-dim);
+  font-style: italic;
+}
+.load-more-wrap { text-align: center; }
+.btn-load-more {
+  background: var(--bg-card);
+  border: 1px solid rgba(192,192,192,0.25);
+  color: var(--silver);
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 12px 32px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: 'Space Grotesk', sans-serif;
+  transition: border-color 0.2s, color 0.2s;
+}
+.btn-load-more:hover { border-color: var(--gold); color: var(--gold); }
+.no-results {
+  grid-column: 1/-1;
+  text-align: center;
+  color: var(--silver-dim);
+  padding: 40px;
+}
+
+/* ─── NFT SECTION ─── */
+#nft { padding: 80px 40px; max-width: 1280px; margin: 0 auto; }
+.nft-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-bottom: 40px;
+}
+.nft-col {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 32px 28px;
+  transition: border-color 0.3s;
+}
+.nft-col:hover { border-color: rgba(159,121,44,0.3); }
+.nft-col-title {
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+.nft-col ul { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+.nft-col li {
+  font-size: 0.85rem;
+  color: var(--silver-dim);
+  line-height: 1.5;
+  padding-left: 20px;
+  position: relative;
+}
+.nft-col li::before {
+  content: '•';
+  color: var(--gold);
+  position: absolute;
+  left: 0;
+  font-size: 1rem;
+}
+.nft-cta-row {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.pill-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(159,121,44,0.1);
+  border: 1px solid rgba(159,121,44,0.3);
+  color: var(--gold-light);
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 8px 18px;
+  border-radius: 100px;
+}
+.pill-badge-dot {
+  width: 7px;
+  height: 7px;
+  background: var(--gold);
+  border-radius: 50%;
+  animation: pulse-dot 2s infinite;
+}
+.nft-link {
+  color: var(--silver);
+  text-decoration: none;
+  font-size: 0.88rem;
+  font-weight: 500;
+  border-bottom: 1px solid var(--border);
+  transition: color 0.2s, border-color 0.2s;
+}
+.nft-link:hover { color: var(--gold-light); border-color: var(--gold-light); }
+
+@media (max-width: 900px) {
+  .nft-grid { grid-template-columns: 1fr; }
+}
+
+/* ─── EVER GROWING ─── */
+#growing { padding: 80px 40px; max-width: 1280px; margin: 0 auto; }
+.growing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: start;
+}
+.growing-stats { display: flex; flex-direction: column; gap: 24px; }
+.growing-stat {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  transition: border-color 0.2s;
+}
+.growing-stat:hover { border-color: rgba(159,121,44,0.3); }
+.growing-stat-num {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  min-width: 100px;
+  line-height: 1;
+}
+.growing-stat-label {
+  font-size: 0.85rem;
+  color: var(--silver-dim);
+  line-height: 1.4;
+}
+.growing-desc {
+  font-size: 1.05rem;
+  color: var(--silver-dim);
+  line-height: 1.8;
+}
+.growing-desc strong { color: var(--silver); }
+.growing-tags {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
+.growing-tag {
+  background: rgba(192,192,192,0.06);
+  border: 1px solid var(--border);
+  color: var(--silver-dim);
+  font-size: 0.75rem;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+@media (max-width: 700px) {
+  .growing-grid { grid-template-columns: 1fr; }
+}
+
+/* ─── FOR DEVELOPERS ─── */
+#devs { padding: 80px 40px; max-width: 1280px; margin: 0 auto; }
+.dev-code-block {
+  background: #000;
+  border: 1px solid rgba(159,121,44,0.2);
+  border-radius: 12px;
+  padding: 32px;
+  margin: 0 0 32px;
+  overflow-x: auto;
+}
+.dev-code-block pre {
+  font-family: 'Courier New', monospace;
+  font-size: 0.88rem;
+  line-height: 1.8;
+  color: var(--silver-dim);
+  white-space: pre;
+}
+.dev-code-block pre .comment { color: rgba(136,136,153,0.5); }
+.dev-code-block pre .keyword { color: var(--gold-light); }
+.dev-code-block pre .string { color: var(--silver); }
+.dev-links {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.dev-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--silver);
+  font-size: 0.88rem;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: border-color 0.2s, color 0.2s;
+}
+.dev-link:hover { border-color: var(--gold); color: var(--gold-light); }
+
+/* ─── PRO PACK ─── */
+#propack { padding: 80px 40px; max-width: 1280px; margin: 0 auto; }
+.pro-card {
+  background: linear-gradient(135deg, rgba(159,121,44,0.10) 0%, rgba(192,192,192,0.03) 100%);
+  border: 1px solid rgba(159,121,44,0.35);
+  border-radius: 20px;
+  padding: 64px 48px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.pro-card::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 300px; height: 300px;
+  background: radial-gradient(circle, rgba(159,121,44,0.08), transparent 70%);
+  pointer-events: none;
+}
+.pro-badge {
+  display: inline-block;
+  background: var(--gold);
+  color: #000;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 4px 12px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+.pro-card h2 {
+  font-size: clamp(28px, 4vw, 44px);
+  font-weight: 700;
+  color: var(--silver);
+  letter-spacing: -0.03em;
+  margin-bottom: 12px;
+}
+.pro-card .price {
+  font-size: 4rem;
+  font-weight: 800;
+  color: var(--gold-light);
+  letter-spacing: -0.04em;
+  margin: 16px 0;
+  line-height: 1;
+}
+.pro-card .price sup { font-size: 1.8rem; vertical-align: super; }
+.pro-card .price-sub {
+  font-size: 0.85rem;
+  color: var(--silver-dim);
+  margin-bottom: 32px;
+}
+.pro-features {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px 40px;
+  max-width: 560px;
+  margin: 0 auto 40px;
+  text-align: left;
+}
+.pro-feature {
+  font-size: 0.88rem;
+  color: var(--silver-dim);
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border);
+}
+.pro-feature::before { content: '✓ '; color: var(--gold); font-weight: 700; }
+.pro-ctas {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.pro-card-ent {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 40px 32px;
+  text-align: center;
+  margin-top: 16px;
+}
+
+@media (max-width: 600px) {
+  .pro-card { padding: 40px 24px; }
+  .pro-features { grid-template-columns: 1fr; }
+}
+
+/* ─── FOOTER ─── */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 40px;
+  text-align: center;
+}
+.footer-links {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+.footer-links a {
+  color: var(--silver-dim);
+  text-decoration: none;
+  font-size: 0.82rem;
+  transition: color 0.2s;
+}
+.footer-links a:hover { color: var(--gold-light); }
+.footer-copy {
+  font-size: 0.75rem;
+  color: rgba(136,136,153,0.5);
+}
+.footer-copy strong { color: var(--silver-dim); }
+
+/* ─── DIVIDER ─── */
+.divider {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 0;
+}
+
+/* ─── ANIMATIONS for bento ─── */
+.bcard::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  background: radial-gradient(ellipse 120% 80% at 50% 0%, rgba(159,121,44,0.03), transparent);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.bcard:hover::before { opacity: 1; }
 </style>
 </head>
 <body>
-<nav>
-  <a href="/">Home</a>
-  <a href="/icons/">Icons</a>
-  <a href="/store/">Pro Pack</a>
+
+<!-- ─── NAV ─── -->
+<nav id="nav">
+  <a href="/" class="nav-logo">AgentiScript</a>
+  <ul class="nav-links">
+    <li><a href="#showcase">Icons</a></li>
+    <li><a href="#propack">Pro Pack</a></li>
+    <li><a href="/docs/">Docs</a></li>
+    <li><a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a></li>
+    <li><a href="/store/" class="nav-cta">Get Pro Pack →</a></li>
+  </ul>
+  <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+    <span></span><span></span><span></span>
+  </div>
+</nav>
+<div class="mobile-menu" id="mobileMenu">
+  <a href="#showcase" onclick="closeMobileMenu()">Icons</a>
+  <a href="#propack" onclick="closeMobileMenu()">Pro Pack</a>
   <a href="/docs/">Docs</a>
   <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a>
-</nav>
-<header>
-  <span class="logo">AgentiScript</span>
-  <p class="tagline">The visual language of the agentic economy.</p>
-  <p class="subline">Every concept. Every domain. Every idea that exists but has never been seen.</p>
-  <p class="fun">Emoji were invented in 1997. The agentic economy has no emoji. Until now. 👾</p>
-</header>
-<div class="stats">
-  <div class="stat"><div class="stat-num" id="icon-count">—</div><div class="stat-label">Icons</div></div>
-  <div class="stat"><div class="stat-num" id="cat-count">—</div><div class="stat-label">Categories</div></div>
-  <div class="stat"><div class="stat-num">Free</div><div class="stat-label">Forever</div></div>
-  <div class="stat"><div class="stat-num">Open</div><div class="stat-label">Source</div></div>
-</div>
-<p style="text-align:center;font-size:0.78rem;color:rgba(192,192,192,0.4);margin:-16px 0 20px;">Commercial icons shown &mdash; <a href="/docs/" style="color:rgba(159,121,44,0.8);text-decoration:none;">Full catalog (20,520+) available via API</a></p>
-<div class="section">
-  <h2>Featured Icons</h2>
-  <div class="search-wrap">
-    <span class="search-icon">🔍</span>
-    <input type="search" id="icon-search" placeholder="Search icons by name or category…" autocomplete="off">
-  </div>
-  <div class="search-count" id="search-count"></div>
-  <div class="grid" id="featured-grid">
-    <!-- dynamically populated -->
-  </div>
-  <a href="/icons/" class="view-all" id="view-all-link">Browse all icons →</a>
+  <a href="/store/" style="color: var(--gold); font-weight: 700;">Get Pro Pack →</a>
 </div>
 
-<div style="padding: 0 20px;">
-  <div style="background: linear-gradient(135deg, rgba(159,121,44,0.12), rgba(192,192,192,0.04)); border: 1px solid rgba(192,192,192,0.25); border-radius: 16px; padding: 40px; text-align: center; margin: 48px auto; max-width: 600px;">
-    <div style="font-size: 13px; letter-spacing: 2px; color: #9F792C; text-transform: uppercase; margin-bottom: 12px;">Commercial License</div>
-    <h2 style="font-size: 28px; color: #9F792C; margin: 0 0 12px;">Pro Pack</h2>
-    <p style="color: rgba(192,192,192,0.65); margin: 0 0 8px;">All 5,700+ commercial icons. SVG + JSON. Use in any product.</p>
-    <p style="font-size: 36px; font-weight: 900; color: #C0C0C0; margin: 16px 0;">$49</p>
-    <a href="https://buy.stripe.com/8x27sN63KbQYgCGdHifw40w" style="display: inline-block; background: #9F792C; color: #000; padding: 16px 40px; border-radius: 10px; font-weight: 800; font-size: 18px; text-decoration: none; margin-bottom: 12px;">Buy Pro Pack →</a>
-    <div style="color: rgba(192,192,192,0.45); font-size: 13px;">Enterprise license: <a href="https://buy.stripe.com/8x29AVak0f3a4TY0Uwfw40x" style="color: #9F792C;">$499/yr →</a></div>
+<!-- ─── HERO ─── -->
+<section id="hero">
+  <div class="hero-badge fade-in">
+    <span class="hero-badge-dot"></span>
+    20,520 Icons &amp; Growing · x402 · XRPL · MCP · npm
+  </div>
+  <h1 class="hero-headline fade-in fade-in-delay-1">
+    The Visual Language<br>of the <span class="gradient-text">Agentic Economy</span>
+  </h1>
+  <p class="hero-subhead fade-in fade-in-delay-2">
+    Every concept. Every protocol. Every idea the agentic economy speaks — now has a symbol.
+  </p>
+  <div class="hero-ctas fade-in fade-in-delay-3">
+    <a href="#showcase" class="btn-primary">Browse Icons →</a>
+    <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank" class="btn-secondary">View on GitHub</a>
+  </div>
+  <div class="hero-stats fade-in fade-in-delay-4">
+    <div class="hero-stat">
+      <div class="hero-stat-num">20,520</div>
+      <div class="hero-stat-label">Icons</div>
+    </div>
+    <div class="hero-stat">
+      <div class="hero-stat-num">500</div>
+      <div class="hero-stat-label">Flagships</div>
+    </div>
+    <div class="hero-stat">
+      <div class="hero-stat-num">20+</div>
+      <div class="hero-stat-label">Categories</div>
+    </div>
+    <div class="hero-stat">
+      <div class="hero-stat-num">CC0</div>
+      <div class="hero-stat-label">Free</div>
+    </div>
+  </div>
+  <div class="hero-icons-title fade-in fade-in-delay-5">Flagship Icons</div>
+  <div class="hero-icon-grid fade-in fade-in-delay-5" id="heroIconGrid">
+    <!-- populated by JS -->
+  </div>
+</section>
+
+<!-- ─── MARQUEE ─── -->
+<div id="marquee">
+  <div class="marquee-track">
+    <span class="marquee-text">x402 Protocol · Agentic Loop · Smart Contract · MCP · Zero Knowledge Proof · Validator · Tokenization · Agent Wallet · Multi-Agent · Blockchain · Quantum · LLM · RAG · DeFi · DAO · XRPL · Singularity · Superintelligence · Sound Money · Programmable Money · x402 Protocol · Agentic Loop · Smart Contract · MCP · Zero Knowledge Proof · Validator · Tokenization · Agent Wallet · Multi-Agent · Blockchain · Quantum · LLM · RAG · DeFi · DAO · XRPL · Singularity · Superintelligence · Sound Money · Programmable Money ·</span>
   </div>
 </div>
 
+<!-- ─── BENTO ─── -->
+<div id="bento" class="section">
+  <div class="fade-in">
+    <div class="section-title gold">Built for the New Economy</div>
+    <div class="section-subtitle">Every integration the agentic economy needs — micropayments, NFTs, MCP, npm, Apify. All connected.</div>
+  </div>
+  <div class="bento-grid">
+    <!-- Card A: x402 -->
+    <div class="bcard bcard-A fade-in fade-in-delay-1">
+      <div class="bcard-label">x402 · XRPL</div>
+      <h3>x402 Micropayments</h3>
+      <p>Bots discover and purchase icons autonomously. $0.001 per icon. XRPL Payment Channels. No humans required. The first icon system designed for machine-to-machine commerce.</p>
+      <div class="bcard-big-num">$0.001</div>
+      <p style="font-size:0.78rem;color:var(--silver-dim)">per icon · automated · forever</p>
+      <div class="flow-diagram">
+        <div class="flow-node">🤖 Bot</div>
+        <div class="flow-arrow">→</div>
+        <div class="flow-node">HTTP 402</div>
+        <div class="flow-arrow">→</div>
+        <div class="flow-node">⚡ XRP</div>
+        <div class="flow-arrow">→</div>
+        <div class="flow-node">SVG ✓</div>
+      </div>
+    </div>
 
+    <!-- Card B -->
+    <div class="bcard bcard-B fade-in fade-in-delay-2">
+      <div class="bcard-label">Machine-Readable</div>
+      <h3>Catalog</h3>
+      <p>20,520 icons in agentiscript.json. Schema.org DefinedTerm markup. Every LLM trained on the web will know AgentiScript.</p>
+      <div class="code-snippet">fetch('/agentiscript.json')<br>// → 20,520 icons, typed</div>
+    </div>
+
+    <!-- Card C -->
+    <div class="bcard bcard-C fade-in fade-in-delay-3">
+      <div class="bcard-label">npm · MCP</div>
+      <h3>npm &amp; MCP</h3>
+      <p>Works with Claude Desktop, oh-my-claudecode, and every MCP-compatible agent harness.</p>
+      <div class="code-snippet">npm install agentiscript</div>
+    </div>
+
+    <!-- Card D: wide -->
+    <div class="bcard bcard-D fade-in fade-in-delay-1">
+      <div class="bcard-label">XRPL · NFT</div>
+      <h3>XRPL NFT Collection</h3>
+      <p>500 flagship icons minting as XRPL NFTs. Own the symbol. Earn from the economy it represents. 10% royalty on every resale. XRP only.</p>
+      <div class="stat-pills">
+        <span class="stat-pill">500 NFTs</span>
+        <span class="stat-pill">10% Royalty</span>
+        <span class="stat-pill">XRP Only</span>
+        <span class="stat-pill">FirstLedger.net</span>
+      </div>
+    </div>
+
+    <!-- Card E -->
+    <div class="bcard bcard-E fade-in fade-in-delay-2">
+      <div class="bcard-label">Hedera HCS</div>
+      <h3>Provenance</h3>
+      <p>Every icon timestamped on Hedera Hashgraph. Triple provenance: GitHub + XRPL + Hedera. Immutable. Forever.</p>
+      <div class="stat-pills" style="margin-top:16px">
+        <span class="stat-pill">GitHub</span>
+        <span class="stat-pill">XRPL</span>
+        <span class="stat-pill">Hedera</span>
+      </div>
+    </div>
+
+    <!-- Card F -->
+    <div class="bcard bcard-F fade-in fade-in-delay-3">
+      <div class="bcard-label">Apify</div>
+      <h3>Actor</h3>
+      <p>agentiscript-icon-search on Apify. 30,000+ developers. Bot-callable. x402 payment enabled.</p>
+      <div class="stat-pills" style="margin-top:16px">
+        <span class="stat-pill">30k+ Devs</span>
+        <span class="stat-pill">Bot-Callable</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="divider">
+
+<!-- ─── HOW x402 WORKS ─── -->
+<div id="how402" class="section">
+  <div class="fade-in">
+    <div class="section-title silver">How Bots Buy Icons</div>
+    <div class="section-subtitle">Fully autonomous. No API keys. No accounts. Bots pay in XRP and receive SVG instantly.</div>
+  </div>
+  <div class="steps-grid">
+    <div class="step fade-in fade-in-delay-1">
+      <div class="step-circle">1</div>
+      <div class="step-icon">🤖</div>
+      <h4>Bot Needs Icon</h4>
+      <p>Agent identifies it needs the x402-protocol icon for its UI or output</p>
+    </div>
+    <div class="step fade-in fade-in-delay-2">
+      <div class="step-circle">2</div>
+      <div class="step-icon">⚡</div>
+      <h4>Calls API → HTTP 402</h4>
+      <p>GET /api/icons/x402-protocol — server responds with payment required</p>
+    </div>
+    <div class="step fade-in fade-in-delay-3">
+      <div class="step-circle">3</div>
+      <div class="step-icon">💎</div>
+      <h4>Pays 0.001 XRP</h4>
+      <p>Bot sends micro-payment via XRPL Payment Channel. Instant. Trustless.</p>
+    </div>
+    <div class="step fade-in fade-in-delay-4">
+      <div class="step-circle">4</div>
+      <div class="step-icon">✅</div>
+      <h4>Gets SVG Back</h4>
+      <p>API delivers the icon. Automated. Repeatable. No human ever needed.</p>
+    </div>
+  </div>
+</div>
+
+<hr class="divider">
+
+<!-- ─── ICON SHOWCASE ─── -->
+<section id="showcase" class="section">
+  <div class="fade-in">
+    <div class="section-title gold">The Catalog</div>
+    <div class="section-subtitle">Browse 20,520 icons. Free to explore. Pro Pack for commercial use.</div>
+  </div>
+  <div class="search-row fade-in fade-in-delay-1">
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="searchInput" placeholder="Search icons..." autocomplete="off">
+    </div>
+  </div>
+  <div class="cat-pills fade-in fade-in-delay-2" id="catPills">
+    <!-- populated by JS -->
+  </div>
+  <div class="search-count fade-in" id="searchCount"></div>
+  <div class="icon-grid" id="iconGrid">
+    <!-- populated by JS -->
+  </div>
+  <div class="load-more-wrap fade-in" id="loadMoreWrap" style="display:none">
+    <button class="btn-load-more" id="loadMoreBtn" onclick="loadMore()">Load More Icons</button>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ─── NFT SECTION ─── -->
+<section id="nft" class="section">
+  <div class="fade-in">
+    <div class="section-title gradient">Own the Icon. Own the Revenue.</div>
+    <div class="section-subtitle">AgentiScript NFTs are not collectibles. They are revenue-generating IP assets.</div>
+  </div>
+  <div class="nft-grid">
+    <div class="nft-col fade-in fade-in-delay-1">
+      <div class="nft-col-title">XRPL Native</div>
+      <ul>
+        <li>Protocol-enforced 10% royalty — forever, automatic</li>
+        <li>DynamicNFT — mutable URI as icons evolve</li>
+        <li>XRP payments only — accumulate the asset</li>
+        <li>Triple provenance: GitHub + XRPL + Hedera</li>
+        <li>Transferable, burnable, on-chain forever</li>
+      </ul>
+    </div>
+    <div class="nft-col fade-in fade-in-delay-2">
+      <div class="nft-col-title">Revenue Generating</div>
+      <ul>
+        <li>x402 micropayment revenue share</li>
+        <li>70% creator / 20% holder / 10% treasury</li>
+        <li>Every bot access = XRP to your wallet</li>
+        <li>10% of every resale — automatic</li>
+        <li>Yield from the agentic economy itself</li>
+      </ul>
+    </div>
+    <div class="nft-col fade-in fade-in-delay-3">
+      <div class="nft-col-title">IP &amp; Legal</div>
+      <ul>
+        <li>CC0 free tier — personal use always free</li>
+        <li>NFT = commercial license, on-chain enforced</li>
+        <li>Not a security — digital collectible</li>
+        <li>SEC 2025: NFTs classified as collectibles</li>
+        <li>GitHub timestamp = first-mover proof</li>
+      </ul>
+    </div>
+  </div>
+  <div class="nft-cta-row fade-in">
+    <span class="pill-badge">
+      <span class="pill-badge-dot"></span>
+      Flagship Collection — Minting Soon
+    </span>
+    <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank" class="nft-link">
+      Get notified on GitHub →
+    </a>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ─── EVER GROWING ─── -->
+<section id="growing" class="section">
+  <div class="fade-in">
+    <div class="section-title silver">The Language Never Stops Growing</div>
+    <div class="section-subtitle">Autonomous scrapers add new concepts daily — before they even have names.</div>
+  </div>
+  <div class="growing-grid">
+    <div class="growing-stats fade-in fade-in-delay-1">
+      <div class="growing-stat">
+        <div class="growing-stat-num">20,520</div>
+        <div class="growing-stat-label">Current icons in the catalog</div>
+      </div>
+      <div class="growing-stat">
+        <div class="growing-stat-num">Daily</div>
+        <div class="growing-stat-label">New concepts extracted &amp; symbolized</div>
+      </div>
+      <div class="growing-stat">
+        <div class="growing-stat-num">Always</div>
+        <div class="growing-stat-label">Scrapers running continuously</div>
+      </div>
+      <div class="growing-stat">
+        <div class="growing-stat-num">Growing</div>
+        <div class="growing-stat-label">x402 API calls from bots worldwide</div>
+      </div>
+    </div>
+    <div class="fade-in fade-in-delay-2">
+      <p class="growing-desc">
+        Our autonomous scrapers crawl <strong>arXiv</strong>, <strong>GitHub</strong>, <strong>crypto whitepapers</strong>, <strong>AI research papers</strong>, and <strong>Web3 documentation</strong> — extracting emerging concepts before they have names.
+        <br><br>
+        Every concept gets a symbol. Every symbol gets an NFT. The language of the agentic economy is being written in real time — and AgentiScript is writing it.
+      </p>
+      <div class="growing-tags">
+        <span class="growing-tag">arXiv</span>
+        <span class="growing-tag">GitHub</span>
+        <span class="growing-tag">Crypto Whitepapers</span>
+        <span class="growing-tag">AI Research</span>
+        <span class="growing-tag">Web3 Docs</span>
+        <span class="growing-tag">Agent Protocols</span>
+        <span class="growing-tag">DeFi Papers</span>
+        <span class="growing-tag">XRPL Ledger</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ─── FOR DEVELOPERS ─── -->
+<section id="devs" class="section">
+  <div class="fade-in">
+    <div class="section-title gold">Built for Machines. Readable by Humans.</div>
+    <div class="section-subtitle">One fetch, one npm install, one config line. AgentiScript integrates in minutes.</div>
+  </div>
+  <div class="dev-code-block fade-in fade-in-delay-1">
+<pre><span class="comment"># Discover — free manifest, no auth</span>
+<span class="keyword">fetch</span>(<span class="string">'https://agentiscript.com/agentiscript.json'</span>)
+  .then(r => r.json())
+  .then(icons => console.log(icons.length)) <span class="comment">// 20520</span>
+
+<span class="comment"># npm</span>
+npm install agentiscript
+
+<span class="comment"># MCP — Claude Desktop config</span>
+{
+  <span class="string">"mcpServers"</span>: {
+    <span class="string">"agentiscript"</span>: { <span class="string">"command"</span>: <span class="string">"npx"</span>, <span class="string">"args"</span>: [<span class="string">"agentiscript-mcp"</span>] }
+  }
+}
+
+<span class="comment"># x402 micropayment — bot-to-bot commerce</span>
+GET /api/icons/x402-protocol
+→ HTTP 402 Payment Required
+→ Pay 0.001 XRP via XRPL Payment Channel
+→ Receive SVG. Automated. Forever.</pre>
+  </div>
+  <div class="dev-links fade-in fade-in-delay-2">
+    <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank" class="dev-link">
+      <span>⬡</span> GitHub
+    </a>
+    <a href="https://www.npmjs.com/package/agentiscript" target="_blank" class="dev-link">
+      <span>📦</span> npm
+    </a>
+    <a href="https://apify.com/claw-ai/agentiscript-icon-search" target="_blank" class="dev-link">
+      <span>🤖</span> Apify Actor
+    </a>
+    <a href="/docs/" class="dev-link">
+      <span>📖</span> Full Docs
+    </a>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- ─── PRO PACK ─── -->
+<section id="propack" class="section">
+  <div class="fade-in">
+    <div class="section-title gold">Upgrade to Pro</div>
+    <div class="section-subtitle">The free tier is genuinely free. Pro unlocks commercial use, all formats, and Figma.</div>
+  </div>
+  <div class="pro-card fade-in fade-in-delay-1">
+    <span class="pro-badge">Most Popular</span>
+    <h2>Pro Pack</h2>
+    <div class="price"><sup>$</sup>49</div>
+    <div class="price-sub">one-time payment · no subscription</div>
+    <div class="pro-features">
+      <div class="pro-feature">All 20,520 icons — SVG + PNG + WebP</div>
+      <div class="pro-feature">Commercial license</div>
+      <div class="pro-feature">Figma-ready file</div>
+      <div class="pro-feature">npm package access</div>
+      <div class="pro-feature">Priority access to new icons</div>
+      <div class="pro-feature">Schema.org integration guide</div>
+    </div>
+    <div class="pro-ctas">
+      <a href="https://buy.stripe.com/8x27sN63KbQYgCGdHifw40w" class="btn-primary">Get Pro Pack — $49 →</a>
+      <a href="/store/" class="btn-secondary">View All Plans</a>
+    </div>
+  </div>
+  <div style="max-width:1200px;margin:16px auto 0;display:grid;grid-template-columns:1fr 1fr;gap:16px">
+    <div class="pro-card-ent fade-in fade-in-delay-2">
+      <div class="bcard-label">Enterprise</div>
+      <h3 style="font-size:1.4rem;font-weight:700;color:var(--silver);margin-bottom:8px;">$499 / year</h3>
+      <p style="font-size:0.85rem;color:var(--silver-dim);margin-bottom:20px;">Unlimited team seats, custom icon requests, priority support &amp; early access.</p>
+      <a href="https://buy.stripe.com/8x29AVak0f3a4TY0Uwfw40x" class="btn-secondary" style="display:inline-block">Get Enterprise →</a>
+    </div>
+    <div class="pro-card-ent fade-in fade-in-delay-3">
+      <div class="bcard-label">XRPL NFT</div>
+      <h3 style="font-size:1.4rem;font-weight:700;color:var(--silver);margin-bottom:8px;">Own the Icon</h3>
+      <p style="font-size:0.85rem;color:var(--silver-dim);margin-bottom:20px;">Flagship NFTs · 10% royalty forever · Revenue-generating IP · XRP only</p>
+      <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank" class="btn-secondary" style="display:inline-block">Join Waitlist →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ─── FOOTER ─── -->
 <footer>
   <div class="footer-links">
-    <a href="/icons/">Icons</a>
+    <a href="/">Home</a>
+    <a href="#showcase">Icons</a>
     <a href="/store/">Pro Pack</a>
     <a href="/docs/">Docs</a>
     <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a>
+    <a href="/docs/#license">CC0 License</a>
+    <a href="/store/">Pro License</a>
   </div>
-  <p class="footer-copy">&copy; 2026 AgentiScript &mdash; CC0 Free Tier &mdash; <a href="/store/" style="color:rgba(255,255,255,0.2)">Pro License</a></p>
+  <p class="footer-copy">
+    &copy; 2026 <strong>AgentiScript</strong> &nbsp;·&nbsp; Free icons: CC0 &nbsp;·&nbsp; Commercial: <a href="/store/" style="color:var(--gold);text-decoration:none">Pro Pack $49</a>
+  </p>
 </footer>
+
 <script>
-// ── Lead capture ──────────────────────────────────────────
-document.getElementById('captureForm').addEventListener('submit',function(e){
-  e.preventDefault();
-  const email = document.getElementById('emailInput').value;
-  fetch('https://lead-form-handler.portability.workers.dev',{
-    method:'POST',headers:{'Content-Type':'application/json'},
-    body:JSON.stringify({email,source:'agentiscript',timestamp:new Date().toISOString()})
-  }).catch(()=>{});
-  document.getElementById('captureForm').style.display='none';
-  document.getElementById('successMsg').style.display='block';
-});
-
-// ── Dynamic icon loading ──────────────────────────────────
-let allIcons = [];      // full manifest (all icons, used for search)
-let commercialIcons = []; // commercial-value subset shown to humans
-const FEATURED = 48;
-
-// Curated flagship icons — actual slugs from manifest, quality-vetted
+/* ─── FLAGSHIP SLUGS ─── */
 const FLAGSHIP_SLUGS = [
-  // Core agentic/commerce
   'x402-protocol','agent-wallet','machine-to-machine-commerce','mcp-apps',
   'agentic-commerce-stack','agent-budget','agentic-economy','attention-mechanism',
-  // Multi-agent & orchestration
   'multi-agent-orchestration','computer-use-2','autoresearch','self-improving-software-factory',
   'two-tier-agent','vertical-ai','voice-agent','prompt-free-ai',
-  // Blockchain & DeFi
   'node','liquid-staking','validator-node','layer-2',
   'gas-fee','liquidity-pool','amm','bridge-cross-chain',
   'merkle-tree','wallet-crypto','oracle-problem','multichain-dao',
-  // Flare/Near ecosystem
   'attestation','enshrined-oracle','verifiable-compute','chain-signatures',
-  // Security & identity
   'zero-trust','verifiable-credential','did','cryptographic-agility',
-  // AI/ML fundamentals
   'foundation-model','frontier-model','constitutional-ai','few-shot-learning',
   'zero-shot-learning','fleet-learning','frequentist-inference','stablecoin-onramp',
-  // Near ecosystem
   'near-intents','sharding','access-keys','agent-marketplace'
 ];
 
@@ -158,166 +1536,175 @@ const QUALITY_CATEGORIES = [
   'agentic','blockchain','ai','quantum','security','llm','mcp','defi','web3','near','flare',
   'crypto','finance','economics','agent-architecture','agent-infrastructure','agent-ops',
   'agent-security','agentic-commerce','agentic-economy','agents','ai-agents','ai-engineering',
-  'ai-infrastructure','alignment','cryptography','embeddings','finance-defi','flare',
-  'governance','llm-engineering','llm-inference','multi-agent','rag','rl','security'
+  'ai-infrastructure','alignment','cryptography','embeddings','finance-defi',
+  'governance','llm-engineering','llm-inference','multi-agent','rag','rl'
 ];
 
-function isQualityIcon(icon) {
-  const name = (icon.slug || icon.name || '').toLowerCase();
-  // Only hide truly junk entries
-  const junk = ['muscle','abdomen','abscess','arris-rail','astragal','aisle','aaradcom','abnsotd','abductor'];
-  if (junk.some(j => name.includes(j))) return false;
-  if (name.startsWith('1=') || name.match(/^[a-z]{1,2}$/) || name.includes('a-physics-grounded')) return false;
-  // Hide blank icons (already in BLANK_SLUGS set)
-  if (BLANK_SLUGS.has(name)) return false;
-  return true; // show everything else
+const DISPLAY_CATS = ['all','agentic','blockchain','ai','security','economics','mcp','defi','llm','quantum','philosophy'];
+
+/* ─── NAV SCROLL ─── */
+window.addEventListener('scroll', () => {
+  document.getElementById('nav').classList.toggle('scrolled', window.scrollY > 20);
+});
+
+/* ─── MOBILE MENU ─── */
+function toggleMenu() {
+  document.getElementById('mobileMenu').classList.toggle('open');
+}
+function closeMobileMenu() {
+  document.getElementById('mobileMenu').classList.remove('open');
 }
 
-function cleanName(icon) {
-  const raw = icon.name || icon.slug || icon.id || '';
-  return raw.replace(/-/g,' ').replace(/\|.*/,'').replace(/^1=\s*/,'').slice(0,30);
-}
+/* ─── FADE IN OBSERVER ─── */
+const fadeObs = new IntersectionObserver((entries) => {
+  entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); } });
+}, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+document.querySelectorAll('.fade-in').forEach(el => fadeObs.observe(el));
 
-// Keywords that indicate a commercially valuable icon category
-const SHOW_KEYWORDS = [
-  'agentic','agent','blockchain','crypto','defi','web3','ai','artificial intelligence',
-  'quantum','zk','zero-knowledge','mcp','llm','rag','security','infrastructure',
-  'science','tech','near','flare','economics','finance','philosophy','futurism',
-  'space','defense','robot','neural','language model','vector','embedding',
-  'decentralized','dao','nft','token','wallet','oracle','protocol','layer',
-  'compute','cloud','network','identity','privacy','data','automation',
-  'intelligence','machine learning','deep learning','transformer'
-];
+/* ─── STATE ─── */
+let allIcons = [];
+let filteredIcons = [];
+let displayedCount = 48;
+let activeCategory = 'all';
+let searchQuery = '';
 
-// Keywords that mean "hide from human UI" (still served in manifest for bots)
-const HIDE_KEYWORDS = [
-  'agriculture','farming','crop','livestock','harvest','irrigat','poultry',
-  'chess','nautical','sailing','vessel','maritime',
-  'music','melody','instrument','guitar','piano','violin','drum',
-  'literary','poetry','novelist','fiction','prose',
-  'politics','government','congress','senate','parliament','election','ballot',
-  'meteorolog','weather','forecast','precipitation','typhoon','tornado','hurricane',
-  'virology','pathogen','bacterium','bacteria','fungi','fungal','parasite',
-  'aerospace mechanical','avionics','turbine blade','fuselage',
-  'muscle','abdomen','abscess','arris','astragal','aisle'
-];
+/* ─── LOAD ICONS ─── */
+async function loadIcons() {
+  try {
+    const res = await fetch('/agentiscript.json');
+    const data = await res.json();
+    const icons = Array.isArray(data) ? data : (data.icons || Object.values(data));
 
-// Categories to block unless they have a tech keyword
-const HIDE_CATEGORIES = ['architecture','general','aerospace engineering'];
+    // Prioritize quality icons
+    const qualityIcons = icons.filter(i => {
+      const cat = (i.category || '').toLowerCase();
+      return QUALITY_CATEGORIES.some(q => cat.includes(q));
+    });
+    const otherIcons = icons.filter(i => {
+      const cat = (i.category || '').toLowerCase();
+      return !QUALITY_CATEGORIES.some(q => cat.includes(q));
+    });
 
-function isCommercialIcon(icon) {
-  const cat  = (icon.category || '').toLowerCase();
-  const name = (icon.name || icon.slug || icon.concept || '').toLowerCase();
-  const combined = cat + ' ' + name;
+    // Put flagships first
+    const flagshipMap = {};
+    const flagshipSlugSet = new Set(FLAGSHIP_SLUGS);
+    qualityIcons.forEach(i => { if (flagshipSlugSet.has(i.slug || '')) flagshipMap[i.slug] = i; });
+    const flagship = FLAGSHIP_SLUGS.map(s => flagshipMap[s]).filter(Boolean);
+    const rest = qualityIcons.filter(i => !flagshipSlugSet.has(i.slug || ''));
+    allIcons = [...flagship, ...rest, ...otherIcons];
 
-  // Hard-hide noisy categories
-  const shouldHide = HIDE_KEYWORDS.some(k => combined.includes(k));
-  if (shouldHide) return false;
+    // Hero grid: first 12 flagship
+    renderHeroGrid(flagship.slice(0, 12));
 
-  // Hide names starting with '1='
-  if (name.startsWith('1=')) return false;
+    // Showcase grid
+    filterAndRender();
 
-  // Hide blocked categories unless they have a tech keyword
-  if (HIDE_CATEGORIES.includes(cat)) {
-    return SHOW_KEYWORDS.some(k => combined.includes(k));
+  } catch (err) {
+    console.warn('Could not load agentiscript.json:', err);
+    document.getElementById('iconGrid').innerHTML = '<div class="no-results">Icons loading...</div>';
   }
-
-  // Show if any commercial keyword appears
-  const shouldShow = SHOW_KEYWORDS.some(k => combined.includes(k));
-  return shouldShow;
 }
 
-function renderIcons(icons, isSearch) {
-  const grid = document.getElementById('featured-grid');
-  const countEl = document.getElementById('search-count');
-  const viewAll = document.getElementById('view-all-link');
+/* ─── HERO GRID ─── */
+function renderHeroGrid(icons) {
+  const grid = document.getElementById('heroIconGrid');
+  grid.innerHTML = icons.map(icon => {
+    const name = icon.name || icon.slug || '';
+    const cat = icon.category || '';
+    const slug = icon.slug || '';
+    const imgSrc = `/icons/svg/${slug}.svg`;
+    return `<div class="hero-icon-card">
+      <div class="hero-icon-tooltip">${name} · ${cat}</div>
+      <img src="${imgSrc}" alt="${name}" onerror="this.style.display='none';this.nextSibling.style.display='flex'" loading="lazy">
+      <div style="display:none;width:40px;height:40px;background:rgba(159,121,44,0.12);border-radius:6px;align-items:center;justify-content:center;font-size:1.2rem">⬡</div>
+      <div class="hero-icon-name">${name.length > 18 ? name.slice(0,16) + '…' : name}</div>
+    </div>`;
+  }).join('');
+}
 
-  if (icons.length === 0) {
-    grid.innerHTML = '<div class="no-results">No icons match your search.</div>';
-    countEl.textContent = 'No results';
+/* ─── CATEGORY PILLS ─── */
+function renderCatPills(categories) {
+  const pills = document.getElementById('catPills');
+  const cats = ['all', ...categories.filter(c => c !== 'all').slice(0, 10)];
+  pills.innerHTML = cats.map(cat =>
+    `<button class="cat-pill${cat === activeCategory ? ' active' : ''}" onclick="setCategory('${cat}')">${cat}</button>`
+  ).join('');
+}
+
+function setCategory(cat) {
+  activeCategory = cat;
+  displayedCount = 48;
+  document.querySelectorAll('.cat-pill').forEach(p => {
+    p.classList.toggle('active', p.textContent === cat);
+  });
+  filterAndRender();
+}
+
+/* ─── FILTER + RENDER ─── */
+function filterAndRender() {
+  filteredIcons = allIcons.filter(icon => {
+    const name = (icon.name || icon.slug || '').toLowerCase();
+    const cat = (icon.category || '').toLowerCase();
+    const matchSearch = !searchQuery || name.includes(searchQuery) || cat.includes(searchQuery);
+    const matchCat = activeCategory === 'all' || cat.includes(activeCategory);
+    return matchSearch && matchCat;
+  });
+
+  const cats = [...new Set(allIcons.map(i => (i.category || '').toLowerCase()))].filter(Boolean).sort();
+  renderCatPills(DISPLAY_CATS);
+
+  renderIconGrid();
+  updateCount();
+}
+
+function renderIconGrid() {
+  const grid = document.getElementById('iconGrid');
+  const shown = filteredIcons.slice(0, displayedCount);
+  const wrap = document.getElementById('loadMoreWrap');
+
+  if (shown.length === 0) {
+    grid.innerHTML = '<div class="no-results">No icons found. Try a different search.</div>';
+    wrap.style.display = 'none';
     return;
   }
 
-  grid.innerHTML = icons.map(icon => {
-    const id   = icon.slug || icon.id   || icon.name || '';
-    const name = cleanName(icon);
-    const cat  = icon.category || '';
+  grid.innerHTML = shown.map(icon => {
+    const name = icon.name || icon.slug || '';
+    const cat = icon.category || '';
+    const slug = icon.slug || '';
+    const imgSrc = `/icons/svg/${slug}.svg`;
     return `<div class="icon-card">
-      <div class="icon-preview">
-        <img src="/icons/${id}.svg" alt="${name}" width="40" height="40" loading="lazy" onerror="this.style.opacity='0'">
-      </div>
-      <div class="icon-name">${name}</div>
-      <div class="icon-cat">${cat}</div>
+      <img src="${imgSrc}" alt="${name}" width="44" height="44" loading="lazy" onerror="this.style.opacity='0'">
+      <div class="icon-card-name">${name.length > 22 ? name.slice(0,20) + '…' : name}</div>
+      <div class="icon-card-cat">${cat}</div>
     </div>`;
   }).join('');
 
-  if (isSearch) {
-    countEl.textContent = `${icons.length.toLocaleString()} result${icons.length === 1 ? '' : 's'}`;
-    viewAll.style.display = 'none';
-  } else {
-    countEl.textContent = icons.length < commercialIcons.length
-      ? `Showing ${icons.length} of ${commercialIcons.length.toLocaleString()} featured icons`
-      : '';
-    viewAll.style.display = '';
-  }
+  wrap.style.display = filteredIcons.length > displayedCount ? 'block' : 'none';
 }
 
-async function loadIcons() {
-  try {
-    const BLANK_SLUGS = new Set(["mazy-run","buy-short","base-pair","exclusive-focus-on-the-mind","scattering-parameters","aromaticity","qubit-encoding","pascal","section-archaeologyquarter-sectioning","voltage-doubler","amyl","signal-transductiontransduction","variable-frequency-drive","yagi-antenna","rheumatology","truncation","red-queen-hypothesis","polar-front","metathesis","value","fable","typhoon","split-phase","medical-laboratory","weighting","dreadnought","aeronomy","galactic-anticenter","outer","he-apers","internal","open-cycle","polyadic","current-to-voltage-converter","blitzkrieg","audio-signal-processing","bone-marrow","clearance","arete","digital-circuit","friend","branch-circuit","deepening","polarization-density","simul","post-keynesian-economics","debye","shovel-test-pit","renewable-energy-payments","whaleback","yard-name","equilibrium-price","pricing-science","instrument-flight-rules","k-index","scruple","1-pilaster","topkiss-theorem","unshielded-twisted-pair","archaism","feed-zone","tornado-outbreak-sequence","crown-group","rossby-number","variant","chainring","differential-geometry","magnetic-resonance-imaging-mri","phototransistor","policy-enforcement","pilot","hybrid-pulsator","central-bank","muster-drill","termparallel-circuit","theoretical-ex-rights-price","ultrabasic","downsthomson-paradox","group-of-death","1-arris","ground-cover","video-production","high-voltage-cable","okr-framework","metalimnion","nyquistshannon-sampling-theorem","captain","transfer-pricing","vultures","wide-outside-lane","hole-in-one-insurance","drift-current","zero-sum-game","frost","stroke-index","sas-eas","jewel","boot-boy","moonmoon","electrical-potential-energy","ripple","xor","flag-fall","tirade","paradox-of-flexibility","integrated-drive-generator","price-indexpaasche-and-laspeyres-price-indices","hammock","short-circuit-test","macroeconomic-regulation-and-control","ablation-cascade","termsuperconductivity","deficit-spending","restez","neutral-theory-of-molecular-evolution","toe-hook","hotbed","endogenous-growth-theory","various","twister","glossary-of-meteorology","ricci-calculus","day-out-of-days","bullet-time","subcovering","significance-level","high-voltage","utricle","p-n-junction","patetico","countercurrent-exchange","electric-charge","diurnal-variation","1-ziggurat","butterfly","nephology","vigorish-vig","nanomanipulator","inductivism","morendo","lamina","eppendorf-tube","race","1-parterre","mit-d\u00e4mpfer","quantum-wire","maunder-minimum","point-estimation","poco","tornado-watch","electrical-contact","electrical-wiring","jibboom","freshet","limit","converse","battlecruiser","scantling","brushless-dc-electric-motor","oxidant","pulse-code-modulation","cuivr\u00e9","vanish","circle","misread","variable-resistor","crew-management","rectangle","exterior","flebile","anticlimax","method","discrete-variable","1-bressummer","1-marriage-stone","copyright","alekhines-gun","thermodynamic-diagrams","antiquary","spianato","1-zaguan","he-fs","chalupa","voltage-regulation","vertical-draft","vicariance","allusion","cloak-and-dagger","war-chest","duff","oxford-movement","cow","intertropical-convergence-zone","logistic-curve","ballistic-magnetoresistance-bmr","phase-converter","displacement-current","wet-bulb-temperature","protective-relay","right-to-work-law","accomplishments","squall","interstellar-travel","lagrange-point","thermal-conduction","alzheimers-disease","shielded-twisted-pair","hexagon","piezoelectric-effect","humus","net-score","mutual-fund","generic-point","sessility","trigeminal-nerve-cranial-nerve-v","favourite","ohmmeter","ji-amari","intermediate-move","carrier-current","vivacissimo","top-kicker","stokes-theorem","downhaul","variable-capacitor","rebound-effect","transceiver","inductance","proximity-effect","intuitive-description","tephigram","1-garret","on-the-button","running-gear","reduction-to-practice","shelf-cloud","microwave-radio","cord-lock","finer-topology","nerve","soft-hail","electrical-insulation-paper","user-journey-mapping","assortative-mating","schottky-diode","fr\u00f6hlich","macroeconomic-populism","1-bossage","hydrodynamical-helicitymeteorology","closed","degree-day","pace","smith-chart","termvoltage","counterplay","global-dimming","winter-break","associates-degree","topgallant","finger-roll","visibility","see-also","specialty","mineralization","inductive-reactance","high-voltage-switchgear","visual-effects","disjoint","shprac","articulation-point","trajectory-optimization","pileus","character-displacement","radius","low-pass-filter","a-niente","biosphere","seiche","label","common-cold","1-balconet","survivorship-curve","robinson-crusoe-economy","agflation","subchaser","apprentice","paint","lumber-hooker","hadwiger","metrizablemetrisable","record-player","auxesis","1-order","complex","interference","parathyroid-glands","distich","triangle-model","partition-of-unity","mesto","panache","symbols","test-screening","schnell","hervortretend","d-block","project-management-professional","trolleybus","grass-crit","atmolysis","plaisir-grade","manpads","inventors-certificate","electrical-technologist","file","nacreous-cloud","transcranial-magnetic-stimulation-tms","duplicate","signal","corrector","applications-and-misapplications","electric-current","conning-officer","electrical-substation","rockover-move","two-body-problem","1-ashlar","class-of-accuracy-in-electrical-measurements","electric-power-conversion","dormy","academy","pipet","resting-potential","optometry","input-resistance","dummy","move","actinometer","credit-union","wheel","arrows-impossibility-theorem","mismatch-negativity-mmn","lerner-symmetry-theorem","equalize","exobiology","polyptoton","stretcher","sodar","groundway","rummage","push-switch","spoke","electrical-impedance","fairlead","frucht","pipe-down","blocking-high","1-rake","categorization","beckstroms-law","radar-cross-section","mv","characteristic-function","major-semi-axis","extract-transform-load","microstrip-antenna","rim-compact","layer-cloud","piezoelectricity","human-skeleton","fractal-mechatronic-universal-assembler","meteorite","1-mullion","transmission","absolute-age","termresistor","iron-triangle","rivalry","hard-rime","zitternd","1-galletting","vanishing-angle","moist-adiabat","management-science","naturale","1-pavilion","kelvinhelmholtz-instability","sans-presser","in-generalanchorin-general-informal-proof-tec","niente","bushfire","1-hood-mould","doubly-fed-electric-machine","gun-deck","flash-of-genius","rostows-stages-of-growth","spin-manifold","free-card","swim-head","dispersion-point","short-run","pricing","impedance","flagging","hundredweight","dream-vision","tagelied","philanthropy","fujita-pearson-scale","direct-current","digital-signal-processing","first-past-the-post","hodrickprescott-filter","type-biology","semi-preopen","free-good","mesodiplosis","oroide","environmental-science","hpa-axis","termthree-phase-electric-power","general-linear-model","business-model","quantity-supplied","terza-rima","captains-daughter","american-death-triangle","banana-belt","dry-sieving","earths-atmosphere","quality-factor","brick-and-mortar","foliation","trivialanchortrivial","cardiac-arrest","number-density","common-topics","voltage-controlled-amplifier","harmattan","lace","analog-circuit","wave-cyclone","secondary-break","star-mesh-transform","tardive-dyskinesia","state-observer","middles","epithet","topological","verifiable-rewards","pyrheliometer","mess","ac","sufficiently-nice","relatively-compact","survival-function","1-fanlight","guards","space-shuttle-programspace-shuttle","telescope","origins","marsh","prairie","sounding-balloon","schema-evolution","microstrip","green-season","forward-flank-downdraft","torpedo-net","current-source","gravitational-slingshot","maglia-rosa","bulk-cargo","physiocracy","disassemble","siemens","century-stand","millers","alexandroff-compactification","seizure","polygenic-trait","deep","electrical-wiring-regulations","righting-couple","ams-h","ceiling","central-nervous-system","human-brainbrain","current-source-inverter","sparse","stereophonic-sound","lentando","current-length","yatess-correction-for-continuity-yules-correction","informal-game","compress","monarch","resistivity","hydroelectricity","envelope-theorem","eulerian","mexican-filter","monotone","microcontroller","1invariant","equivalent-circuit","job-hunting","pyrgeometer","angle-of-light","coproduct-topology","low-noise-amplifier","cgassting-pathway","breakthrough","electric-arc","balanced","continuing-application","pezzo","metal","kaldors-facts","us-standard-atmosphere","punctured-neighbourhoodpunctured-neighborho","magnetic-quantum-number","semi-closed-game","electrical-conductivity","inductionism","square-wave","rogue-wave","scarcity","size","quadrat","dominance","episteme","thyristor","kick-off","climate","periphrasis","capacity-utilization","juxtacrine-signaling","mountain-breeze-and-valley-breeze","bop","protic","full-employment","skewness","planet","routhhurwitz-stability-criterion","leggierissimo","scherzando-scherzoso","secular-trend","economic-growth","tautochrone-curve","low-block","tour","sheet-bend","conservation-buffer","celite","rotor","1-attic","historical-school-of-economics","downflooding","brushed-dc-electric-motor","zoonosis","sunk-costs","go-motion","point-of-closure","superconducting-electric-machine","term-r","molgogger","oxygenation","jollies","civil-red-ensign","mala-in-se","transmitting-station","sounding-rocket","1-basement","current-density","capacitor-voltage-transformer","electrical-insulation","shakes","knowledge-graph-embedding","dan","rogue-planet","eclogue","nanocatalysis","whittaker-wheeze","load-management","multiplier","length-of-record","dodger","electric-displacement-field","north-node","season","floater","medical-ethics","1-prick-post","adverb","amateur","muta-in","drop-points","bulk-richardson-number","cumulus-congestus","bend","anterior-tibial-artery","controversies","harness-cask","diminishing-returns","timbre","tilted-updraft","inductive","degree","modified-fujita-scale","binary-data","chicken-bolt","flap","budget-surplus","parsec","windsonde","volumetric-flask","knee","haboob","alcuna-licenza","freighter","open-cover","length-bpp","balanced-budget","circuit-total-limitation","interior","bob","beaufort-scale","dual-polarization","hypermetrical","independent","monolith","hard-water","heave-ho","head-rail","dod","cube","equal-opportunity","ventricles","proprioceptive-sensing","humerus","inclusive-fitness","rotary-converter","inner-salt","giusto","sequence-alignment","term-mutual-inductance","1-cupola","tronco-tronca","actio","heath","term-q","electrical-resistance-and-conductance","sehr-getragen","university-wits","cart-girl","neon-sign","aerospace-architecture","substellar-object","partnership","project-management-simulators","electrical-machine","wage","sdge","aerology","school-of-salamancaeconomics","tactics","sunday-stick-or-sabbath-stick","magnetic-blowout","1-bar-stayed-girder","1-lacunar","1-cippus","cheat","good","coal-hulk","completely-t3","electrical-element","termpower-electric","termthermal-conduction","runner-runner","high-voltage-direct-current","molecular-pharming","running-light","wind-speed","barter","optic-nerve-cranial-nerve-ii","lenakaeia-supercluster","biceps","bluejackets-manual","renewable-electricity","t\u00f6rnqvist-index","discounting","time-invariant-system","1-accolade","boreal-forest","termsignal-processing","green-light","maritime","microelectronics","commodore","transcendence","drawing-thin","vas-deferens","thirlwalls-law","whistleblower-protection-in-the-united-states","inferior-good","1-chamfer","remote-racking-system","termvariable-capacitor","synchronous-circuit","sprezzatura","system-on-module","mvcc-concurrency","jumar","subbed","stereogenic-center","eddy-current","electricity-meter","weather-map","col-legno","debit-card","elinor-ostromostroms-law","clock-move","fan","restitution-creationism","carpenters-walk","1-pendentive","electric-field-gradient","forza","semi-open-file","electrical-equipment","electrical-insulator","closed-file","patzer","lightning-activity-level","salvor","cost-benefit-analysis","personal-property","micronet","1-light","ceiling-balloon","dry-punch","1-hip-roof","bridgehead-chemistry","versorium","electric-shock","weighted-sum","oc-diagram","ocean-current","immediate-injury","fiat-money","move-in","pro","wikt","adagietto","circuit-theory","gronked","cartilage","overtaking-criterion","1-enfilade","full","verism","isometry","deltoid-muscle","skiff","hematology","metal-rectifier","fixed-action-pattern","tychonoff","keeper","sober","the-ra","cup-run","cost-of-production-theory-of-value","tie-in","weather-vane","boomkin","rotary-switch","parallel-circuit","haul-bag","1-mansard-roof","industry","relaxation","colorado-low","weed","convective-available-potential-energy","carbinyl","hook-echo","adjective","polyphase-system","drizzle","service-discovery","stand-in","cryosphere","hvap-t","germ-line","red-duster","freefall","pietoso","f-p-p-scale","commerce","helicopter-flight-controls","temperateness","crow-instability","quiescent-state","hausdorff-closed","integrated-circuit","1-throating","line-echo-wave-pattern","pay-check-stub","solar-spicule","free-atmosphere","transaction-cost","flush-deck","2fundamental","palaeoethnobotany","uncoating-organism","static-var-compensator","treatments","groschs-law","soil-microbiology","discrete-time-signal","tesla-coil","glacial-motion","electronic-circuit","consensus-decision-making","ultrasound","walrass-law","convenience-sampling","white","multimeter","one-chip-rule","discretionary-income","electrical-conductor","surge-arrester","bulk-technology","stability-theory","cloud-bow","necessary-and-sufficientanchornecessary-an","negative-feedback","square","spice","thermocouple","canonicalanchorcan","smothered-mate","termseries-circuit","hamper","bleu-score","positive","well-covered","numerical-response","brow","mechanical-rectifier","absolute-magnitude","epanalepsis","budget","author","femoral-nerve","prefix-tuning","clincher","space-dust","kindling-model-of-epilepsykindling","ultra-connected","resource","critical","defense","split","hulk","sun-dog","isocolon","colligative-property","watching-brief","d-league","mora","bind","precipitable-water","full-reserve-banking","full-employment-output","cleavage","quantile","asynchronous-circuit","electrical-discharge-machining","exaggeration","signal-to-noise-ratio","angle-chasing","ecopoiesis","mains-electricity","ball-marker","atmospheric-density-rho","convert","square-rig","1-dromos","y-chromosome-microdeletion-ycm","short-fixing","1-planceer","bailer","fianchetto","faceplant","transport-economics","freezing-rain","electrical-steel","extreme-weather","humidity","roadstead","dystectic-mixture","minimum-cut","madrigal","pay-for-delay","truck","tornado-preparedness","superconductor","bivy-bag","apct-bf","electric-circuit","pulse-amplitude-modulation","puncheur","world-champion","randonn\u00e9e","kochs-arc-theorem","standard-of-living","gynoecium","gnr-technologies","the-green-paradox","nosebleed-stakes","long-term-financing","indigo-era","circuit-breaker-panel","saltwater-and-freshwater-economics","analog-signal","lay","coordination-good","line","dredger","von-k\u00e1rm\u00e1n-constant","large-entity","ball-boy","pelagic","c\u00e9dez","freezing-drizzle","concerto","1-metope","el-ni\u00f1o","radiosonde","1-triglyph","moulded-beam","current-transformer","activation-patching","gem","analog-signal-processing","cis-neptunian-object-cno","countably-locally-finite","creative-geography","shooting-schedule","superconcentrator","transmission-system-operator","diconnected","force-torque-control","mistico","point-of-order","prime-rate","docking","electric-power-research-institute","weak-ace","strength","digital-signal-controller","1-stoop","univallate","production-possibilities-curve","nanodefenses","mudslide","suave","alternate-ending","curva","telephone","radar-signal-characteristics","evaporimeter","mesonet","autumn","accessible","motor-soft-starter","verisimilitude","zipper-fall","canadian-electrical-code","engine-room","form","trowal","photometeor","accessory-cord","quantum-dots","bouts-rim\u00e9s","aerial-perspective","chapbook","man-of-the-match","productivism","out-of-phase","tornado-outbreak","inclusion-criteria","descriptor","bermuda-sloop","aka","tsunami","core-principles","dead-wake","voltage-to-current-converter","notturno","termvariable-resistor","nanohacking","rate-of-profit","mm","differential-signaling","ecozone","mood-lighting","length","sit-and-go","indiscrete-space","oudin-coil","saltatory-conduction","pathway-enrichment-analysis","williams-tube","saturated-adiabat","drawing-live","present-perfect","utterance","intersection","accidental","corsair","magnet-wire","perma","pinors","periapsis","flop","biflation","endo","seiner","winter-waterspout","hausers-law","merger-simulation","current","alternative-minimum-tax","1-atlas","comeagre","triangle-wave","rolling-vang","applications","predreadnought","command-and-controlc4istar","ivvi","paying","unplayable","fornix","psychrometry","steering","universal-bank","electric-field-intensity","archaeologist","radio-frequency","ferroelectricity","naval-programme","social-ecology","latent-diffusion","loose-cannon","anatomical-terms-of-locationmedial-and-lateral","greenhouse-effect","transil","long-run-shutdown-condition","1-lunette","acatalexis","snowspout","1-colarin","parkinsons-disease","toll-like-receptor","sectoral-balances","totally-disconnected","kedging","regular-tournament","credit-card","m\u00e4\u00dfig","superconductivity","consumer-choice","tie","lotkavolterra-equation","waggle","open-set","slow-roll","analysis","weather-watch","chain-rhyme","corporate-tax","almost-discrete","funduro","electrical-grid","lay-day","juncture","zone","target-man","hill-radius","rejection","blizzard","narratology","microscale-meteorology","lame-duck","economic-methodology","allee-effect","system-on-a-chip","bankruptcy","switchgear","batten-down-the-hatches","hypercube","mutual-exclusivity","braesss-paradox","skin","law-of-equal-liberty","returns-to-scale","floor","earth-leakage-circuit-breaker","offshore-current","lodging","electrical-resistance","trawler","immediatism","nanarchy","radiation-fog","single-suckler-herd","1-arcade","homomorphic-equivalence","canopy","orbicularis-oris-muscle","synchysis","photoelectric-effect","induced","okta","institute-of-electrical-and-electronics-engineers","vulva","electrical-engineering","series-circuit","mesoscale-convective-vortex","tweendeck-space","electric-field","eye","chalk-bag","unit-of-account","land-lubber","calm","harden-up","tandem","economic-cost","pastourelle","xenon","1-volute","superman","dutch-tilt","extrasolar-planet","kop","dawn","inrush-current","electricity","varicap","smartdust","augmenting","mortgage","triple-rhyme","flood","raft-consensus-algorithm","slargando-or-slentando","electric-motor","barometric-pressure","closed-system","fusta","boiler-room","speronara","galactic-corona","even","convexity-in-economics","electrical-measurements","moisture","polyploid","isometric-isomorphism","homeomorphism","acracy","false-peak","international-standard-atmosphere","dowker-space","boom-vang","1-undercroft","diabetes-mellitus","sharp","money","normal-hausdorff","ubi-sunt","mett-tsl","1-cuneus","discrete-metric","hors-cat\u00e9gorie","continuous-signal","1map","dusk","jet-stream","1-area","derived-set","col","zonda-wind","electrical-load","psychiatry","1-transom","ozone","march-equinox","hows-your-head","towing","backward-disadvantage","tertiary-economic-activity","elliott-wave-theory","1-boutant","tableau-\u00e9conomique","triac","voltage","homogamy","polacca","gustoso","leeway","dyskinesia","continuous-variable","discontinuity","chunk","lach\u00e9","hygrometer","q-school","busted","magnetic-moment","radiatus","electrical-code","price-index","open-couplet","cold-core-low","kaldors-growth-laws","frontal-cyclone","turbulence","command-economy","uniform-space","big-blind-special","diameter","fetch","full-load-current","brachial-veins","unurned","deforestation","fustian","reachable","1-foil","data","ram","screening-mechanism","first-team","timber-drogher","adjacent","sidereal-time","dielectric","noreaster","ottava","bose-einstein-condensate","dalton","nitrous-oxide","biogeochemistry","short-accent","in-casu","sand-wedge","manager","by-example","prospect-theory","opportunity-cost","escort-carrier","tetrode","forex","marine-energy","h-closed","middle-passage","la-ni\u00f1a","hydrometeorology","conceit","packet","pm-win-t","devil","stornello","appendix","electric-power-transmission","economic-shortage","cucoloris","soil","clearly-can-be-easily-shown","calore","c4isr","jacksonian-seizure","soft","polar-climate","critique-of-work","radical-cheerleading","quartered","third-mate","electric-power","paleoclimatology","cline-biology","great-moderation","subbasis","center-of-effort","serratus-posterior-inferior-muscle","rational-pricing","slow-motion","gustnado","assembly-station","boxjenkins-method","acne","serial-communication","distance-measuring-equipment","silicon-valley","doldrums","breakdown-voltage","cyclical-unemployment","chi-squared-test","semi-open","three-act-structurestructure","alla-breve","flight-dynamics","overhaul","nominal-impedance","domain-driven-design","property","savanna","quota-sampling","systemic-lupus-erythematosus","light-year","rutter","brig","euphony","transmitter","electrical-polarity","miniature","screen","total-cost","electricity-pylon","parquet-compression","zodiacal-light","drag-light","weather-satellite","joint-resolution","trembler-coil","vcris","wellers-theorem","spindrift","electric-battery","local-tax","xerophyte","tutti","dependence","road-rash","afflatus","free-soviets","multigerm-seed","petersen","compensating-differential","kirchhoffs-circuit-laws","cat","ordinary-good","aposematism","economic-base-analysis","elision","1-coffer","odds","homogeneous","spectrum","zud","saltando","outgroup-cladistics","1-corbiesteps","a-capriccio","corporation","rigor-rigouran","capacitive-reactance","nonlinear-control","limnology","royal-cards","1-shiki-i","ventral-horn","wiktionarymigration","jet-streak","magnetic-constant","facial-nerve-cranial-nerve-vii","high-intensity-discharge-lamp","passivity","geodesic","bounce-back","drop-a-dime","crag","electrical-cable","urology","pd","slow-play","last-universal-common-ancestor","batten","extensor-pollicis-longus-muscle","square-bracket","magnetic-flux-density","rine","laissez-vibrer-lv","mesosphere","back-of-the-net","heterozygous","ecotope","upcard","national-income-and-product-accounts","rack","tachometer","weather-reconnaissance","ecosynthesis","clench","electric-potential","1mathematics","sampling-error","anti-triangle","sunshine-recorder","national-electrical-code","participatory-economics","software-defined-networking","water-vapor","microwave-oven","lc-circuit","fibromyalgia","long-take","lightering","berth","1-gadrooning","complete-intuition","fast-break","planetary-wave","conduction-velocity","debtor","direct-circulation","electric-multiple-unit","sun-dried","annotation","ltp-induction","hvdc-technology","triangulation","elementary-event","jetstreamlow-level-jets","temperature-inversion","microelectromechanical-systems","lek-mating","self-assembly","employee-benefits","cat-fcs","hyperarc","electrical-and-electronics-engineering","bl-t","level-of-effort","gold-standard","gallery-forest","set","oversampling","brail-net","stem","club-good","tonic-clonic-seizure","fischerandom","termresistivity","joker","expander-cycle","simply-connected","1-squinch","anemometer","occupancy-network","chest-harness","mainstream-economics","heart","pedale-or-ped","kolmogorov"]);
-    const iconsRes = await fetch('/agentiscript.json');
-    const data = await iconsRes.json();
-    allIcons = (data.icons || []).filter(icon => {
-      const n = (icon.slug || icon.name || '').toLowerCase();
-      // Only filter truly blank or junk entries
-      if (BLANK_SLUGS.has(n)) return false;
-      if (n.startsWith('1=') || n.match(/^[a-z]{1,2}$/) || n.includes('a-physics-grounded')) return false;
-      return true;
-    });
-
-    // Filter to quality icons for human display
-    commercialIcons = allIcons.filter(isQualityIcon);
-
-    // Stat counter shows commercial count; full catalog stays in manifest for bots
-    document.getElementById('icon-count').textContent = commercialIcons.length.toLocaleString();
-
-    // Count unique categories in commercial subset
-    const cats = new Set(commercialIcons.map(i => i.category).filter(Boolean));
-    document.getElementById('cat-count').textContent = cats.size || '—';
-
-    // Build featured set: flagship icons first (exact slug match), then quality rest
-    const flagship = FLAGSHIP_SLUGS
-      .map(slug => commercialIcons.find(i => (i.slug || '') === slug))
-      .filter(Boolean);
-    const flagshipSlugs = new Set(flagship.map(i => i.slug || ''));
-    const rest = commercialIcons.filter(i => !flagshipSlugs.has(i.slug || ''));
-    const featured = [...flagship, ...rest].slice(0, FEATURED);
-
-    // Render featured commercial icons
-    renderIcons(featured, false);
-
-    // Wire up search (searches commercial subset)
-    const searchEl = document.getElementById('icon-search');
-    searchEl.addEventListener('input', function() {
-      const q = this.value.trim().toLowerCase();
-      if (!q) {
-        renderIcons(featured, false);
-        return;
-      }
-      const hits = commercialIcons.filter(icon =>
-        (icon.name || icon.concept || '').toLowerCase().includes(q) ||
-        (icon.category || '').toLowerCase().includes(q) ||
-        (icon.description || icon.definition || '').toLowerCase().includes(q) ||
-        (icon.tags || []).some(t => t.toLowerCase().includes(q))
-      );
-      renderIcons(hits.slice(0, 120), true);
-    });
-  } catch(err) {
-    console.error('Failed to load icons manifest:', err);
-    document.getElementById('icon-count').textContent = '—';
-  }
+function loadMore() {
+  displayedCount += 48;
+  renderIconGrid();
+  updateCount();
 }
 
+function updateCount() {
+  const el = document.getElementById('searchCount');
+  const shown = Math.min(displayedCount, filteredIcons.length);
+  el.textContent = filteredIcons.length > 0
+    ? `Showing ${shown.toLocaleString()} of ${filteredIcons.length.toLocaleString()} icons`
+    : '';
+}
+
+/* ─── SEARCH ─── */
+document.getElementById('searchInput').addEventListener('input', function() {
+  searchQuery = this.value.toLowerCase().trim();
+  displayedCount = 48;
+  filterAndRender();
+});
+
+/* ─── INIT ─── */
 loadIcons();
 </script>
 </body>
