@@ -197,8 +197,14 @@ body {
   content: '';
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse 80% 60% at 50% 30%, rgba(159,121,44,0.08) 0%, transparent 70%);
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, rgba(159,121,44,0.12) 0%, transparent 70%);
   pointer-events: none;
+  animation: hero-shimmer 6s ease-in-out infinite;
+}
+@keyframes hero-shimmer {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  33% { opacity: 0.7; transform: scale(1.08) translateY(-10px); }
+  66% { opacity: 0.9; transform: scale(0.95) translateY(5px); }
 }
 #hero::after {
   content: '';
@@ -278,9 +284,10 @@ body {
   padding: 14px 28px;
   border-radius: 8px;
   text-decoration: none;
-  transition: background 0.2s, transform 0.2s;
+  transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 0 20px rgba(159,121,44,0.4);
 }
-.btn-primary:hover { background: var(--gold-light); transform: translateY(-2px); }
+.btn-primary:hover { background: var(--gold-light); transform: translateY(-2px); box-shadow: 0 0 32px rgba(159,121,44,0.65); }
 .btn-secondary {
   display: inline-flex;
   align-items: center;
@@ -331,7 +338,7 @@ body {
 .hero-icon-grid {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 12px;
+  gap: 16px;
   max-width: 800px;
   width: 100%;
   position: relative;
@@ -341,7 +348,7 @@ body {
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 16px 8px 12px;
+  padding: 18px 10px 14px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -372,8 +379,8 @@ body {
   background: rgba(159,121,44,0.06);
 }
 .hero-icon-card img {
-  width: 40px;
-  height: 40px;
+  width: 48px;
+  height: 48px;
 }
 .hero-icon-name {
   font-size: 0.62rem;
@@ -412,7 +419,7 @@ body {
   background: var(--strip);
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
-  padding: 14px 0;
+  padding: 18px 0;
   overflow: hidden;
   white-space: nowrap;
 }
@@ -424,10 +431,11 @@ body {
 .marquee-text {
   display: inline-block;
   color: var(--gold);
-  font-size: 0.85rem;
+  font-size: 1rem;
   font-weight: 500;
-  letter-spacing: 0.05em;
-  padding-right: 40px;
+  letter-spacing: 0.08em;
+  padding-right: 56px;
+  text-shadow: 0 0 12px rgba(159,121,44,0.4);
 }
 @keyframes marquee-scroll {
   0% { transform: translateX(0); }
@@ -475,13 +483,15 @@ body {
   border: 1px solid var(--border);
   border-radius: 16px;
   padding: 32px 28px;
-  transition: border-color 0.3s, background 0.3s;
+  transition: border-color 0.3s, background 0.3s, transform 0.3s, box-shadow 0.3s;
   position: relative;
   overflow: hidden;
 }
 .bcard:hover {
   border-color: rgba(159,121,44,0.3);
   background: rgba(255,255,255,0.04);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.3);
 }
 .bcard-A { grid-column: span 5; grid-row: span 2; }
 .bcard-B { grid-column: span 4; }
@@ -754,6 +764,7 @@ body {
   border-color: var(--gold);
   background: rgba(159,121,44,0.04);
   transform: translateY(-2px);
+  box-shadow: inset 0 0 20px rgba(159,121,44,0.08), 0 0 12px rgba(159,121,44,0.15);
 }
 .icon-card img {
   width: 44px;
@@ -1083,7 +1094,8 @@ footer {
 /* ─── DIVIDER ─── */
 .divider {
   border: none;
-  border-top: 1px solid var(--border);
+  border-top: 1px solid rgba(159,121,44,0.25);
+  box-shadow: 0 0 8px rgba(159,121,44,0.1);
   margin: 0;
 }
 
@@ -1099,6 +1111,46 @@ footer {
   transition: opacity 0.3s;
 }
 .bcard:hover::before { opacity: 1; }
+
+/* ─── MINTING BADGE ─── */
+.minting-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(135deg, rgba(159,121,44,0.18), rgba(159,121,44,0.08));
+  border: 1px solid rgba(159,121,44,0.5);
+  color: var(--gold-light);
+  font-size: 0.88rem;
+  font-weight: 700;
+  padding: 10px 22px;
+  border-radius: 100px;
+  letter-spacing: 0.04em;
+  box-shadow: 0 0 20px rgba(159,121,44,0.2);
+  animation: minting-pulse 2.5s ease-in-out infinite;
+}
+@keyframes minting-pulse {
+  0%, 100% { box-shadow: 0 0 20px rgba(159,121,44,0.2); border-color: rgba(159,121,44,0.5); }
+  50% { box-shadow: 0 0 36px rgba(159,121,44,0.5); border-color: rgba(196,163,90,0.8); }
+}
+.minting-badge-dot {
+  width: 8px;
+  height: 8px;
+  background: var(--gold-light);
+  border-radius: 50%;
+  animation: pulse-dot 1.5s ease-in-out infinite;
+  flex-shrink: 0;
+}
+
+/* ─── CODE SYNTAX HIGHLIGHTING ─── */
+.dev-code-block pre .comment { color: rgba(136,136,153,0.55); font-style: italic; }
+.dev-code-block pre .keyword { color: var(--gold-light); font-weight: 700; }
+.dev-code-block pre .string { color: #C0C0C0; }
+.dev-code-block pre .value { color: #a8d8a8; }
+.dev-code-block pre .method { color: #89CFF0; }
+.dev-code-block pre .number { color: #FFB347; }
+
+/* ─── COUNTER ANIMATION ─── */
+.hero-stat-num[data-target] { transition: none; }
 </style>
 </head>
 <body>
@@ -1143,11 +1195,11 @@ footer {
   </div>
   <div class="hero-stats fade-in fade-in-delay-4">
     <div class="hero-stat">
-      <div class="hero-stat-num">20,520</div>
+      <div class="hero-stat-num" data-target="20520">20,520</div>
       <div class="hero-stat-label">Icons</div>
     </div>
     <div class="hero-stat">
-      <div class="hero-stat-num">500</div>
+      <div class="hero-stat-num" data-target="500">500</div>
       <div class="hero-stat-label">Flagships</div>
     </div>
     <div class="hero-stat">
@@ -1354,9 +1406,9 @@ footer {
     </div>
   </div>
   <div class="nft-cta-row fade-in">
-    <span class="pill-badge">
-      <span class="pill-badge-dot"></span>
-      Flagship Collection — Minting Soon
+    <span class="minting-badge">
+      <span class="minting-badge-dot"></span>
+      ✦ Flagship Collection — Minting Soon
     </span>
     <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank" class="nft-link">
       Get notified on GitHub →
@@ -1706,6 +1758,34 @@ document.getElementById('searchInput').addEventListener('input', function() {
 
 /* ─── INIT ─── */
 loadIcons();
+
+/* ─── COUNT-UP ANIMATION ─── */
+function animateCounter(el) {
+  const target = parseInt(el.dataset.target, 10);
+  if (isNaN(target)) return;
+  const duration = 1600;
+  const start = performance.now();
+  const startVal = 0;
+  const suffix = el.textContent.replace(/[\d,]/g, '').trim();
+  function step(now) {
+    const elapsed = now - start;
+    const progress = Math.min(elapsed / duration, 1);
+    const ease = 1 - Math.pow(1 - progress, 3);
+    const current = Math.round(startVal + (target - startVal) * ease);
+    el.textContent = current.toLocaleString() + (suffix ? ' ' + suffix : '');
+    if (progress < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
+}
+const counterObs = new IntersectionObserver((entries) => {
+  entries.forEach(e => {
+    if (e.isIntersecting && !e.target.dataset.counted) {
+      e.target.dataset.counted = '1';
+      animateCounter(e.target);
+    }
+  });
+}, { threshold: 0.5 });
+document.querySelectorAll('.hero-stat-num[data-target]').forEach(el => counterObs.observe(el));
 </script>
 </body>
 </html>
