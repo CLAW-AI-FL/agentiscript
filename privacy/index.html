@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Privacy Policy — AgentiScript</title>
+<link rel="icon" href="data:,">
+<meta name="description" content="AgentiScript Privacy Policy — what we collect, what we don't, no tracking, no data sold.">
+<link rel="canonical" href="https://agentiscript.com/privacy/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: #060610;
+  color: #fff;
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  min-height: 100vh;
+}
+:root {
+  --bg: #060610;
+  --bg-card: rgba(255,255,255,0.03);
+  --border: rgba(255,255,255,0.08);
+  --gold: #9F792C;
+  --gold-light: #C4A35A;
+  --silver: #C0C0C0;
+  --silver-dim: #888899;
+}
+
+/* NAV */
+#nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 1000;
+  padding: 0 40px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(6,6,16,0.92);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+}
+.nav-logo {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  list-style: none;
+}
+.nav-links a {
+  color: var(--silver-dim);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.nav-links a:hover { color: var(--silver); }
+.nav-cta {
+  background: var(--gold);
+  color: #000 !important;
+  padding: 8px 20px;
+  border-radius: 6px;
+  font-weight: 700 !important;
+  font-size: 0.85rem !important;
+}
+@media (max-width: 768px) {
+  #nav { padding: 0 20px; }
+  .nav-links { display: none; }
+}
+
+/* MAIN CONTENT */
+.legal-wrap {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 100px 40px 80px;
+}
+.legal-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(192,192,192,0.08);
+  border: 1px solid rgba(192,192,192,0.2);
+  color: var(--silver);
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 5px 14px;
+  border-radius: 100px;
+  margin-bottom: 24px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.legal-title {
+  font-size: clamp(32px, 5vw, 52px);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  background: linear-gradient(135deg, var(--gold-light) 0%, var(--silver) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 8px;
+}
+.legal-effective {
+  font-size: 0.85rem;
+  color: var(--silver-dim);
+  margin-bottom: 48px;
+}
+.legal-section {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--border);
+}
+.legal-section:last-child { border-bottom: none; }
+.legal-section h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  margin-bottom: 16px;
+  letter-spacing: -0.01em;
+}
+.legal-section p {
+  font-size: 0.92rem;
+  color: var(--silver-dim);
+  line-height: 1.75;
+  margin-bottom: 12px;
+}
+.legal-section p:last-child { margin-bottom: 0; }
+.legal-section ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 8px;
+}
+.legal-section li {
+  font-size: 0.92rem;
+  color: var(--silver-dim);
+  line-height: 1.65;
+  padding-left: 20px;
+  position: relative;
+}
+.legal-section li::before {
+  content: '•';
+  color: var(--gold);
+  position: absolute;
+  left: 0;
+}
+.legal-section strong { color: var(--silver); }
+
+/* Callout boxes */
+.privacy-callout {
+  background: rgba(159,121,44,0.07);
+  border: 1px solid rgba(159,121,44,0.25);
+  border-radius: 10px;
+  padding: 18px 22px;
+  margin: 16px 0;
+}
+.privacy-callout p {
+  color: var(--silver);
+  margin: 0;
+  font-weight: 500;
+}
+
+/* FOOTER */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 32px 40px;
+  text-align: center;
+}
+.footer-links {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.footer-links a {
+  color: var(--silver-dim);
+  text-decoration: none;
+  font-size: 0.82rem;
+  transition: color 0.2s;
+}
+.footer-links a:hover { color: var(--gold-light); }
+.footer-copy {
+  font-size: 0.75rem;
+  color: rgba(136,136,153,0.5);
+}
+.footer-copy strong { color: var(--silver-dim); }
+
+@media (max-width: 600px) {
+  .legal-wrap { padding: 88px 20px 60px; }
+}
+</style>
+</head>
+<body>
+
+<nav id="nav">
+  <a href="/" class="nav-logo">AgentiScript</a>
+  <ul class="nav-links">
+    <li><a href="/#showcase">Icons</a></li>
+    <li><a href="/#propack">Pro Pack</a></li>
+    <li><a href="/docs/">Docs</a></li>
+    <li><a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a></li>
+    <li><a href="/store/" class="nav-cta">Get Pro Pack →</a></li>
+  </ul>
+</nav>
+
+<main class="legal-wrap">
+  <div class="legal-badge">Legal</div>
+  <h1 class="legal-title">Privacy Policy</h1>
+  <p class="legal-effective">Effective Date: July 1, 2026</p>
+
+  <div class="legal-section">
+    <h2>Our Commitment</h2>
+    <div class="privacy-callout">
+      <p>AgentiScript is built with minimal data collection by design. We do not collect personal information, sell data, or run third-party advertising trackers. This is not marketing language — it is how the system is built.</p>
+    </div>
+    <p>This Privacy Policy explains what information we collect, how we use it, and what we do not do with it. By using AgentiScript, you agree to the practices described here.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>1. What We Collect</h2>
+    <p>We collect only the minimum necessary for the service to operate:</p>
+    <ul>
+      <li><strong>GitHub stars and public repository data</strong> — This is public information visible to anyone on GitHub. We do not control GitHub's data collection; see GitHub's Privacy Policy for details.</li>
+      <li><strong>Stripe payment information</strong> — When you purchase a Pro Pack or Enterprise license, payment is processed by <strong>Stripe, Inc.</strong> AgentiScript receives only a purchase confirmation and license entitlement. We do not store your credit card number, billing address, or other payment details. See <a href="https://stripe.com/privacy" target="_blank" rel="noopener" style="color:var(--gold-light)">Stripe's Privacy Policy</a>.</li>
+      <li><strong>x402 API call logs</strong> — API requests to our micropayment endpoint are logged anonymously for operational monitoring (rate limiting, abuse prevention, uptime tracking). Logs contain request timestamps, icon slugs requested, and payment confirmation hashes — no personally identifiable information.</li>
+    </ul>
+  </div>
+
+  <div class="legal-section">
+    <h2>2. What We Do NOT Collect</h2>
+    <p>We explicitly do not collect:</p>
+    <ul>
+      <li>Email addresses or contact information (unless you voluntarily contact us via GitHub)</li>
+      <li>Personal names, physical addresses, or phone numbers</li>
+      <li>Browsing behavior, session recordings, or heatmaps</li>
+      <li>Device fingerprints or cross-site tracking data</li>
+      <li>IP addresses stored beyond transient request processing</li>
+    </ul>
+  </div>
+
+  <div class="legal-section">
+    <h2>3. Cookies</h2>
+    <p>AgentiScript does not use cookies for tracking, analytics, or advertising.</p>
+    <p>The only cookies that may be set are those introduced by <strong>Stripe's checkout flow</strong> when you initiate a purchase. These cookies are controlled by Stripe and are limited to the checkout session. They are not used by AgentiScript for any purpose once the transaction is complete.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>4. Third-Party Services</h2>
+    <p>We use a minimal set of third-party services:</p>
+    <ul>
+      <li><strong>Stripe</strong> — Payment processing. Governed by Stripe's own Privacy Policy.</li>
+      <li><strong>GitHub</strong> — Source hosting and community interaction. Governed by GitHub's Privacy Policy.</li>
+      <li><strong>Cloudflare</strong> — CDN and hosting. Cloudflare may process request metadata in transit per their standard infrastructure policies.</li>
+      <li><strong>Google Fonts</strong> — Font delivery (Space Grotesk). Font requests are made to Google's servers.</li>
+    </ul>
+    <p>We do not use Google Analytics, Facebook Pixel, or any behavioral advertising network.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>5. XRPL Blockchain Transactions</h2>
+    <p>The XRP Ledger is a <strong>public, permissionless blockchain</strong>. All XRPL transactions — including NFT purchases, transfers, and x402 micropayments — are recorded permanently and publicly on the ledger. This is a fundamental property of the technology, not a choice made by AgentiScript.</p>
+    <p>If you purchase an AgentiScript NFT or use the x402 API with an XRPL wallet, your wallet address and transaction history will be visible on the public ledger. AgentiScript does not control or operate the XRP Ledger.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>6. Data Retention</h2>
+    <p>Anonymous API logs are retained for up to 90 days for operational purposes, then deleted. We do not retain payment data — that is held by Stripe per their retention policies.</p>
+    <p>Because AgentiScript does not collect personal data, there is no personal data to delete. If you have questions about data associated with a GitHub interaction, contact GitHub directly.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>7. Data Sales &amp; Sharing</h2>
+    <p><strong>We do not sell your data.</strong> We do not share data with advertisers, data brokers, or marketing platforms. The only data sharing that occurs is with Stripe for payment processing and Cloudflare for content delivery, as described above.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>8. Children's Privacy</h2>
+    <p>AgentiScript is not directed at children under 13 years of age. We do not knowingly collect information from children. If you believe a child has provided information, contact us via GitHub and we will address it promptly.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>9. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Changes will be reflected by an updated effective date on this page. We encourage you to review this page periodically.</p>
+  </div>
+
+  <div class="legal-section">
+    <h2>10. Contact</h2>
+    <p>For privacy-related questions or concerns, open an issue on our GitHub repository:</p>
+    <p><a href="https://github.com/CLAW-AI-FL/agentiscript/issues" target="_blank" style="color:var(--gold-light);text-decoration:none;font-weight:600">github.com/CLAW-AI-FL/agentiscript/issues →</a></p>
+  </div>
+</main>
+
+<footer>
+  <div class="footer-links">
+    <a href="/">Home</a>
+    <a href="/store/">Pro Pack</a>
+    <a href="/docs/">Docs</a>
+    <a href="/terms/">Terms</a>
+    <a href="/privacy/">Privacy</a>
+    <a href="/disclaimer/">Disclaimer</a>
+    <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a>
+  </div>
+  <p class="footer-copy">&copy; 2026 <strong>AgentiScript</strong> &nbsp;·&nbsp; No tracking. No data sold.</p>
+</footer>
+
+</body>
+</html>
