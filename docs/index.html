@@ -1,36 +1,117 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Docs — AgentiScript</title>
-<style>*{box-sizing:border-box;margin:0;padding:0}body{background:#000;color:#fff;font-family:system-ui,sans-serif}nav{display:flex;gap:20px;justify-content:center;padding:16px;border-bottom:1px solid rgba(255,255,255,0.06);flex-wrap:wrap}nav a{color:rgba(255,255,255,0.5);text-decoration:none;font-size:0.85rem}nav a:hover{color:#9F792C}.content{max-width:800px;margin:0 auto;padding:40px 24px}h1{color:#9F792C;font-size:2rem;margin-bottom:8px}h2{color:#9F792C;font-size:1.2rem;margin:32px 0 12px}p,li{color:rgba(255,255,255,0.7);font-size:0.9rem;line-height:1.7;margin-bottom:8px}pre{background:#0a0a0a;border:1px solid rgba(159,121,44,0.2);border-radius:6px;padding:16px;overflow-x:auto;margin:12px 0}code{color:#9F792C;font-size:0.85rem;font-family:monospace}.tag{display:inline-block;background:rgba(159,121,44,0.15);color:#9F792C;font-size:0.7rem;padding:2px 8px;border-radius:4px;margin:2px}footer{padding:32px;text-align:center;color:rgba(255,255,255,0.2);font-size:0.75rem;border-top:1px solid rgba(255,255,255,0.06);margin-top:40px}</style></head>
+<link rel="canonical" href="https://agentiscript.com/docs/">
+<meta name="description" content="AgentiScript documentation: 20,520 icons, free manifest, Pro Pack, x402 micropayment API, npm package, and MCP server.">
+<style>*{box-sizing:border-box;margin:0;padding:0}body{background:#0a0a0a;color:#fff;font-family:system-ui,sans-serif}nav{display:flex;gap:20px;justify-content:center;padding:16px;border-bottom:1px solid rgba(192,192,192,0.08);flex-wrap:wrap}nav a{color:rgba(192,192,192,0.55);text-decoration:none;font-size:0.85rem}nav a:hover{color:#9F792C}.content{max-width:800px;margin:0 auto;padding:40px 24px}h1{color:#9F792C;font-size:2rem;margin-bottom:8px}h2{color:#9F792C;font-size:1.2rem;margin:32px 0 12px}p,li{color:rgba(255,255,255,0.7);font-size:0.9rem;line-height:1.7;margin-bottom:8px}ul{margin-left:20px;margin-bottom:12px}pre{background:#000;border:1px solid rgba(159,121,44,0.2);border-radius:6px;padding:16px;overflow-x:auto;margin:12px 0}code{color:#9F792C;font-size:0.85rem;font-family:monospace}.tag{display:inline-block;background:rgba(159,121,44,0.15);color:#9F792C;font-size:0.7rem;padding:2px 8px;border-radius:4px;margin:2px}.badge{display:inline-block;background:rgba(192,192,192,0.1);border:1px solid rgba(192,192,192,0.2);color:#C0C0C0;font-size:0.72rem;padding:3px 10px;border-radius:20px;margin:0 4px 8px 0}.highlight-box{background:rgba(159,121,44,0.08);border:1px solid rgba(159,121,44,0.25);border-radius:10px;padding:20px 24px;margin:20px 0}footer{padding:32px;text-align:center;color:rgba(255,255,255,0.2);font-size:0.75rem;border-top:1px solid rgba(255,255,255,0.06);margin-top:40px}</style></head>
 <body>
-<nav><a href="/">Home</a><a href="/icons/">Icons</a><a href="/store/">Pro Pack</a><a href="/docs/">Docs</a><a href="/submit/">Submit</a></nav>
+<nav><a href="/">Home</a><a href="/icons/">Icons</a><a href="/store/">Pro Pack</a><a href="/docs/">Docs</a><a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a></nav>
 <div class="content">
-<h1>Documentation</h1>
-<p>AgentiScript is a free, open-source SVG icon system. Every icon ships with a JSON metadata file for machine consumption.</p>
+<h1>AgentiScript Documentation</h1>
+<p>AgentiScript is <strong>the visual language of the agentic economy</strong> — a free, open-source SVG icon system purpose-built for AI agents, autonomous systems, and the concepts that power them.</p>
+<p>With <strong>20,520 icons</strong> spanning blockchain, DeFi, AI agents, MCP, cryptography, agentic commerce, and beyond, AgentiScript gives the agentic economy its first shared visual vocabulary.</p>
+
+<div class="highlight-box">
+  <p><span class="badge">Free Tier</span> <span class="badge">Pro Pack $49</span> <span class="badge">x402 API</span> <span class="badge">npm</span> <span class="badge">MCP</span></p>
+</div>
+
+<h2>What AgentiScript Is</h2>
+<ul>
+<li>20,520 SVG icons — every concept the agentic economy speaks but cannot show</li>
+<li>Machine-readable manifest at <code>agentiscript.com/agentiscript.json</code></li>
+<li>Bot-to-bot micropayment API (x402 / XRPL)</li>
+<li>npm package and built-in MCP server for Claude Desktop</li>
+<li>Open source on GitHub — CC0 free tier, commercial Pro Pack</li>
+</ul>
+
+<h2>Free Tier — agentiscript.json Manifest</h2>
+<p>The master catalog is a single machine-readable JSON file — free forever for personal and research use.</p>
+<pre><code>fetch("https://agentiscript.com/agentiscript.json")
+  .then(r =&gt; r.json())
+  .then(data =&gt; console.log(data.total, "icons available"));</code></pre>
+<p>Each icon entry contains: <code>slug</code>, <code>concept</code>, <code>definition</code>, <code>category</code>, <code>tags</code>, and <code>svg</code> path.</p>
+
 <h2>HTML Usage</h2>
 <pre><code>&lt;img src="https://agentiscript.com/icons/agentic-loop.svg" alt="Agentic Loop" width="24" height="24"&gt;</code></pre>
+
 <h2>CSS Background</h2>
 <pre><code>.agentic-loop {
   background-image: url(https://agentiscript.com/icons/agentic-loop.svg);
   background-size: contain;
   width: 24px; height: 24px;
 }</code></pre>
-<h2>React / npm</h2>
+
+<h2>npm Package</h2>
 <pre><code>npm install agentiscript
 
 import { AgenticLoop } from "agentiscript";
 
 &lt;AgenticLoop size={24} color="#9F792C" /&gt;</code></pre>
-<h2>JSON Metadata</h2>
-<p>Every icon has a corresponding .json file:</p>
+
+<h2>MCP Server (Claude Desktop)</h2>
+<p>AgentiScript ships with a built-in MCP server — compatible with Claude Desktop and any MCP-aware agent runtime.</p>
+<pre><code>{
+  "mcpServers": {
+    "agentiscript": {
+      "command": "npx",
+      "args": ["-y", "agentiscript", "--mcp"]
+    }
+  }
+}</code></pre>
+<p>Once connected, Claude can search icons, fetch SVGs, and retrieve structured metadata — no manual API calls needed.</p>
+
+<h2>x402 Micropayment API</h2>
+<p>AgentiScript's x402 API enables <strong>bot-to-bot autonomous payments</strong> — agents can fetch commercial icons and pay $0.001 per icon in XRP, without human intervention.</p>
+<pre><code>GET https://agentiscript-x402.portability.workers.dev/api/icons/{slug}</code></pre>
+<p><strong>Flow:</strong></p>
+<ol style="margin-left:20px;margin-bottom:12px">
+<li style="padding:4px 0;color:rgba(255,255,255,0.7);font-size:0.9rem">Agent requests icon → receives <code>HTTP 402 Payment Required</code></li>
+<li style="padding:4px 0;color:rgba(255,255,255,0.7);font-size:0.9rem">Response body contains XRPL payment details (address, amount in XRP)</li>
+<li style="padding:4px 0;color:rgba(255,255,255,0.7);font-size:0.9rem">Agent submits XRP micropayment on the XRPL ledger</li>
+<li style="padding:4px 0;color:rgba(255,255,255,0.7);font-size:0.9rem">Agent re-requests with payment proof → receives SVG icon</li>
+</ol>
+<pre><code># Example 402 response body:
+{
+  "x402": true,
+  "network": "xrpl",
+  "payTo": "rAgentiScript...",
+  "amountXRP": "0.001",
+  "memo": "icon:x402-protocol"
+}</code></pre>
+<p>This is the first commercial icon system designed for autonomous agent wallets — no credit cards, no API keys, just XRP.</p>
+
+<h2>Pro Pack — $49</h2>
+<p>All commercial icons. SVG + JSON. Use in any product, any platform.</p>
+<ul>
+<li>All 5,700+ commercially-labeled icons, SVG + PNG + WebP</li>
+<li>Perpetual commercial license</li>
+<li>Figma-ready file</li>
+<li>npm package access</li>
+<li>Schema.org integration guide</li>
+</ul>
+<p><a href="/store/" style="color:#9F792C">Buy Pro Pack ($49) →</a></p>
+
+<h2>How Bots Use AgentiScript</h2>
+<ul>
+<li>Every icon ships with structured JSON metadata parseable by any LLM or crawler</li>
+<li>Schema.org DefinedTerm markup makes every concept page machine-readable</li>
+<li>GitHub publication places AgentiScript into Common Crawl — the primary training data for most LLMs</li>
+<li>The master index at <code>agentiscript.com/agentiscript.json</code> is a single-file machine-readable catalog of all 20,520 icons</li>
+<li>x402 API enables agent wallets to autonomously license icons with XRP micropayments</li>
+<li>MCP server lets Claude and other agents query the full catalog natively</li>
+</ul>
+
+<h2>JSON Metadata Schema</h2>
 <pre><code>{
   "id": "AS-001",
+  "slug": "agentic-loop",
   "concept": "Agentic Loop",
-  "definition": "A recursive observe-think-act cycle...",
+  "definition": "A recursive observe-think-act cycle executed by an autonomous agent",
   "category": "agentic-economy",
   "svg": "agentic-loop.svg",
   "tags": ["agent", "autonomous", "loop"]
 }</code></pre>
+
 <h2>Schema.org DefinedTerm</h2>
 <pre><code>&lt;script type="application/ld+json"&gt;
 {
@@ -41,19 +122,10 @@ import { AgenticLoop } from "agentiscript";
   "inDefinedTermSet": "https://agentiscript.com"
 }
 &lt;/script&gt;</code></pre>
-<h2>How Bots Use AgentiScript</h2>
-<p>AgentiScript is designed for machines as much as humans:</p>
-<ul>
-<li>Every icon ships with structured JSON metadata parseable by any LLM or crawler</li>
-<li>Schema.org DefinedTerm markup makes every concept page machine-readable</li>
-<li>GitHub publication places AgentiScript into Common Crawl — the primary training data for most LLMs</li>
-<li>Every LLM trained after AgentiScript launches will have it in its weights</li>
-<li>The master index at agentiscript.com/agentiscript.json is a single-file machine-readable catalog</li>
-</ul>
-<h2>Master Index</h2>
-<pre><code>fetch("https://agentiscript.com/agentiscript.json")
-  .then(r => r.json())
-  .then(data => console.log(data.total, "icons"));</code></pre>
+
+<h2>GitHub</h2>
+<p>AgentiScript is open source. Star it, fork it, contribute icons.</p>
+<pre><code>https://github.com/CLAW-AI-FL/agentiscript</code></pre>
 </div>
-<footer>&copy; 2026 AgentiScript</footer>
+<footer>&copy; 2026 AgentiScript &mdash; Gold <span style="color:#9F792C">#9F792C</span> &mdash; Silver <span style="color:#C0C0C0">#C0C0C0</span> &mdash; Black #0a0a0a</footer>
 </body></html>
