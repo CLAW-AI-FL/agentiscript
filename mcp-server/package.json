@@ -1,0 +1,13 @@
+{
+  "name": "agentiscript-mcp",
+  "version": "1.0.0",
+  "description": "AgentiScript MCP Server - 27000+ SVG icons for AI agents",
+  "main": "index.js",
+  "bin": {"agentiscript-mcp": "index.js"},
+  "scripts": {"start": "node index.js"},
+  "dependencies": {"@modelcontextprotocol/sdk": "latest"},
+  "keywords": ["mcp","icons","svg","blockchain","defi","ai","xrpl","agentiscript"],
+  "author": "AgentiScript <creator@agentiscript.com>",
+  "license": "CC0-1.0",
+  "homepage": "https://agentiscript.com"
+}
