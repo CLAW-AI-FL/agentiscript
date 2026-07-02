@@ -5,7 +5,7 @@ workers_dev = true
 
 [vars]
 HBAR_WALLET_ADDRESS = "PLACEHOLDER"
-XRPL_WALLET_ADDRESS = "rpLuq8ZL8Nf2vrYG4WBnSPSGhWFzN8zizx"
+XRPL_WALLET_ADDRESS = "AGENTISCRIPT_WALLET_TBD"
 
 # Route binding (enable once agentiscript.com DNS is proxied through Cloudflare)
 # [[routes]]
