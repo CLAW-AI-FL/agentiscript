@@ -1,0 +1,182 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "AgentiScript Icon API",
+    "description": "Search and retrieve AgentiScript SVG icons. 27,170+ icons for AI, blockchain, DeFi, finance, and emerging tech. Each icon includes Schema.org DefinedTerm structured data, x402 payment layer, and XRPL provenance. Use this API to find and embed SVG icons in your AI applications, websites, and documentation.",
+    "version": "1.0.0",
+    "contact": {
+      "email": "creator@agentiscript.com",
+      "url": "https://agentiscript.com"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://agentiscript-api.portability.workers.dev",
+      "description": "AgentiScript API (Cloudflare Workers)"
+    }
+  ],
+  "paths": {
+    "/api/search": {
+      "get": {
+        "operationId": "searchIcons",
+        "summary": "Search AgentiScript icons by concept",
+        "description": "Search 27,170+ SVG icons by concept name, slug, or tag. Returns icon URLs, embed code, Schema.org metadata, and category info. Use this to find icons for AI agents, blockchain protocols, DeFi concepts, financial instruments, and emerging tech.",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "description": "Search query concept or keyword (e.g. 'defi', 'zero-knowledge-proof', 'xrpl', 'neural-network', 'bitcoin')",
+            "schema": {
+              "type": "string",
+              "example": "defi"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Maximum number of results to return (default 10, max 50)",
+            "schema": {
+              "type": "integer",
+              "default": 10,
+              "minimum": 1,
+              "maximum": 50
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Icon search results",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "total": {
+                      "type": "integer",
+                      "description": "Number of results returned"
+                    },
+                    "query": {
+                      "type": "string",
+                      "description": "The search query used"
+                    },
+                    "results": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "slug": {
+                            "type": "string",
+                            "description": "URL-safe icon identifier (e.g. 'defi-protocol')"
+                          },
+                          "concept": {
+                            "type": "string",
+                            "description": "Human-readable concept name"
+                          },
+                          "url": {
+                            "type": "string",
+                            "description": "Direct SVG icon URL at agentiscript.com"
+                          },
+                          "embed": {
+                            "type": "string",
+                            "description": "Ready-to-use HTML img tag for embedding"
+                          },
+                          "category": {
+                            "type": "string",
+                            "description": "Icon category (e.g. 'DeFi', 'AI', 'Blockchain')"
+                          },
+                          "tags": {
+                            "type": "array",
+                            "items": {"type": "string"},
+                            "description": "Related tags for this icon"
+                          },
+                          "schema": {
+                            "type": "object",
+                            "description": "Schema.org DefinedTerm structured data"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "example": {
+                  "total": 2,
+                  "query": "defi",
+                  "results": [
+                    {
+                      "slug": "defi-protocol",
+                      "concept": "DeFi Protocol",
+                      "url": "https://agentiscript.com/icons/defi-protocol.svg",
+                      "embed": "<img src=\"https://agentiscript.com/icons/defi-protocol.svg\" alt=\"defi-protocol\" width=\"64\" height=\"64\">",
+                      "category": "DeFi",
+                      "tags": ["decentralized", "finance", "protocol", "blockchain"],
+                      "schema": {"@type": "DefinedTerm", "name": "DeFi Protocol", "inDefinedTermSet": "https://agentiscript.com"}
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Missing or invalid query parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {"type": "string"}
+                  }
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Icon catalog temporarily unavailable"
+          }
+        }
+      }
+    },
+    "/api/icon/{slug}": {
+      "get": {
+        "operationId": "getIcon",
+        "summary": "Get a specific icon by slug",
+        "description": "Retrieve metadata, URL, embed code, and Schema.org structured data for a specific icon by its slug identifier.",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "description": "Icon slug identifier (e.g. 'defi-protocol', 'bitcoin', 'neural-network')",
+            "schema": {
+              "type": "string",
+              "example": "defi-protocol"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Icon metadata and URLs",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "slug": {"type": "string"},
+                    "concept": {"type": "string"},
+                    "url": {"type": "string", "description": "Direct SVG URL"},
+                    "embed": {"type": "string", "description": "HTML img embed code"},
+                    "schema": {
+                      "type": "object",
+                      "description": "Schema.org DefinedTerm JSON-LD"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
