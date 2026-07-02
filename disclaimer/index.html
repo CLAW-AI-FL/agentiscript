@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Disclaimer — AgentiScript</title>
 <link rel="icon" href="data:,">
-<meta name="description" content="AgentiScript Disclaimer — NFTs are digital collectibles, not securities. Not financial advice. XRP values fluctuate.">
+<meta name="description" content="AgentiScript Legal Disclaimer. NFTs are digital collectibles, not securities. Not financial or investment advice. XRP volatility and regulatory risk disclosures.">
 <link rel="canonical" href="https://agentiscript.com/disclaimer/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
@@ -18,6 +18,7 @@ body {
   color: #fff;
   font-family: 'Space Grotesk', system-ui, sans-serif;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 :root {
   --bg: #060610;
@@ -27,9 +28,14 @@ body {
   --gold-light: #C4A35A;
   --silver: #C0C0C0;
   --silver-dim: #888899;
+  --strip: #0b0b1a;
+  --red-dim: rgba(220,60,60,0.12);
+  --red-border: rgba(220,60,60,0.35);
+  --amber-dim: rgba(220,160,40,0.1);
+  --amber-border: rgba(220,160,40,0.3);
 }
 
-/* NAV */
+/* ─── NAV ─── */
 #nav {
   position: fixed;
   top: 0; left: 0; right: 0;
@@ -39,9 +45,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: rgba(6,6,16,0.92);
+  transition: background 0.3s, backdrop-filter 0.3s, border-color 0.3s;
+  border-bottom: 1px solid transparent;
+}
+#nav.scrolled {
+  background: rgba(6,6,16,0.85);
   backdrop-filter: blur(20px);
-  border-bottom: 1px solid var(--border);
+  -webkit-backdrop-filter: blur(20px);
+  border-color: var(--border);
 }
 .nav-logo {
   font-size: 1.4rem;
@@ -49,6 +60,7 @@ body {
   color: var(--gold-light);
   text-decoration: none;
   letter-spacing: -0.02em;
+  flex-shrink: 0;
 }
 .nav-links {
   display: flex;
@@ -71,135 +83,219 @@ body {
   border-radius: 6px;
   font-weight: 700 !important;
   font-size: 0.85rem !important;
+  transition: background 0.2s !important;
 }
+.nav-cta:hover { background: var(--gold-light) !important; color: #000 !important; }
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+  padding: 4px;
+}
+.hamburger span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: var(--silver);
+  border-radius: 2px;
+  transition: all 0.3s;
+}
+.mobile-menu {
+  display: none;
+  position: fixed;
+  top: 64px; left: 0; right: 0;
+  background: rgba(6,6,16,0.97);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  padding: 20px;
+  z-index: 999;
+  flex-direction: column;
+  gap: 16px;
+}
+.mobile-menu a {
+  color: var(--silver);
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+.mobile-menu.open { display: flex; }
+
 @media (max-width: 768px) {
   #nav { padding: 0 20px; }
   .nav-links { display: none; }
+  .hamburger { display: flex; }
 }
 
-/* MAIN CONTENT */
-.legal-wrap {
-  max-width: 800px;
+/* ─── LEGAL PAGE ─── */
+.legal-wrapper {
+  max-width: 860px;
   margin: 0 auto;
-  padding: 100px 40px 80px;
+  padding: 120px 40px 80px;
 }
-.legal-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: rgba(192,192,192,0.08);
-  border: 1px solid rgba(192,192,192,0.2);
-  color: var(--silver);
-  font-size: 0.78rem;
-  font-weight: 500;
-  padding: 5px 14px;
-  border-radius: 100px;
-  margin-bottom: 24px;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
-.legal-title {
-  font-size: clamp(32px, 5vw, 52px);
-  font-weight: 700;
-  letter-spacing: -0.03em;
-  background: linear-gradient(135deg, var(--gold-light) 0%, var(--silver) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  margin-bottom: 8px;
-}
-.legal-effective {
-  font-size: 0.85rem;
-  color: var(--silver-dim);
+.legal-header {
   margin-bottom: 48px;
-}
-.legal-section {
-  margin-bottom: 40px;
-  padding-bottom: 40px;
   border-bottom: 1px solid var(--border);
+  padding-bottom: 32px;
 }
-.legal-section:last-child { border-bottom: none; }
-.legal-section h2 {
-  font-size: 1.15rem;
+.legal-header h1 {
+  font-size: 2.4rem;
   font-weight: 700;
   color: var(--gold-light);
-  margin-bottom: 16px;
-  letter-spacing: -0.01em;
-}
-.legal-section p {
-  font-size: 0.92rem;
-  color: var(--silver-dim);
-  line-height: 1.75;
+  letter-spacing: -0.03em;
   margin-bottom: 12px;
 }
-.legal-section p:last-child { margin-bottom: 0; }
-.legal-section ul {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-top: 8px;
-}
-.legal-section li {
-  font-size: 0.92rem;
+.legal-header .effective {
   color: var(--silver-dim);
-  line-height: 1.65;
-  padding-left: 20px;
-  position: relative;
+  font-size: 0.9rem;
 }
-.legal-section li::before {
-  content: '•';
-  color: var(--gold);
-  position: absolute;
-  left: 0;
-}
-.legal-section strong { color: var(--silver); }
-
-/* Warning callout */
-.disclaimer-callout {
-  background: rgba(159,121,44,0.07);
-  border: 1px solid rgba(159,121,44,0.35);
+.toc {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
   border-radius: 10px;
-  padding: 20px 24px;
-  margin-bottom: 40px;
+  padding: 24px 28px;
+  margin-bottom: 48px;
 }
-.disclaimer-callout p {
-  font-size: 0.95rem;
+.toc h3 {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--silver-dim);
+  margin-bottom: 14px;
+}
+.toc ol {
+  margin-left: 18px;
+}
+.toc ol li {
+  margin-bottom: 6px;
+}
+.toc ol li a {
+  color: var(--silver-dim);
+  font-size: 0.88rem;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.toc ol li a:hover { color: var(--gold-light); }
+.legal-section {
+  margin-bottom: 48px;
+  scroll-margin-top: 80px;
+}
+.legal-section h2 {
+  font-size: 1.05rem;
+  font-weight: 700;
   color: var(--silver);
-  line-height: 1.65;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+.legal-section p {
+  color: rgba(255,255,255,0.75);
+  font-size: 0.97rem;
+  line-height: 1.85;
+  margin-bottom: 14px;
+}
+.legal-section ul, .legal-section ol {
+  margin: 12px 0 16px 22px;
+}
+.legal-section ul li, .legal-section ol li {
+  color: rgba(255,255,255,0.75);
+  font-size: 0.97rem;
+  line-height: 1.8;
   margin-bottom: 8px;
 }
-.disclaimer-callout p:last-child { margin-bottom: 0; }
-.disclaimer-callout strong { color: var(--gold-light); }
+.legal-section strong { color: rgba(255,255,255,0.92); }
 
-/* FOOTER */
+.highlight-box {
+  background: rgba(159,121,44,0.08);
+  border: 1px solid rgba(159,121,44,0.28);
+  border-radius: 8px;
+  padding: 18px 22px;
+  margin: 18px 0;
+}
+.highlight-box p {
+  color: rgba(255,255,255,0.88) !important;
+  margin-bottom: 0 !important;
+  font-size: 0.97rem !important;
+  line-height: 1.75 !important;
+}
+.warning-box {
+  background: var(--red-dim);
+  border: 1px solid var(--red-border);
+  border-radius: 8px;
+  padding: 18px 22px;
+  margin: 18px 0;
+}
+.warning-box p {
+  color: rgba(255,220,220,0.92) !important;
+  margin-bottom: 0 !important;
+  font-size: 0.95rem !important;
+  line-height: 1.75 !important;
+  font-weight: 500;
+}
+.amber-box {
+  background: var(--amber-dim);
+  border: 1px solid var(--amber-border);
+  border-radius: 8px;
+  padding: 18px 22px;
+  margin: 18px 0;
+}
+.amber-box p {
+  color: rgba(255,235,180,0.9) !important;
+  margin-bottom: 0 !important;
+  font-size: 0.95rem !important;
+  line-height: 1.75 !important;
+}
+.collectible-stamp {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold-light);
+  border: 1.5px solid var(--gold);
+  padding: 4px 12px;
+  border-radius: 4px;
+  margin-bottom: 14px;
+}
+a { color: var(--gold-light); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ─── FOOTER ─── */
 footer {
+  background: var(--strip);
   border-top: 1px solid var(--border);
-  padding: 32px 40px;
+  padding: 40px 40px 32px;
   text-align: center;
 }
 .footer-links {
   display: flex;
-  gap: 24px;
-  justify-content: center;
   flex-wrap: wrap;
-  margin-bottom: 12px;
+  justify-content: center;
+  gap: 8px 24px;
+  margin-bottom: 20px;
 }
 .footer-links a {
   color: var(--silver-dim);
   text-decoration: none;
-  font-size: 0.82rem;
+  font-size: 0.85rem;
   transition: color 0.2s;
 }
 .footer-links a:hover { color: var(--gold-light); }
 .footer-copy {
-  font-size: 0.75rem;
-  color: rgba(136,136,153,0.5);
+  color: var(--silver-dim);
+  font-size: 0.8rem;
 }
 .footer-copy strong { color: var(--silver-dim); }
 
 @media (max-width: 600px) {
-  .legal-wrap { padding: 88px 20px 60px; }
+  .legal-wrapper { padding: 100px 20px 60px; }
+  .legal-header h1 { font-size: 1.8rem; }
 }
 </style>
 </head>
@@ -214,101 +310,244 @@ footer {
     <li><a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a></li>
     <li><a href="/store/" class="nav-cta">Get Pro Pack →</a></li>
   </ul>
+  <div class="hamburger" id="hamburger" onclick="toggleMenu()">
+    <span></span><span></span><span></span>
+  </div>
 </nav>
+<div class="mobile-menu" id="mobileMenu">
+  <a href="/#showcase" onclick="closeMobileMenu()">Icons</a>
+  <a href="/#propack" onclick="closeMobileMenu()">Pro Pack</a>
+  <a href="/docs/">Docs</a>
+  <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a>
+  <a href="/store/" style="color: var(--gold); font-weight: 700;">Get Pro Pack →</a>
+</div>
 
-<main class="legal-wrap">
-  <div class="legal-badge">Legal</div>
-  <h1 class="legal-title">Disclaimer</h1>
-  <p class="legal-effective">Effective Date: July 1, 2026</p>
-
-  <div class="disclaimer-callout">
-    <p><strong>Important Notice:</strong> Nothing on this website constitutes financial, investment, or legal advice. AgentiScript NFTs and XRPL tokens are digital collectibles. Cryptocurrency and NFT values are highly volatile. Consult a qualified financial and legal advisor before making any purchase decisions.</p>
+<div class="legal-wrapper">
+  <div class="legal-header">
+    <h1>Legal Disclaimer</h1>
+    <p class="effective">Effective Date: July 1, 2026 &nbsp;·&nbsp; Last Revised: July 1, 2026</p>
   </div>
 
-  <div class="legal-section">
-    <h2>1. NFTs Are Digital Collectibles — Not Securities</h2>
-    <p>AgentiScript Non-Fungible Tokens (NFTs) are <strong>digital collectibles</strong> — creative works in the form of geometric icon symbols. They are <strong>not securities</strong>, investment contracts, shares, bonds, or any other form of regulated financial instrument.</p>
-    <p>In 2025, the U.S. Securities and Exchange Commission (SEC) issued guidance classifying NFTs as collectibles under applicable law when they represent creative or artistic works without profit-sharing expectations tied to a common enterprise. AgentiScript NFTs are creative works — geometric symbols representing concepts in the agentic economy.</p>
-    <p>Purchasing an AgentiScript NFT grants you a commercial license for that icon. It does not grant equity, ownership in AgentiScript, or any guaranteed right to profits. Any revenue share distributions are discretionary operational decisions, not guaranteed returns.</p>
+  <div class="toc">
+    <h3>Contents</h3>
+    <ol>
+      <li><a href="#d1">Overview</a></li>
+      <li><a href="#d2">NFTs Are Digital Collectibles — Not Securities</a></li>
+      <li><a href="#d3">No Investment Promise or Financial Return</a></li>
+      <li><a href="#d4">XRP &amp; Cryptocurrency Volatility</a></li>
+      <li><a href="#d5">Regulatory Uncertainty &amp; Jurisdictional Risk</a></li>
+      <li><a href="#d6">No Financial, Legal, or Tax Advice</a></li>
+      <li><a href="#d7">Technology &amp; Platform Risk</a></li>
+      <li><a href="#d8">Marketplace &amp; Secondary Market Risk</a></li>
+      <li><a href="#d9">General Disclaimer of Warranties</a></li>
+      <li><a href="#d10">Forward-Looking Statements</a></li>
+      <li><a href="#d11">Contact</a></li>
+    </ol>
   </div>
 
-  <div class="legal-section">
-    <h2>2. Not Financial or Investment Advice</h2>
-    <p>No content on agentiscript.com — including this website, documentation, GitHub repository, social media accounts, or any communication from AgentiScript — constitutes financial, investment, tax, or legal advice.</p>
-    <p>Any discussion of revenue share, royalties, or economic participation is <strong>descriptive of technical mechanisms</strong>, not a promise, projection, or guarantee of future income.</p>
-    <p><strong>You should consult your own qualified financial advisor and legal counsel</strong> before purchasing any NFT, cryptocurrency, or digital asset.</p>
-  </div>
-
-  <div class="legal-section">
-    <h2>3. Cryptocurrency Value Volatility</h2>
-    <p>AgentiScript NFTs are priced and transacted in <strong>XRP</strong>, the native token of the XRP Ledger. XRP and other cryptocurrencies are highly volatile assets. Their value in fiat currency (USD, EUR, etc.) can fluctuate dramatically — including to zero — over short periods.</p>
+  <!-- 1 -->
+  <div class="legal-section" id="d1">
+    <h2>1. Overview</h2>
+    <div class="warning-box">
+      <p>⚠ PLEASE READ THIS DISCLAIMER CAREFULLY BEFORE PURCHASING ANY AGENTISCRIPT NFT, USING THE x402 API, OR ACQUIRING ANY XRP-DENOMINATED PRODUCT. THIS DISCLAIMER CONTAINS IMPORTANT INFORMATION ABOUT SIGNIFICANT RISKS INCLUDING TOTAL LOSS OF FUNDS.</p>
+    </div>
+    <p>This Legal Disclaimer supplements AgentiScript's <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a> and provides specific risk disclosures relating to:</p>
     <ul>
-      <li>AgentiScript makes <strong>no guarantee</strong> regarding the price, value, or liquidity of XRP at any time.</li>
-      <li>The fiat-equivalent value of any NFT or royalty payment may be significantly less than anticipated.</li>
-      <li>Past performance of XRP or any NFT collection is <strong>not indicative of future results</strong>.</li>
-      <li>You may lose some or all of the value of any purchase.</li>
+      <li>The nature of AgentiScript NFTs as digital collectibles (not securities or investment instruments).</li>
+      <li>The volatility and risk associated with XRP and cryptocurrency transactions.</li>
+      <li>Regulatory uncertainty across global jurisdictions regarding NFTs and digital assets.</li>
+      <li>Technology, platform, and market risks inherent in blockchain-based products.</li>
+    </ul>
+    <p>Nothing on the AgentiScript website, in our documentation, on our GitHub, or in any communication from AgentiScript constitutes financial advice, investment advice, legal advice, or tax advice. <strong>You should consult qualified professionals before making any financial or investment decisions.</strong></p>
+  </div>
+
+  <!-- 2 -->
+  <div class="legal-section" id="d2">
+    <h2>2. NFTs Are Digital Collectibles — Not Securities</h2>
+    <div class="collectible-stamp">🎨 Digital Collectible — Not a Security</div>
+
+    <div class="highlight-box">
+      <p><strong>AgentiScript NFTs are digital collectibles — unique on-chain tokens representing ownership of a commercial license for a specific icon artwork. They are purely creative/utility assets. They are NOT securities, investment contracts, financial instruments, or offers to invest in any enterprise.</strong></p>
+    </div>
+
+    <p>When you purchase an AgentiScript NFT, you are acquiring:</p>
+    <ul>
+      <li>A non-fungible token on the XRP Ledger (XRPL) that records on-chain ownership of a digital asset.</li>
+      <li>A commercial license for the specific icon artwork associated with that token, as described in our <a href="/terms/">Terms of Service</a>.</li>
+      <li>A digital collectible representing a visual element of the AgentiScript catalog.</li>
+    </ul>
+
+    <p>You are <strong>NOT</strong> acquiring:</p>
+    <ul>
+      <li>An equity stake, ownership interest, or profit-sharing right in AgentiScript or any related entity.</li>
+      <li>A security, investment contract, bond, or any instrument regulated under securities law.</li>
+      <li>A guaranteed appreciating asset or store of value.</li>
+      <li>A right to any future revenues, distributions, or dividends from AgentiScript.</li>
+      <li>Any governance rights over AgentiScript's development, direction, or business decisions.</li>
+      <li>Exclusive ownership of the underlying icon artwork (other license tiers may include the same icon).</li>
+    </ul>
+
+    <p><strong>The Howey Test &amp; Securities Law:</strong> AgentiScript NFTs are structured as utility/collectible assets and are not offered or sold as investments. We make no representation that AgentiScript NFTs satisfy the requirements to be classified as non-securities under any jurisdiction's securities law. The regulatory classification of NFTs is evolving and varies by jurisdiction. It is your responsibility to ensure that purchasing AgentiScript NFTs complies with the securities laws of your jurisdiction. If you are uncertain, consult a licensed securities attorney in your jurisdiction before purchasing.</p>
+  </div>
+
+  <!-- 3 -->
+  <div class="legal-section" id="d3">
+    <h2>3. No Investment Promise or Financial Return</h2>
+    <div class="warning-box">
+      <p>⚠ AGENTISCRIPT MAKES NO PROMISE, GUARANTEE, REPRESENTATION, OR WARRANTY OF ANY KIND THAT AGENTISCRIPT NFTS WILL INCREASE IN VALUE, MAINTAIN THEIR VALUE, OR GENERATE ANY FINANCIAL RETURN. YOU MAY LOSE THE ENTIRE AMOUNT YOU SPEND ON AN AGENTISCRIPT NFT.</p>
+    </div>
+    <p>AgentiScript expressly disclaims any statement, implication, or suggestion — whether made on our website, on social media, or in any other communication — that could be interpreted as a promise or projection of financial return. Specifically:</p>
+    <ul>
+      <li>The market value of any AgentiScript NFT on secondary markets is determined solely by market forces (buyer/seller agreement) and is entirely unpredictable.</li>
+      <li>Past secondary market sales of AgentiScript NFTs (if any) are not indicative of future secondary market value.</li>
+      <li>The utility value of an AgentiScript NFT (its commercial icon license) is fixed and defined in our Terms — but market demand for that license may decrease over time.</li>
+      <li>AgentiScript does not operate, control, or guarantee liquidity on any secondary NFT marketplace.</li>
+      <li>There is no secondary market for AgentiScript NFTs guaranteed by AgentiScript. You may be unable to sell your NFT at any price.</li>
+      <li>The costs and fees associated with XRPL transactions (including any NFT marketplace fees) are your responsibility and will affect your effective cost basis.</li>
+    </ul>
+    <p>The purchase of an AgentiScript NFT should be motivated by your genuine interest in obtaining the associated commercial icon license and/or collecting the digital asset, <strong>not by any expectation of profit</strong>.</p>
+  </div>
+
+  <!-- 4 -->
+  <div class="legal-section" id="d4">
+    <h2>4. XRP &amp; Cryptocurrency Volatility</h2>
+    <div class="amber-box">
+      <p>⚡ XRP and cryptocurrency markets are highly volatile. The XRP price can change dramatically — by 20%, 50%, or more — within hours or days. Prices are influenced by regulatory news, market sentiment, technological developments, and macroeconomic factors that are unpredictable and outside AgentiScript's control.</p>
+    </div>
+    <p>All AgentiScript NFT transactions and x402 API payments are denominated in or settled using XRP or other XRP Ledger-native digital assets. By participating in these transactions, you acknowledge and accept:</p>
+    <ul>
+      <li><strong>Price volatility risk:</strong> The USD or fiat equivalent value of XRP you use to purchase a product may differ substantially at the time of the transaction versus any prior or subsequent time. AgentiScript bears no responsibility for exchange rate fluctuations.</li>
+      <li><strong>Total loss risk:</strong> The XRP used in a transaction may decline in value to near zero. The nominal XRP amount of a transaction does not represent a stable fiat-equivalent value.</li>
+      <li><strong>Transaction irreversibility:</strong> Blockchain transactions, once confirmed, are final and cannot be reversed, recalled, or refunded by AgentiScript — regardless of the XRP/fiat exchange rate at the time of settlement.</li>
+      <li><strong>Network fee variability:</strong> XRPL transaction fees, while generally low, may vary. AgentiScript is not responsible for network-level fees charged by the XRPL.</li>
+      <li><strong>Wallet security risk:</strong> You are solely responsible for the security of your XRPL wallet. Loss of your wallet seed phrase or private key will result in permanent, irrecoverable loss of access to your wallet and any NFTs held therein. AgentiScript cannot recover lost wallets, keys, or NFTs.</li>
+      <li><strong>Smart contract/protocol risk:</strong> While XRPL's NFT protocol has undergone extensive review, no blockchain protocol is entirely free from bugs, exploits, or unforeseen behaviors. AgentiScript disclaims liability for losses arising from XRPL protocol-level failures.</li>
     </ul>
   </div>
 
-  <div class="legal-section">
-    <h2>4. Past Performance</h2>
-    <p>Any historical data, statistics, or metrics referenced on this site (including API usage volume, royalty distributions, or secondary market prices) are provided for informational purposes only.</p>
-    <p><strong>Past performance is not indicative of future results.</strong> AgentiScript does not guarantee that any metric, trend, or outcome will continue.</p>
+  <!-- 5 -->
+  <div class="legal-section" id="d5">
+    <h2>5. Regulatory Uncertainty &amp; Jurisdictional Risk</h2>
+    <div class="amber-box">
+      <p>⚖ The regulatory treatment of NFTs, cryptocurrencies, and blockchain-based digital assets is evolving rapidly and varies significantly across jurisdictions. What is legal and unregulated in one country may be restricted, prohibited, or treated as a regulated instrument in another.</p>
+    </div>
+    <p>AgentiScript does not represent that participation in any aspect of our service — including NFT purchases, API payments in XRP, or holding AgentiScript NFTs — is legal or appropriate in your jurisdiction. You are solely responsible for:</p>
+    <ul>
+      <li><strong>United States:</strong> The SEC, CFTC, FinCEN, and state regulators have issued guidance and enforcement actions regarding digital assets. The classification of specific NFTs and the XRP token remains subject to ongoing regulatory and legal developments. AgentiScript makes no representation regarding the current regulatory status of XRP or AgentiScript NFTs under U.S. law.</li>
+      <li><strong>European Union (MiCA):</strong> The Markets in Crypto-Assets Regulation (MiCA) and related EU regulations may impose obligations on NFT issuers and holders. The classification of AgentiScript NFTs under MiCA has not been formally determined. EU residents should seek qualified legal advice.</li>
+      <li><strong>United Kingdom:</strong> The UK Financial Conduct Authority (FCA) has issued guidance on crypto-assets. UK residents should determine whether AgentiScript NFTs fall within the scope of FCA-regulated activities.</li>
+      <li><strong>Singapore, Australia, Canada, and other common law jurisdictions:</strong> Regulatory frameworks for NFTs and digital assets are developing. Residents of these jurisdictions should obtain jurisdiction-specific legal advice.</li>
+      <li><strong>Jurisdictions with blanket cryptocurrency prohibitions:</strong> If you reside in a jurisdiction where cryptocurrency transactions are prohibited (including, at various times, certain countries in Asia, the Middle East, or Africa), you must not use XRPL-based AgentiScript features and you do so in violation of these Terms and potentially applicable local law.</li>
+      <li><strong>Tax treatment:</strong> The purchase, sale, or holding of NFTs and XRP may constitute taxable events in your jurisdiction. AgentiScript does not provide tax advice. Consult a licensed tax professional in your jurisdiction.</li>
+      <li><strong>AML/KYC obligations:</strong> In some jurisdictions, purchasing digital assets above certain thresholds may trigger anti-money-laundering reporting obligations. This is your responsibility to determine and comply with.</li>
+    </ul>
+    <p>AgentiScript reserves the right to restrict access to NFT features or the x402 API to users in certain jurisdictions, at any time, without prior notice, in order to comply with applicable law or as a precautionary business measure.</p>
   </div>
 
-  <div class="legal-section">
-    <h2>5. Nature of AgentiScript Icons</h2>
-    <p>AgentiScript icons are <strong>creative works</strong> — geometric vector symbols designed to represent concepts in artificial intelligence, blockchain, and the agentic economy. They are artistic and functional assets, not physical goods.</p>
+  <!-- 6 -->
+  <div class="legal-section" id="d6">
+    <h2>6. No Financial, Legal, or Tax Advice</h2>
+    <p>Nothing on the AgentiScript website, in our documentation, on our GitHub repositories, in any AgentiScript communication (whether from the website, email, GitHub Issues, social media, or any other channel), or in these legal pages constitutes:</p>
     <ul>
-      <li>Icons are provided "as-is" without warranty of merchantability or fitness for a particular purpose.</li>
-      <li>The visual design of icons may be updated, revised, or improved over time. NFTs may use mutable URIs (DynamicNFT) to reflect such updates.</li>
-      <li>While AgentiScript maintains documentation of icon uniqueness within the collection, we make <strong>no guarantee of uniqueness</strong> beyond what is explicitly documented in our published catalog.</li>
-      <li>AgentiScript does not warrant that icons are free from intellectual property claims by third parties for any specific use case.</li>
+      <li>Financial advice or investment advice of any kind.</li>
+      <li>Legal advice, legal opinion, or the establishment of any attorney-client relationship.</li>
+      <li>Tax advice or tax planning guidance.</li>
+      <li>Accounting advice.</li>
+      <li>A recommendation to purchase, hold, or sell any digital asset, NFT, or cryptocurrency.</li>
+    </ul>
+    <div class="highlight-box">
+      <p><strong>Before purchasing any AgentiScript NFT or conducting any XRP transaction, you should independently consult with a licensed financial advisor, attorney, and/or tax professional in your jurisdiction who can advise you based on your specific circumstances.</strong></p>
+    </div>
+    <p>The information provided on agentiscript.com is for general informational and product description purposes only. AgentiScript is not a registered investment advisor, broker-dealer, financial institution, or legal services firm in any jurisdiction.</p>
+  </div>
+
+  <!-- 7 -->
+  <div class="legal-section" id="d7">
+    <h2>7. Technology &amp; Platform Risk</h2>
+    <p>AgentiScript operates on emerging blockchain technology and third-party platforms. Significant technology risks exist that are outside AgentiScript's control:</p>
+    <ul>
+      <li><strong>XRPL protocol risk:</strong> The XRP Ledger is operated by a decentralized network of validators. Changes to the XRPL protocol (via amendments), consensus failures, or network disruptions could affect your ability to transfer, sell, or access NFTs.</li>
+      <li><strong>Wallet software risk:</strong> Third-party XRPL wallets (such as Xumm/Xaman, Crossmark, or others) are developed independently of AgentiScript. We are not responsible for wallet software bugs, security vulnerabilities, or discontinuation of wallet support.</li>
+      <li><strong>NFT marketplace risk:</strong> Third-party XRPL NFT marketplaces may be discontinued, hacked, or otherwise become unavailable. AgentiScript does not operate or guarantee the availability of any secondary marketplace.</li>
+      <li><strong>Website and API availability:</strong> agentiscript.com and the x402 API may experience downtime, outages, or discontinuation. AgentiScript does not guarantee continuous availability and is not liable for service interruptions.</li>
+      <li><strong>GitHub and npm availability:</strong> AgentiScript relies on GitHub and npm for code distribution. These platforms are operated by third parties and may impose their own restrictions or experience outages.</li>
+      <li><strong>Cryptographic risk:</strong> Current cryptographic standards, including those used by XRPL, are believed to be secure against current attacks. Advances in quantum computing or other cryptographic breakthroughs could potentially affect the security of blockchain transactions in the future.</li>
+      <li><strong>Project continuity risk:</strong> AgentiScript is an independent project. There is no guarantee that AgentiScript will continue to operate, expand its catalog, maintain its API, or support its NFT holders indefinitely. In the event AgentiScript ceases operations, NFTs minted on XRPL will remain on-chain but the associated license and service terms would be affected.</li>
     </ul>
   </div>
 
-  <div class="legal-section">
-    <h2>6. Regulatory Considerations</h2>
-    <p>Cryptocurrency and NFT regulations vary significantly by jurisdiction and are subject to rapid change. It is your responsibility to determine whether purchasing or holding AgentiScript NFTs or XRP is legal in your jurisdiction.</p>
-    <p>AgentiScript does not represent that its products are compliant with the laws of any specific jurisdiction outside the United States. Non-U.S. users should seek local legal counsel before participating.</p>
-    <p>The <strong>SEC's 2025 Staff Bulletin</strong> classifying certain NFTs as collectibles reflects U.S. regulatory guidance at the time of writing. This guidance may change. AgentiScript is not responsible for regulatory developments that affect the classification or treatment of NFTs.</p>
-  </div>
-
-  <div class="legal-section">
-    <h2>7. No Endorsement</h2>
-    <p>References to third-party platforms, protocols, exchanges, or services (including but not limited to XRP Ledger, FirstLedger.net, Hedera Hashgraph, Apify, Stripe, or npm) do not constitute endorsement of those platforms or any associated investment product. Those platforms operate independently and are subject to their own terms and risks.</p>
-  </div>
-
-  <div class="legal-section">
-    <h2>8. Seek Professional Advice</h2>
-    <p>Before purchasing AgentiScript NFTs, Pro Pack licenses, or engaging with the x402 API for commercial purposes, we strongly encourage you to:</p>
+  <!-- 8 -->
+  <div class="legal-section" id="d8">
+    <h2>8. Marketplace &amp; Secondary Market Risk</h2>
+    <p>AgentiScript does not control, operate, or guarantee any secondary marketplace for AgentiScript NFTs. Secondary market transactions are peer-to-peer and carry additional risks:</p>
     <ul>
-      <li>Consult a <strong>licensed financial advisor</strong> about cryptocurrency investment risks.</li>
-      <li>Consult a <strong>qualified attorney</strong> about intellectual property licensing, NFT legal classification, and applicable regulations in your jurisdiction.</li>
-      <li>Consult a <strong>tax professional</strong> about the tax treatment of cryptocurrency gains, NFT purchases, and royalty income in your jurisdiction.</li>
+      <li><strong>No liquidity guarantee:</strong> There is no guarantee that a buyer will exist for your AgentiScript NFT at any price. NFT markets can be highly illiquid, particularly for niche or lower-profile projects.</li>
+      <li><strong>Marketplace fees:</strong> Secondary marketplace platforms may charge listing fees, transaction fees, or royalty deductions that reduce your proceeds. These fees are set by the marketplace, not AgentiScript.</li>
+      <li><strong>Royalty enforcement:</strong> AgentiScript may configure NFT creator royalties on secondary sales via XRPL's NFTokenCreateOffer mechanism. The enforceability and collection of on-chain royalties depends on marketplace support and may not be guaranteed in all scenarios.</li>
+      <li><strong>Fraudulent listings:</strong> On secondary markets, fraudulent NFTs or impersonators of AgentiScript collections may exist. Verify the XRPL issuer address and NFT token ID against our official records before purchasing any NFT claiming to be from AgentiScript. AgentiScript is not responsible for counterfeits or impersonations sold through secondary markets.</li>
+      <li><strong>Price manipulation:</strong> NFT markets are susceptible to wash trading, price manipulation, and artificial inflation of historical sales prices. Historical sales data does not guarantee future market prices.</li>
     </ul>
-    <p>AgentiScript cannot provide and does not provide any of the above advice.</p>
   </div>
 
-  <div class="legal-section">
-    <h2>9. Contact</h2>
-    <p>For questions, please open an issue on our GitHub repository:</p>
-    <p><a href="https://github.com/CLAW-AI-FL/agentiscript/issues" target="_blank" style="color:var(--gold-light);text-decoration:none;font-weight:600">github.com/CLAW-AI-FL/agentiscript/issues →</a></p>
+  <!-- 9 -->
+  <div class="legal-section" id="d9">
+    <h2>9. General Disclaimer of Warranties</h2>
+    <div class="highlight-box">
+      <p><strong>ALL AGENTISCRIPT PRODUCTS, ICONS, NFTS, API SERVICES, DOCUMENTATION, AND WEBSITE CONTENT ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.</strong></p>
+    </div>
+    <p>AgentiScript makes no warranty or representation that:</p>
+    <ul>
+      <li>Icons, NFTs, or API outputs are accurate, complete, reliable, current, or error-free.</li>
+      <li>The service will be available at all times or at any particular time.</li>
+      <li>Any defects or errors in the service will be corrected.</li>
+      <li>The icons or NFTs are appropriate or lawful for use in your specific jurisdiction or context.</li>
+      <li>NFTs will retain any particular technical format, metadata, or compatibility with future platforms.</li>
+      <li>The AgentiScript project will remain active, maintained, or supported indefinitely.</li>
+    </ul>
+    <p>You use all AgentiScript products and services entirely at your own risk. AgentiScript's aggregate liability to you is limited as described in our <a href="/terms/">Terms of Service</a>, Section 12.</p>
   </div>
-</main>
+
+  <!-- 10 -->
+  <div class="legal-section" id="d10">
+    <h2>10. Forward-Looking Statements</h2>
+    <p>Any statements on agentiscript.com or in AgentiScript communications regarding future product features, catalog expansion, planned integrations, marketplace developments, or business trajectory are <strong>forward-looking statements</strong> and are inherently subject to risks and uncertainties.</p>
+    <p>Forward-looking statements include words such as "will," "plan," "intend," "expect," "anticipate," "target," "project," "believe," "estimate," and similar expressions. These statements reflect AgentiScript's current intentions and plans, but actual outcomes may differ materially from those anticipated.</p>
+    <p>AgentiScript expressly disclaims any obligation to update forward-looking statements to reflect changed circumstances or events occurring after the date of this Disclaimer, except as required by applicable law.</p>
+    <p><strong>Do not make any financial or purchasing decision based on forward-looking statements about AgentiScript's future development, catalog size, integrations, or NFT features.</strong></p>
+  </div>
+
+  <!-- 11 -->
+  <div class="legal-section" id="d11">
+    <h2>11. Contact</h2>
+    <p>For questions about this Disclaimer, or to report a concern regarding an AgentiScript product or legal matter, please open an issue at:</p>
+    <p><a href="https://github.com/CLAW-AI-FL/agentiscript/issues" target="_blank" rel="noopener noreferrer">github.com/CLAW-AI-FL/agentiscript/issues</a></p>
+    <p>This Disclaimer is governed by the laws of the <strong>State of Florida, United States of America</strong>, and is incorporated into and subject to AgentiScript's <a href="/terms/">Terms of Service</a>.</p>
+    <p style="margin-top:24px; color: var(--silver-dim); font-size: 0.85rem;">This disclaimer does not constitute legal advice. AgentiScript is not a law firm and the content herein should not be relied upon as legal counsel. Consult a licensed attorney in your jurisdiction for advice specific to your situation.</p>
+  </div>
+</div>
 
 <footer>
   <div class="footer-links">
-    <a href="/">Home</a>
-    <a href="/store/">Pro Pack</a>
-    <a href="/docs/">Docs</a>
     <a href="/terms/">Terms</a>
     <a href="/privacy/">Privacy</a>
     <a href="/disclaimer/">Disclaimer</a>
     <a href="https://github.com/CLAW-AI-FL/agentiscript" target="_blank">GitHub</a>
   </div>
-  <p class="footer-copy">&copy; 2026 <strong>AgentiScript</strong> &nbsp;·&nbsp; Not financial advice. Consult a qualified advisor.</p>
+  <p class="footer-copy">
+    &copy; 2026 <strong>AgentiScript</strong> &nbsp;·&nbsp; Free icons: CC0 &nbsp;·&nbsp; Commercial: <a href="/store/" style="color:var(--gold);text-decoration:none">Pro Pack $49</a>
+  </p>
 </footer>
 
+<script>
+window.addEventListener('scroll', () => {
+  document.getElementById('nav').classList.toggle('scrolled', window.scrollY > 20);
+});
+function toggleMenu() {
+  document.getElementById('mobileMenu').classList.toggle('open');
+}
+function closeMobileMenu() {
+  document.getElementById('mobileMenu').classList.remove('open');
+}
+</script>
 </body>
 </html>

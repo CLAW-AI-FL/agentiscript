@@ -1,0 +1,90 @@
+Loaded 16880 existing icons (33761 slug variants)
+
+Fetching arXiv AI …
+  356 items → 260 domain-relevant
+  → 494 new candidates
+Fetching arXiv Quantum …
+  219 items → 179 domain-relevant
+  → 314 new candidates
+Fetching TechCrunch …
+  20 items → 8 domain-relevant
+  → 5 new candidates
+Fetching Hacker News …
+  30 items → 0 domain-relevant
+  → 0 new candidates
+
+============================================================
+Saved 813 new candidate concepts → /Users/colin/seo/agentiscript/cron-results.json
+============================================================
+
+Top 25 candidates:
+  [arXiv AI    ]  iterative-prompt                          ← "Contrastive Reflection for Iterative Prompt Optimizatio"
+  [arXiv AI    ]  retrieval-strategies                      ← "How Can AI Find My Model? A Model-Finding Experimental "
+  [arXiv AI    ]  formats-embeddings                        ← "How Can AI Find My Model? A Model-Finding Experimental "
+  [arXiv AI    ]  evaluating-llm                            ← "BayesBench: Evaluating LLM Belief Trajectories Under Mu"
+  [arXiv AI    ]  llm-belief                                ← "BayesBench: Evaluating LLM Belief Trajectories Under Mu"
+  [arXiv AI    ]  users-agents                              ← "Beyond expert users: agents should help users construct"
+  [arXiv AI    ]  agents-should                             ← "Beyond expert users: agents should help users construct"
+  [arXiv AI    ]  llm-driven                                ← "Why Solve It Twice? Hierarchical Accumulation of Skills"
+  [arXiv AI    ]  llm-judges                                ← "RoPoLL: Robust Panel of LLM Judges"
+  [arXiv AI    ]  llm-evaluators                            ← "RoPoLL: Robust Panel of LLM Judges"
+  [arXiv AI    ]  llm-jury                                  ← "RoPoLL: Robust Panel of LLM Judges"
+  [arXiv AI    ]  llm-typical                               ← "RoPoLL: Robust Panel of LLM Judges"
+  [arXiv AI    ]  agentic-workflow                          ← "AgRefactor: Self-Evolving Agentic Workflow for HLS Comp"
+  [arXiv AI    ]  verifiable-behavioral                     ← "AgentBound: Verifiable Behavioral Governance for Autono"
+  [arXiv AI    ]  agentbound-verifiable                     ← "AgentBound: Verifiable Behavioral Governance for Autono"
+  [arXiv AI    ]  autonomous-ai                             ← "AgentBound: Verifiable Behavioral Governance for Autono"
+  [arXiv AI    ]  ai-agents                                 ← "AgentBound: Verifiable Behavioral Governance for Autono"
+  [arXiv AI    ]  embodied-laboratory                       ← "LabGuard: Grounding Natural-Language Laboratory Rules i"
+  [arXiv AI    ]  laboratory-agents                         ← "LabGuard: Grounding Natural-Language Laboratory Rules i"
+  [arXiv AI    ]  autonomous-llm                            ← "OpenLife: Toward Open-World Artificial Life with Autono"
+  [arXiv AI    ]  agent-oriented                            ← "MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and "
+  [arXiv AI    ]  llm-oriented                              ← "MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and "
+  [arXiv AI    ]  transformer-base                          ← "Revealing Safety-Critical Scenarios for UTM via Transfo"
+  [arXiv AI    ]  llm-memory                                ← "The Past Is Prologue: A Plug-in Controller for Selectiv"
+  [arXiv AI    ]  evolving-llm                              ← "The Past Is Prologue: A Plug-in Controller for Selectiv"
+Loaded 17129 existing icons (34259 slug variants)
+
+Fetching arXiv AI …
+  293 items → 217 domain-relevant
+  → 446 new candidates
+Fetching arXiv Quantum …
+  121 items → 94 domain-relevant
+  → 170 new candidates
+Fetching TechCrunch …
+  20 items → 5 domain-relevant
+  → 10 new candidates
+Fetching Hacker News …
+  30 items → 3 domain-relevant
+  → 12 new candidates
+
+============================================================
+Saved 638 new candidate concepts → /Users/colin/seo/agentiscript/cron-results.json
+============================================================
+
+Top 25 candidates:
+  [arXiv AI    ]  constructive-alignment                    ← "Constructive Alignment: Governing Preference Dynamics i"
+  [arXiv AI    ]  alignment-governing                       ← "Constructive Alignment: Governing Preference Dynamics i"
+  [arXiv AI    ]  morality-defining                         ← "Bounded Morality: Defining the Space of Moral Computati"
+  [arXiv AI    ]  verifiable-agent                          ← "Making Failure Safe: A Constrained, Verifiable Agent Fr"
+  [arXiv AI    ]  constrained-verifiable                    ← "Making Failure Safe: A Constrained, Verifiable Agent Fr"
+  [arXiv AI    ]  agent-framework                           ← "Making Failure Safe: A Constrained, Verifiable Agent Fr"
+  [arXiv AI    ]  autonomous-medical                        ← "RareDxR1: Autonomous Medical Reasoning for Rare Disease"
+  [arXiv AI    ]  raredxr1-autonomous                       ← "RareDxR1: Autonomous Medical Reasoning for Rare Disease"
+  [arXiv AI    ]  medical-reasoning                         ← "RareDxR1: Autonomous Medical Reasoning for Rare Disease"
+  [arXiv AI    ]  agentic-transaction                       ← "Mnemosyne: Agentic Transaction Processing for Validatin"
+  [arXiv AI    ]  mnemosyne-agentic                         ← "Mnemosyne: Agentic Transaction Processing for Validatin"
+  [arXiv AI    ]  managed-autonomy                          ← "Managed Autonomy at Runtime: Gear-Based Safety and Gove"
+  [arXiv AI    ]  single-agent                              ← "Managed Autonomy at Runtime: Gear-Based Safety and Gove"
+  [arXiv AI    ]  llm-driven                                ← "Managed Autonomy at Runtime: Gear-Based Safety and Gove"
+  [arXiv AI    ]  agentic-slide                             ← "Personalization as Inverse Planning: Learning Latent De"
+  [arXiv AI    ]  simulator-agents                          ← "PHREEQC-MCQ-200: A Diagnostic Benchmark for Tool-Augmen"
+  [arXiv AI    ]  retrieval-grounded                        ← "Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Cont"
+  [arXiv AI    ]  embodied-agents                           ← "Multi-scale Mixture of World Models for Embodied Agents"
+  [arXiv AI    ]  prompt-side                               ← "HARC: Coupling Harmfulness and Refusal Directions for R"
+  [arXiv AI    ]  coachable-agents                          ← "Coachable agents for interactive gameplay"
+  [arXiv AI    ]  fine-tuned                                ← "Graph-Native Reinforcement Learning Enables Traceable S"
+  [arXiv AI    ]  rag-pipelines                             ← "Bayesian Uncertainty Propagation for Agentic RAG Pipeli"
+  [arXiv AI    ]  agentic-generation                        ← "Agentic generation of verifiable rules for deterministi"
+  [arXiv AI    ]  verifiable-rules                          ← "Agentic generation of verifiable rules for deterministi"
+  [arXiv AI    ]  agents-generalize                         ← "Can Agents Generalize to the Open World? Unveiling the "
