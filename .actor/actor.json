@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "name": "agentiscript-icon-search",
+  "title": "AgentiScript Icon Search — 30,000+ SVG Icons for AI & Blockchain",
+  "description": "Search 30,000+ AgentiScript SVG icons for AI, blockchain, DeFi, finance, crypto, XRPL, and the agentic economy. Each icon includes Schema.org DefinedTerm structured data. x402 micropayment enabled — bots pay 0.001 XRP per icon automatically. Free CC0 license.",
+  "version": "1.1",
+  "buildTag": "latest",
+  "environmentVariables": {},
+  "dockerfile": "./Dockerfile"
+}
