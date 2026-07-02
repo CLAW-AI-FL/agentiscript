@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.claw-ai-fl/agentiscript-mcp",
+  "description": "30,000+ SVG icons for AI, blockchain, DeFi and finance. Search by concept via MCP.",
+  "repository": {
+    "url": "https://github.com/CLAW-AI-FL/agentiscript",
+    "source": "github",
+    "subfolder": "mcp-server"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "agentiscript-mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
