@@ -34,7 +34,7 @@ export default {
             resource: request.url,
             description: `AgentiScript icon: ${slug}`,
             mimeType: 'image/svg+xml',
-            payTo: env.XRPL_WALLET_ADDRESS || 'rfKCUyLy21qKC1SQmxjHe8gEP1S8gJvzTi',
+            payTo: env.XRPL_WALLET_ADDRESS || 'AGENTISCRIPT_WALLET_PLACEHOLDER',
             maxTimeoutSeconds: 300,
             asset: 'XRP',
             extra: {
