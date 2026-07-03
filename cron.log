@@ -88,3 +88,48 @@ Top 25 candidates:
   [arXiv AI    ]  agentic-generation                        ← "Agentic generation of verifiable rules for deterministi"
   [arXiv AI    ]  verifiable-rules                          ← "Agentic generation of verifiable rules for deterministi"
   [arXiv AI    ]  agents-generalize                         ← "Can Agents Generalize to the Open World? Unveiling the "
+Loaded 17129 existing icons (34259 slug variants)
+
+Fetching arXiv AI …
+  353 items → 284 domain-relevant
+  → 575 new candidates
+Fetching arXiv Quantum …
+  142 items → 116 domain-relevant
+  → 253 new candidates
+Fetching TechCrunch …
+  20 items → 5 domain-relevant
+  → 9 new candidates
+Fetching Hacker News …
+  30 items → 2 domain-relevant
+  → 2 new candidates
+
+============================================================
+Saved 839 new candidate concepts → /Users/colin/seo/agentiscript/cron-results.json
+============================================================
+
+Top 25 candidates:
+  [arXiv AI    ]  agentic-search                            ← "Auto-FL-Research: Agentic Search for Federated Learning"
+  [arXiv AI    ]  coding-agent                              ← "Auto-FL-Research: Agentic Search for Federated Learning"
+  [arXiv AI    ]  service-agents                            ← "When Should Service Agents Reconsider? Difficulty-Route"
+  [arXiv AI    ]  agents-reconsider                         ← "When Should Service Agents Reconsider? Difficulty-Route"
+  [arXiv AI    ]  steering-language                         ← "CreativityNeuro: Steering Language Model Weights to Imp"
+  [arXiv AI    ]  creativityneuro-steering                  ← "CreativityNeuro: Steering Language Model Weights to Imp"
+  [arXiv AI    ]  discrete-diffusion                        ← "Discrete Diffusion Language Models for Interactive Radi"
+  [arXiv AI    ]  diffusion-language                        ← "Discrete Diffusion Language Models for Interactive Radi"
+  [arXiv AI    ]  atlassian-workflows                       ← "Beyond Next-Token Prediction: An RLVR Proof of Concept "
+  [arXiv AI    ]  clinical-agents                           ← "World Feedback for Clinical Agents: Diagnosing RL in FH"
+  [arXiv AI    ]  agents-diagnosing                         ← "World Feedback for Clinical Agents: Diagnosing RL in FH"
+  [arXiv AI    ]  agentic-garden                            ← "The Agentic Garden of Forking Paths"
+  [arXiv AI    ]  agentic-permission                        ← "Janus: a Playground for User-Involved Agentic Permissio"
+  [arXiv AI    ]  inference-time                            ← "Revisiting Chain-of-Thought Reasoning under Limited Sup"
+  [arXiv AI    ]  three-agent                               ← "EO-Agents: A Three-Agent LLM Pipeline for Earth Observa"
+  [arXiv AI    ]  llm-pipeline                              ← "EO-Agents: A Three-Agent LLM Pipeline for Earth Observa"
+  [arXiv AI    ]  neural-processing                         ← "Hawk: Harnessing Hardware-Aware Knowledge for High-Perf"
+  [arXiv AI    ]  llm-generated                             ← "Safe and Adaptive Cloud Healing: Verifying LLM-Generate"
+  [arXiv AI    ]  semhash-llm                               ← "SemHash-LLM: A Multi-Granularity Semantic Hashing Frame"
+  [arXiv AI    ]  autonomous-source                         ← "Separating Expert Retention from Autonomous Source Infe"
+  [arXiv AI    ]  source-inference                          ← "Separating Expert Retention from Autonomous Source Infe"
+  [arXiv AI    ]  generation-workflows                      ← "COMFYCLAW: Self-Evolving Skill Harnesses for Image Gene"
+  [arXiv AI    ]  coverage-aware                            ← "Generic Expert Coverage for Pruning SparseMixture-of-Ex"
+  [arXiv AI    ]  expert-coverage                           ← "Generic Expert Coverage for Pruning SparseMixture-of-Ex"
+  [arXiv AI    ]  public-llm                                ← "Meta-Benchmarks for Financial-Services LLM Evaluation"
