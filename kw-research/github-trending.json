@@ -1,0 +1,4073 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "scraped_at": "2026-07-03T21:18:02Z",
+    "total_repos": 124,
+    "total_concepts": 1857,
+    "output_concepts": 500,
+    "periods": [
+      "daily",
+      "weekly",
+      "monthly"
+    ],
+    "languages": [
+      "python",
+      "javascript",
+      "typescript",
+      "rust",
+      "go"
+    ]
+  },
+  "repos_sample": [
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 450991,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 245465,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 225654,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "vuejs/vue",
+      "description": "This is the repo for Vue 2. For Vue 3, go tohttps://github.com/vuejs/core",
+      "stars": 210008,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "full_name": "microsoft/vscode",
+      "description": "Visual Studio Code",
+      "stars": 187019,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "full_name": "langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 151058,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "vercel/next.js",
+      "description": "The React Framework",
+      "stars": 140324,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 135789,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "golang/go",
+      "description": "The Go programming language",
+      "stars": 135019,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "full_name": "iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "stars": 130209,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 126416,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "full_name": "kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "stars": 123418,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "full_name": "nodejs/node",
+      "description": "Node.js JavaScript runtime \u2728\ud83d\udc22\ud83d\ude80\u2728",
+      "stars": 118058,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "stars": 114297,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "full_name": "denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "stars": 107433,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "full_name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 105408,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "full_name": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 101410,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "angular/angular",
+      "description": "Deliver web apps with confidence \ud83d\ude80",
+      "stars": 100479,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "full_name": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "stars": 95792,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+      "stars": 95487,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "ryanmcdermott/clean-code-javascript",
+      "description": "Clean Code concepts adapted for JavaScript",
+      "stars": 94669,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+      "stars": 93564,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "full_name": "home-assistant/core",
+      "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+      "stars": 88180,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "django/django",
+      "description": "The Web framework for perfectionists with deadlines.",
+      "stars": 88014,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "stars": 87477,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "JuliusBrussee/caveman",
+      "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 82826,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "stars": 77321,
+      "language": "Java",
+      "topics": []
+    },
+    {
+      "full_name": "safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "stars": 76993,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "stars": 71780,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "full_name": "expressjs/express",
+      "description": "Fast, unopinionated, minimalist web framework for node.",
+      "stars": 69235,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+      "stars": 69173,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "stars": 65832,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "stars": 64934,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "full_name": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 58365,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars": 55513,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "prettier/prettier",
+      "description": "Prettier is an opinionated code formatter.",
+      "stars": 52078,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "stars": 51200,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "full_name": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 50607,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+      "stars": 49795,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "stars": 48819,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 48702,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 48143,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+      "stars": 46417,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars": 46167,
+      "language": "Swift",
+      "topics": []
+    },
+    {
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 45453,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 43269,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "full_name": "juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "stars": 40907,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "full_name": "GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+      "stars": 39865,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
+      "stars": 38423,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "full_name": "fastify/fastify",
+      "description": "Fast and low overhead web framework, for Node.js",
+      "stars": 36604,
+      "language": "JavaScript",
+      "topics": []
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "agent",
+      "score": 2251.64,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "Shell",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "taste-skill",
+      "score": 2045.14,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "last30days-skill",
+      "score": 1598.65,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "skills",
+      "score": 1435.26,
+      "languages": [
+        "",
+        "Go",
+        "JavaScript",
+        "Python",
+        "Shell",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "claude",
+      "score": 1407.9,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "camp",
+      "score": 1357.59,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "iptv",
+      "score": 1064.24,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "vue",
+      "score": 1054.29,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "reach",
+      "score": 998.65,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "agent-reach",
+      "score": 998.65,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "container",
+      "score": 912.83,
+      "languages": [
+        "Go",
+        "Swift"
+      ]
+    },
+    {
+      "slug": "web",
+      "score": 836.91,
+      "languages": [
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "skill",
+      "score": 836.02,
+      "languages": [
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "agency-agents",
+      "score": 830.62,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "money",
+      "score": 829.4,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "printer",
+      "score": 829.4,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "turbo",
+      "score": 829.4,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "cli",
+      "score": 802.61,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "development",
+      "score": 781.86,
+      "languages": [
+        "JavaScript",
+        "Shell",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "superpowers",
+      "score": 772.54,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "codex",
+      "score": 762.15,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "reddit",
+      "score": 737.76,
+      "languages": [
+        "Python",
+        "Shell"
+      ]
+    },
+    {
+      "slug": "agents",
+      "score": 716.52,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "ecc",
+      "score": 696.88,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "cursor",
+      "score": 653.12,
+      "languages": [
+        "JavaScript",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "tube",
+      "score": 650.89,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "langflow",
+      "score": 629.59,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "open-source",
+      "score": 609.76,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "reddit-youtube",
+      "score": 599.33,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "codebase",
+      "score": 590.77,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "programming",
+      "score": 588.55,
+      "languages": [
+        "Go",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "agentic",
+      "score": 586.06,
+      "languages": [
+        "",
+        "Go",
+        "Python",
+        "Shell"
+      ]
+    },
+    {
+      "slug": "taste",
+      "score": 584.33,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "vscode",
+      "score": 564.6,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "computer",
+      "score": 564.51,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "system",
+      "score": 560.12,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "script",
+      "score": 558.64,
+      "languages": [
+        "JavaScript",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "cybersecurity",
+      "score": 520.54,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "cybersecurity-skills",
+      "score": 520.54,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "search",
+      "score": 512.87,
+      "languages": [
+        "Go",
+        "Java",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "coding",
+      "score": 509.42,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "anthropic",
+      "score": 506.89,
+      "languages": [
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "slug": "core",
+      "score": 499.47,
+      "languages": [
+        "Go",
+        "Java",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "claude-codex",
+      "score": 481.72,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "research-first",
+      "score": 464.59,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "hub",
+      "score": 463.02,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "next-js",
+      "score": 457.21,
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "caveman",
+      "score": 456.11,
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "camp-org",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "curriculum",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "learn",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "math",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "science",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "freecodecamp-org",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "org-codebase",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "codebase-curriculum",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "curriculum-learn",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "learn-math",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "math-programming",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "programming-computer",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "computer-science",
+      "score": 452.53,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "java",
+      "score": 450.24,
+      "languages": [
+        "JavaScript",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "language",
+      "score": 446.29,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "sql",
+      "score": 442.66,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "gives",
+      "score": 429.94,
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "supabase",
+      "score": 427.43,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "node",
+      "score": 426.01,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "open-notebook",
+      "score": 422.68,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "claude-code",
+      "score": 414.72,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "career-ops",
+      "score": 409.83,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "gemini",
+      "score": 406.9,
+      "languages": [
+        "JavaScript",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "internet",
+      "score": 403.28,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "kubernetes",
+      "score": 396.57,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "click",
+      "score": 395.23,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "security",
+      "score": 393.41,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "anthropic-cybersecurity",
+      "score": 390.41,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "mitre",
+      "score": 390.41,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "agentic-skills",
+      "score": 384.04,
+      "languages": [
+        "",
+        "Shell"
+      ]
+    },
+    {
+      "slug": "pm-skills",
+      "score": 379.57,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "videos",
+      "score": 377.17,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "software",
+      "score": 374.15,
+      "languages": [
+        "Rust",
+        "Shell"
+      ]
+    },
+    {
+      "slug": "rust",
+      "score": 369.98,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "give",
+      "score": 359.68,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "zero",
+      "score": 358.38,
+      "languages": [
+        "C",
+        "Python"
+      ]
+    },
+    {
+      "slug": "api",
+      "score": 349.74,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "system-prompts-leaks",
+      "score": 349.45,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "supervision",
+      "score": 335.93,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "commands",
+      "score": 335.18,
+      "languages": [
+        "",
+        "Go",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "eyes",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "see",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "entire",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "read",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "twitter",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "bilibili",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "xiao",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "hong",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "shu",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "fees",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "give-agent",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "agent-eyes",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "eyes-see",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "see-entire",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "entire-internet",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "internet-read",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "read-search",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "search-twitter",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "twitter-reddit",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "youtube-bilibili",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "bilibili-xiaohongshu",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "xiaohongshu-cli",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "cli-zero",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "zero-api",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "api-fees",
+      "score": 332.88,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "runtime",
+      "score": 329.22,
+      "languages": [
+        "JavaScript",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "llm",
+      "score": 327.53,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "deno",
+      "score": 325.21,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "codex-opencode",
+      "score": 318.66,
+      "languages": [
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "slug": "opencode-cursor",
+      "score": 318.66,
+      "languages": [
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "slug": "database",
+      "score": 318.45,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "pytorch",
+      "score": 312.93,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "lightweight",
+      "score": 306.24,
+      "languages": [
+        "Rust",
+        "Swift"
+      ]
+    },
+    {
+      "slug": "angular",
+      "score": 304.38,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "world",
+      "score": 298.41,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "workflows",
+      "score": 296.66,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "generate",
+      "score": 294.1,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "slug": "across",
+      "score": 293.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "good",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "stops",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "generating",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "boring",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "generic",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "slop",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "skill-gives",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "gives-good",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "good-taste",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "taste-stops",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "stops-generating",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "generating-boring",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "boring-generic",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "generic-slop",
+      "score": 292.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "beyond",
+      "score": 290.34,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "tailwindcss",
+      "score": 290.02,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "clean-code-javascript",
+      "score": 289.98,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "clean-javascript",
+      "score": 289.98,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "moby",
+      "score": 287.48,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "memory",
+      "score": 286.47,
+      "languages": [
+        "JavaScript",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "bun",
+      "score": 283.51,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "copilot",
+      "score": 278.77,
+      "languages": [
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "ansible",
+      "score": 278.69,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "harness",
+      "score": 278.59,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "available",
+      "score": 277.7,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "short",
+      "score": 276.47,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "generate-short",
+      "score": 276.47,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "short-videos",
+      "score": 276.47,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "videos-click",
+      "score": 276.47,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "click-llm",
+      "score": 276.47,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "opencode",
+      "score": 272.47,
+      "languages": [
+        "Go",
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "agent-skill",
+      "score": 271.15,
+      "languages": [
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "slug": "plugins",
+      "score": 267.79,
+      "languages": [
+        "",
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "slug": "django",
+      "score": 266.68,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "researches",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "topic",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "polymarket",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "synthesizes",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "grounded",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "summary",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "skill-researches",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "researches-topic",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "topic-across",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "across-reddit",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "youtube-polymarket",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "polymarket-web",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "web-synthesizes",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "synthesizes-grounded",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "grounded-summary",
+      "score": 266.44,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "collection",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "publicly",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "channels",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "over",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "collection-publicly",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "publicly-available",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "available-iptv",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "iptv-channels",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "channels-over",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "over-world",
+      "score": 266.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "svelte",
+      "score": 265.55,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "design",
+      "score": 265.37,
+      "languages": [
+        "Haskell",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "gpt",
+      "score": 265.12,
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "prometheus",
+      "score": 263.38,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "nist",
+      "score": 260.27,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "mac",
+      "score": 259.57,
+      "languages": [
+        "Rust",
+        "Swift"
+      ]
+    },
+    {
+      "slug": "graphify",
+      "score": 259.09,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "containers",
+      "score": 257.6,
+      "languages": [
+        "Go",
+        "Swift"
+      ]
+    },
+    {
+      "slug": "methodology",
+      "score": 257.51,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "skills-software",
+      "score": 257.51,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "software-development",
+      "score": 257.51,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "development-methodology",
+      "score": 257.51,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "token",
+      "score": 254.33,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "optimized",
+      "score": 245.84,
+      "languages": [
+        "Go",
+        "Swift"
+      ]
+    },
+    {
+      "slug": "gemini-cli",
+      "score": 244.33,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "creating",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "linux",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "virtual",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "machines",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "written",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "swift",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "apple",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "silicon",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "creating-linux",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "linux-containers",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "containers-lightweight",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "lightweight-virtual",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "virtual-machines",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "machines-mac",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "mac-written",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "written-swift",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "swift-optimized",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "optimized-apple",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "apple-silicon",
+      "score": 238.86,
+      "languages": [
+        "Swift"
+      ]
+    },
+    {
+      "slug": "terminal",
+      "score": 235.51,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "implementation",
+      "score": 234.81,
+      "languages": [
+        "Go",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "elasticsearch",
+      "score": 234.27,
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "slug": "performance",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "optimization",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "instincts",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "agent-harness",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "harness-performance",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "performance-optimization",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "optimization-system",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "system-skills",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "skills-instincts",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "instincts-memory",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "memory-security",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "security-research",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "first-development",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "development-claude",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "cursor-beyond",
+      "score": 232.29,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "graph",
+      "score": 230.41,
+      "languages": [
+        "C",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "ai-powered",
+      "score": 225.7,
+      "languages": [
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "slug": "studio",
+      "score": 220.55,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "self-hosted",
+      "score": 220.55,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "platform",
+      "score": 220.52,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "cursor-gemini",
+      "score": 216.5,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "postgres",
+      "score": 213.72,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "javascript-runtime",
+      "score": 213.27,
+      "languages": [
+        "JavaScript",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "visual",
+      "score": 212.81,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "tohttps",
+      "score": 210.86,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "github-com",
+      "score": 210.86,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "vuejs",
+      "score": 210.86,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "vue-vue",
+      "score": 210.86,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "vue-tohttps",
+      "score": 210.86,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "tohttps-com",
+      "score": 210.86,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "com-vuejs",
+      "score": 210.86,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "vuejs-core",
+      "score": 210.86,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "prettier",
+      "score": 209.83,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "express",
+      "score": 209.12,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "applications",
+      "score": 206.2,
+      "languages": [
+        "Go",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "server",
+      "score": 199.48,
+      "languages": [
+        "C",
+        "Go",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "webpack",
+      "score": 199.06,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "modules",
+      "score": 199.06,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "chrome-devtools",
+      "score": 197.97,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "terraform",
+      "score": 197.76,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "tools",
+      "score": 195.14,
+      "languages": [
+        "Python",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "management",
+      "score": 194.7,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "natural",
+      "score": 194.3,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "natural-language",
+      "score": 194.3,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "scripts",
+      "score": 193.86,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "utility-first",
+      "score": 193.34,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "production",
+      "score": 189.1,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "visual-studio",
+      "score": 188.2,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "strix",
+      "score": 187.43,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "tasks",
+      "score": 183.82,
+      "languages": [
+        "Go",
+        "JavaScript",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "powerful",
+      "score": 182.91,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "claude-skill",
+      "score": 179.64,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "dbx",
+      "score": 178.15,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "many",
+      "score": 177.69,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "systems",
+      "score": 175.57,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "language-commands",
+      "score": 171.96,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "tokens",
+      "score": 168.98,
+      "languages": [
+        "C",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "coding-agents",
+      "score": 168.84,
+      "languages": [
+        "Go",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "control",
+      "score": 168.56,
+      "languages": [
+        "Go",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "community",
+      "score": 168.11,
+      "languages": [
+        "Go",
+        "Shell"
+      ]
+    },
+    {
+      "slug": "helps",
+      "score": 167.91,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "apps",
+      "score": 167.56,
+      "languages": [
+        "Haskell",
+        "Rust",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "building",
+      "score": 165.98,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "deploying",
+      "score": 165.98,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "agentic-coding",
+      "score": 164.68,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "first",
+      "score": 163.21,
+      "languages": [
+        "Haskell",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "css",
+      "score": 163.02,
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "standard",
+      "score": 162.91,
+      "languages": [
+        "Go",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "bundler",
+      "score": 160.86,
+      "languages": [
+        "JavaScript",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "automation",
+      "score": 158.77,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "faster",
+      "score": 158.31,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "langflow-powerful",
+      "score": 157.4,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "powerful-building",
+      "score": 157.4,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "building-deploying",
+      "score": 157.4,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "deploying-powered",
+      "score": 157.4,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "powered-agents",
+      "score": 157.4,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "agents-workflows",
+      "score": 157.4,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "node-js",
+      "score": 155.84,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "go-ethereum",
+      "score": 155.07,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "structured",
+      "score": 154.75,
+      "languages": [
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "lives",
+      "score": 154.05,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "lives-terminal",
+      "score": 154.05,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "goose",
+      "score": 153.2,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "images",
+      "score": 152.72,
+      "languages": [
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "slug": "cli-cursor",
+      "score": 151.27,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "configuration",
+      "score": 149.52,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "flexibility",
+      "score": 149.48,
+      "languages": [
+        "Go",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "infrastructure",
+      "score": 149.41,
+      "languages": [
+        "Go",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "chrome-devtools-mcp",
+      "score": 148.48,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "devtools-mcp",
+      "score": 148.48,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "claude-skills",
+      "score": 147.94,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "domains",
+      "score": 145.7,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "test",
+      "score": 145.57,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "antigravity",
+      "score": 144.57,
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "tailscale",
+      "score": 142.92,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "react",
+      "score": 141.16,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "notebook",
+      "score": 140.89,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "features",
+      "score": 140.89,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "implementation-notebook",
+      "score": 140.89,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "notebook-flexibility",
+      "score": 140.89,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "flexibility-features",
+      "score": 140.89,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "systems-https",
+      "score": 139.35,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "knowledge",
+      "score": 139.3,
+      "languages": [
+        "C",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "impeccable",
+      "score": 138.9,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "assistant",
+      "score": 138.79,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "knowledge-graph",
+      "score": 138.65,
+      "languages": [
+        "C",
+        "Python"
+      ]
+    },
+    {
+      "slug": "complete",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "agency",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "fingertips",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "frontend",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "wizards",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "ninjas",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "whimsy",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "injectors",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "reality",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "checkers",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "specialized",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "expert",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "personality",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "processes",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "proven",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "deliverables",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "complete-agency",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "agency-fingertips",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "fingertips-frontend",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "frontend-wizards",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "wizards-reddit",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "reddit-community",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "community-ninjas",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "ninjas-whimsy",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "whimsy-injectors",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "injectors-reality",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "reality-checkers",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "checkers-agent",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "agent-specialized",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "specialized-expert",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "expert-personality",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "personality-processes",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "processes-proven",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "proven-deliverables",
+      "score": 138.44,
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "slug": "understands",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "executing",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "routine",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "explaining",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "complex",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "handling",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "claude-agentic",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "coding-lives",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "terminal-understands",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "understands-codebase",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "codebase-helps",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "helps-faster",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "faster-executing",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "executing-routine",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "routine-tasks",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "tasks-explaining",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "explaining-complex",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "complex-handling",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "handling-workflows",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "workflows-natural",
+      "score": 138.24,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "programming-language",
+      "score": 136.02,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "apache",
+      "score": 135.88,
+      "languages": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "slug": "page-agent",
+      "score": 134.06,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "networks",
+      "score": 133.98,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "execution",
+      "score": 131.51,
+      "languages": [
+        "",
+        "Python"
+      ]
+    },
+    {
+      "slug": "mapped",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "frameworks",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "att",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "csf",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "atlas",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "d3fend",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "rmf",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "fight",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "fraud",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "agentskills-io",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "platforms",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "structured-cybersecurity",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "skills-agents",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "agents-mapped",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "mapped-frameworks",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "frameworks-mitre",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "mitre-att",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "att-nist",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "nist-csf",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "csf-mitre",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "mitre-atlas",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "atlas-d3fend",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "d3fend-nist",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "nist-rmf",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "rmf-mitre",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "mitre-fight",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "fight-fraud",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "fraud-agentskills",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "agentskills-standard",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "standard-claude",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "claude-copilot",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "copilot-codex",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "codex-cli",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "cli-platforms",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "platforms-security",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "security-domains",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "domains-apache",
+      "score": 130.14,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "modern",
+      "score": 128.43,
+      "languages": [
+        "Go",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "headscale",
+      "score": 126.68,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "manager",
+      "score": 126.65,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "marketplace",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "discovery",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "strategy",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "launch",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "growth",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "skills-marketplace",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "marketplace-agentic",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "skills-commands",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "commands-plugins",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "plugins-discovery",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "discovery-strategy",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "strategy-execution",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "execution-launch",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "launch-growth",
+      "score": 126.53,
+      "languages": [
+        ""
+      ]
+    },
+    {
+      "slug": "instant",
+      "score": 124.48,
+      "languages": [
+        "JavaScript",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "grade",
+      "score": 124.39,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "scheduling",
+      "score": 124.39,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "production-grade",
+      "score": 124.39,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "grade-container",
+      "score": 124.39,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "container-scheduling",
+      "score": 124.39,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "scheduling-management",
+      "score": 124.39,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "free-claude-code",
+      "score": 122.29,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "sniffnet",
+      "score": 122.17,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "vulnerabilities",
+      "score": 121.82,
+      "languages": [
+        "Go",
+        "Python"
+      ]
+    },
+    {
+      "slug": "install",
+      "score": 120.74,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "cloud",
+      "score": 119.41,
+      "languages": [
+        "Go",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "node-javascript",
+      "score": 118.77,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "cross-platform",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "postgre",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "lite",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "redis",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "mongo",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "duck",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "house",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "mysql-postgresql",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "postgresql-sqlite",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "sqlite-redis",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "redis-mongodb",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "mongodb-duckdb",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "duckdb-clickhouse",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "clickhouse-sql",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "sql-server",
+      "score": 118.76,
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "slug": "turn",
+      "score": 118.72,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "coding-assistant",
+      "score": 118.72,
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "slug": "nuclei",
+      "score": 118.68,
+      "languages": [
+        "Go"
+      ]
+    },
+    {
+      "slug": "mobile",
+      "score": 118.5,
+      "languages": [
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "shell",
+      "score": 116.54,
+      "languages": [
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "slug": "extracted",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "prompts",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "fable",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "opus",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "chat",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "thinking",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "google",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "flash",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "grok",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "perplexity",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "updated",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "regularly",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "extracted-system",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "system-prompts",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "prompts-anthropic",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "anthropic-claude",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "claude-fable",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "fable-opus",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "opus-claude",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "claude-claude",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "claude-design",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "design-openai",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "openai-chatgpt",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "chatgpt-thinking",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "thinking-gpt",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    },
+    {
+      "slug": "gpt-instant",
+      "score": 116.48,
+      "languages": [
+        "JavaScript"
+      ]
+    }
+  ]
+}

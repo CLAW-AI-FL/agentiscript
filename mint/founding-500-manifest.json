@@ -1,0 +1,3008 @@
+{
+  "collection": "The Founding",
+  "date": "2026-07-04",
+  "total": 500,
+  "items": [
+    {
+      "slug": "alabama",
+      "abbr": "AL",
+      "subtext": "state",
+      "svg": "alabama.svg"
+    },
+    {
+      "slug": "alaska",
+      "abbr": "AK",
+      "subtext": "state",
+      "svg": "alaska.svg"
+    },
+    {
+      "slug": "arizona",
+      "abbr": "AZ",
+      "subtext": "state",
+      "svg": "arizona.svg"
+    },
+    {
+      "slug": "arkansas",
+      "abbr": "AR",
+      "subtext": "state",
+      "svg": "arkansas.svg"
+    },
+    {
+      "slug": "california",
+      "abbr": "CA",
+      "subtext": "state",
+      "svg": "california.svg"
+    },
+    {
+      "slug": "colorado",
+      "abbr": "CO",
+      "subtext": "state",
+      "svg": "colorado.svg"
+    },
+    {
+      "slug": "connecticut",
+      "abbr": "CT",
+      "subtext": "state",
+      "svg": "connecticut.svg"
+    },
+    {
+      "slug": "delaware",
+      "abbr": "DE",
+      "subtext": "state",
+      "svg": "delaware.svg"
+    },
+    {
+      "slug": "georgia",
+      "abbr": "GA",
+      "subtext": "state",
+      "svg": "georgia.svg"
+    },
+    {
+      "slug": "hawaii",
+      "abbr": "HI",
+      "subtext": "state",
+      "svg": "hawaii.svg"
+    },
+    {
+      "slug": "idaho",
+      "abbr": "ID",
+      "subtext": "state",
+      "svg": "idaho.svg"
+    },
+    {
+      "slug": "illinois",
+      "abbr": "IL",
+      "subtext": "state",
+      "svg": "illinois.svg"
+    },
+    {
+      "slug": "indiana",
+      "abbr": "IN",
+      "subtext": "state",
+      "svg": "indiana.svg"
+    },
+    {
+      "slug": "iowa",
+      "abbr": "IA",
+      "subtext": "state",
+      "svg": "iowa.svg"
+    },
+    {
+      "slug": "kansas",
+      "abbr": "KS",
+      "subtext": "state",
+      "svg": "kansas.svg"
+    },
+    {
+      "slug": "kentucky",
+      "abbr": "KY",
+      "subtext": "state",
+      "svg": "kentucky.svg"
+    },
+    {
+      "slug": "louisiana",
+      "abbr": "LA",
+      "subtext": "state",
+      "svg": "louisiana.svg"
+    },
+    {
+      "slug": "maine",
+      "abbr": "ME",
+      "subtext": "state",
+      "svg": "maine.svg"
+    },
+    {
+      "slug": "maryland",
+      "abbr": "MD",
+      "subtext": "state",
+      "svg": "maryland.svg"
+    },
+    {
+      "slug": "massachusetts",
+      "abbr": "MA",
+      "subtext": "state",
+      "svg": "massachusetts.svg"
+    },
+    {
+      "slug": "michigan",
+      "abbr": "MI",
+      "subtext": "state",
+      "svg": "michigan.svg"
+    },
+    {
+      "slug": "minnesota",
+      "abbr": "MN",
+      "subtext": "state",
+      "svg": "minnesota.svg"
+    },
+    {
+      "slug": "mississippi",
+      "abbr": "MS",
+      "subtext": "state",
+      "svg": "mississippi.svg"
+    },
+    {
+      "slug": "missouri",
+      "abbr": "MO",
+      "subtext": "state",
+      "svg": "missouri.svg"
+    },
+    {
+      "slug": "montana",
+      "abbr": "MT",
+      "subtext": "state",
+      "svg": "montana.svg"
+    },
+    {
+      "slug": "nebraska",
+      "abbr": "NE",
+      "subtext": "state",
+      "svg": "nebraska.svg"
+    },
+    {
+      "slug": "nevada",
+      "abbr": "NV",
+      "subtext": "state",
+      "svg": "nevada.svg"
+    },
+    {
+      "slug": "new-hampshire",
+      "abbr": "NH",
+      "subtext": "state",
+      "svg": "new-hampshire.svg"
+    },
+    {
+      "slug": "new-jersey",
+      "abbr": "NJ",
+      "subtext": "state",
+      "svg": "new-jersey.svg"
+    },
+    {
+      "slug": "new-mexico",
+      "abbr": "NM",
+      "subtext": "state",
+      "svg": "new-mexico.svg"
+    },
+    {
+      "slug": "new-york",
+      "abbr": "NY",
+      "subtext": "state",
+      "svg": "new-york.svg"
+    },
+    {
+      "slug": "north-carolina",
+      "abbr": "NC",
+      "subtext": "state",
+      "svg": "north-carolina.svg"
+    },
+    {
+      "slug": "north-dakota",
+      "abbr": "ND",
+      "subtext": "state",
+      "svg": "north-dakota.svg"
+    },
+    {
+      "slug": "ohio",
+      "abbr": "OH",
+      "subtext": "state",
+      "svg": "ohio.svg"
+    },
+    {
+      "slug": "oklahoma",
+      "abbr": "OK",
+      "subtext": "state",
+      "svg": "oklahoma.svg"
+    },
+    {
+      "slug": "oregon",
+      "abbr": "OR",
+      "subtext": "state",
+      "svg": "oregon.svg"
+    },
+    {
+      "slug": "pennsylvania",
+      "abbr": "PA",
+      "subtext": "state",
+      "svg": "pennsylvania.svg"
+    },
+    {
+      "slug": "rhode-island",
+      "abbr": "RI",
+      "subtext": "state",
+      "svg": "rhode-island.svg"
+    },
+    {
+      "slug": "south-carolina",
+      "abbr": "SC",
+      "subtext": "state",
+      "svg": "south-carolina.svg"
+    },
+    {
+      "slug": "south-dakota",
+      "abbr": "SD",
+      "subtext": "state",
+      "svg": "south-dakota.svg"
+    },
+    {
+      "slug": "tennessee",
+      "abbr": "TN",
+      "subtext": "state",
+      "svg": "tennessee.svg"
+    },
+    {
+      "slug": "texas",
+      "abbr": "TX",
+      "subtext": "state",
+      "svg": "texas.svg"
+    },
+    {
+      "slug": "utah",
+      "abbr": "UT",
+      "subtext": "state",
+      "svg": "utah.svg"
+    },
+    {
+      "slug": "vermont",
+      "abbr": "VT",
+      "subtext": "state",
+      "svg": "vermont.svg"
+    },
+    {
+      "slug": "virginia",
+      "abbr": "VA",
+      "subtext": "state",
+      "svg": "virginia.svg"
+    },
+    {
+      "slug": "washington-state",
+      "abbr": "WA",
+      "subtext": "state",
+      "svg": "washington-state.svg"
+    },
+    {
+      "slug": "west-virginia",
+      "abbr": "WV",
+      "subtext": "state",
+      "svg": "west-virginia.svg"
+    },
+    {
+      "slug": "wisconsin",
+      "abbr": "WI",
+      "subtext": "state",
+      "svg": "wisconsin.svg"
+    },
+    {
+      "slug": "wyoming",
+      "abbr": "WY",
+      "subtext": "state",
+      "svg": "wyoming.svg"
+    },
+    {
+      "slug": "washington-dc",
+      "abbr": "DC",
+      "subtext": "capital",
+      "svg": "washington-dc.svg"
+    },
+    {
+      "slug": "puerto-rico",
+      "abbr": "PR",
+      "subtext": "territory",
+      "svg": "puerto-rico.svg"
+    },
+    {
+      "slug": "guam",
+      "abbr": "GU",
+      "subtext": "territory",
+      "svg": "guam.svg"
+    },
+    {
+      "slug": "us-virgin-islands",
+      "abbr": "USVI",
+      "subtext": "territory",
+      "svg": "us-virgin-islands.svg"
+    },
+    {
+      "slug": "american-samoa",
+      "abbr": "AS",
+      "subtext": "territory",
+      "svg": "american-samoa.svg"
+    },
+    {
+      "slug": "northern-mariana-islands",
+      "abbr": "CNMI",
+      "subtext": "territory",
+      "svg": "northern-mariana-islands.svg"
+    },
+    {
+      "slug": "george-washington-president",
+      "abbr": "WASH",
+      "subtext": "1st president",
+      "svg": "george-washington-president.svg"
+    },
+    {
+      "slug": "john-adams-president",
+      "abbr": "ADAMS",
+      "subtext": "2nd president",
+      "svg": "john-adams-president.svg"
+    },
+    {
+      "slug": "thomas-jefferson-president",
+      "abbr": "JEFF",
+      "subtext": "3rd president",
+      "svg": "thomas-jefferson-president.svg"
+    },
+    {
+      "slug": "james-madison-president",
+      "abbr": "MADISN",
+      "subtext": "4th president",
+      "svg": "james-madison-president.svg"
+    },
+    {
+      "slug": "james-monroe-president",
+      "abbr": "MONRO",
+      "subtext": "5th president",
+      "svg": "james-monroe-president.svg"
+    },
+    {
+      "slug": "john-quincy-adams-president",
+      "abbr": "JQA",
+      "subtext": "6th president",
+      "svg": "john-quincy-adams-president.svg"
+    },
+    {
+      "slug": "andrew-jackson-president",
+      "abbr": "JACKN",
+      "subtext": "7th president",
+      "svg": "andrew-jackson-president.svg"
+    },
+    {
+      "slug": "martin-van-buren-president",
+      "abbr": "VAN-B",
+      "subtext": "8th president",
+      "svg": "martin-van-buren-president.svg"
+    },
+    {
+      "slug": "william-henry-harrison-president",
+      "abbr": "WHH",
+      "subtext": "9th president",
+      "svg": "william-henry-harrison-president.svg"
+    },
+    {
+      "slug": "john-tyler-president",
+      "abbr": "TYLER",
+      "subtext": "10th president",
+      "svg": "john-tyler-president.svg"
+    },
+    {
+      "slug": "james-polk-president",
+      "abbr": "POLK",
+      "subtext": "11th president",
+      "svg": "james-polk-president.svg"
+    },
+    {
+      "slug": "zachary-taylor-president",
+      "abbr": "TAYLO",
+      "subtext": "12th president",
+      "svg": "zachary-taylor-president.svg"
+    },
+    {
+      "slug": "millard-fillmore-president",
+      "abbr": "FILLM",
+      "subtext": "13th president",
+      "svg": "millard-fillmore-president.svg"
+    },
+    {
+      "slug": "franklin-pierce-president",
+      "abbr": "PIERC",
+      "subtext": "14th president",
+      "svg": "franklin-pierce-president.svg"
+    },
+    {
+      "slug": "james-buchanan-president",
+      "abbr": "BUCH",
+      "subtext": "15th president",
+      "svg": "james-buchanan-president.svg"
+    },
+    {
+      "slug": "abraham-lincoln-president",
+      "abbr": "LINCO",
+      "subtext": "16th president",
+      "svg": "abraham-lincoln-president.svg"
+    },
+    {
+      "slug": "andrew-johnson-president",
+      "abbr": "A-JHSN",
+      "subtext": "17th president",
+      "svg": "andrew-johnson-president.svg"
+    },
+    {
+      "slug": "ulysses-grant-president",
+      "abbr": "GRANT",
+      "subtext": "18th president",
+      "svg": "ulysses-grant-president.svg"
+    },
+    {
+      "slug": "rutherford-hayes-president",
+      "abbr": "HAYES",
+      "subtext": "19th president",
+      "svg": "rutherford-hayes-president.svg"
+    },
+    {
+      "slug": "james-garfield-president",
+      "abbr": "GARFLD",
+      "subtext": "20th president",
+      "svg": "james-garfield-president.svg"
+    },
+    {
+      "slug": "chester-arthur-president",
+      "abbr": "ARTHR",
+      "subtext": "21st president",
+      "svg": "chester-arthur-president.svg"
+    },
+    {
+      "slug": "grover-cleveland-president",
+      "abbr": "CLEVE",
+      "subtext": "22nd president",
+      "svg": "grover-cleveland-president.svg"
+    },
+    {
+      "slug": "benjamin-harrison-president",
+      "abbr": "B-HARR",
+      "subtext": "23rd president",
+      "svg": "benjamin-harrison-president.svg"
+    },
+    {
+      "slug": "william-mckinley-president",
+      "abbr": "MCKLY",
+      "subtext": "25th president",
+      "svg": "william-mckinley-president.svg"
+    },
+    {
+      "slug": "theodore-roosevelt-president",
+      "abbr": "T-ROSV",
+      "subtext": "26th president",
+      "svg": "theodore-roosevelt-president.svg"
+    },
+    {
+      "slug": "william-taft-president",
+      "abbr": "TAFT",
+      "subtext": "27th president",
+      "svg": "william-taft-president.svg"
+    },
+    {
+      "slug": "woodrow-wilson-president",
+      "abbr": "WILSN",
+      "subtext": "28th president",
+      "svg": "woodrow-wilson-president.svg"
+    },
+    {
+      "slug": "warren-harding-president",
+      "abbr": "HRDNG",
+      "subtext": "29th president",
+      "svg": "warren-harding-president.svg"
+    },
+    {
+      "slug": "calvin-coolidge-president",
+      "abbr": "COOL",
+      "subtext": "30th president",
+      "svg": "calvin-coolidge-president.svg"
+    },
+    {
+      "slug": "herbert-hoover-president",
+      "abbr": "HOOVR",
+      "subtext": "31st president",
+      "svg": "herbert-hoover-president.svg"
+    },
+    {
+      "slug": "franklin-roosevelt-president",
+      "abbr": "FDR",
+      "subtext": "32nd president",
+      "svg": "franklin-roosevelt-president.svg"
+    },
+    {
+      "slug": "harry-truman-president",
+      "abbr": "TRUMN",
+      "subtext": "33rd president",
+      "svg": "harry-truman-president.svg"
+    },
+    {
+      "slug": "dwight-eisenhower-president",
+      "abbr": "IKE",
+      "subtext": "34th president",
+      "svg": "dwight-eisenhower-president.svg"
+    },
+    {
+      "slug": "john-kennedy-president",
+      "abbr": "JFK",
+      "subtext": "35th president",
+      "svg": "john-kennedy-president.svg"
+    },
+    {
+      "slug": "lyndon-johnson-president",
+      "abbr": "LBJ",
+      "subtext": "36th president",
+      "svg": "lyndon-johnson-president.svg"
+    },
+    {
+      "slug": "richard-nixon-president",
+      "abbr": "NIXN",
+      "subtext": "37th president",
+      "svg": "richard-nixon-president.svg"
+    },
+    {
+      "slug": "gerald-ford-president",
+      "abbr": "FORD",
+      "subtext": "38th president",
+      "svg": "gerald-ford-president.svg"
+    },
+    {
+      "slug": "jimmy-carter-president",
+      "abbr": "CARTR",
+      "subtext": "39th president",
+      "svg": "jimmy-carter-president.svg"
+    },
+    {
+      "slug": "ronald-reagan-president",
+      "abbr": "REAGN",
+      "subtext": "40th president",
+      "svg": "ronald-reagan-president.svg"
+    },
+    {
+      "slug": "george-hw-bush-president",
+      "abbr": "GHWB",
+      "subtext": "41st president",
+      "svg": "george-hw-bush-president.svg"
+    },
+    {
+      "slug": "bill-clinton-president",
+      "abbr": "CLNTN",
+      "subtext": "42nd president",
+      "svg": "bill-clinton-president.svg"
+    },
+    {
+      "slug": "george-w-bush-president",
+      "abbr": "GWB",
+      "subtext": "43rd president",
+      "svg": "george-w-bush-president.svg"
+    },
+    {
+      "slug": "barack-obama-president",
+      "abbr": "OBAMA",
+      "subtext": "44th president",
+      "svg": "barack-obama-president.svg"
+    },
+    {
+      "slug": "donald-trump-president",
+      "abbr": "TRUMP",
+      "subtext": "45th/47th",
+      "svg": "donald-trump-president.svg"
+    },
+    {
+      "slug": "joe-biden-president",
+      "abbr": "BIDEN",
+      "subtext": "46th president",
+      "svg": "joe-biden-president.svg"
+    },
+    {
+      "slug": "benjamin-franklin-founding",
+      "abbr": "B-FRANK",
+      "subtext": "founder",
+      "svg": "benjamin-franklin-founding.svg"
+    },
+    {
+      "slug": "alexander-hamilton-founding",
+      "abbr": "HAMILT",
+      "subtext": "founder",
+      "svg": "alexander-hamilton-founding.svg"
+    },
+    {
+      "slug": "john-jay-founding",
+      "abbr": "J-JAY",
+      "subtext": "founder",
+      "svg": "john-jay-founding.svg"
+    },
+    {
+      "slug": "samuel-adams-founding",
+      "abbr": "S-ADAMS",
+      "subtext": "founder",
+      "svg": "samuel-adams-founding.svg"
+    },
+    {
+      "slug": "patrick-henry-founding",
+      "abbr": "P-HENRY",
+      "subtext": "founder",
+      "svg": "patrick-henry-founding.svg"
+    },
+    {
+      "slug": "paul-revere-founding",
+      "abbr": "REVERE",
+      "subtext": "founder",
+      "svg": "paul-revere-founding.svg"
+    },
+    {
+      "slug": "betsy-ross-founding",
+      "abbr": "B-ROSS",
+      "subtext": "founder",
+      "svg": "betsy-ross-founding.svg"
+    },
+    {
+      "slug": "thomas-paine-founding",
+      "abbr": "PAINE",
+      "subtext": "founder",
+      "svg": "thomas-paine-founding.svg"
+    },
+    {
+      "slug": "john-hancock-founding",
+      "abbr": "HANCCK",
+      "subtext": "founder",
+      "svg": "john-hancock-founding.svg"
+    },
+    {
+      "slug": "james-wilson-founding",
+      "abbr": "J-WLSN",
+      "subtext": "founder",
+      "svg": "james-wilson-founding.svg"
+    },
+    {
+      "slug": "declaration-of-independence",
+      "abbr": "DECL",
+      "subtext": "1776",
+      "svg": "declaration-of-independence.svg"
+    },
+    {
+      "slug": "us-constitution",
+      "abbr": "CONST",
+      "subtext": "1787",
+      "svg": "us-constitution.svg"
+    },
+    {
+      "slug": "bill-of-rights",
+      "abbr": "B-RGHTS",
+      "subtext": "1791",
+      "svg": "bill-of-rights.svg"
+    },
+    {
+      "slug": "federalist-papers",
+      "abbr": "FED-P",
+      "subtext": "founding",
+      "svg": "federalist-papers.svg"
+    },
+    {
+      "slug": "gettysburg-address",
+      "abbr": "GETTY",
+      "subtext": "1863",
+      "svg": "gettysburg-address.svg"
+    },
+    {
+      "slug": "battle-of-yorktown",
+      "abbr": "YORKTWN",
+      "subtext": "1781",
+      "svg": "battle-of-yorktown.svg"
+    },
+    {
+      "slug": "battle-of-bunker-hill",
+      "abbr": "BUNKR-H",
+      "subtext": "1775",
+      "svg": "battle-of-bunker-hill.svg"
+    },
+    {
+      "slug": "battle-of-lexington",
+      "abbr": "LEXNGTN",
+      "subtext": "1775",
+      "svg": "battle-of-lexington.svg"
+    },
+    {
+      "slug": "continental-congress",
+      "abbr": "CONT-C",
+      "subtext": "founding",
+      "svg": "continental-congress.svg"
+    },
+    {
+      "slug": "emancipation-proclamation",
+      "abbr": "EMANCIP",
+      "subtext": "1863",
+      "svg": "emancipation-proclamation.svg"
+    },
+    {
+      "slug": "statue-of-liberty",
+      "abbr": "LIBERTY",
+      "subtext": "new york",
+      "svg": "statue-of-liberty.svg"
+    },
+    {
+      "slug": "liberty-bell",
+      "abbr": "LIB-BELL",
+      "subtext": "philly",
+      "svg": "liberty-bell.svg"
+    },
+    {
+      "slug": "mount-rushmore",
+      "abbr": "RUSHMORE",
+      "subtext": "SD",
+      "svg": "mount-rushmore.svg"
+    },
+    {
+      "slug": "washington-monument",
+      "abbr": "WASH-MON",
+      "subtext": "DC",
+      "svg": "washington-monument.svg"
+    },
+    {
+      "slug": "lincoln-memorial",
+      "abbr": "LINC-MEM",
+      "subtext": "DC",
+      "svg": "lincoln-memorial.svg"
+    },
+    {
+      "slug": "us-capitol-building",
+      "abbr": "CAPITOL",
+      "subtext": "DC",
+      "svg": "us-capitol-building.svg"
+    },
+    {
+      "slug": "white-house",
+      "abbr": "WHITE-H",
+      "subtext": "DC",
+      "svg": "white-house.svg"
+    },
+    {
+      "slug": "golden-gate-bridge",
+      "abbr": "GOLD-GT",
+      "subtext": "SF",
+      "svg": "golden-gate-bridge.svg"
+    },
+    {
+      "slug": "grand-canyon",
+      "abbr": "GRD-CYN",
+      "subtext": "AZ",
+      "svg": "grand-canyon.svg"
+    },
+    {
+      "slug": "yellowstone",
+      "abbr": "YLWSTNE",
+      "subtext": "WY",
+      "svg": "yellowstone.svg"
+    },
+    {
+      "slug": "niagara-falls",
+      "abbr": "NIAGRA",
+      "subtext": "NY",
+      "svg": "niagara-falls.svg"
+    },
+    {
+      "slug": "everglades",
+      "abbr": "EVRGLDES",
+      "subtext": "FL",
+      "svg": "everglades.svg"
+    },
+    {
+      "slug": "times-square",
+      "abbr": "TIMES-SQ",
+      "subtext": "NYC",
+      "svg": "times-square.svg"
+    },
+    {
+      "slug": "las-vegas-strip",
+      "abbr": "LV-STRIP",
+      "subtext": "NV",
+      "svg": "las-vegas-strip.svg"
+    },
+    {
+      "slug": "hollywood-sign",
+      "abbr": "HOLLYWOD",
+      "subtext": "CA",
+      "svg": "hollywood-sign.svg"
+    },
+    {
+      "slug": "americas-250th",
+      "abbr": "250TH",
+      "subtext": "1776-2026",
+      "svg": "americas-250th.svg"
+    },
+    {
+      "slug": "semiquincentennial",
+      "abbr": "SEMI-Q",
+      "subtext": "250 years",
+      "svg": "semiquincentennial.svg"
+    },
+    {
+      "slug": "independence-day-usa",
+      "abbr": "INDY-DAY",
+      "subtext": "july 4",
+      "svg": "independence-day-usa.svg"
+    },
+    {
+      "slug": "july-fourth",
+      "abbr": "JULY 4TH",
+      "subtext": "2026",
+      "svg": "july-fourth.svg"
+    },
+    {
+      "slug": "bald-eagle",
+      "abbr": "EAGLE",
+      "subtext": "symbol",
+      "svg": "bald-eagle.svg"
+    },
+    {
+      "slug": "fireworks-display",
+      "abbr": "FIREWRKS",
+      "subtext": "july 4",
+      "svg": "fireworks-display.svg"
+    },
+    {
+      "slug": "american-patriotism",
+      "abbr": "PATRIOT",
+      "subtext": "usa",
+      "svg": "american-patriotism.svg"
+    },
+    {
+      "slug": "red-white-blue",
+      "abbr": "RWB",
+      "subtext": "colors",
+      "svg": "red-white-blue.svg"
+    },
+    {
+      "slug": "old-glory",
+      "abbr": "OLD GLORY",
+      "subtext": "flag",
+      "svg": "old-glory.svg"
+    },
+    {
+      "slug": "star-spangled-banner",
+      "abbr": "SSB",
+      "subtext": "anthem",
+      "svg": "star-spangled-banner.svg"
+    },
+    {
+      "slug": "betsy-ross-flag",
+      "abbr": "BETSY",
+      "subtext": "13 stars",
+      "svg": "betsy-ross-flag.svg"
+    },
+    {
+      "slug": "fourth-of-july-celebration",
+      "abbr": "4TH JULY",
+      "subtext": "freedom",
+      "svg": "fourth-of-july-celebration.svg"
+    },
+    {
+      "slug": "america-first",
+      "abbr": "AMRC 1ST",
+      "subtext": "usa",
+      "svg": "america-first.svg"
+    },
+    {
+      "slug": "make-money-online",
+      "abbr": "MAKE $",
+      "subtext": "246K/mo",
+      "svg": "make-money-online.svg"
+    },
+    {
+      "slug": "passive-income-ideas",
+      "abbr": "PASSIVE",
+      "subtext": "165K/mo",
+      "svg": "passive-income-ideas.svg"
+    },
+    {
+      "slug": "real-estate-investing",
+      "abbr": "RE-INVST",
+      "subtext": "110K/mo",
+      "svg": "real-estate-investing.svg"
+    },
+    {
+      "slug": "entrepreneurship",
+      "abbr": "ENTREP",
+      "subtext": "american",
+      "svg": "entrepreneurship.svg"
+    },
+    {
+      "slug": "small-business-owner",
+      "abbr": "SM-BIZ",
+      "subtext": "usa",
+      "svg": "small-business-owner.svg"
+    },
+    {
+      "slug": "startup-founder",
+      "abbr": "FOUNDER",
+      "subtext": "silicon",
+      "svg": "startup-founder.svg"
+    },
+    {
+      "slug": "venture-capital",
+      "abbr": "VC",
+      "subtext": "funding",
+      "svg": "venture-capital.svg"
+    },
+    {
+      "slug": "stock-market-investing",
+      "abbr": "STOCKS",
+      "subtext": "wall st",
+      "svg": "stock-market-investing.svg"
+    },
+    {
+      "slug": "401k-retirement",
+      "abbr": "401K",
+      "subtext": "retire",
+      "svg": "401k-retirement.svg"
+    },
+    {
+      "slug": "social-security",
+      "abbr": "SOC-SEC",
+      "subtext": "benefit",
+      "svg": "social-security.svg"
+    },
+    {
+      "slug": "american-manufacturing",
+      "abbr": "MFG",
+      "subtext": "made-usa",
+      "svg": "american-manufacturing.svg"
+    },
+    {
+      "slug": "supply-chain-america",
+      "abbr": "SUPPLY",
+      "subtext": "domestic",
+      "svg": "supply-chain-america.svg"
+    },
+    {
+      "slug": "e-commerce-usa",
+      "abbr": "E-COM",
+      "subtext": "online",
+      "svg": "e-commerce-usa.svg"
+    },
+    {
+      "slug": "gig-economy",
+      "abbr": "GIG",
+      "subtext": "freelance",
+      "svg": "gig-economy.svg"
+    },
+    {
+      "slug": "side-hustle",
+      "abbr": "HUSTLE",
+      "subtext": "income",
+      "svg": "side-hustle.svg"
+    },
+    {
+      "slug": "financial-independence",
+      "abbr": "FI",
+      "subtext": "fire",
+      "svg": "financial-independence.svg"
+    },
+    {
+      "slug": "day-trading",
+      "abbr": "DAY-TRD",
+      "subtext": "markets",
+      "svg": "day-trading.svg"
+    },
+    {
+      "slug": "cryptocurrency-usa",
+      "abbr": "CRYPTO",
+      "subtext": "digital",
+      "svg": "cryptocurrency-usa.svg"
+    },
+    {
+      "slug": "bitcoin-usa",
+      "abbr": "BTC",
+      "subtext": "reserve",
+      "svg": "bitcoin-usa.svg"
+    },
+    {
+      "slug": "federal-reserve",
+      "abbr": "FED-RSV",
+      "subtext": "monetary",
+      "svg": "federal-reserve.svg"
+    },
+    {
+      "slug": "wall-street",
+      "abbr": "WALL ST",
+      "subtext": "finance",
+      "svg": "wall-street.svg"
+    },
+    {
+      "slug": "silicon-valley",
+      "abbr": "SIL-VAL",
+      "subtext": "tech",
+      "svg": "silicon-valley.svg"
+    },
+    {
+      "slug": "american-innovation",
+      "abbr": "INNOVATE",
+      "subtext": "usa",
+      "svg": "american-innovation.svg"
+    },
+    {
+      "slug": "industrial-revolution-usa",
+      "abbr": "IND-REV",
+      "subtext": "history",
+      "svg": "industrial-revolution-usa.svg"
+    },
+    {
+      "slug": "american-steel",
+      "abbr": "STEEL",
+      "subtext": "industry",
+      "svg": "american-steel.svg"
+    },
+    {
+      "slug": "oil-and-gas-usa",
+      "abbr": "OIL-GAS",
+      "subtext": "energy",
+      "svg": "oil-and-gas-usa.svg"
+    },
+    {
+      "slug": "renewable-energy-usa",
+      "abbr": "RENEW",
+      "subtext": "green",
+      "svg": "renewable-energy-usa.svg"
+    },
+    {
+      "slug": "agriculture-usa",
+      "abbr": "AG-USA",
+      "subtext": "farming",
+      "svg": "agriculture-usa.svg"
+    },
+    {
+      "slug": "defense-industry",
+      "abbr": "DEFENSE",
+      "subtext": "usa",
+      "svg": "defense-industry.svg"
+    },
+    {
+      "slug": "healthcare-usa",
+      "abbr": "HEALTH",
+      "subtext": "system",
+      "svg": "healthcare-usa.svg"
+    },
+    {
+      "slug": "education-system-usa",
+      "abbr": "EDU-USA",
+      "subtext": "schools",
+      "svg": "education-system-usa.svg"
+    },
+    {
+      "slug": "immigration-economy",
+      "abbr": "IMMIGR",
+      "subtext": "usa",
+      "svg": "immigration-economy.svg"
+    },
+    {
+      "slug": "minimum-wage",
+      "abbr": "MIN-WAGE",
+      "subtext": "labor",
+      "svg": "minimum-wage.svg"
+    },
+    {
+      "slug": "labor-union",
+      "abbr": "UNION",
+      "subtext": "workers",
+      "svg": "labor-union.svg"
+    },
+    {
+      "slug": "american-middle-class",
+      "abbr": "MID-CLS",
+      "subtext": "usa",
+      "svg": "american-middle-class.svg"
+    },
+    {
+      "slug": "homeownership-usa",
+      "abbr": "HOMEOWN",
+      "subtext": "american",
+      "svg": "homeownership-usa.svg"
+    },
+    {
+      "slug": "american-infrastructure",
+      "abbr": "INFRA",
+      "subtext": "rebuild",
+      "svg": "american-infrastructure.svg"
+    },
+    {
+      "slug": "national-debt-usa",
+      "abbr": "NATL-DBT",
+      "subtext": "trillion",
+      "svg": "national-debt-usa.svg"
+    },
+    {
+      "slug": "us-dollar",
+      "abbr": "USD",
+      "subtext": "reserve",
+      "svg": "us-dollar.svg"
+    },
+    {
+      "slug": "inflation-usa",
+      "abbr": "INFLTN",
+      "subtext": "cpi",
+      "svg": "inflation-usa.svg"
+    },
+    {
+      "slug": "american-tax-system",
+      "abbr": "TAXES",
+      "subtext": "irs",
+      "svg": "american-tax-system.svg"
+    },
+    {
+      "slug": "small-business-loan",
+      "abbr": "SBA-LOAN",
+      "subtext": "usa",
+      "svg": "small-business-loan.svg"
+    },
+    {
+      "slug": "american-exports",
+      "abbr": "EXPORTS",
+      "subtext": "trade",
+      "svg": "american-exports.svg"
+    },
+    {
+      "slug": "trade-deficit",
+      "abbr": "TRADE-DF",
+      "subtext": "usa",
+      "svg": "trade-deficit.svg"
+    },
+    {
+      "slug": "tariffs-usa",
+      "abbr": "TARIFFS",
+      "subtext": "trade",
+      "svg": "tariffs-usa.svg"
+    },
+    {
+      "slug": "made-in-america",
+      "abbr": "MADE-USA",
+      "subtext": "domestic",
+      "svg": "made-in-america.svg"
+    },
+    {
+      "slug": "american-jobs",
+      "abbr": "JOBS",
+      "subtext": "employment",
+      "svg": "american-jobs.svg"
+    },
+    {
+      "slug": "gdp-usa",
+      "abbr": "US-GDP",
+      "subtext": "30T",
+      "svg": "gdp-usa.svg"
+    },
+    {
+      "slug": "strategic-bitcoin-reserve",
+      "abbr": "BTC-RES",
+      "subtext": "executive",
+      "svg": "strategic-bitcoin-reserve.svg"
+    },
+    {
+      "slug": "us-digital-asset-stockpile",
+      "abbr": "STCKPLE",
+      "subtext": "policy",
+      "svg": "us-digital-asset-stockpile.svg"
+    },
+    {
+      "slug": "genius-act",
+      "abbr": "GENIUS",
+      "subtext": "stablecoin",
+      "svg": "genius-act.svg"
+    },
+    {
+      "slug": "fit21-act",
+      "abbr": "FIT21",
+      "subtext": "digital",
+      "svg": "fit21-act.svg"
+    },
+    {
+      "slug": "xrp-national-banking",
+      "abbr": "XRP-BANK",
+      "subtext": "layer",
+      "svg": "xrp-national-banking.svg"
+    },
+    {
+      "slug": "xrpl-commons",
+      "abbr": "XRPL-COM",
+      "subtext": "ecosystem",
+      "svg": "xrpl-commons.svg"
+    },
+    {
+      "slug": "ripple-usa",
+      "abbr": "RIPPLE",
+      "subtext": "san francisco",
+      "svg": "ripple-usa.svg"
+    },
+    {
+      "slug": "american-crypto-policy",
+      "abbr": "CRYPTO-P",
+      "subtext": "regulation",
+      "svg": "american-crypto-policy.svg"
+    },
+    {
+      "slug": "defi-usa",
+      "abbr": "DEFI-USA",
+      "subtext": "protocol",
+      "svg": "defi-usa.svg"
+    },
+    {
+      "slug": "nft-market-usa",
+      "abbr": "NFT-USA",
+      "subtext": "digital",
+      "svg": "nft-market-usa.svg"
+    },
+    {
+      "slug": "blockchain-usa",
+      "abbr": "CHAIN-US",
+      "subtext": "ledger",
+      "svg": "blockchain-usa.svg"
+    },
+    {
+      "slug": "crypto-strategic-reserve",
+      "abbr": "CRYPTO-R",
+      "subtext": "reserve",
+      "svg": "crypto-strategic-reserve.svg"
+    },
+    {
+      "slug": "digital-dollar",
+      "abbr": "DIG-USD",
+      "subtext": "cbdc",
+      "svg": "digital-dollar.svg"
+    },
+    {
+      "slug": "stablecoin-regulation",
+      "abbr": "STABLE-R",
+      "subtext": "genius",
+      "svg": "stablecoin-regulation.svg"
+    },
+    {
+      "slug": "american-fintech",
+      "abbr": "FINTECH",
+      "subtext": "usa",
+      "svg": "american-fintech.svg"
+    },
+    {
+      "slug": "agentiscript-genesis",
+      "abbr": "GENESIS",
+      "subtext": "july 4",
+      "svg": "agentiscript-genesis.svg"
+    },
+    {
+      "slug": "agentic-economy-usa",
+      "abbr": "AGENTIC",
+      "subtext": "2026",
+      "svg": "agentic-economy-usa.svg"
+    },
+    {
+      "slug": "american-military",
+      "abbr": "MILIT",
+      "subtext": "armed forces",
+      "svg": "american-military.svg"
+    },
+    {
+      "slug": "us-navy",
+      "abbr": "USN",
+      "subtext": "sea power",
+      "svg": "us-navy.svg"
+    },
+    {
+      "slug": "us-army",
+      "abbr": "USA-ARMY",
+      "subtext": "army strong",
+      "svg": "us-army.svg"
+    },
+    {
+      "slug": "us-air-force",
+      "abbr": "USAF",
+      "subtext": "air power",
+      "svg": "us-air-force.svg"
+    },
+    {
+      "slug": "us-marines",
+      "abbr": "USMC",
+      "subtext": "semper fi",
+      "svg": "us-marines.svg"
+    },
+    {
+      "slug": "us-coast-guard",
+      "abbr": "USCG",
+      "subtext": "guardian",
+      "svg": "us-coast-guard.svg"
+    },
+    {
+      "slug": "memorial-day",
+      "abbr": "MEM-DAY",
+      "subtext": "honor",
+      "svg": "memorial-day.svg"
+    },
+    {
+      "slug": "veterans-day",
+      "abbr": "VET-DAY",
+      "subtext": "tribute",
+      "svg": "veterans-day.svg"
+    },
+    {
+      "slug": "apollo-11",
+      "abbr": "APOLLO",
+      "subtext": "1969",
+      "svg": "apollo-11.svg"
+    },
+    {
+      "slug": "manifest-destiny",
+      "abbr": "MANFST",
+      "subtext": "westward",
+      "svg": "manifest-destiny.svg"
+    },
+    {
+      "slug": "louisiana-purchase",
+      "abbr": "LOUIS-P",
+      "subtext": "1803",
+      "svg": "louisiana-purchase.svg"
+    },
+    {
+      "slug": "american-civil-war",
+      "abbr": "CIVIL-W",
+      "subtext": "1861-65",
+      "svg": "american-civil-war.svg"
+    },
+    {
+      "slug": "world-war-one-usa",
+      "abbr": "WW1-USA",
+      "subtext": "1917-18",
+      "svg": "world-war-one-usa.svg"
+    },
+    {
+      "slug": "world-war-two-usa",
+      "abbr": "WW2-USA",
+      "subtext": "1941-45",
+      "svg": "world-war-two-usa.svg"
+    },
+    {
+      "slug": "cold-war-usa",
+      "abbr": "CLD-WAR",
+      "subtext": "deterrence",
+      "svg": "cold-war-usa.svg"
+    },
+    {
+      "slug": "american-space-race",
+      "abbr": "SPACE-R",
+      "subtext": "1957-69",
+      "svg": "american-space-race.svg"
+    },
+    {
+      "slug": "american-west",
+      "abbr": "WEST",
+      "subtext": "frontier",
+      "svg": "american-west.svg"
+    },
+    {
+      "slug": "route-66",
+      "abbr": "RT-66",
+      "subtext": "highway",
+      "svg": "route-66.svg"
+    },
+    {
+      "slug": "american-railroad",
+      "abbr": "RAILRD",
+      "subtext": "transcont",
+      "svg": "american-railroad.svg"
+    },
+    {
+      "slug": "panama-canal-usa",
+      "abbr": "CANAL",
+      "subtext": "1914",
+      "svg": "panama-canal-usa.svg"
+    },
+    {
+      "slug": "american-nuclear-age",
+      "abbr": "NUC-AGE",
+      "subtext": "1945",
+      "svg": "american-nuclear-age.svg"
+    },
+    {
+      "slug": "bitcoin-strategic-reserve",
+      "abbr": "BTC",
+      "subtext": "reserve coin",
+      "svg": "bitcoin-strategic-reserve.svg"
+    },
+    {
+      "slug": "ethereum-strategic-reserve",
+      "abbr": "ETH",
+      "subtext": "reserve coin",
+      "svg": "ethereum-strategic-reserve.svg"
+    },
+    {
+      "slug": "solana-strategic-reserve",
+      "abbr": "SOL",
+      "subtext": "reserve coin",
+      "svg": "solana-strategic-reserve.svg"
+    },
+    {
+      "slug": "cardano-strategic-reserve",
+      "abbr": "ADA",
+      "subtext": "reserve coin",
+      "svg": "cardano-strategic-reserve.svg"
+    },
+    {
+      "slug": "xrp-strategic-reserve",
+      "abbr": "XRP",
+      "subtext": "US strategic reserve",
+      "svg": "xrp-strategic-reserve.svg"
+    },
+    {
+      "slug": "american-flag",
+      "abbr": "FLAG",
+      "subtext": "old glory",
+      "svg": "american-flag.svg"
+    },
+    {
+      "slug": "statue-of-freedom",
+      "abbr": "FREEDOM",
+      "subtext": "us capitol",
+      "svg": "statue-of-freedom.svg"
+    },
+    {
+      "slug": "gulf-of-america",
+      "abbr": "GULF",
+      "subtext": "renamed 2025",
+      "svg": "gulf-of-america.svg"
+    },
+    {
+      "slug": "air-force-one",
+      "abbr": "AF1",
+      "subtext": "vc-25b",
+      "svg": "air-force-one.svg"
+    },
+    {
+      "slug": "world-cup-usa-2026",
+      "abbr": "WC",
+      "subtext": "USA 2026",
+      "svg": "world-cup-usa-2026.svg"
+    },
+    {
+      "slug": "new-york-city",
+      "abbr": "NYC",
+      "subtext": "city",
+      "svg": "new-york-city.svg"
+    },
+    {
+      "slug": "los-angeles",
+      "abbr": "LA",
+      "subtext": "city",
+      "svg": "los-angeles.svg"
+    },
+    {
+      "slug": "chicago",
+      "abbr": "CHI",
+      "subtext": "city",
+      "svg": "chicago.svg"
+    },
+    {
+      "slug": "houston",
+      "abbr": "HOU",
+      "subtext": "city",
+      "svg": "houston.svg"
+    },
+    {
+      "slug": "phoenix",
+      "abbr": "PHX",
+      "subtext": "city",
+      "svg": "phoenix.svg"
+    },
+    {
+      "slug": "philadelphia",
+      "abbr": "PHI",
+      "subtext": "city",
+      "svg": "philadelphia.svg"
+    },
+    {
+      "slug": "san-antonio",
+      "abbr": "SAT",
+      "subtext": "city",
+      "svg": "san-antonio.svg"
+    },
+    {
+      "slug": "san-diego",
+      "abbr": "SAN",
+      "subtext": "city",
+      "svg": "san-diego.svg"
+    },
+    {
+      "slug": "dallas",
+      "abbr": "DAL",
+      "subtext": "city",
+      "svg": "dallas.svg"
+    },
+    {
+      "slug": "jacksonville",
+      "abbr": "JAX",
+      "subtext": "city",
+      "svg": "jacksonville.svg"
+    },
+    {
+      "slug": "austin",
+      "abbr": "AUS",
+      "subtext": "city",
+      "svg": "austin.svg"
+    },
+    {
+      "slug": "san-jose",
+      "abbr": "SJC",
+      "subtext": "city",
+      "svg": "san-jose.svg"
+    },
+    {
+      "slug": "fort-worth",
+      "abbr": "FTW",
+      "subtext": "city",
+      "svg": "fort-worth.svg"
+    },
+    {
+      "slug": "columbus",
+      "abbr": "CMH",
+      "subtext": "city",
+      "svg": "columbus.svg"
+    },
+    {
+      "slug": "charlotte",
+      "abbr": "CLT",
+      "subtext": "city",
+      "svg": "charlotte.svg"
+    },
+    {
+      "slug": "indianapolis",
+      "abbr": "IND",
+      "subtext": "city",
+      "svg": "indianapolis.svg"
+    },
+    {
+      "slug": "san-francisco",
+      "abbr": "SFO",
+      "subtext": "city",
+      "svg": "san-francisco.svg"
+    },
+    {
+      "slug": "seattle",
+      "abbr": "SEA",
+      "subtext": "city",
+      "svg": "seattle.svg"
+    },
+    {
+      "slug": "denver",
+      "abbr": "DEN",
+      "subtext": "city",
+      "svg": "denver.svg"
+    },
+    {
+      "slug": "nashville",
+      "abbr": "BNA",
+      "subtext": "city",
+      "svg": "nashville.svg"
+    },
+    {
+      "slug": "oklahoma-city",
+      "abbr": "OKC",
+      "subtext": "city",
+      "svg": "oklahoma-city.svg"
+    },
+    {
+      "slug": "el-paso",
+      "abbr": "ELP",
+      "subtext": "city",
+      "svg": "el-paso.svg"
+    },
+    {
+      "slug": "las-vegas",
+      "abbr": "LAS",
+      "subtext": "city",
+      "svg": "las-vegas.svg"
+    },
+    {
+      "slug": "louisville",
+      "abbr": "SDF",
+      "subtext": "city",
+      "svg": "louisville.svg"
+    },
+    {
+      "slug": "baltimore",
+      "abbr": "BWI",
+      "subtext": "city",
+      "svg": "baltimore.svg"
+    },
+    {
+      "slug": "memphis",
+      "abbr": "MEM",
+      "subtext": "city",
+      "svg": "memphis.svg"
+    },
+    {
+      "slug": "boston",
+      "abbr": "BOS",
+      "subtext": "city",
+      "svg": "boston.svg"
+    },
+    {
+      "slug": "portland",
+      "abbr": "PDX",
+      "subtext": "city",
+      "svg": "portland.svg"
+    },
+    {
+      "slug": "miami",
+      "abbr": "MIA",
+      "subtext": "city",
+      "svg": "miami.svg"
+    },
+    {
+      "slug": "raleigh",
+      "abbr": "RDU",
+      "subtext": "city",
+      "svg": "raleigh.svg"
+    },
+    {
+      "slug": "atlanta",
+      "abbr": "ATL",
+      "subtext": "city",
+      "svg": "atlanta.svg"
+    },
+    {
+      "slug": "new-orleans",
+      "abbr": "MSY",
+      "subtext": "city",
+      "svg": "new-orleans.svg"
+    },
+    {
+      "slug": "tampa",
+      "abbr": "TPA",
+      "subtext": "city",
+      "svg": "tampa.svg"
+    },
+    {
+      "slug": "orlando",
+      "abbr": "MCO",
+      "subtext": "city",
+      "svg": "orlando.svg"
+    },
+    {
+      "slug": "minneapolis",
+      "abbr": "MSP",
+      "subtext": "city",
+      "svg": "minneapolis.svg"
+    },
+    {
+      "slug": "cleveland",
+      "abbr": "CLE",
+      "subtext": "city",
+      "svg": "cleveland.svg"
+    },
+    {
+      "slug": "pittsburgh",
+      "abbr": "PIT",
+      "subtext": "city",
+      "svg": "pittsburgh.svg"
+    },
+    {
+      "slug": "kansas-city",
+      "abbr": "MCI",
+      "subtext": "city",
+      "svg": "kansas-city.svg"
+    },
+    {
+      "slug": "salt-lake-city",
+      "abbr": "SLC",
+      "subtext": "city",
+      "svg": "salt-lake-city.svg"
+    },
+    {
+      "slug": "sacramento",
+      "abbr": "SMF",
+      "subtext": "city",
+      "svg": "sacramento.svg"
+    },
+    {
+      "slug": "cincinnati",
+      "abbr": "CVG",
+      "subtext": "city",
+      "svg": "cincinnati.svg"
+    },
+    {
+      "slug": "detroit",
+      "abbr": "DTW",
+      "subtext": "city",
+      "svg": "detroit.svg"
+    },
+    {
+      "slug": "richmond",
+      "abbr": "RIC",
+      "subtext": "city",
+      "svg": "richmond.svg"
+    },
+    {
+      "slug": "st-louis",
+      "abbr": "STL",
+      "subtext": "city",
+      "svg": "st-louis.svg"
+    },
+    {
+      "slug": "buffalo",
+      "abbr": "BUF",
+      "subtext": "city",
+      "svg": "buffalo.svg"
+    },
+    {
+      "slug": "anchorage",
+      "abbr": "ANC",
+      "subtext": "city",
+      "svg": "anchorage.svg"
+    },
+    {
+      "slug": "honolulu",
+      "abbr": "HNL",
+      "subtext": "city",
+      "svg": "honolulu.svg"
+    },
+    {
+      "slug": "albuquerque",
+      "abbr": "ABQ",
+      "subtext": "city",
+      "svg": "albuquerque.svg"
+    },
+    {
+      "slug": "tucson",
+      "abbr": "TUS",
+      "subtext": "city",
+      "svg": "tucson.svg"
+    },
+    {
+      "slug": "omaha",
+      "abbr": "OMA",
+      "subtext": "city",
+      "svg": "omaha.svg"
+    },
+    {
+      "slug": "colorado-springs",
+      "abbr": "COS",
+      "subtext": "city",
+      "svg": "colorado-springs.svg"
+    },
+    {
+      "slug": "reno",
+      "abbr": "RNO",
+      "subtext": "city",
+      "svg": "reno.svg"
+    },
+    {
+      "slug": "boise",
+      "abbr": "BOI",
+      "subtext": "city",
+      "svg": "boise.svg"
+    },
+    {
+      "slug": "birmingham",
+      "abbr": "BHM",
+      "subtext": "city",
+      "svg": "birmingham.svg"
+    },
+    {
+      "slug": "little-rock",
+      "abbr": "LIT",
+      "subtext": "city",
+      "svg": "little-rock.svg"
+    },
+    {
+      "slug": "providence",
+      "abbr": "PVD",
+      "subtext": "city",
+      "svg": "providence.svg"
+    },
+    {
+      "slug": "hartford",
+      "abbr": "BDL",
+      "subtext": "city",
+      "svg": "hartford.svg"
+    },
+    {
+      "slug": "new-haven",
+      "abbr": "HVN",
+      "subtext": "city",
+      "svg": "new-haven.svg"
+    },
+    {
+      "slug": "charleston",
+      "abbr": "CHS",
+      "subtext": "city",
+      "svg": "charleston.svg"
+    },
+    {
+      "slug": "savannah",
+      "abbr": "SAV",
+      "subtext": "city",
+      "svg": "savannah.svg"
+    },
+    {
+      "slug": "syracuse",
+      "abbr": "SYR",
+      "subtext": "city",
+      "svg": "syracuse.svg"
+    },
+    {
+      "slug": "grand-rapids",
+      "abbr": "GRR",
+      "subtext": "city",
+      "svg": "grand-rapids.svg"
+    },
+    {
+      "slug": "knoxville",
+      "abbr": "TYS",
+      "subtext": "city",
+      "svg": "knoxville.svg"
+    },
+    {
+      "slug": "chattanooga",
+      "abbr": "CHA",
+      "subtext": "city",
+      "svg": "chattanooga.svg"
+    },
+    {
+      "slug": "des-moines",
+      "abbr": "DSM",
+      "subtext": "city",
+      "svg": "des-moines.svg"
+    },
+    {
+      "slug": "fort-lauderdale",
+      "abbr": "FLL",
+      "subtext": "city",
+      "svg": "fort-lauderdale.svg"
+    },
+    {
+      "slug": "tallahassee",
+      "abbr": "TLH",
+      "subtext": "city",
+      "svg": "tallahassee.svg"
+    },
+    {
+      "slug": "pensacola",
+      "abbr": "PNS",
+      "subtext": "city",
+      "svg": "pensacola.svg"
+    },
+    {
+      "slug": "daytona-beach",
+      "abbr": "DAB",
+      "subtext": "city",
+      "svg": "daytona-beach.svg"
+    },
+    {
+      "slug": "sarasota",
+      "abbr": "SRQ",
+      "subtext": "city",
+      "svg": "sarasota.svg"
+    },
+    {
+      "slug": "gainesville",
+      "abbr": "GNV",
+      "subtext": "city",
+      "svg": "gainesville.svg"
+    },
+    {
+      "slug": "cape-canaveral",
+      "abbr": "CAPE",
+      "subtext": "space coast",
+      "svg": "cape-canaveral.svg"
+    },
+    {
+      "slug": "key-west",
+      "abbr": "EYW",
+      "subtext": "florida keys",
+      "svg": "key-west.svg"
+    },
+    {
+      "slug": "miami-beach",
+      "abbr": "MIABC",
+      "subtext": "city",
+      "svg": "miami-beach.svg"
+    },
+    {
+      "slug": "palm-beach",
+      "abbr": "PBI",
+      "subtext": "city",
+      "svg": "palm-beach.svg"
+    },
+    {
+      "slug": "boca-raton",
+      "abbr": "BOCA",
+      "subtext": "city",
+      "svg": "boca-raton.svg"
+    },
+    {
+      "slug": "fort-myers",
+      "abbr": "RSW",
+      "subtext": "city",
+      "svg": "fort-myers.svg"
+    },
+    {
+      "slug": "naples",
+      "abbr": "APF",
+      "subtext": "city",
+      "svg": "naples.svg"
+    },
+    {
+      "slug": "st-augustine",
+      "abbr": "STAUG",
+      "subtext": "oldest city",
+      "svg": "st-augustine.svg"
+    },
+    {
+      "slug": "daytona",
+      "abbr": "DAYTNA",
+      "subtext": "speedway",
+      "svg": "daytona.svg"
+    },
+    {
+      "slug": "clearwater",
+      "abbr": "PIE",
+      "subtext": "city",
+      "svg": "clearwater.svg"
+    },
+    {
+      "slug": "st-pete",
+      "abbr": "PIE",
+      "subtext": "city",
+      "svg": "st-pete.svg"
+    },
+    {
+      "slug": "appalachian-trail",
+      "abbr": "APPALCH",
+      "subtext": "trail",
+      "svg": "appalachian-trail.svg"
+    },
+    {
+      "slug": "mississippi-river",
+      "abbr": "MISS-R",
+      "subtext": "river",
+      "svg": "mississippi-river.svg"
+    },
+    {
+      "slug": "colorado-river",
+      "abbr": "COLO-R",
+      "subtext": "river",
+      "svg": "colorado-river.svg"
+    },
+    {
+      "slug": "columbia-river",
+      "abbr": "COLUM-R",
+      "subtext": "river",
+      "svg": "columbia-river.svg"
+    },
+    {
+      "slug": "great-lakes",
+      "abbr": "GT-LAKES",
+      "subtext": "lake",
+      "svg": "great-lakes.svg"
+    },
+    {
+      "slug": "lake-michigan",
+      "abbr": "L-MICH",
+      "subtext": "lake",
+      "svg": "lake-michigan.svg"
+    },
+    {
+      "slug": "lake-superior",
+      "abbr": "L-SUP",
+      "subtext": "lake",
+      "svg": "lake-superior.svg"
+    },
+    {
+      "slug": "death-valley",
+      "abbr": "DEATH-V",
+      "subtext": "CA",
+      "svg": "death-valley.svg"
+    },
+    {
+      "slug": "mojave-desert",
+      "abbr": "MOJAVE",
+      "subtext": "desert",
+      "svg": "mojave-desert.svg"
+    },
+    {
+      "slug": "great-plains",
+      "abbr": "GT-PLNS",
+      "subtext": "plains",
+      "svg": "great-plains.svg"
+    },
+    {
+      "slug": "rocky-mountains",
+      "abbr": "ROCKIES",
+      "subtext": "mountains",
+      "svg": "rocky-mountains.svg"
+    },
+    {
+      "slug": "sierra-nevada",
+      "abbr": "SIERRA",
+      "subtext": "mountains",
+      "svg": "sierra-nevada.svg"
+    },
+    {
+      "slug": "alaska-range",
+      "abbr": "AK-RNG",
+      "subtext": "mountains",
+      "svg": "alaska-range.svg"
+    },
+    {
+      "slug": "mount-whitney",
+      "abbr": "MT-WHIT",
+      "subtext": "highest peak",
+      "svg": "mount-whitney.svg"
+    },
+    {
+      "slug": "mount-mckinley",
+      "abbr": "DENALI",
+      "subtext": "alaska",
+      "svg": "mount-mckinley.svg"
+    },
+    {
+      "slug": "yellowstone-river",
+      "abbr": "YLWSTN",
+      "subtext": "river",
+      "svg": "yellowstone-river.svg"
+    },
+    {
+      "slug": "great-barrier",
+      "abbr": "BARRIER",
+      "subtext": "coast",
+      "svg": "great-barrier.svg"
+    },
+    {
+      "slug": "florida-keys",
+      "abbr": "FL-KEYS",
+      "subtext": "islands",
+      "svg": "florida-keys.svg"
+    },
+    {
+      "slug": "outer-banks",
+      "abbr": "OBX",
+      "subtext": "NC coast",
+      "svg": "outer-banks.svg"
+    },
+    {
+      "slug": "cape-cod",
+      "abbr": "CAPE-C",
+      "subtext": "MA",
+      "svg": "cape-cod.svg"
+    },
+    {
+      "slug": "big-sur",
+      "abbr": "BIG-SUR",
+      "subtext": "CA coast",
+      "svg": "big-sur.svg"
+    },
+    {
+      "slug": "chesapeake-bay",
+      "abbr": "CHES-B",
+      "subtext": "bay",
+      "svg": "chesapeake-bay.svg"
+    },
+    {
+      "slug": "puget-sound",
+      "abbr": "PUGET",
+      "subtext": "WA",
+      "svg": "puget-sound.svg"
+    },
+    {
+      "slug": "san-francisco-bay",
+      "abbr": "SF-BAY",
+      "subtext": "bay",
+      "svg": "san-francisco-bay.svg"
+    },
+    {
+      "slug": "gulf-coast",
+      "abbr": "GULF-C",
+      "subtext": "southern coast",
+      "svg": "gulf-coast.svg"
+    },
+    {
+      "slug": "atlantic-coast",
+      "abbr": "ATL-C",
+      "subtext": "east coast",
+      "svg": "atlantic-coast.svg"
+    },
+    {
+      "slug": "pacific-coast",
+      "abbr": "PAC-C",
+      "subtext": "west coast",
+      "svg": "pacific-coast.svg"
+    },
+    {
+      "slug": "great-salt-lake",
+      "abbr": "SALT-L",
+      "subtext": "utah",
+      "svg": "great-salt-lake.svg"
+    },
+    {
+      "slug": "crater-lake",
+      "abbr": "CRATER",
+      "subtext": "oregon",
+      "svg": "crater-lake.svg"
+    },
+    {
+      "slug": "lake-tahoe",
+      "abbr": "TAHOE",
+      "subtext": "nevada-ca",
+      "svg": "lake-tahoe.svg"
+    },
+    {
+      "slug": "supreme-court",
+      "abbr": "SCOTUS",
+      "subtext": "institution",
+      "svg": "supreme-court.svg"
+    },
+    {
+      "slug": "congress",
+      "abbr": "CNGRS",
+      "subtext": "institution",
+      "svg": "congress.svg"
+    },
+    {
+      "slug": "senate",
+      "abbr": "SENATE",
+      "subtext": "institution",
+      "svg": "senate.svg"
+    },
+    {
+      "slug": "house-of-representatives",
+      "abbr": "HOUSE",
+      "subtext": "institution",
+      "svg": "house-of-representatives.svg"
+    },
+    {
+      "slug": "federal-bureau-of-investigation",
+      "abbr": "FBI",
+      "subtext": "agency",
+      "svg": "federal-bureau-of-investigation.svg"
+    },
+    {
+      "slug": "central-intelligence-agency",
+      "abbr": "CIA",
+      "subtext": "agency",
+      "svg": "central-intelligence-agency.svg"
+    },
+    {
+      "slug": "department-of-defense",
+      "abbr": "DOD",
+      "subtext": "agency",
+      "svg": "department-of-defense.svg"
+    },
+    {
+      "slug": "department-of-treasury",
+      "abbr": "TREAS",
+      "subtext": "agency",
+      "svg": "department-of-treasury.svg"
+    },
+    {
+      "slug": "department-of-state",
+      "abbr": "STATE-D",
+      "subtext": "agency",
+      "svg": "department-of-state.svg"
+    },
+    {
+      "slug": "secret-service",
+      "abbr": "SS",
+      "subtext": "protection",
+      "svg": "secret-service.svg"
+    },
+    {
+      "slug": "national-guard",
+      "abbr": "NAT-GRD",
+      "subtext": "military",
+      "svg": "national-guard.svg"
+    },
+    {
+      "slug": "west-point",
+      "abbr": "WEST-PT",
+      "subtext": "academy",
+      "svg": "west-point.svg"
+    },
+    {
+      "slug": "naval-academy",
+      "abbr": "USNA",
+      "subtext": "annapolis",
+      "svg": "naval-academy.svg"
+    },
+    {
+      "slug": "air-force-academy",
+      "abbr": "USAFA",
+      "subtext": "colorado",
+      "svg": "air-force-academy.svg"
+    },
+    {
+      "slug": "smithsonian",
+      "abbr": "SMITH",
+      "subtext": "museum",
+      "svg": "smithsonian.svg"
+    },
+    {
+      "slug": "library-of-congress",
+      "abbr": "LOC",
+      "subtext": "dc",
+      "svg": "library-of-congress.svg"
+    },
+    {
+      "slug": "national-archives",
+      "abbr": "NARA",
+      "subtext": "dc",
+      "svg": "national-archives.svg"
+    },
+    {
+      "slug": "national-park-service",
+      "abbr": "NPS",
+      "subtext": "parks",
+      "svg": "national-park-service.svg"
+    },
+    {
+      "slug": "interstate-highway",
+      "abbr": "INTRST",
+      "subtext": "system",
+      "svg": "interstate-highway.svg"
+    },
+    {
+      "slug": "hoover-dam",
+      "abbr": "HOOVER",
+      "subtext": "dam",
+      "svg": "hoover-dam.svg"
+    },
+    {
+      "slug": "brooklyn-bridge",
+      "abbr": "BKLYN-B",
+      "subtext": "nyc",
+      "svg": "brooklyn-bridge.svg"
+    },
+    {
+      "slug": "empire-state-building",
+      "abbr": "ESB",
+      "subtext": "nyc",
+      "svg": "empire-state-building.svg"
+    },
+    {
+      "slug": "one-world-trade",
+      "abbr": "OWTC",
+      "subtext": "nyc",
+      "svg": "one-world-trade.svg"
+    },
+    {
+      "slug": "pentagon",
+      "abbr": "PENTGN",
+      "subtext": "arlington",
+      "svg": "pentagon.svg"
+    },
+    {
+      "slug": "national-mall",
+      "abbr": "NAT-MAL",
+      "subtext": "dc",
+      "svg": "national-mall.svg"
+    },
+    {
+      "slug": "arlington-cemetery",
+      "abbr": "ARLINGT",
+      "subtext": "veterans",
+      "svg": "arlington-cemetery.svg"
+    },
+    {
+      "slug": "gettysburg",
+      "abbr": "GETTYSG",
+      "subtext": "battlefield",
+      "svg": "gettysburg.svg"
+    },
+    {
+      "slug": "normandy-american",
+      "abbr": "NRMNDY",
+      "subtext": "cemetery",
+      "svg": "normandy-american.svg"
+    },
+    {
+      "slug": "pearl-harbor",
+      "abbr": "PEARL-H",
+      "subtext": "1941",
+      "svg": "pearl-harbor.svg"
+    },
+    {
+      "slug": "bourbon-street",
+      "abbr": "BOURBON",
+      "subtext": "nola",
+      "svg": "bourbon-street.svg"
+    },
+    {
+      "slug": "nashville-broadway",
+      "abbr": "NASH-B",
+      "subtext": "music row",
+      "svg": "nashville-broadway.svg"
+    },
+    {
+      "slug": "country-music",
+      "abbr": "CNTRY-M",
+      "subtext": "american",
+      "svg": "country-music.svg"
+    },
+    {
+      "slug": "jazz-music",
+      "abbr": "JAZZ",
+      "subtext": "new orleans",
+      "svg": "jazz-music.svg"
+    },
+    {
+      "slug": "blues-music",
+      "abbr": "BLUES",
+      "subtext": "mississippi",
+      "svg": "blues-music.svg"
+    },
+    {
+      "slug": "rock-and-roll",
+      "abbr": "ROCK-NR",
+      "subtext": "american",
+      "svg": "rock-and-roll.svg"
+    },
+    {
+      "slug": "hip-hop",
+      "abbr": "HIP-HOP",
+      "subtext": "american",
+      "svg": "hip-hop.svg"
+    },
+    {
+      "slug": "american-football",
+      "abbr": "AM-FTBL",
+      "subtext": "sport",
+      "svg": "american-football.svg"
+    },
+    {
+      "slug": "baseball",
+      "abbr": "BASBALL",
+      "subtext": "america pastime",
+      "svg": "baseball.svg"
+    },
+    {
+      "slug": "basketball",
+      "abbr": "NBA",
+      "subtext": "american",
+      "svg": "basketball.svg"
+    },
+    {
+      "slug": "rodeo",
+      "abbr": "RODEO",
+      "subtext": "american west",
+      "svg": "rodeo.svg"
+    },
+    {
+      "slug": "thanksgiving",
+      "abbr": "THANKSV",
+      "subtext": "american holiday",
+      "svg": "thanksgiving.svg"
+    },
+    {
+      "slug": "free-speech",
+      "abbr": "FREE-SP",
+      "subtext": "1st amendment",
+      "svg": "free-speech.svg"
+    },
+    {
+      "slug": "right-to-bear-arms",
+      "abbr": "ARMS",
+      "subtext": "2nd amendment",
+      "svg": "right-to-bear-arms.svg"
+    },
+    {
+      "slug": "due-process",
+      "abbr": "DUE-PRO",
+      "subtext": "5th amendment",
+      "svg": "due-process.svg"
+    },
+    {
+      "slug": "equal-protection",
+      "abbr": "EQ-PROT",
+      "subtext": "14th amendment",
+      "svg": "equal-protection.svg"
+    },
+    {
+      "slug": "separation-of-powers",
+      "abbr": "SEP-PWR",
+      "subtext": "constitution",
+      "svg": "separation-of-powers.svg"
+    },
+    {
+      "slug": "checks-and-balances",
+      "abbr": "CHK-BAL",
+      "subtext": "government",
+      "svg": "checks-and-balances.svg"
+    },
+    {
+      "slug": "rule-of-law",
+      "abbr": "RULE-L",
+      "subtext": "justice",
+      "svg": "rule-of-law.svg"
+    },
+    {
+      "slug": "religious-freedom",
+      "abbr": "REL-FRE",
+      "subtext": "1st amendment",
+      "svg": "religious-freedom.svg"
+    },
+    {
+      "slug": "press-freedom",
+      "abbr": "PRESS-F",
+      "subtext": "1st amendment",
+      "svg": "press-freedom.svg"
+    },
+    {
+      "slug": "right-to-vote",
+      "abbr": "VOTE",
+      "subtext": "15th 19th",
+      "svg": "right-to-vote.svg"
+    },
+    {
+      "slug": "civil-rights",
+      "abbr": "CIV-RTS",
+      "subtext": "movement",
+      "svg": "civil-rights.svg"
+    },
+    {
+      "slug": "equal-rights",
+      "abbr": "EQ-RGHT",
+      "subtext": "amendment",
+      "svg": "equal-rights.svg"
+    },
+    {
+      "slug": "womens-suffrage",
+      "abbr": "SUFFRGE",
+      "subtext": "19th amendment",
+      "svg": "womens-suffrage.svg"
+    },
+    {
+      "slug": "abolition",
+      "abbr": "ABOLIT",
+      "subtext": "13th amendment",
+      "svg": "abolition.svg"
+    },
+    {
+      "slug": "reconstruction",
+      "abbr": "RECONST",
+      "subtext": "post civil war",
+      "svg": "reconstruction.svg"
+    },
+    {
+      "slug": "new-deal",
+      "abbr": "NEW-DL",
+      "subtext": "fdr 1933",
+      "svg": "new-deal.svg"
+    },
+    {
+      "slug": "great-society",
+      "abbr": "GT-SOC",
+      "subtext": "lbj 1964",
+      "svg": "great-society.svg"
+    },
+    {
+      "slug": "reagan-revolution",
+      "abbr": "REAGANR",
+      "subtext": "1980s",
+      "svg": "reagan-revolution.svg"
+    },
+    {
+      "slug": "american-exceptionalism",
+      "abbr": "AM-EXCEP",
+      "subtext": "belief",
+      "svg": "american-exceptionalism.svg"
+    },
+    {
+      "slug": "american-melting-pot",
+      "abbr": "MELT-PT",
+      "subtext": "diversity",
+      "svg": "american-melting-pot.svg"
+    },
+    {
+      "slug": "e-pluribus-unum",
+      "abbr": "E-PLUR",
+      "subtext": "motto",
+      "svg": "e-pluribus-unum.svg"
+    },
+    {
+      "slug": "in-god-we-trust",
+      "abbr": "IGWT",
+      "subtext": "motto",
+      "svg": "in-god-we-trust.svg"
+    },
+    {
+      "slug": "land-of-the-free",
+      "abbr": "LAND-F",
+      "subtext": "anthem",
+      "svg": "land-of-the-free.svg"
+    },
+    {
+      "slug": "home-of-the-brave",
+      "abbr": "HOME-B",
+      "subtext": "anthem",
+      "svg": "home-of-the-brave.svg"
+    },
+    {
+      "slug": "american-pioneer",
+      "abbr": "PIONR",
+      "subtext": "spirit",
+      "svg": "american-pioneer.svg"
+    },
+    {
+      "slug": "american-work-ethic",
+      "abbr": "WORK-E",
+      "subtext": "culture",
+      "svg": "american-work-ethic.svg"
+    },
+    {
+      "slug": "american-optimism",
+      "abbr": "OPTIM",
+      "subtext": "spirit",
+      "svg": "american-optimism.svg"
+    },
+    {
+      "slug": "american-ingenuity",
+      "abbr": "INGEN",
+      "subtext": "innovation",
+      "svg": "american-ingenuity.svg"
+    },
+    {
+      "slug": "one-nation-under-god",
+      "abbr": "1-NATN",
+      "subtext": "pledge",
+      "svg": "one-nation-under-god.svg"
+    },
+    {
+      "slug": "mayflower-compact",
+      "abbr": "MAYFLO",
+      "subtext": "1620",
+      "svg": "mayflower-compact.svg"
+    },
+    {
+      "slug": "thirteen-colonies",
+      "abbr": "13-COL",
+      "subtext": "founding",
+      "svg": "thirteen-colonies.svg"
+    },
+    {
+      "slug": "boston-massacre",
+      "abbr": "BOSTON-M",
+      "subtext": "1770",
+      "svg": "boston-massacre.svg"
+    },
+    {
+      "slug": "son-of-liberty",
+      "abbr": "SONS-L",
+      "subtext": "revolution",
+      "svg": "son-of-liberty.svg"
+    },
+    {
+      "slug": "valley-forge",
+      "abbr": "VALLEY-F",
+      "subtext": "1777",
+      "svg": "valley-forge.svg"
+    },
+    {
+      "slug": "crossing-the-delaware",
+      "abbr": "DELAWAR",
+      "subtext": "1776",
+      "svg": "crossing-the-delaware.svg"
+    },
+    {
+      "slug": "monroe-doctrine",
+      "abbr": "MONROE-D",
+      "subtext": "1823",
+      "svg": "monroe-doctrine.svg"
+    },
+    {
+      "slug": "mexican-american-war",
+      "abbr": "MEX-WAR",
+      "subtext": "1846",
+      "svg": "mexican-american-war.svg"
+    },
+    {
+      "slug": "gold-rush",
+      "abbr": "GOLD-R",
+      "subtext": "1849",
+      "svg": "gold-rush.svg"
+    },
+    {
+      "slug": "transcontinental-railroad",
+      "abbr": "TRANS-RR",
+      "subtext": "1869",
+      "svg": "transcontinental-railroad.svg"
+    },
+    {
+      "slug": "prohibition",
+      "abbr": "PROHIB",
+      "subtext": "1920-1933",
+      "svg": "prohibition.svg"
+    },
+    {
+      "slug": "great-depression",
+      "abbr": "GREAT-D",
+      "subtext": "1929",
+      "svg": "great-depression.svg"
+    },
+    {
+      "slug": "dust-bowl",
+      "abbr": "DUST-BW",
+      "subtext": "1930s",
+      "svg": "dust-bowl.svg"
+    },
+    {
+      "slug": "world-war-two-victory",
+      "abbr": "VJ-DAY",
+      "subtext": "1945",
+      "svg": "world-war-two-victory.svg"
+    },
+    {
+      "slug": "marshall-plan",
+      "abbr": "MARSH-P",
+      "subtext": "1948",
+      "svg": "marshall-plan.svg"
+    },
+    {
+      "slug": "korean-war",
+      "abbr": "KOREA",
+      "subtext": "1950-53",
+      "svg": "korean-war.svg"
+    },
+    {
+      "slug": "vietnam-war",
+      "abbr": "VIETNAM",
+      "subtext": "1955-75",
+      "svg": "vietnam-war.svg"
+    },
+    {
+      "slug": "moon-landing",
+      "abbr": "MOON",
+      "subtext": "1969",
+      "svg": "moon-landing.svg"
+    },
+    {
+      "slug": "watergate",
+      "abbr": "WATRGTE",
+      "subtext": "1972-74",
+      "svg": "watergate.svg"
+    },
+    {
+      "slug": "iran-hostage",
+      "abbr": "IRAN-H",
+      "subtext": "1979-81",
+      "svg": "iran-hostage.svg"
+    },
+    {
+      "slug": "fall-of-berlin-wall",
+      "abbr": "BERLIN",
+      "subtext": "1989",
+      "svg": "fall-of-berlin-wall.svg"
+    },
+    {
+      "slug": "gulf-war",
+      "abbr": "GULF-W",
+      "subtext": "1990-91",
+      "svg": "gulf-war.svg"
+    },
+    {
+      "slug": "september-11",
+      "abbr": "9-11",
+      "subtext": "2001",
+      "svg": "september-11.svg"
+    },
+    {
+      "slug": "war-on-terror",
+      "abbr": "WAR-TER",
+      "subtext": "2001+",
+      "svg": "war-on-terror.svg"
+    },
+    {
+      "slug": "financial-crisis-2008",
+      "abbr": "FIN-CR",
+      "subtext": "2008",
+      "svg": "financial-crisis-2008.svg"
+    },
+    {
+      "slug": "covid-america",
+      "abbr": "COVID",
+      "subtext": "2020",
+      "svg": "covid-america.svg"
+    },
+    {
+      "slug": "january-6",
+      "abbr": "JAN-6",
+      "subtext": "2021",
+      "svg": "january-6.svg"
+    },
+    {
+      "slug": "inflation-reduction-act",
+      "abbr": "IRA-ACT",
+      "subtext": "2022",
+      "svg": "inflation-reduction-act.svg"
+    },
+    {
+      "slug": "ai-revolution-usa",
+      "abbr": "AI-USA",
+      "subtext": "2023+",
+      "svg": "ai-revolution-usa.svg"
+    },
+    {
+      "slug": "america-250-celebration",
+      "abbr": "AM-250",
+      "subtext": "2026",
+      "svg": "america-250-celebration.svg"
+    },
+    {
+      "slug": "agentification-of-america",
+      "abbr": "AGENTIF",
+      "subtext": "2026",
+      "svg": "agentification-of-america.svg"
+    },
+    {
+      "slug": "digital-renaissance-usa",
+      "abbr": "DIG-REN",
+      "subtext": "2026",
+      "svg": "digital-renaissance-usa.svg"
+    },
+    {
+      "slug": "space-force-usa",
+      "abbr": "USSF",
+      "subtext": "6th branch",
+      "svg": "space-force-usa.svg"
+    },
+    {
+      "slug": "american-man",
+      "abbr": "AMERICAN MAN",
+      "subtext": "we the people",
+      "svg": "american-man.svg"
+    },
+    {
+      "slug": "american-woman",
+      "abbr": "AMERICAN WOMAN",
+      "subtext": "we the people",
+      "svg": "american-woman.svg"
+    },
+    {
+      "slug": "american-children",
+      "abbr": "AMERICAN CHILDREN",
+      "subtext": "we the people",
+      "svg": "american-children.svg"
+    },
+    {
+      "slug": "american-families",
+      "abbr": "AMERICAN FAMILIES",
+      "subtext": "we the people",
+      "svg": "american-families.svg"
+    },
+    {
+      "slug": "american-community",
+      "abbr": "COMMUNITY",
+      "subtext": "together",
+      "svg": "american-community.svg"
+    },
+    {
+      "slug": "american-neighborhood",
+      "abbr": "NEIGHBOR HOOD",
+      "subtext": "home",
+      "svg": "american-neighborhood.svg"
+    },
+    {
+      "slug": "american-church",
+      "abbr": "CHURCH",
+      "subtext": "america",
+      "svg": "american-church.svg"
+    },
+    {
+      "slug": "american-school",
+      "abbr": "SCHOOL",
+      "subtext": "america",
+      "svg": "american-school.svg"
+    },
+    {
+      "slug": "faith",
+      "abbr": "FAITH",
+      "subtext": "american value",
+      "svg": "faith.svg"
+    },
+    {
+      "slug": "hope",
+      "abbr": "HOPE",
+      "subtext": "american value",
+      "svg": "hope.svg"
+    },
+    {
+      "slug": "love",
+      "abbr": "LOVE",
+      "subtext": "american value",
+      "svg": "love.svg"
+    },
+    {
+      "slug": "jesus",
+      "abbr": "JESUS",
+      "subtext": "lord & savior",
+      "svg": "jesus.svg"
+    },
+    {
+      "slug": "bible",
+      "abbr": "BIBLE",
+      "subtext": "holy scripture",
+      "svg": "bible.svg"
+    },
+    {
+      "slug": "american-dream",
+      "abbr": "AMERICAN DREAM",
+      "subtext": "pursuit",
+      "svg": "american-dream.svg"
+    },
+    {
+      "slug": "freedom",
+      "abbr": "FREEDOM",
+      "subtext": "american",
+      "svg": "freedom.svg"
+    },
+    {
+      "slug": "liberty",
+      "abbr": "LIBERTY",
+      "subtext": "american",
+      "svg": "liberty.svg"
+    },
+    {
+      "slug": "capitalism",
+      "abbr": "CAPITALISM",
+      "subtext": "american system",
+      "svg": "capitalism.svg"
+    },
+    {
+      "slug": "gold",
+      "abbr": "GOLD",
+      "subtext": "store of value",
+      "svg": "gold.svg"
+    },
+    {
+      "slug": "silver",
+      "abbr": "SILVER",
+      "subtext": "store of value",
+      "svg": "silver.svg"
+    },
+    {
+      "slug": "sea-to-shining-sea",
+      "abbr": "SEA TO SHINING SEA",
+      "subtext": "america",
+      "svg": "sea-to-shining-sea.svg"
+    },
+    {
+      "slug": "us-economy",
+      "abbr": "U.S. ECONOMY",
+      "subtext": "largest on earth",
+      "svg": "us-economy.svg"
+    },
+    {
+      "slug": "cftc",
+      "abbr": "CFTC",
+      "subtext": "regulator",
+      "svg": "cftc.svg"
+    },
+    {
+      "slug": "sec",
+      "abbr": "SEC",
+      "subtext": "regulator",
+      "svg": "sec.svg"
+    },
+    {
+      "slug": "drill-baby-drill",
+      "abbr": "DRILL BABY DRILL",
+      "subtext": "energy policy",
+      "svg": "drill-baby-drill.svg"
+    },
+    {
+      "slug": "american-teacher",
+      "abbr": "AMERICAN TEACHER",
+      "subtext": "we the people",
+      "svg": "american-teacher.svg"
+    },
+    {
+      "slug": "usmnt",
+      "abbr": "USMNT",
+      "subtext": "us soccer",
+      "svg": "usmnt.svg"
+    },
+    {
+      "slug": "uswnt",
+      "abbr": "USWNT",
+      "subtext": "us soccer",
+      "svg": "uswnt.svg"
+    },
+    {
+      "slug": "dont-tread-on-me",
+      "abbr": "DONT TREAD ON ME",
+      "subtext": "gadsden flag",
+      "svg": "dont-tread-on-me.svg"
+    },
+    {
+      "slug": "ellis-island",
+      "abbr": "ELLIS ISLAND",
+      "subtext": "1892-1954",
+      "svg": "ellis-island.svg"
+    },
+    {
+      "slug": "american-veteran",
+      "abbr": "AMERICAN VETERAN",
+      "subtext": "honor & service",
+      "svg": "american-veteran.svg"
+    },
+    {
+      "slug": "american-first-responder",
+      "abbr": "FIRST RESPONDER",
+      "subtext": "courage",
+      "svg": "american-first-responder.svg"
+    },
+    {
+      "slug": "american-farmer",
+      "abbr": "AMERICAN FARMER",
+      "subtext": "feeds the nation",
+      "svg": "american-farmer.svg"
+    },
+    {
+      "slug": "plymouth-rock",
+      "abbr": "PLYMOUTH ROCK",
+      "subtext": "1620",
+      "svg": "plymouth-rock.svg"
+    },
+    {
+      "slug": "american-cowboy",
+      "abbr": "AMERICAN COWBOY",
+      "subtext": "the west",
+      "svg": "american-cowboy.svg"
+    },
+    {
+      "slug": "nasa",
+      "abbr": "NASA",
+      "subtext": "we choose the moon",
+      "svg": "nasa.svg"
+    },
+    {
+      "slug": "flag-day",
+      "abbr": "FLAG DAY",
+      "subtext": "june 14 1777",
+      "svg": "flag-day.svg"
+    },
+    {
+      "slug": "independence-hall",
+      "abbr": "INDEP HALL",
+      "subtext": "philadelphia 1776",
+      "svg": "independence-hall.svg"
+    },
+    {
+      "slug": "american-spirit",
+      "abbr": "AMERICAN SPIRIT",
+      "subtext": "defines the nation",
+      "svg": "american-spirit.svg"
+    },
+    {
+      "slug": "second-amendment",
+      "abbr": "2A",
+      "subtext": "bill of rights",
+      "svg": "second-amendment.svg"
+    },
+    {
+      "slug": "digital-assets",
+      "abbr": "DIGITAL ASSETS",
+      "subtext": "new economy",
+      "svg": "digital-assets.svg"
+    },
+    {
+      "slug": "road-trip",
+      "abbr": "ROAD TRIP",
+      "subtext": "american tradition",
+      "svg": "road-trip.svg"
+    }
+  ],
+  "notes": "XRP reserved for Colin personally. BTC/ETH/SOL/ADA = US Strategic Crypto Reserve coins."
+}

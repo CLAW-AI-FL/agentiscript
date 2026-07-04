@@ -1,0 +1,1865 @@
+{
+  "minted": {
+    "andrew-jackson-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731800AF9F6206474DC8",
+      "uri": "https://agentiscript.com/icons/andrew-jackson-president.png"
+    },
+    "new-york-city": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318011B0ADF06474E43",
+      "uri": "https://agentiscript.com/icons/new-york-city.png"
+    },
+    "one-nation-under-god": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180186765806474EBE",
+      "uri": "https://agentiscript.com/icons/one-nation-under-god.png"
+    },
+    "red-white-blue": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731802F5579A06474E00",
+      "uri": "https://agentiscript.com/icons/red-white-blue.png"
+    },
+    "lake-michigan": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180360C31706474E7B",
+      "uri": "https://agentiscript.com/icons/lake-michigan.png"
+    },
+    "washington-state": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731804CFA45906474DBD",
+      "uri": "https://agentiscript.com/icons/washington-state.png"
+    },
+    "world-war-two-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318053B0FD206474E38",
+      "uri": "https://agentiscript.com/icons/world-war-two-usa.png"
+    },
+    "womens-suffrage": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731805A67B4F06474EB3",
+      "uri": "https://agentiscript.com/icons/womens-suffrage.png"
+    },
+    "us-capitol-building": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731807155C9106474DF5",
+      "uri": "https://agentiscript.com/icons/us-capitol-building.png"
+    },
+    "tallahassee": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180780C80A06474E70",
+      "uri": "https://agentiscript.com/icons/tallahassee.png"
+    },
+    "american-farmer": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731807EC338706474EEB",
+      "uri": "https://agentiscript.com/icons/american-farmer.png"
+    },
+    "new-york": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731808EFA94C06474DB2",
+      "uri": "https://agentiscript.com/icons/new-york.png"
+    },
+    "digital-dollar": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318095B14C906474E2D",
+      "uri": "https://agentiscript.com/icons/digital-dollar.png"
+    },
+    "basketball": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731809C6804206474EA8",
+      "uri": "https://agentiscript.com/icons/basketball.png"
+    },
+    "james-wilson-founding": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180B35618406474DEA",
+      "uri": "https://agentiscript.com/icons/james-wilson-founding.png"
+    },
+    "birmingham": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180BA0CD0106474E65",
+      "uri": "https://agentiscript.com/icons/birmingham.png"
+    },
+    "love": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180C0C387A06474EE0",
+      "uri": "https://agentiscript.com/icons/love.png"
+    },
+    "iowa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180D0FAE4306474DA7",
+      "uri": "https://agentiscript.com/icons/iowa.png"
+    },
+    "american-jobs": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180D7B19BC06474E22",
+      "uri": "https://agentiscript.com/icons/american-jobs.png"
+    },
+    "one-world-trade": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180DE6853906474E9D",
+      "uri": "https://agentiscript.com/icons/one-world-trade.png"
+    },
+    "bill-clinton-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180F55667B06474DDF",
+      "uri": "https://agentiscript.com/icons/bill-clinton-president.png"
+    },
+    "minneapolis": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273180FC0D1F406474E5A",
+      "uri": "https://agentiscript.com/icons/minneapolis.png"
+    },
+    "agentification-of-america": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318102C3D7106474ED5",
+      "uri": "https://agentiscript.com/icons/agentification-of-america.png"
+    },
+    "immigration-economy": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318119B1EB306474E17",
+      "uri": "https://agentiscript.com/icons/immigration-economy.png"
+    },
+    "west-point": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731812068A2C06474E92",
+      "uri": "https://agentiscript.com/icons/west-point.png"
+    },
+    "theodore-roosevelt-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731813756B6E06474DD4",
+      "uri": "https://agentiscript.com/icons/theodore-roosevelt-president.png"
+    },
+    "nashville": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731813E0D6EB06474E4F",
+      "uri": "https://agentiscript.com/icons/nashville.png"
+    },
+    "great-depression": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318144C426406474ECA",
+      "uri": "https://agentiscript.com/icons/great-depression.png"
+    },
+    "day-trading": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731815BB23A606474E0C",
+      "uri": "https://agentiscript.com/icons/day-trading.png"
+    },
+    "atlantic-coast": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731816268F2306474E87",
+      "uri": "https://agentiscript.com/icons/atlantic-coast.png"
+    },
+    "william-henry-harrison-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181795706506474DC9",
+      "uri": "https://agentiscript.com/icons/william-henry-harrison-president.png"
+    },
+    "los-angeles": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181800DBDE06474E44",
+      "uri": "https://agentiscript.com/icons/los-angeles.png"
+    },
+    "mayflower-compact": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318186C475B06474EBF",
+      "uri": "https://agentiscript.com/icons/mayflower-compact.png"
+    },
+    "old-glory": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731819DB289D06474E01",
+      "uri": "https://agentiscript.com/icons/old-glory.png"
+    },
+    "lake-superior": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181A46941606474E7C",
+      "uri": "https://agentiscript.com/icons/lake-superior.png"
+    },
+    "west-virginia": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181BB5755806474DBE",
+      "uri": "https://agentiscript.com/icons/west-virginia.png"
+    },
+    "cold-war-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181C20E0D506474E39",
+      "uri": "https://agentiscript.com/icons/cold-war-usa.png"
+    },
+    "abolition": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181C8C4C4E06474EB4",
+      "uri": "https://agentiscript.com/icons/abolition.png"
+    },
+    "golden-gate-bridge": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181DFB2D9006474DF6",
+      "uri": "https://agentiscript.com/icons/golden-gate-bridge.png"
+    },
+    "gainesville": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181E66990D06474E71",
+      "uri": "https://agentiscript.com/icons/gainesville.png"
+    },
+    "plymouth-rock": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181ED2048606474EEC",
+      "uri": "https://agentiscript.com/icons/plymouth-rock.png"
+    },
+    "north-carolina": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273181FD57A4F06474DB3",
+      "uri": "https://agentiscript.com/icons/north-carolina.png"
+    },
+    "american-fintech": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182040E5C806474E2E",
+      "uri": "https://agentiscript.com/icons/american-fintech.png"
+    },
+    "rodeo": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731820AC514506474EA9",
+      "uri": "https://agentiscript.com/icons/rodeo.png"
+    },
+    "declaration-of-independence": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318221B328706474DEB",
+      "uri": "https://agentiscript.com/icons/declaration-of-independence.png"
+    },
+    "little-rock": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731822869E0006474E66",
+      "uri": "https://agentiscript.com/icons/little-rock.png"
+    },
+    "jesus": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731822F2097D06474EE1",
+      "uri": "https://agentiscript.com/icons/jesus.png"
+    },
+    "kentucky": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731823F57F4206474DA8",
+      "uri": "https://agentiscript.com/icons/kentucky.png"
+    },
+    "gdp-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182460EABF06474E23",
+      "uri": "https://agentiscript.com/icons/gdp-usa.png"
+    },
+    "national-mall": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731824CC563806474E9E",
+      "uri": "https://agentiscript.com/icons/national-mall.png"
+    },
+    "george-w-bush-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318263B377A06474DE0",
+      "uri": "https://agentiscript.com/icons/george-w-bush-president.png"
+    },
+    "cleveland": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731826A6A2F706474E5B",
+      "uri": "https://agentiscript.com/icons/cleveland.png"
+    },
+    "digital-renaissance-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731827120E7006474ED6",
+      "uri": "https://agentiscript.com/icons/digital-renaissance-usa.png"
+    },
+    "minimum-wage": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182880EFB206474E18",
+      "uri": "https://agentiscript.com/icons/minimum-wage.png"
+    },
+    "naval-academy": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731828EC5B2F06474E93",
+      "uri": "https://agentiscript.com/icons/naval-academy.png"
+    },
+    "william-taft-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182A5B3C7106474DD5",
+      "uri": "https://agentiscript.com/icons/william-taft-president.png"
+    },
+    "el-paso": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182AC6A7EA06474E50",
+      "uri": "https://agentiscript.com/icons/el-paso.png"
+    },
+    "dust-bowl": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182B32136706474ECB",
+      "uri": "https://agentiscript.com/icons/dust-bowl.png"
+    },
+    "cryptocurrency-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182CA0F4A906474E0D",
+      "uri": "https://agentiscript.com/icons/cryptocurrency-usa.png"
+    },
+    "great-salt-lake": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182D0C602206474E88",
+      "uri": "https://agentiscript.com/icons/great-salt-lake.png"
+    },
+    "james-polk-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182E7B416406474DCA",
+      "uri": "https://agentiscript.com/icons/james-polk-president.png"
+    },
+    "chicago": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182EE6ACE106474E45",
+      "uri": "https://agentiscript.com/icons/chicago.png"
+    },
+    "thirteen-colonies": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273182F52185A06474EC0",
+      "uri": "https://agentiscript.com/icons/thirteen-colonies.png"
+    },
+    "betsy-ross-flag": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731830C0F99C06474E02",
+      "uri": "https://agentiscript.com/icons/betsy-ross-flag.png"
+    },
+    "death-valley": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318312C651906474E7D",
+      "uri": "https://agentiscript.com/icons/death-valley.png"
+    },
+    "wisconsin": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318329B465B06474DBF",
+      "uri": "https://agentiscript.com/icons/wisconsin.png"
+    },
+    "american-space-race": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183306B1D406474E3A",
+      "uri": "https://agentiscript.com/icons/american-space-race.png"
+    },
+    "reconstruction": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731833721D5106474EB5",
+      "uri": "https://agentiscript.com/icons/reconstruction.png"
+    },
+    "grand-canyon": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731834E0FE9306474DF7",
+      "uri": "https://agentiscript.com/icons/grand-canyon.png"
+    },
+    "cape-canaveral": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318354C6A0C06474E72",
+      "uri": "https://agentiscript.com/icons/cape-canaveral.png"
+    },
+    "nasa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731835B7D58906474EED",
+      "uri": "https://agentiscript.com/icons/nasa.png"
+    },
+    "north-dakota": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731836BB4B4E06474DB4",
+      "uri": "https://agentiscript.com/icons/north-dakota.png"
+    },
+    "agentic-economy-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183726B6CB06474E2F",
+      "uri": "https://agentiscript.com/icons/agentic-economy-usa.png"
+    },
+    "free-speech": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183792224406474EAA",
+      "uri": "https://agentiscript.com/icons/free-speech.png"
+    },
+    "gettysburg-address": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183901038606474DEC",
+      "uri": "https://agentiscript.com/icons/gettysburg-address.png"
+    },
+    "providence": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318396C6F0306474E67",
+      "uri": "https://agentiscript.com/icons/providence.png"
+    },
+    "american-dream": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731839D7DA7C06474EE2",
+      "uri": "https://agentiscript.com/icons/american-dream.png"
+    },
+    "maine": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183ADB504506474DA9",
+      "uri": "https://agentiscript.com/icons/maine.png"
+    },
+    "strategic-bitcoin-reserve": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183B46BBBE06474E24",
+      "uri": "https://agentiscript.com/icons/strategic-bitcoin-reserve.png"
+    },
+    "bourbon-street": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183BB2273B06474E9F",
+      "uri": "https://agentiscript.com/icons/bourbon-street.png"
+    },
+    "barack-obama-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183D21087D06474DE1",
+      "uri": "https://agentiscript.com/icons/barack-obama-president.png"
+    },
+    "kansas-city": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183D8C73F606474E5C",
+      "uri": "https://agentiscript.com/icons/kansas-city.png"
+    },
+    "american-man": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183DF7DF7306474ED7",
+      "uri": "https://agentiscript.com/icons/american-man.png"
+    },
+    "alabama": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731855E1263B06474D9F",
+      "uri": "https://agentiscript.com/icons/alabama.png"
+    },
+    "labor-union": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183F66C0B506474E19",
+      "uri": "https://agentiscript.com/icons/labor-union.png"
+    },
+    "air-force-academy": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273183FD22C2E06474E94",
+      "uri": "https://agentiscript.com/icons/air-force-academy.png"
+    },
+    "woodrow-wilson-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731841410D7006474DD6",
+      "uri": "https://agentiscript.com/icons/woodrow-wilson-president.png"
+    },
+    "las-vegas": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731841AC78ED06474E51",
+      "uri": "https://agentiscript.com/icons/las-vegas.png"
+    },
+    "marshall-plan": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184217E46606474ECC",
+      "uri": "https://agentiscript.com/icons/marshall-plan.png"
+    },
+    "federal-reserve": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184386C5A806474E0E",
+      "uri": "https://agentiscript.com/icons/federal-reserve.png"
+    },
+    "crater-lake": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731843F2312506474E89",
+      "uri": "https://agentiscript.com/icons/crater-lake.png"
+    },
+    "millard-fillmore-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184561126706474DCB",
+      "uri": "https://agentiscript.com/icons/millard-fillmore-president.png"
+    },
+    "houston": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731845CC7DE006474E46",
+      "uri": "https://agentiscript.com/icons/houston.png"
+    },
+    "boston-massacre": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184637E95D06474EC1",
+      "uri": "https://agentiscript.com/icons/boston-massacre.png"
+    },
+    "america-first": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731847A6CA9F06474E03",
+      "uri": "https://agentiscript.com/icons/america-first.png"
+    },
+    "sierra-nevada": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184812361806474E7E",
+      "uri": "https://agentiscript.com/icons/sierra-nevada.png"
+    },
+    "wyoming": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184981175A06474DC0",
+      "uri": "https://agentiscript.com/icons/wyoming.png"
+    },
+    "american-west": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731849EC82D706474E3B",
+      "uri": "https://agentiscript.com/icons/american-west.png"
+    },
+    "new-deal": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184A57EE5006474EB6",
+      "uri": "https://agentiscript.com/icons/new-deal.png"
+    },
+    "yellowstone": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184BC6CF9206474DF8",
+      "uri": "https://agentiscript.com/icons/yellowstone.png"
+    },
+    "miami-beach": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184C323B0F06474E73",
+      "uri": "https://agentiscript.com/icons/miami-beach.png"
+    },
+    "flag-day": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184C9DA68806474EEE",
+      "uri": "https://agentiscript.com/icons/flag-day.png"
+    },
+    "oklahoma": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184DA11C5106474DB5",
+      "uri": "https://agentiscript.com/icons/oklahoma.png"
+    },
+    "american-military": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184E0C87CA06474E30",
+      "uri": "https://agentiscript.com/icons/american-military.png"
+    },
+    "equal-protection": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184E77F34706474EAB",
+      "uri": "https://agentiscript.com/icons/equal-protection.png"
+    },
+    "battle-of-yorktown": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273184FE6D48906474DED",
+      "uri": "https://agentiscript.com/icons/battle-of-yorktown.png"
+    },
+    "hartford": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185052400206474E68",
+      "uri": "https://agentiscript.com/icons/hartford.png"
+    },
+    "liberty": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731850BDAB7F06474EE3",
+      "uri": "https://agentiscript.com/icons/liberty.png"
+    },
+    "maryland": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731851C1214406474DAA",
+      "uri": "https://agentiscript.com/icons/maryland.png"
+    },
+    "us-digital-asset-stockpile": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318522C8CC106474E25",
+      "uri": "https://agentiscript.com/icons/us-digital-asset-stockpile.png"
+    },
+    "nashville-broadway": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185297F83A06474EA0",
+      "uri": "https://agentiscript.com/icons/nashville-broadway.png"
+    },
+    "donald-trump-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185406D97C06474DE2",
+      "uri": "https://agentiscript.com/icons/donald-trump-president.png"
+    },
+    "salt-lake-city": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318547244F906474E5D",
+      "uri": "https://agentiscript.com/icons/salt-lake-city.png"
+    },
+    "american-woman": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731854DDB07206474ED8",
+      "uri": "https://agentiscript.com/icons/american-woman.png"
+    },
+    "american-middle-class": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318564C91B406474E1A",
+      "uri": "https://agentiscript.com/icons/american-middle-class.png"
+    },
+    "smithsonian": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731856B7FD3106474E95",
+      "uri": "https://agentiscript.com/icons/smithsonian.png"
+    },
+    "warren-harding-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185826DE7306474DD7",
+      "uri": "https://agentiscript.com/icons/warren-harding-president.png"
+    },
+    "louisville": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318589249EC06474E52",
+      "uri": "https://agentiscript.com/icons/louisville.png"
+    },
+    "vietnam-war": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731858FDB56906474ECD",
+      "uri": "https://agentiscript.com/icons/vietnam-war.png"
+    },
+    "wall-street": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185A6C96AB06474E0F",
+      "uri": "https://agentiscript.com/icons/wall-street.png"
+    },
+    "lake-tahoe": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185AD8022406474E8A",
+      "uri": "https://agentiscript.com/icons/lake-tahoe.png"
+    },
+    "franklin-pierce-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185C46E36606474DCC",
+      "uri": "https://agentiscript.com/icons/franklin-pierce-president.png"
+    },
+    "phoenix": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185CB24EE306474E47",
+      "uri": "https://agentiscript.com/icons/phoenix.png"
+    },
+    "son-of-liberty": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185D1DBA5C06474EC2",
+      "uri": "https://agentiscript.com/icons/son-of-liberty.png"
+    },
+    "make-money-online": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185E8C9B9E06474E04",
+      "uri": "https://agentiscript.com/icons/make-money-online.png"
+    },
+    "alaska-range": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273185EF8071B06474E7F",
+      "uri": "https://agentiscript.com/icons/alaska-range.png"
+    },
+    "puerto-rico": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186066E85D06474DC1",
+      "uri": "https://agentiscript.com/icons/puerto-rico.png"
+    },
+    "route-66": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731860D253D606474E3C",
+      "uri": "https://agentiscript.com/icons/route-66.png"
+    },
+    "reagan-revolution": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318613DBF5306474EB7",
+      "uri": "https://agentiscript.com/icons/reagan-revolution.png"
+    },
+    "hollywood-sign": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731862ACA09506474DF9",
+      "uri": "https://agentiscript.com/icons/hollywood-sign.png"
+    },
+    "fort-myers": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731863180C0E06474E74",
+      "uri": "https://agentiscript.com/icons/fort-myers.png"
+    },
+    "american-spirit": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186383778B06474EEF",
+      "uri": "https://agentiscript.com/icons/american-spirit.png"
+    },
+    "oregon": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186486ED5006474DB6",
+      "uri": "https://agentiscript.com/icons/oregon.png"
+    },
+    "us-navy": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731864F258CD06474E31",
+      "uri": "https://agentiscript.com/icons/us-navy.png"
+    },
+    "separation-of-powers": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318655DC44606474EAC",
+      "uri": "https://agentiscript.com/icons/separation-of-powers.png"
+    },
+    "battle-of-bunker-hill": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731866CCA58806474DEE",
+      "uri": "https://agentiscript.com/icons/battle-of-bunker-hill.png"
+    },
+    "savannah": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186738110506474E69",
+      "uri": "https://agentiscript.com/icons/savannah.png"
+    },
+    "silver": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731867A37C7E06474EE4",
+      "uri": "https://agentiscript.com/icons/silver.png"
+    },
+    "minnesota": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731868A6F24706474DAB",
+      "uri": "https://agentiscript.com/icons/minnesota.png"
+    },
+    "genius-act": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731869125DC006474E26",
+      "uri": "https://agentiscript.com/icons/genius-act.png"
+    },
+    "country-music": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318697DC93D06474EA1",
+      "uri": "https://agentiscript.com/icons/country-music.png"
+    },
+    "joe-biden-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186AECAA7F06474DE3",
+      "uri": "https://agentiscript.com/icons/joe-biden-president.png"
+    },
+    "sacramento": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186B5815F806474E5E",
+      "uri": "https://agentiscript.com/icons/sacramento.png"
+    },
+    "american-children": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186BC3817506474ED9",
+      "uri": "https://agentiscript.com/icons/american-children.png"
+    },
+    "alaska": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186CC6F73A06474DA0",
+      "uri": "https://agentiscript.com/icons/alaska.png"
+    },
+    "american-infrastructure": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186D3262B706474E1B",
+      "uri": "https://agentiscript.com/icons/american-infrastructure.png"
+    },
+    "library-of-congress": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186D9DCE3006474E96",
+      "uri": "https://agentiscript.com/icons/library-of-congress.png"
+    },
+    "calvin-coolidge-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186F0CAF7206474DD8",
+      "uri": "https://agentiscript.com/icons/calvin-coolidge-president.png"
+    },
+    "baltimore": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186F781AEF06474E53",
+      "uri": "https://agentiscript.com/icons/baltimore.png"
+    },
+    "moon-landing": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273186FE3866806474ECE",
+      "uri": "https://agentiscript.com/icons/moon-landing.png"
+    },
+    "silicon-valley": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318715267AA06474E10",
+      "uri": "https://agentiscript.com/icons/silicon-valley.png"
+    },
+    "supreme-court": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731871BDD32706474E8B",
+      "uri": "https://agentiscript.com/icons/supreme-court.png"
+    },
+    "james-buchanan-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318732CB46906474DCD",
+      "uri": "https://agentiscript.com/icons/james-buchanan-president.png"
+    },
+    "san-diego": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731873981FE206474E48",
+      "uri": "https://agentiscript.com/icons/san-diego.png"
+    },
+    "valley-forge": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731874038B5F06474EC3",
+      "uri": "https://agentiscript.com/icons/valley-forge.png"
+    },
+    "small-business-owner": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731875726CA106474E05",
+      "uri": "https://agentiscript.com/icons/small-business-owner.png"
+    },
+    "yellowstone-river": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731875DDD81A06474E80",
+      "uri": "https://agentiscript.com/icons/yellowstone-river.png"
+    },
+    "guam": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318774CB95C06474DC2",
+      "uri": "https://agentiscript.com/icons/guam.png"
+    },
+    "panama-canal-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731877B824D906474E3D",
+      "uri": "https://agentiscript.com/icons/panama-canal-usa.png"
+    },
+    "american-melting-pot": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187823905206474EB8",
+      "uri": "https://agentiscript.com/icons/american-melting-pot.png"
+    },
+    "americas-250th": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187992719406474DFA",
+      "uri": "https://agentiscript.com/icons/americas-250th.png"
+    },
+    "naples": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731879FDDD1106474E75",
+      "uri": "https://agentiscript.com/icons/naples.png"
+    },
+    "second-amendment": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187A69488A06474EF0",
+      "uri": "https://agentiscript.com/icons/second-amendment.png"
+    },
+    "rhode-island": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187B6CBE5306474DB7",
+      "uri": "https://agentiscript.com/icons/rhode-island.png"
+    },
+    "us-marines": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187BD829CC06474E32",
+      "uri": "https://agentiscript.com/icons/us-marines.png"
+    },
+    "checks-and-balances": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187C43954906474EAD",
+      "uri": "https://agentiscript.com/icons/checks-and-balances.png"
+    },
+    "battle-of-lexington": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187DB2768B06474DEF",
+      "uri": "https://agentiscript.com/icons/battle-of-lexington.png"
+    },
+    "syracuse": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187E1DE20406474E6A",
+      "uri": "https://agentiscript.com/icons/syracuse.png"
+    },
+    "us-economy": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187E894D8106474EE5",
+      "uri": "https://agentiscript.com/icons/us-economy.png"
+    },
+    "mississippi": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187F8CC34606474DAC",
+      "uri": "https://agentiscript.com/icons/mississippi.png"
+    },
+    "xrp-national-banking": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273187FF82EC306474E27",
+      "uri": "https://agentiscript.com/icons/xrp-national-banking.png"
+    },
+    "jazz-music": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731880639A3C06474EA2",
+      "uri": "https://agentiscript.com/icons/jazz-music.png"
+    },
+    "samuel-adams-founding": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731881D27B7E06474DE4",
+      "uri": "https://agentiscript.com/icons/samuel-adams-founding.png"
+    },
+    "richmond": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318823DE6FB06474E5F",
+      "uri": "https://agentiscript.com/icons/richmond.png"
+    },
+    "american-families": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731882A9527406474EDA",
+      "uri": "https://agentiscript.com/icons/american-families.png"
+    },
+    "california": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731883ACC83D06474DA1",
+      "uri": "https://agentiscript.com/icons/california.png"
+    },
+    "us-dollar": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318841833B606474E1C",
+      "uri": "https://agentiscript.com/icons/us-dollar.png"
+    },
+    "national-archives": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731884839F3306474E97",
+      "uri": "https://agentiscript.com/icons/national-archives.png"
+    },
+    "herbert-hoover-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731885F2807506474DD9",
+      "uri": "https://agentiscript.com/icons/herbert-hoover-president.png"
+    },
+    "memphis": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318865DEBEE06474E54",
+      "uri": "https://agentiscript.com/icons/memphis.png"
+    },
+    "fall-of-berlin-wall": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731886C9576B06474ECF",
+      "uri": "https://agentiscript.com/icons/fall-of-berlin-wall.png"
+    },
+    "american-innovation": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318883838AD06474E11",
+      "uri": "https://agentiscript.com/icons/american-innovation.png"
+    },
+    "senate": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731888A3A42606474E8C",
+      "uri": "https://agentiscript.com/icons/senate.png"
+    },
+    "abraham-lincoln-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273188A12856806474DCE",
+      "uri": "https://agentiscript.com/icons/abraham-lincoln-president.png"
+    },
+    "san-jose": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273188A7DF0E506474E49",
+      "uri": "https://agentiscript.com/icons/san-jose.png"
+    },
+    "crossing-the-delaware": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273188AE95C5E06474EC4",
+      "uri": "https://agentiscript.com/icons/crossing-the-delaware.png"
+    },
+    "startup-founder": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273188C583DA006474E06",
+      "uri": "https://agentiscript.com/icons/startup-founder.png"
+    },
+    "great-barrier": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273188CC3A91D06474E81",
+      "uri": "https://agentiscript.com/icons/great-barrier.png"
+    },
+    "george-washington-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273188E328A5F06474DC3",
+      "uri": "https://agentiscript.com/icons/george-washington-president.png"
+    },
+    "solana-strategic-reserve": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273188E9DF5D806474E3E",
+      "uri": "https://agentiscript.com/icons/solana-strategic-reserve.png"
+    },
+    "in-god-we-trust": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273188F09615506474EB9",
+      "uri": "https://agentiscript.com/icons/in-god-we-trust.png"
+    },
+    "semiquincentennial": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189078429706474DFB",
+      "uri": "https://agentiscript.com/icons/semiquincentennial.png"
+    },
+    "daytona": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731890E3AE1006474E76",
+      "uri": "https://agentiscript.com/icons/daytona.png"
+    },
+    "digital-assets": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318914F198D06474EF1",
+      "uri": "https://agentiscript.com/icons/digital-assets.png"
+    },
+    "south-carolina": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731892528F5206474DB8",
+      "uri": "https://agentiscript.com/icons/south-carolina.png"
+    },
+    "us-coast-guard": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731892BDFACF06474E33",
+      "uri": "https://agentiscript.com/icons/us-coast-guard.png"
+    },
+    "religious-freedom": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189329664806474EAE",
+      "uri": "https://agentiscript.com/icons/religious-freedom.png"
+    },
+    "continental-congress": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189498478A06474DF0",
+      "uri": "https://agentiscript.com/icons/continental-congress.png"
+    },
+    "grand-rapids": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189503B30706474E6B",
+      "uri": "https://agentiscript.com/icons/grand-rapids.png"
+    },
+    "drill-baby-drill": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318956F1E8006474EE6",
+      "uri": "https://agentiscript.com/icons/drill-baby-drill.png"
+    },
+    "missouri": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189672944906474DAD",
+      "uri": "https://agentiscript.com/icons/missouri.png"
+    },
+    "xrpl-commons": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731896DDFFC206474E28",
+      "uri": "https://agentiscript.com/icons/xrpl-commons.png"
+    },
+    "blues-music": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731897496B3F06474EA3",
+      "uri": "https://agentiscript.com/icons/blues-music.png"
+    },
+    "patrick-henry-founding": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A2731898B84C8106474DE5",
+      "uri": "https://agentiscript.com/icons/patrick-henry-founding.png"
+    },
+    "st-louis": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189923B7FA06474E60",
+      "uri": "https://agentiscript.com/icons/st-louis.png"
+    },
+    "american-community": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318998F237706474EDB",
+      "uri": "https://agentiscript.com/icons/american-community.png"
+    },
+    "connecticut": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189A92993C06474DA2",
+      "uri": "https://agentiscript.com/icons/connecticut.png"
+    },
+    "inflation-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189AFE04B906474E1D",
+      "uri": "https://agentiscript.com/icons/inflation-usa.png"
+    },
+    "national-park-service": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189B69703206474E98",
+      "uri": "https://agentiscript.com/icons/national-park-service.png"
+    },
+    "franklin-roosevelt-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189CD8517406474DDA",
+      "uri": "https://agentiscript.com/icons/franklin-roosevelt-president.png"
+    },
+    "boston": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189D43BCF106474E55",
+      "uri": "https://agentiscript.com/icons/boston.png"
+    },
+    "gulf-war": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189DAF286A06474ED0",
+      "uri": "https://agentiscript.com/icons/gulf-war.png"
+    },
+    "industrial-revolution-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189F1E09AC06474E12",
+      "uri": "https://agentiscript.com/icons/industrial-revolution-usa.png"
+    },
+    "federal-bureau-of-investigation": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A273189F89752906474E8D",
+      "uri": "https://agentiscript.com/icons/federal-bureau-of-investigation.png"
+    },
+    "andrew-johnson-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A0F8566B06474DCF",
+      "uri": "https://agentiscript.com/icons/andrew-johnson-president.png"
+    },
+    "columbus": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A163C1E406474E4A",
+      "uri": "https://agentiscript.com/icons/columbus.png"
+    },
+    "monroe-doctrine": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A1CF2D6106474EC5",
+      "uri": "https://agentiscript.com/icons/monroe-doctrine.png"
+    },
+    "stock-market-investing": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A33E0EA306474E07",
+      "uri": "https://agentiscript.com/icons/stock-market-investing.png"
+    },
+    "big-sur": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A3A97A1C06474E82",
+      "uri": "https://agentiscript.com/icons/big-sur.png"
+    },
+    "john-adams-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A5185B5E06474DC4",
+      "uri": "https://agentiscript.com/icons/john-adams-president.png"
+    },
+    "xrp-strategic-reserve": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A583C6DB06474E3F",
+      "uri": "https://agentiscript.com/icons/xrp-strategic-reserve.png"
+    },
+    "home-of-the-brave": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A5EF325406474EBA",
+      "uri": "https://agentiscript.com/icons/home-of-the-brave.png"
+    },
+    "independence-day-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A75E139606474DFC",
+      "uri": "https://agentiscript.com/icons/independence-day-usa.png"
+    },
+    "clearwater": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A7C97F1306474E77",
+      "uri": "https://agentiscript.com/icons/clearwater.png"
+    },
+    "road-trip": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A834EA8C06474EF2",
+      "uri": "https://agentiscript.com/icons/road-trip.png"
+    },
+    "south-dakota": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A938605506474DB9",
+      "uri": "https://agentiscript.com/icons/south-dakota.png"
+    },
+    "memorial-day": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318A9A3CBCE06474E34",
+      "uri": "https://agentiscript.com/icons/memorial-day.png"
+    },
+    "press-freedom": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318AA0F374B06474EAF",
+      "uri": "https://agentiscript.com/icons/press-freedom.png"
+    },
+    "emancipation-proclamation": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318AB7E188D06474DF1",
+      "uri": "https://agentiscript.com/icons/emancipation-proclamation.png"
+    },
+    "knoxville": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318ABE9840606474E6C",
+      "uri": "https://agentiscript.com/icons/knoxville.png"
+    },
+    "american-teacher": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318AC54EF8306474EE7",
+      "uri": "https://agentiscript.com/icons/american-teacher.png"
+    },
+    "montana": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318AD58654806474DAE",
+      "uri": "https://agentiscript.com/icons/montana.png"
+    },
+    "american-crypto-policy": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318ADC3D0C506474E29",
+      "uri": "https://agentiscript.com/icons/american-crypto-policy.png"
+    },
+    "rock-and-roll": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318AE2F3C3E06474EA4",
+      "uri": "https://agentiscript.com/icons/rock-and-roll.png"
+    },
+    "paul-revere-founding": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318AF9E1D8006474DE6",
+      "uri": "https://agentiscript.com/icons/paul-revere-founding.png"
+    },
+    "honolulu": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B00988FD06474E61",
+      "uri": "https://agentiscript.com/icons/honolulu.png"
+    },
+    "american-neighborhood": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B074F47606474EDC",
+      "uri": "https://agentiscript.com/icons/american-neighborhood.png"
+    },
+    "delaware": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B1786A3F06474DA3",
+      "uri": "https://agentiscript.com/icons/delaware.png"
+    },
+    "american-tax-system": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B1E3D5B806474E1E",
+      "uri": "https://agentiscript.com/icons/american-tax-system.png"
+    },
+    "interstate-highway": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B24F413506474E99",
+      "uri": "https://agentiscript.com/icons/interstate-highway.png"
+    },
+    "harry-truman-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B3BE227706474DDB",
+      "uri": "https://agentiscript.com/icons/harry-truman-president.png"
+    },
+    "miami": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B4298DF006474E56",
+      "uri": "https://agentiscript.com/icons/miami.png"
+    },
+    "september-11": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B494F96D06474ED1",
+      "uri": "https://agentiscript.com/icons/september-11.png"
+    },
+    "american-steel": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B603DAAF06474E13",
+      "uri": "https://agentiscript.com/icons/american-steel.png"
+    },
+    "department-of-defense": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B66F462806474E8E",
+      "uri": "https://agentiscript.com/icons/department-of-defense.png"
+    },
+    "ulysses-grant-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B7DE276A06474DD0",
+      "uri": "https://agentiscript.com/icons/ulysses-grant-president.png"
+    },
+    "indianapolis": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B84992E706474E4B",
+      "uri": "https://agentiscript.com/icons/indianapolis.png"
+    },
+    "mexican-american-war": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318B8B4FE6006474EC6",
+      "uri": "https://agentiscript.com/icons/mexican-american-war.png"
+    },
+    "american-manufacturing": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318BA23DFA206474E08",
+      "uri": "https://agentiscript.com/icons/american-manufacturing.png"
+    },
+    "chesapeake-bay": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318BA8F4B1F06474E83",
+      "uri": "https://agentiscript.com/icons/chesapeake-bay.png"
+    },
+    "thomas-jefferson-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318BBFE2C6106474DC5",
+      "uri": "https://agentiscript.com/icons/thomas-jefferson-president.png"
+    },
+    "statue-of-freedom": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318BC6997DA06474E40",
+      "uri": "https://agentiscript.com/icons/statue-of-freedom.png"
+    },
+    "american-pioneer": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318BCD5035706474EBB",
+      "uri": "https://agentiscript.com/icons/american-pioneer.png"
+    },
+    "july-fourth": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318BE43E49906474DFD",
+      "uri": "https://agentiscript.com/icons/july-fourth.png"
+    },
+    "appalachian-trail": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318BEAF501206474E78",
+      "uri": "https://agentiscript.com/icons/appalachian-trail.png"
+    },
+    "tennessee": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C01E315406474DBA",
+      "uri": "https://agentiscript.com/icons/tennessee.png"
+    },
+    "manifest-destiny": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C0899CD106474E35",
+      "uri": "https://agentiscript.com/icons/manifest-destiny.png"
+    },
+    "right-to-vote": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C0F5084A06474EB0",
+      "uri": "https://agentiscript.com/icons/right-to-vote.png"
+    },
+    "statue-of-liberty": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C263E98C06474DF2",
+      "uri": "https://agentiscript.com/icons/statue-of-liberty.png"
+    },
+    "chattanooga": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C2CF550906474E6D",
+      "uri": "https://agentiscript.com/icons/chattanooga.png"
+    },
+    "dont-tread-on-me": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C33AC08206474EE8",
+      "uri": "https://agentiscript.com/icons/dont-tread-on-me.png"
+    },
+    "nebraska": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C43E364B06474DAF",
+      "uri": "https://agentiscript.com/icons/nebraska.png"
+    },
+    "defi-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C4A9A1C406474E2A",
+      "uri": "https://agentiscript.com/icons/defi-usa.png"
+    },
+    "hip-hop": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C5150D4106474EA5",
+      "uri": "https://agentiscript.com/icons/hip-hop.png"
+    },
+    "betsy-ross-founding": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C683EE8306474DE7",
+      "uri": "https://agentiscript.com/icons/betsy-ross-founding.png"
+    },
+    "tucson": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C6EF59FC06474E62",
+      "uri": "https://agentiscript.com/icons/tucson.png"
+    },
+    "american-school": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C75AC57906474EDD",
+      "uri": "https://agentiscript.com/icons/american-school.png"
+    },
+    "idaho": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C85E3B3E06474DA4",
+      "uri": "https://agentiscript.com/icons/idaho.png"
+    },
+    "trade-deficit": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C8C9A6BB06474E1F",
+      "uri": "https://agentiscript.com/icons/trade-deficit.png"
+    },
+    "hoover-dam": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318C935123406474E9A",
+      "uri": "https://agentiscript.com/icons/hoover-dam.png"
+    },
+    "dwight-eisenhower-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318CAA3F37606474DDC",
+      "uri": "https://agentiscript.com/icons/dwight-eisenhower-president.png"
+    },
+    "raleigh": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318CB0F5EF306474E57",
+      "uri": "https://agentiscript.com/icons/raleigh.png"
+    },
+    "financial-crisis-2008": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318CB7ACA6C06474ED2",
+      "uri": "https://agentiscript.com/icons/financial-crisis-2008.png"
+    },
+    "renewable-energy-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318CCE9ABAE06474E14",
+      "uri": "https://agentiscript.com/icons/renewable-energy-usa.png"
+    },
+    "department-of-treasury": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318CD55172B06474E8F",
+      "uri": "https://agentiscript.com/icons/department-of-treasury.png"
+    },
+    "james-garfield-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318CEC3F86D06474DD1",
+      "uri": "https://agentiscript.com/icons/james-garfield-president.png"
+    },
+    "san-francisco": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318CF2F63E606474E4C",
+      "uri": "https://agentiscript.com/icons/san-francisco.png"
+    },
+    "gold-rush": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318CF9ACF6306474EC7",
+      "uri": "https://agentiscript.com/icons/gold-rush.png"
+    },
+    "e-commerce-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D109B0A506474E09",
+      "uri": "https://agentiscript.com/icons/e-commerce-usa.png"
+    },
+    "puget-sound": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D1751C1E06474E84",
+      "uri": "https://agentiscript.com/icons/puget-sound.png"
+    },
+    "james-madison-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D2E3FD6006474DC6",
+      "uri": "https://agentiscript.com/icons/james-madison-president.png"
+    },
+    "air-force-one": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D34F68DD06474E41",
+      "uri": "https://agentiscript.com/icons/air-force-one.png"
+    },
+    "american-optimism": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D3BAD45606474EBC",
+      "uri": "https://agentiscript.com/icons/american-optimism.png"
+    },
+    "fireworks-display": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D529B59806474DFE",
+      "uri": "https://agentiscript.com/icons/fireworks-display.png"
+    },
+    "colorado-river": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D595211506474E79",
+      "uri": "https://agentiscript.com/icons/colorado-river.png"
+    },
+    "vermont": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D704025706474DBB",
+      "uri": "https://agentiscript.com/icons/vermont.png"
+    },
+    "american-civil-war": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D76F6DD006474E36",
+      "uri": "https://agentiscript.com/icons/american-civil-war.png"
+    },
+    "civil-rights": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D7DAD94D06474EB1",
+      "uri": "https://agentiscript.com/icons/civil-rights.png"
+    },
+    "liberty-bell": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D949BA8F06474DF3",
+      "uri": "https://agentiscript.com/icons/liberty-bell.png"
+    },
+    "des-moines": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318D9B5260806474E6E",
+      "uri": "https://agentiscript.com/icons/des-moines.png"
+    },
+    "ellis-island": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318DA20918506474EE9",
+      "uri": "https://agentiscript.com/icons/ellis-island.png"
+    },
+    "new-jersey": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318DB24074A06474DB0",
+      "uri": "https://agentiscript.com/icons/new-jersey.png"
+    },
+    "nft-market-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318DB8F72C706474E2B",
+      "uri": "https://agentiscript.com/icons/nft-market-usa.png"
+    },
+    "american-football": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318DBFADE4006474EA6",
+      "uri": "https://agentiscript.com/icons/american-football.png"
+    },
+    "thomas-paine-founding": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318DD69BF8206474DE8",
+      "uri": "https://agentiscript.com/icons/thomas-paine-founding.png"
+    },
+    "omaha": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318DDD52AFF06474E63",
+      "uri": "https://agentiscript.com/icons/omaha.png"
+    },
+    "faith": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318DE40967806474EDE",
+      "uri": "https://agentiscript.com/icons/faith.png"
+    },
+    "illinois": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318DF440C4106474DA5",
+      "uri": "https://agentiscript.com/icons/illinois.png"
+    },
+    "tariffs-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318DFAF77BA06474E20",
+      "uri": "https://agentiscript.com/icons/tariffs-usa.png"
+    },
+    "brooklyn-bridge": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E01AE33706474E9B",
+      "uri": "https://agentiscript.com/icons/brooklyn-bridge.png"
+    },
+    "jimmy-carter-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E189C47906474DDD",
+      "uri": "https://agentiscript.com/icons/jimmy-carter-president.png"
+    },
+    "atlanta": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E1F52FF206474E58",
+      "uri": "https://agentiscript.com/icons/atlanta.png"
+    },
+    "covid-america": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E2609B6F06474ED3",
+      "uri": "https://agentiscript.com/icons/covid-america.png"
+    },
+    "defense-industry": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E3CF7CB106474E15",
+      "uri": "https://agentiscript.com/icons/defense-industry.png"
+    },
+    "department-of-state": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E43AE82A06474E90",
+      "uri": "https://agentiscript.com/icons/department-of-state.png"
+    },
+    "benjamin-harrison-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E5A9C96C06474DD2",
+      "uri": "https://agentiscript.com/icons/benjamin-harrison-president.png"
+    },
+    "seattle": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E61534E906474E4D",
+      "uri": "https://agentiscript.com/icons/seattle.png"
+    },
+    "transcontinental-railroad": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E680A06206474EC8",
+      "uri": "https://agentiscript.com/icons/transcontinental-railroad.png"
+    },
+    "gig-economy": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E7EF81A406474E0A",
+      "uri": "https://agentiscript.com/icons/gig-economy.png"
+    },
+    "san-francisco-bay": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E85AED2106474E85",
+      "uri": "https://agentiscript.com/icons/san-francisco-bay.png"
+    },
+    "james-monroe-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318E9C9CE6306474DC7",
+      "uri": "https://agentiscript.com/icons/james-monroe-president.png"
+    },
+    "world-cup-usa-2026": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318EA3539DC06474E42",
+      "uri": "https://agentiscript.com/icons/world-cup-usa-2026.png"
+    },
+    "american-ingenuity": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318EAA0A55906474EBD",
+      "uri": "https://agentiscript.com/icons/american-ingenuity.png"
+    },
+    "american-patriotism": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318EC0F869B06474DFF",
+      "uri": "https://agentiscript.com/icons/american-patriotism.png"
+    },
+    "columbia-river": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318EC7AF21406474E7A",
+      "uri": "https://agentiscript.com/icons/columbia-river.png"
+    },
+    "virginia": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318EDE9D35606474DBC",
+      "uri": "https://agentiscript.com/icons/virginia.png"
+    },
+    "world-war-one-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318EE553ED306474E37",
+      "uri": "https://agentiscript.com/icons/world-war-one-usa.png"
+    },
+    "equal-rights": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318EEC0AA4C06474EB2",
+      "uri": "https://agentiscript.com/icons/equal-rights.png"
+    },
+    "washington-monument": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F02F8B8E06474DF4",
+      "uri": "https://agentiscript.com/icons/washington-monument.png"
+    },
+    "fort-lauderdale": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F09AF70B06474E6F",
+      "uri": "https://agentiscript.com/icons/fort-lauderdale.png"
+    },
+    "american-first-responder": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F106628406474EEA",
+      "uri": "https://agentiscript.com/icons/american-first-responder.png"
+    },
+    "new-mexico": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F209D84D06474DB1",
+      "uri": "https://agentiscript.com/icons/new-mexico.png"
+    },
+    "blockchain-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F27543C606474E2C",
+      "uri": "https://agentiscript.com/icons/blockchain-usa.png"
+    },
+    "baseball": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F2E0AF4306474EA7",
+      "uri": "https://agentiscript.com/icons/baseball.png"
+    },
+    "john-hancock-founding": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F44F908506474DE9",
+      "uri": "https://agentiscript.com/icons/john-hancock-founding.png"
+    },
+    "reno": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F4BAFBFE06474E64",
+      "uri": "https://agentiscript.com/icons/reno.png"
+    },
+    "hope": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F526677B06474EDF",
+      "uri": "https://agentiscript.com/icons/hope.png"
+    },
+    "indiana": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F629DD4006474DA6",
+      "uri": "https://agentiscript.com/icons/indiana.png"
+    },
+    "made-in-america": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F69548BD06474E21",
+      "uri": "https://agentiscript.com/icons/made-in-america.png"
+    },
+    "empire-state-building": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F700B43606474E9C",
+      "uri": "https://agentiscript.com/icons/empire-state-building.png"
+    },
+    "ronald-reagan-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F86F957806474DDE",
+      "uri": "https://agentiscript.com/icons/ronald-reagan-president.png"
+    },
+    "orlando": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F8DB00F506474E59",
+      "uri": "https://agentiscript.com/icons/orlando.png"
+    },
+    "inflation-reduction-act": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318F9466C6E06474ED4",
+      "uri": "https://agentiscript.com/icons/inflation-reduction-act.png"
+    },
+    "healthcare-usa": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318FAB54DB006474E16",
+      "uri": "https://agentiscript.com/icons/healthcare-usa.png"
+    },
+    "national-guard": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318FB20B92D06474E91",
+      "uri": "https://agentiscript.com/icons/national-guard.png"
+    },
+    "william-mckinley-president": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318FC8F9A6F06474DD3",
+      "uri": "https://agentiscript.com/icons/william-mckinley-president.png"
+    },
+    "denver": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318FCFB05E806474E4E",
+      "uri": "https://agentiscript.com/icons/denver.png"
+    },
+    "prohibition": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318FD66716506474EC9",
+      "uri": "https://agentiscript.com/icons/prohibition.png"
+    },
+    "side-hustle": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318FED552A706474E0B",
+      "uri": "https://agentiscript.com/icons/side-hustle.png"
+    },
+    "gulf-coast": {
+      "tx_hash": "000827104AD0F274C4899F0B4E8FC2D1402960BF92A27318FF40BE2006474E86",
+      "uri": "https://agentiscript.com/icons/gulf-coast.png"
+    },
+    "arizona": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/arizona.png"
+    },
+    "arkansas": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/arkansas.png"
+    },
+    "colorado": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/colorado.png"
+    },
+    "hawaii": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/hawaii.png"
+    },
+    "michigan": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/michigan.png"
+    },
+    "nevada": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/nevada.png"
+    },
+    "new-hampshire": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/new-hampshire.png"
+    },
+    "ohio": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/ohio.png"
+    },
+    "pennsylvania": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/pennsylvania.png"
+    },
+    "texas": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/texas.png"
+    },
+    "utah": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/utah.png"
+    },
+    "american-samoa": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/american-samoa.png"
+    },
+    "northern-mariana-islands": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/northern-mariana-islands.png"
+    },
+    "john-quincy-adams-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/john-quincy-adams-president.png"
+    },
+    "martin-van-buren-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/martin-van-buren-president.png"
+    },
+    "zachary-taylor-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/zachary-taylor-president.png"
+    },
+    "chester-arthur-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/chester-arthur-president.png"
+    },
+    "grover-cleveland-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/grover-cleveland-president.png"
+    },
+    "john-kennedy-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/john-kennedy-president.png"
+    },
+    "lyndon-johnson-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/lyndon-johnson-president.png"
+    },
+    "richard-nixon-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/richard-nixon-president.png"
+    },
+    "gerald-ford-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/gerald-ford-president.png"
+    },
+    "george-hw-bush-president": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/george-hw-bush-president.png"
+    },
+    "benjamin-franklin-founding": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/benjamin-franklin-founding.png"
+    },
+    "alexander-hamilton-founding": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/alexander-hamilton-founding.png"
+    },
+    "john-jay-founding": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/john-jay-founding.png"
+    },
+    "us-constitution": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/us-constitution.png"
+    },
+    "bill-of-rights": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/bill-of-rights.png"
+    },
+    "federalist-papers": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/federalist-papers.png"
+    },
+    "mount-rushmore": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/mount-rushmore.png"
+    },
+    "lincoln-memorial": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/lincoln-memorial.png"
+    },
+    "white-house": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/white-house.png"
+    },
+    "niagara-falls": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/niagara-falls.png"
+    },
+    "everglades": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/everglades.png"
+    },
+    "times-square": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/times-square.png"
+    },
+    "las-vegas-strip": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/las-vegas-strip.png"
+    },
+    "bald-eagle": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/bald-eagle.png"
+    },
+    "star-spangled-banner": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/star-spangled-banner.png"
+    },
+    "fourth-of-july-celebration": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/fourth-of-july-celebration.png"
+    },
+    "passive-income-ideas": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/passive-income-ideas.png"
+    },
+    "venture-capital": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/venture-capital.png"
+    },
+    "401k-retirement": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/401k-retirement.png"
+    },
+    "supply-chain-america": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/supply-chain-america.png"
+    },
+    "financial-independence": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/financial-independence.png"
+    },
+    "agriculture-usa": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/agriculture-usa.png"
+    },
+    "education-system-usa": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/education-system-usa.png"
+    },
+    "national-debt-usa": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/national-debt-usa.png"
+    },
+    "small-business-loan": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/small-business-loan.png"
+    },
+    "american-exports": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/american-exports.png"
+    },
+    "fit21-act": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/fit21-act.png"
+    },
+    "crypto-strategic-reserve": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/crypto-strategic-reserve.png"
+    },
+    "stablecoin-regulation": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/stablecoin-regulation.png"
+    },
+    "us-army": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/us-army.png"
+    },
+    "us-air-force": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/us-air-force.png"
+    },
+    "veterans-day": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/veterans-day.png"
+    },
+    "louisiana-purchase": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/louisiana-purchase.png"
+    },
+    "american-railroad": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/american-railroad.png"
+    },
+    "american-nuclear-age": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/american-nuclear-age.png"
+    },
+    "bitcoin-strategic-reserve": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/bitcoin-strategic-reserve.png"
+    },
+    "ethereum-strategic-reserve": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/ethereum-strategic-reserve.png"
+    },
+    "philadelphia": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/philadelphia.png"
+    },
+    "san-antonio": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/san-antonio.png"
+    },
+    "dallas": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/dallas.png"
+    },
+    "jacksonville": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/jacksonville.png"
+    },
+    "austin": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/austin.png"
+    },
+    "oklahoma-city": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/oklahoma-city.png"
+    },
+    "portland": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/portland.png"
+    },
+    "pittsburgh": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/pittsburgh.png"
+    },
+    "detroit": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/detroit.png"
+    },
+    "anchorage": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/anchorage.png"
+    },
+    "albuquerque": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/albuquerque.png"
+    },
+    "new-haven": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/new-haven.png"
+    },
+    "charleston": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/charleston.png"
+    },
+    "daytona-beach": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/daytona-beach.png"
+    },
+    "sarasota": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/sarasota.png"
+    },
+    "key-west": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/key-west.png"
+    },
+    "palm-beach": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/palm-beach.png"
+    },
+    "st-augustine": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/st-augustine.png"
+    },
+    "st-pete": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/st-pete.png"
+    },
+    "mississippi-river": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/mississippi-river.png"
+    },
+    "mojave-desert": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/mojave-desert.png"
+    },
+    "great-plains": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/great-plains.png"
+    },
+    "mount-whitney": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/mount-whitney.png"
+    },
+    "florida-keys": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/florida-keys.png"
+    },
+    "outer-banks": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/outer-banks.png"
+    },
+    "cape-cod": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/cape-cod.png"
+    },
+    "pacific-coast": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/pacific-coast.png"
+    },
+    "congress": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/congress.png"
+    },
+    "house-of-representatives": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/house-of-representatives.png"
+    },
+    "secret-service": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/secret-service.png"
+    },
+    "arlington-cemetery": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/arlington-cemetery.png"
+    },
+    "normandy-american": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/normandy-american.png"
+    },
+    "pearl-harbor": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/pearl-harbor.png"
+    },
+    "thanksgiving": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/thanksgiving.png"
+    },
+    "right-to-bear-arms": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/right-to-bear-arms.png"
+    },
+    "due-process": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/due-process.png"
+    },
+    "rule-of-law": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/rule-of-law.png"
+    },
+    "great-society": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/great-society.png"
+    },
+    "e-pluribus-unum": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/e-pluribus-unum.png"
+    },
+    "land-of-the-free": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/land-of-the-free.png"
+    },
+    "american-work-ethic": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/american-work-ethic.png"
+    },
+    "world-war-two-victory": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/world-war-two-victory.png"
+    },
+    "korean-war": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/korean-war.png"
+    },
+    "america-250-celebration": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/america-250-celebration.png"
+    },
+    "space-force-usa": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/space-force-usa.png"
+    },
+    "american-church": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/american-church.png"
+    },
+    "capitalism": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/capitalism.png"
+    },
+    "gold": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/gold.png"
+    },
+    "cftc": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/cftc.png"
+    },
+    "uswnt": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/uswnt.png"
+    },
+    "american-veteran": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/american-veteran.png"
+    },
+    "american-cowboy": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/american-cowboy.png"
+    },
+    "independence-hall": {
+      "tx_hash": "",
+      "uri": "https://agentiscript.com/icons/independence-hall.png"
+    }
+  },
+  "failed": [
+    "georgia",
+    "kansas",
+    "louisiana",
+    "massachusetts",
+    "washington-dc",
+    "us-virgin-islands",
+    "john-tyler-president",
+    "rutherford-hayes-president",
+    "real-estate-investing",
+    "entrepreneurship",
+    "social-security",
+    "bitcoin-usa",
+    "oil-and-gas-usa",
+    "homeownership-usa",
+    "ripple-usa",
+    "agentiscript-genesis",
+    "apollo-11",
+    "cardano-strategic-reserve",
+    "american-flag",
+    "gulf-of-america",
+    "fort-worth",
+    "charlotte",
+    "new-orleans",
+    "tampa",
+    "cincinnati",
+    "buffalo",
+    "colorado-springs",
+    "boise",
+    "pensacola",
+    "boca-raton",
+    "great-lakes",
+    "rocky-mountains",
+    "mount-mckinley",
+    "central-intelligence-agency",
+    "pentagon",
+    "gettysburg",
+    "american-exceptionalism",
+    "watergate",
+    "iran-hostage",
+    "war-on-terror",
+    "january-6",
+    "ai-revolution-usa",
+    "bible",
+    "freedom",
+    "sea-to-shining-sea",
+    "sec",
+    "usmnt"
+  ]
+}

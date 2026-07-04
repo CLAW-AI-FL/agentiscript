@@ -1,0 +1,1447 @@
+{
+  "generated_at": "2026-07-03T21:38:44Z",
+  "elapsed_seconds": 63.66,
+  "total_posts_scraped": 100,
+  "subreddits": [
+    "artificial",
+    "xrp",
+    "singularity",
+    "MachineLearning",
+    "entrepreneur"
+  ],
+  "slugs": [
+    {
+      "slug": "discord",
+      "score": 468,
+      "sources": [
+        "singularity",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "xrp",
+      "score": 420,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "xrphoenix",
+      "score": 368,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "join",
+      "score": 268,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "anthropic",
+      "score": 260,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "com",
+      "score": 184,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "invite",
+      "score": 184,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "find",
+      "score": 180,
+      "sources": [
+        "entrepreneur",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "july",
+      "score": 176,
+      "sources": [
+        "entrepreneur",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "system",
+      "score": 172,
+      "sources": [
+        "artificial",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "space",
+      "score": 172,
+      "sources": [
+        "entrepreneur",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "ideas",
+      "score": 172,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "fable",
+      "score": 160,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "ripple",
+      "score": 160,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "real",
+      "score": 160,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "fix",
+      "score": 156,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "must",
+      "score": 156,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "fail",
+      "score": 152,
+      "sources": [
+        "artificial",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "claude",
+      "score": 152,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "chinese",
+      "score": 152,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "2026",
+      "score": 152,
+      "sources": [
+        "entrepreneur",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "cold",
+      "score": 152,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "useful",
+      "score": 144,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "current",
+      "score": 144,
+      "sources": [
+        "singularity",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "first",
+      "score": 136,
+      "sources": [
+        "entrepreneur",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "might",
+      "score": 136,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "months",
+      "score": 132,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "thought",
+      "score": 132,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "start",
+      "score": 128,
+      "sources": [
+        "entrepreneur",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "chain",
+      "score": 128,
+      "sources": [
+        "entrepreneur",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "gave",
+      "score": 124,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "partner",
+      "score": 124,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "using",
+      "score": 120,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "self",
+      "score": 120,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "pay",
+      "score": 120,
+      "sources": [
+        "artificial",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "gpt",
+      "score": 116,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "today",
+      "score": 116,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "agent",
+      "score": 112,
+      "sources": [
+        "artificial",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "need",
+      "score": 112,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "experience",
+      "score": 112,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "learning",
+      "score": 104,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "openai",
+      "score": 104,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "model",
+      "score": 104,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "andrew",
+      "score": 100,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "everyone",
+      "score": 100,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "improving",
+      "score": 100,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "loops",
+      "score": 100,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "prompting",
+      "score": 100,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "experiences",
+      "score": 100,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "subreddit",
+      "score": 100,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "rules",
+      "score": 100,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "subs",
+      "score": 100,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "helpful",
+      "score": 100,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "links",
+      "score": 100,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "server",
+      "score": 100,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "link",
+      "score": 100,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "episode",
+      "score": 100,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "005",
+      "score": 100,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "ama",
+      "score": 100,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "kenny",
+      "score": 100,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "brown",
+      "score": 100,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "hamet",
+      "score": 100,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "watt",
+      "score": 100,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "entrepreneur",
+      "score": 100,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "podcast",
+      "score": 100,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "subscription",
+      "score": 96,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "work",
+      "score": 96,
+      "sources": [
+        "artificial",
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "actually",
+      "score": 96,
+      "sources": [
+        "artificial",
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "mozilla",
+      "score": 96,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "used",
+      "score": 96,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "mythos",
+      "score": 96,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "271",
+      "score": 96,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "bugs",
+      "score": 96,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "firefox",
+      "score": 96,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "feedback",
+      "score": 96,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "friday",
+      "score": 96,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "rate",
+      "score": 96,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "jodie",
+      "score": 92,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "foster",
+      "score": 92,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "brad",
+      "score": 92,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "pitt",
+      "score": 92,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "seemed",
+      "score": 92,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "written",
+      "score": 92,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "computer",
+      "score": 92,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "came",
+      "score": 92,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "across",
+      "score": 92,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "pretty",
+      "score": 92,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "accurate",
+      "score": 92,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "linkedin",
+      "score": 92,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "hypocrisy",
+      "score": 92,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "rant",
+      "score": 92,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "love",
+      "score": 88,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "dash",
+      "score": 88,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "agents",
+      "score": 88,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "helped",
+      "score": 88,
+      "sources": [
+        "artificial",
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "every",
+      "score": 88,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "app",
+      "score": 88,
+      "sources": [
+        "artificial",
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "noetix",
+      "score": 88,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "another",
+      "score": 88,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "player",
+      "score": 88,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "robotic",
+      "score": 88,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "faces",
+      "score": 88,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "arena",
+      "score": 88,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "elo",
+      "score": 88,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "industrial",
+      "score": 88,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "supply",
+      "score": 88,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "sourcing",
+      "score": 88,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "brokerage",
+      "score": 88,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "engineers",
+      "score": 84,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "coders",
+      "score": 84,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "give",
+      "score": 84,
+      "sources": [
+        "artificial",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "visa",
+      "score": 84,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "blackrock",
+      "score": 84,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "140",
+      "score": 84,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "firms",
+      "score": 84,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "back",
+      "score": 84,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "open",
+      "score": 84,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "usd",
+      "score": 84,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "stablecoin",
+      "score": 84,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "xrpl",
+      "score": 84,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "peter",
+      "score": 84,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "thiel",
+      "score": 84,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "aspen",
+      "score": 84,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "pope",
+      "score": 84,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "working",
+      "score": 84,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "communists",
+      "score": 84,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "mentor",
+      "score": 84,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "beauty",
+      "score": 84,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "skincare",
+      "score": 84,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "course",
+      "score": 84,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "agency",
+      "score": 84,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "business",
+      "score": 84,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "scariest",
+      "score": 80,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "part",
+      "score": 80,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "replace",
+      "score": 80,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "stop",
+      "score": 80,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "checking",
+      "score": 80,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "manage",
+      "score": 80,
+      "sources": [
+        "artificial",
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "lending",
+      "score": 80,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "protocol",
+      "score": 80,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "enters",
+      "score": 80,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "final",
+      "score": 80,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "voting",
+      "score": 80,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "stage",
+      "score": 80,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "targets",
+      "score": 80,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "added",
+      "score": 80,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "google",
+      "score": 80,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "streetview",
+      "score": 80,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "historical",
+      "score": 80,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "events",
+      "score": 80,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "images",
+      "score": 80,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "travel",
+      "score": 80,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "attempting",
+      "score": 80,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "email",
+      "score": 80,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "sharp",
+      "score": 80,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "clarity",
+      "score": 80,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "icp",
+      "score": 80,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "clients",
+      "score": 80,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "turned",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "boring",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "history",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "essay",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "short",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "documentary",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "professor",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "extra",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "credit",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "build",
+      "score": 76,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "frontier",
+      "score": 76,
+      "sources": [
+        "artificial",
+        "singularity"
+      ]
+    },
+    {
+      "slug": "mark",
+      "score": 76,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "words",
+      "score": 76,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "ethical",
+      "score": 76,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "robotics",
+      "score": 76,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "opus",
+      "score": 76,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "usually",
+      "score": 76,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "skill",
+      "score": 72,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "scratch",
+      "score": 72,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "feel",
+      "score": 72,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "think",
+      "score": 72,
+      "sources": [
+        "artificial",
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "push",
+      "score": 72,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "down",
+      "score": 72,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "good",
+      "score": 72,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "meta",
+      "score": 72,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "release",
+      "score": 72,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "update",
+      "score": 72,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "flagship",
+      "score": 72,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "muse",
+      "score": 72,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "spark",
+      "score": 72,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "outreach",
+      "score": 72,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "dead",
+      "score": 72,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "entrepreneurs",
+      "score": 72,
+      "sources": [
+        "entrepreneur"
+      ]
+    },
+    {
+      "slug": "weird",
+      "score": 68,
+      "sources": [
+        "artificial"
+      ]
+    },
+    {
+      "slug": "doesn",
+      "score": 68,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "moving",
+      "score": 68,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "direction",
+      "score": 68,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "birth",
+      "score": 68,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "canary",
+      "score": 68,
+      "sources": [
+        "xrp"
+      ]
+    },
+    {
+      "slug": "bank",
+      "score": 68,
+      "sources": [
+        "entrepreneur",
+        "xrp"
+      ]
+    },
+    {
+      "slug": "pharma",
+      "score": 68,
+      "sources": [
+        "singularity"
+      ]
+    },
+    {
+      "slug": "deleted",
+      "score": 68,
+      "sources": [
+        "entrepreneur"
+      ]
+    }
+  ]
+}
