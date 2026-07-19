@@ -1,0 +1,26 @@
+name = "agentiscript-icons-proxy"
+main = "icons-proxy-worker.js"
+compatibility_date = "2026-07-19"
+account_id = "e9249f4a4fff775f763d37ceae85fa9d"
+
+routes = [
+  { pattern = "agentiscript.com/icons/agent-wallet.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/micropayment.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/autonomous-agent.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/agentic-economy.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/xrpl.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/smart-contract.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/decentralized-finance.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/agent-identity.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/machine-readability.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/microservice.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/neural-machine-translation.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/agentic-commerce.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/autonomous-transaction.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/machine-customer.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/api-economy.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/payment-gated-resource.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/machine-to-machine-payment.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/programmable-payment.png*", zone_name = "agentiscript.com" },
+  { pattern = "agentiscript.com/icons/revenue-flywheel.png*", zone_name = "agentiscript.com" }
+]
